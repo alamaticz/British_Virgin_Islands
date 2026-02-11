@@ -56,14 +56,29 @@ const Chatbot = () => {
                 throw new Error('Network response was not ok');
             }
 
-            const data = await response.json();
+            // Create a placeholder bot message
+            setMessages(prev => [...prev, { text: "", sender: 'bot' }]);
 
-            setMessages(prev => [...prev, {
-                text: data.answer,
-                sender: 'bot',
-                sources: data.sources,
-                pdf_links: data.pdf_links
-            }]);
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+            let botResponse = "";
+
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+
+                const chunk = decoder.decode(value, { stream: true });
+                botResponse += chunk;
+
+                setMessages(prev => {
+                    const newMessages = [...prev];
+                    const lastMessage = newMessages[newMessages.length - 1];
+                    if (lastMessage.sender === 'bot') {
+                        lastMessage.text = botResponse; // Update directly
+                    }
+                    return newMessages;
+                });
+            }
         } catch (error) {
             console.error("Error sending message:", error);
             setMessages(prev => [...prev, {
@@ -138,29 +153,13 @@ const Chatbot = () => {
                                         : 'bg-white border border-gray-200 text-gray-800 rounded-bl-none'
                                         }`}
                                 >
-                                    <p className="whitespace-pre-wrap leading-relaxed">{msg.text}</p>
+                                    <div className="prose prose-sm max-w-none text-inherit">
+                                        {/* Simple rendering for now, could use a markdown library */}
+                                        <p className="whitespace-pre-wrap leading-relaxed">{msg.text}</p>
+                                    </div>
 
                                     {/* PDF Links in Bot Message */}
-                                    {msg.sender === 'bot' && msg.pdf_links && msg.pdf_links.length > 0 && (
-                                        <div className="mt-4 space-y-2">
-                                            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2 border-b border-gray-100 pb-1">Related Downloads</p>
-                                            {msg.pdf_links.map((link, i) => (
-                                                <a
-                                                    key={i}
-                                                    href={link.url}
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="flex items-center p-2 bg-gray-50 hover:bg-blue-50 border border-gray-200 hover:border-blue-200 rounded-md transition-all group"
-                                                >
-                                                    <svg className="w-5 h-5 text-red-500 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                                                        <path fillRule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clipRule="evenodd" />
-                                                    </svg>
-                                                    <span className="text-blue-600 group-hover:text-blue-800 text-xs font-medium truncate">{link.name}</span>
-                                                    <svg className="w-4 h-4 ml-auto text-gray-400 group-hover:text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
-                                                </a>
-                                            ))}
-                                        </div>
-                                    )}
+
 
                                     {/* Citations */}
                                     {msg.sources && msg.sources.length > 0 && (

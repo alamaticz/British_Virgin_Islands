@@ -1,7 +1,12 @@
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from app.rag import ask, chroma
+from fastapi.responses import StreamingResponse
+from app.rag import ask_stream
+
+@app.post("/chat")
+def chat(q: Query):
+    return StreamingResponse(ask_stream(q.question), media_type="text/plain")
 import os
 import shutil
 import uuid
