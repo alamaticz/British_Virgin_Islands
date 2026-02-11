@@ -61,7 +61,11 @@ def ask(question):
             
             if clean_source.lower().endswith('.pdf'):
                  filename = os.path.basename(clean_source)
-                 link = f"http://localhost:8000/pdfs/{filename}"
+                 backend_url = os.getenv("BACKEND_URL", "http://localhost:8000")
+                 # Ensure no trailing slash
+                 if backend_url.endswith("/"):
+                     backend_url = backend_url[:-1]
+                 link = f"{backend_url}/pdfs/{filename}"
                  # Avoid duplicates in pdf_links
                  if not any(d['url'] == link for d in pdf_links):
                      pdf_links.append({"name": filename, "url": link})
