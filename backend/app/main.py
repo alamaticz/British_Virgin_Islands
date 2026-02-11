@@ -23,6 +23,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+def read_root():
+    return {"status": "ok", "message": "BVIFSC RAG Backend is running"}
+
+@app.get("/health")
+def health_check():
+    return {"status": "healthy"}
+
 class Query(BaseModel):
     question: str
 

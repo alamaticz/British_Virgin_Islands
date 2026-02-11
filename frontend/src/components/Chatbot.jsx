@@ -42,6 +42,8 @@ const Chatbot = () => {
 
         try {
             const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+            console.log("Attempting to connect to:", `${apiUrl}/chat`); // Debug log
+
             const response = await fetch(`${apiUrl}/chat`, {
                 method: 'POST',
                 headers: {
