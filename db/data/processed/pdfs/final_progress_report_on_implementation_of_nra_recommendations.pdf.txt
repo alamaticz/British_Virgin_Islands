@@ -1,0 +1,2471 @@
+ 
+VIRGIN ISLANDS FINAL 
+PROGRESS REPORT ON THE 
+IMPLEMENTATION OF THE 
+RECOMMENDATIONS 
+FROM THE 2016 NATIONAL 
+RISK ASSESSMENT 
+ 
+ 
+JANUARY 1, 2021 
+AML/CFT IMPLEMENTATION UNIT 
+GOVERNMENT OF THE VIRGIN ISLANDS
+Table of Contents 
+INTRODUCTION ......................................................................................................... 2 
+GRADING SCHEME ................................................................................................... 4 
+COMPETENT AUTHORITIES ......................................................................................... 5 
+GOVERNOR’S OFFICE (GO) .................................................................................. 6 
+ATTORNEY GENERAL’S CHAMBERS (AGC)......................................................... 10 
+FINANCIAL INVESTIGATION AGENCY (FIA)....................................................... 14 
+FINANCIAL SERVICES COMMISSION (FSC) ....................................................... 18 
+INTERNATIONAL TAX AUTHORITY (ITA) ............................................................... 21 
+LAW ENFORCEMENT AGENCIES ............................................................................. 24 
+BRITISH VIRGIN ISLANDS AIRPORTS AUTHORITY (BVIAA) .................................. 25 
+BRITISH VIRGIN ISLANDS PORTS AUTHORITY (BVIPA) ........................................ 28 
+MAGISTRATE’S COURT (MC) ............................................................................... 31 
+HIGH (SUPREME) COURT (HC) ............................................................................ 33 
+ROYAL VIRGIN ISLANDS POLICE FORCE (RVIPF) ............................................... 35 
+HER MAJESTY’S CUSTOMS (HMC) ....................................................................... 40 
+IMMIGRATION DEPARTMENT (ID) ....................................................................... 43 
+OFFICE OF THE DIRECTOR OF PUBLIC PROSECUTIONS (ODPP) ......................... 46 
+CONCLUSION.......................................................................................................... 50 
+ 
+ 
+ 
+INTRODUCTION  
+ 
+In order to comply with Recommendation 1 of the Financial Action Task Force’s (FATF) 
+International Standards on Combatting Money Laundering and the Financing of Terrorism 
+and Proliferation, which requires countries to identify, assess and understand the money 
+laundering (ML) and terrorist financing (TF) risks and apply a risk-based approach to prevent 
+or mitigate ML and TF, the Virgin Islands (VI) determined that the most efficient way to 
+complete this task was by completing a National Risk Assessment (NRA). The NRA exercise, 
+which commenced in September 2014, was concluded in 2016, after the Cabinet of the VI 
+approved the Virgin Islands National Risk Assessment Report (NRAR) 2016. 
+ 
+The purpose of the NRA was to assess ML/TF/Proliferation Financing (PF) risks to the VI to assist 
+with the targeted application of a risk-based approach to Anti-Money Laundering 
+(AML)/Countering the Financing of Terrorism (CFT). It was concluded that the completion of 
+an NRA would assist the Territory with identifying and assessing its risks with regard to ML/TF, 
+and the results of the NRA would provide a clear picture of which Competent Authorities 
+(CAs), Law Enforcement Agencies (LEAs) and sectors were most vulnerable to ML/TF. 
+ 
+The NRA was geared toward identifying the Territory’s ML and TF risks and determining where 
+resources were to be allocated based on the identified risks. It further provided the 
+opportunity to identify required changes to the current AML/CFT regime based on these 
+identified risks. The initial NRA covered the period of 2011 – 2014, inclusive of identified threats 
+and vulnerabilities for a range of agencies and sectors including all of the Territory’s CAs and 
+LEAs, which are the focus of this progress report. The responsibility for ensuring the 
+recommendations identified in the NRAR for Financial Institutions (FIs), Designated Non-
+Financial Businesses and Professions (DNFBPs) and Non-Profit Organizations (NPOs) are being 
+implemented, lies with the relevant regulators, i.e., the Financial Services Commission (FSC) 
+and the Financial Investigation Agency (FIA). 
+ 
+To assist with the implementation of the NRA Recommendations, the AML/CFT 
+Implementation Unit (The Unit) was created within the Ministry of Finance (MoF). The main 
+focus of The Unit is to undertake and ensure effective implementation of the NRA 
+Recommendations. After the completion of the NRAR in 2016, the Territory was faced with 
+the passage of two devastating hurricanes in 2017, which not only damaged the 
+infrastructure of the VI, but hindered the progress of the implementation of the 
+recommendations outlined in the NRAR. This notwithstanding, The Unit continued to work with 
+the relevant agencies to ensure the continued implementation of the NRA 
+Recommendations.  
+ 
+The first progress report on the implementation of the NRA Recommendations was 
+completed by The Unit in 2018. This report outlined the progress of the following agencies 
+with regard to their individual NRA Recommendations: 
+ 
+Governor’s Office 
+ 
+Attorney General’s Chambers 
+ 
+Financial Investigation Agency 
+ 
+Financial Services Commission 
+ 
+Magistrate’s Court 
+ 
+Immigration Department 
+ 
+Her Majesty’s Customs 
+ 
+Royal Virgin Islands Police Force 
+ 
+Office of the Director of Public Prosecutions 
+ 
+BVI Airports Authority 
+ 
+BVI Ports Authority 
+ 
+This second and final report now includes progress relative to two additional agencies, High 
+(Supreme) Court and the International Tax Authority. 
+ 
+Since 2018, The Unit has worked closely with the relevant agencies to assist with the 
+implementation of the NRA recommendations. Most of the LEAs and CAs have made 
+significant improvements to the NRA Recommendations. The VI has decided to undertake an 
+update of its AML/CFT risks by undertaking separate ML and TF Sectoral Risk Assessments for 
+FIs and DNFBPs. Consequently, this report will form the final official update on the 
+implementation of the recommendations emanating out of the NRAR. The Unit will continue 
+to monitor and measure the effectiveness of each CA and LEA in forestalling ML/TF and 
+mitigating the risks emanating from all related crimes. 
+ 
+ 
+GRADING SCHEME 
+ 
+A grading scheme of four levels was used to assess the status of the recommendations for 
+each of the LEAs and CAs within this report. The grading scheme is broken down as follows: 
+ 
+Grade 
+Description 
+Complete 
+The recommendation was completed, and effective 
+implementation occurred. 
+Largely Complete 
+The recommendation was completed by the agency; however, 
+effective implementation was not demonstrated OR the 
+recommendation is ongoing. 
+Partially Complete 
+The recommendation is currently being worked on by the agency. 
+No Progress Made 
+The recommendation has not been actioned by the agency to 
+date. 
+ 
+ 
+ 
+COMPETENT AUTHORITIES 
+ 
+This Section provides a progress report on the five competent authorities of the VI. It displays 
+a synopsis on the progress of the recommendations and the current status of each 
+recommendation. The Competent Authorities are as follows: 
+ 
+Governor’s Office 
+ 
+Attorney General’s Chambers 
+ 
+Financial Investigation Agency 
+ 
+Financial Services Commission 
+ 
+International Tax Authority 
+ 
+ 
+GOVERNOR’S OFFICE (GO) 
+ 
+The following risk areas were identified within the GO in the 2016 NRAR: 
+High Risk 
+ 
+Handling of incoming extradition requests 
+ 
+Handling of outgoing extradition requests 
+Medium Risk 
+ 
+Inter-agency cooperation 
+ 
+Handling of incoming MLA requests from foreign CAs 
+ 
+Records maintenance and accessibility 
+Low Risk 
+ 
+Governance and administration 
+ 
+Handling of complaints filed by foreign CAs 
+ 
+Handling of complaints filed by GO 
+ 
+The GO addressed a number of deficiencies necessary for it to be effective in the fight 
+against ML/TF/PF. The recommendations identified in the NRAR in relation to records 
+management, employee training, Mutual Legal Assistance (MLA) requests and extraditions 
+have been significantly addressed. The GO has established direct communication and liaises 
+on a regular basis with the Financial Investigation Agency (FIA), Office of the Director of 
+Public Prosecutions (ODPP) and the Attorney General’s Chambers (AGC), which makes 
+responses to MLAs and extraditions more timely.  
+ 
+It is important that the GO in collaboration with the FSC, AGC and FIA ensures there is proper 
+communication and coordination in terms of extraditions, sanctions and MLA requests. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The GO should develop a corrective action plan to mitigate 
+the deficiencies identified. This plan should include measures 
+that ensures continuous management and monitoring of the 
+corrective actions. The implementation of the plan should be 
+monitored by carrying out internal audits on the established 
+policies and procedures. 
+Complete 
+b) MLA requests should be tracked separately from extradition 
+requests. This would enable better tracking of each and allow 
+for easy generation of statistics. In addition, domestic 
+Complete 
+61%
+35%
+4%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+extradition requests should be separately and properly 
+logged. 
+c) The GO should assess the current methods and channels of 
+communication with the AGC with a view to ensuring clear 
+and consistent communication. 
+Largely Complete 
+d) The GO and AGC should develop a procedural manual that 
+stipulates their roles and responsibilities in relation to the 
+receipt, processing and dissemination of information for MLAs 
+and extraditions; this should include an assessment of the 
+relevant legislative provisions to ensure consistency and avoid 
+conflict. 
+Complete 
+e) The GO, in conjunction with the AGC, should develop and 
+implement a procedure that can provide clear guidance on 
+how to deal with extradition matters; this should include a 
+step-by-step process with realistic timeframes to help guide 
+the process from the receipt of an extradition request to the 
+disposal of the request. 
+Complete 
+f) 
+The record keeping system presently in place (as it relates to 
+information pertaining to MLA and extradition) needs to be 
+thoroughly assessed for areas of vulnerability and a proper 
+record management system be put in place. 
+Largely Complete 
+g) A procedures manual on record keeping should be 
+developed and implemented to provide clear guidance to 
+staff within the GO. 
+Complete 
+h) Staff of the GO should be informed of, and trained on, their 
+roles and responsibilities as they relate to record keeping and 
+the risks associated with poor record keeping. The 
+performance of their roles and responsibilities should form a 
+part of their employee performance appraisal, where 
+applicable. 
+Largely Complete 
+i) 
+While the ‘clear desk’ policy might be good office practice, 
+the GO should implement a document and records control 
+system that is more secure and has, amongst other features, a 
+control mechanism in place to closely track all access 
+granted to, and the location of, each file. 
+Complete 
+j) 
+The GO, FIA and the AGC should reconcile any anomalies 
+that exist between their records on extraditions and MLAs. 
+These offices should institute periodic meetings (every quarter 
+for example) to discuss and address any such anomalies and 
+also verify and better streamline their mutual records and thus 
+ensure a continuous efficient and effective system in relation 
+to MLAs and extraditions.  
+Largely Complete 
+k) To ensure that consistency prevails, Standard Operating 
+Procedures (SOPs) (embodying policies) should be 
+developed to provide guidance for staff. These procedures 
+should clearly demarcate tasks to be performed by the GO 
+so that the staff are certain with regard to their specific areas 
+of assignment. The development of these procedures will 
+assist in safeguarding against haphazard decision making 
+and ensure clear actions are taken. 
+ 
+The SOPs should communicate: 
+ 
+Purpose 
+ 
+Scope 
+ 
+Roles and responsibilities 
+ 
+Procedures (steps to be taken) 
+Complete 
+l) 
+The GO should ensure that relevant Sanctions Orders and 
+designations are communicated to the FIA and the Financial 
+Services Commission (FSC) without delay to avoid business 
+relationships with sanctioned or designated persons being 
+continued or entered into on account of failure of timely 
+knowledge of the sanctions or designations. 
+Complete 
+m) The GO should issue public guidance outlining the 
+circumstances under which a license must be applied for if 
+conducting business with, for, or on behalf of or in relation to 
+a listed person subject to sanctions. 
+Largely Complete 
+n) Training should be provided to the staff of the GO on the 
+extradition processes and procedures, including MLA and 
+AML/CFT matters. This training may be limited to staff that 
+deal with matters of extraditions, MLA and sanctions to 
+strengthen their knowledge and awareness on the subject 
+matters. 
+Largely Complete 
+o) The GO should assess the training needs of employees 
+against the requirements of their job positions and the 
+functions of the GO generally and make provision for the 
+employees to receive the relevant training in AML/CFT and, 
+where necessary, on a regular or periodic basis. 
+Largely Complete 
+p) The GO should conduct a comprehensive assessment of the 
+present security measures that are in place to identify areas 
+of vulnerabilities. Some questions to consider are: 
+ 
+What kind of security systems and controls are 
+currently being utilized? 
+ 
+Does the GO have any security policies and 
+procedures in place? 
+ 
+Are these policies and procedures adequate and 
+enforced? 
+ 
+Do the current security systems and controls, policies 
+and procedures reduce the risk of potential 
+vulnerabilities? 
+Complete 
+q) The GO should issue access control picture identification 
+badges, with the most recent photograph of the badge 
+holder, to all employees. 
+Complete 
+r) 
+The GO should assign temporary passes to visitors, who should 
+be required to sign in and out of the GO premises. 
+Complete 
+s) The GO should review periodically and, where necessary, 
+upgrade the perimeter intercoms and close circuit monitoring 
+devices. 
+Complete 
+t) 
+The GO should, at the very least, have a security guard at the 
+main entrance to the office building with a clear view of the 
+controlled areas. 
+Complete 
+u) The GO should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the GO 
+(preferably by a designated functionary within the GO) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+v) The Governor should consider the possibility of bringing the 
+MC under the direct purview of the Chief Justice thereby 
+eliminating any perceived conflict with or interference of the 
+No Progress Made 
+executive branch of government; this will align with what 
+currently happens in most judicial systems around the 
+Commonwealth and, in particular, most of the OECS 
+countries. 
+Terrorist and Proliferation Financing Recommendation 
+w) The GO should be provided immediate training in TF. 
+Largely Complete 
+ 
+ 
+ 
+ATTORNEY GENERAL’S CHAMBERS (AGC) 
+ 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Handling of incoming MLA and international cooperation 
+requests from foreign CAs 
+ 
+Knowledge of whether assistance provided resulted in 
+conviction or was helpful in any other way 
+ 
+Handling of outgoing MLA and international cooperation 
+requests 
+ 
+Declined requests 
+ 
+Complaints handling 
+ 
+Records maintenance and accessibility 
+ 
+Difficulties in processing MLA requests and extradition matters 
+timely. 
+Low Risk 
+ 
+Inter-agency cooperation 
+ 
+Handling of incoming requests for High Court evidence in High 
+Court related to ML/TF 
+ 
+The AGC has been diligent in completing their recommendations in an efficient manner. 
+They have implemented the post of International Relations Counsel to assist on all matters 
+related to the external affairs of the Virgin Islands. The Solicitor General is now the primary 
+contact for MLAT matters. 
+ 
+The AGC should continue implementation and demonstrating that it is effectively 
+implementing its AML/CFT obligations through, amongst other things, ensuring, as far as it is 
+within their control, that legislation is passed timelier so as to keep up with the advancing 
+world and the changes to different international standards. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The record keeping system presently in place (as it relates to 
+information pertaining to MLA and extradition) needs to be 
+thoroughly reviewed with a view to putting in place an 
+appropriate and adequate mechanism capable of ensuring 
+Complete 
+31%
+34%
+31%
+4%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+the maintenance of records that are easily accessible and 
+retrievable whenever required. 
+b) A procedures manual on record keeping should be 
+implemented to provide clear guidance to staff. 
+Largely Complete 
+c) The AGC and GO should develop procedures that would 
+stipulate their roles and responsibilities as they pertain to the 
+receipt, processing and dissemination of information for MLA 
+requests and extraditions. 
+Complete 
+d) The AGC should develop and implement procedures that 
+provide clear guidance on how to deal with extradition 
+matters, especially if the process varies per country. 
+Complete 
+e) The AGC should assess the training needs of its key 
+employees against the requirements of their job positions and 
+make provision for them to receive training in AML/CFT 
+matters, as well as training that is specific to extradition, MLA 
+and sanctions matters so as to strengthen their knowledge, 
+skill and awareness on the subjects. 
+Largely Complete 
+f) 
+The AGC should take steps to ensure that subsidiary legislation 
+is drafted and enacted to remove specific designations of 
+countries in the Drug Trafficking Offences Act (DTOA), 
+Proceeds of Criminal Conduct Act (PCCA) and Criminal 
+Justice (International Cooperation Act (CJ(IC)A) to ensure 
+that assistance could be provided to all requesting countries. 
+Complete 
+g) The current methods and channels of communication 
+between the AGC and the GO should be reviewed to put in 
+place appropriate systems that ensure full cooperation and 
+certainty in dealing with or relating to each other. 
+Largely Complete 
+h) As a contingency, the AGC and GO should reconcile 
+anomalies that exist between their records in order to ensure 
+synergy in or in relation to common matters. In this regard, 
+both offices should consider meeting periodically (at least 
+every quarter in the first instance) to resolve these matters 
+and ensure a continuing process of dialogue and comparing 
+of notes to ensure accurate records on common areas of 
+cooperation. 
+Largely Complete 
+i) 
+The AGC should seek to develop informal bilateral relations or 
+discussions with the countries to which they intend to seek an 
+extradition of a fugitive to establish what is required of them in 
+order to ensure that appropriate and correct requests are 
+made to comply with the requirements of those countries. 
+Similarly, they should review extradition requests carefully and 
+thoroughly and, if need be, liaise with the requesting 
+authorities submitting extradition requests to ensure that all 
+required information is supplied to ensure a “smooth” 
+execution of their requests. 
+Partially Complete 
+j) 
+The AGC should conduct a comprehensive review of the 
+present security measures which must, at the minimum, 
+address the following and assess their efficiency and 
+effectiveness: 
+ 
+The type and adequacy of the security systems and 
+controls presently engaged; 
+ 
+The security policies and procedures in place and 
+how best the inadequacies or shortcomings relative 
+thereto may be properly addressed; 
+ 
+How current security policies and procedures are 
+enforced; and 
+Partially Complete 
+ 
+The level of understanding by staff of the AGC 
+regarding the security measures and whether the 
+need arises to put in place further restrictions on 
+access to the building accommodating the AGC. 
+k) The AGC should issue picture identification access control 
+badges to all employees and consider requiring an annual 
+reissuance to ensure security details are kept up to date. 
+Partially Complete 
+l) 
+The AGC should assign temporary passes to visitors, who 
+should be required to sign in and out of the AGC building. 
+Partially Complete 
+m) Considering that the building accommodating the AGC is 
+shared with the ODPP, both offices should adopt measures 
+whereby visitors are physically accompanied into staff offices 
+and other areas of the building. 
+Complete 
+n) The AGC should take immediate steps to either repair or 
+replace the current Arch Metal Detector. They should also 
+develop contingency plans to address any shortcomings in 
+the proper and efficient functioning of the Arch Metal 
+Detector (for example, consideration may be given to the 
+use of a handheld metal detector). In addition, they should 
+establish an emergency evacuation plan that can be 
+activated during bomb and other human related threats and 
+natural disasters such as earthquakes, tsunamis and fires. 
+Largely Complete 
+o) The AGC should seek a better and more suitable storage 
+facility not prone to the growth of mildew and mold for its 
+archived files. 
+Complete 
+p) Appropriate security systems or procedures should be 
+developed in relation to archived files by “severely” restricting 
+access by persons not connected to and authorized by a 
+designated senior officer of the AGC. Files that are severely 
+affected by mildew or mold and/or which may pose a health 
+hazard to staff should be transferred to and held in an 
+electronic system to be maintained by the AGC and the 
+physical files appropriately disposed of. 
+Partially Complete 
+q) While it is understood that it may not be financially feasible for 
+the AGC to have an independent Information Technology (IT) 
+system to run its operations, the AGC should liaise with the 
+Department of Information Technology (DoIT) to improve the 
+current authorization level for remote access to the AGC 
+database by incorporating a password or access code. 
+Whenever there is a need for DoIT to remotely access the 
+AGC’s computers (for good reason), the AGC should be 
+required to enter a password or access code that would be a 
+sign of their approval to grant DoIT access to its computers. 
+The password should only be given to select managers within 
+the AGC, which should be reviewed from time to time and, 
+where considered necessary, restricted. 
+Complete 
+r) 
+An Orderly should be assigned to the Attorney General (AG) 
+without delay. 
+No Progress Made 
+s) The AGC should assign sufficient resources and implement 
+appropriate procedures to ensure that all MLA requests are 
+responded to in a timely manner and to decrease the 
+number of days it takes to respond to a request. In order to 
+facilitate this, the AG should take immediate action, in liaison 
+with the relevant authorities in Government, including the 
+Governor and the Deputy Governor, who should lend 
+maximum support to fill the vacant positions in the AGC. 
+Largely Complete 
+t) 
+The AGC and ODPP should develop close cooperation 
+measures (which should be outlined in writing) with each 
+other in order to ensure the proper, efficient and effective 
+processing of MLA and extradition matters; In addition, the 
+AGC should assist the ODPP in carrying forward appropriate 
+legislative reforms identified and/or recommended by the 
+ODPP with a view to improving or facilitating the successful 
+prosecution of ML/TF cases. 
+Partially Complete 
+u) The AGC should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the AGC 
+(preferably by a designated functionary within the AGC) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+v) The AGC, GO and ODPP should each ensure that their 
+records in relation to confiscation, seizure, freezing, forfeiture 
+and restraint are properly maintained and accurately reflect 
+their specific roles, including in relation to common matters. 
+Partially Complete 
+w) The AGC should review its internal policies with a view to 
+ensuring greater assistance to foreign CAs with respect to 
+their requests for Court Orders on freezing, confiscations, 
+forfeitures and restraints, including MLA matters generally; 
+where requests for assistance fail to meet the threshold to 
+submit an application to the Court, efforts should be 
+expended in facilitating the requests as far as possible by fully 
+engaging the foreign requesting authorities to provide 
+necessary additional information or to modify their initial 
+requests to meet the required threshold. 
+Partially Complete 
+Terrorist and Proliferation Financing Recommendations 
+x) The current PF legislation is 6 years old and does not cover 
+some of the elements listed in Recommendation 7 of the FATF 
+Recommendations. It would be prudent, therefore, for the 
+legislation to be reviewed and amendments made, where 
+necessary, to bring it into line with the current FATF 
+requirements on PF. 
+Largely Complete 
+y) In reviewing the legislation, consideration should be given to 
+allowing directions to be issued by the FIA where the 
+development, production or facilitation of such development 
+or production of WMDs poses a threat to any country outside 
+the current limitation of the VI and the UK. 
+Largely Complete 
+z) The AGC should be provided training in detecting, 
+investigating and prosecuting TF. 
+Largely Complete 
+ 
+ 
+ 
+FINANCIAL INVESTIGATION AGENCY (FIA) 
+ 
+High Risk 
+ 
+Governance and administration 
+Medium Risk 
+ 
+Handling of incoming MLA requests from foreign CAs 
+ 
+Handling of outgoing MLA requests from local CAs 
+ 
+Handling of investigations stemming from MLA requests 
+ 
+Complaints handling in relation to reports by local CAs against 
+the FIA 
+ 
+Difficulties in processing MLA requests 
+ 
+Monitoring of BVI Business Companies 
+Low Risk 
+ 
+Prosecution and convictions resulting from assistance provided 
+ 
+Handling of complaints filed by foreign CAs 
+ 
+Records maintenance and accessibility 
+ 
+The FIA has undertaken significant outreach and monitoring of the DNFBP and NPO sectors. 
+With the implementation of a Compliance Manual Checklist and Risk Matrices, the FIA has 
+been diligent in applying a risk-based approach towards the respective sectors. The FIA has 
+worked diligently on increasing its staff complement to undertake the increasing number of 
+tasks, particularly with the analysis of Suspicious Activity Reports (SARs)/Suspicious Transaction 
+Reports (STRs) and inspections. The budget of the FIA is a limiting factor, which needs to be 
+addressed to assist in the completion of its tasks. FIA should take steps to further demonstrate 
+effectiveness as a supervisor by increasing its implementation of risk-based, desk-based and 
+on-site inspection measures.  
+ 
+As an FIU, the FIA also needs to take steps to demonstrate that it timely and adequately 
+analyses SARs/STRs, provide intelligence reports to other LEAs locally and internationally, 
+provides feedback to those filing SARs/STRs and ensuring annual reports containing proper 
+typologies and strategic analyses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47%
+50%
+3%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The FIA should immediately designate and train a member of 
+staff in carrying out strategic and operational analysis with 
+respect to its functions and duties in keeping with Egmont 
+principles and guidance; the strategic analysis should be 
+published. 
+Complete 
+b) The FIA should immediately ensure that there is a distinct 
+separation between the Supervisory Unit and the Financial 
+Investigation Unit, which deals with Suspicious Activity Reports 
+(SARs)/Suspicious Transaction Reports (STRs). The two units 
+should have their own separate office space where access is 
+restricted to staff within the relevant unit; this will ensure that 
+information is fully secured in keeping with the FATF and 
+Egmont requirements. 
+Complete 
+c) The FIA should immediately fill the post of Senior Investigating 
+Officer and other vacancies. 
+Complete 
+d) The FIA should dedicate more staff to analyzing SARs/STRs to 
+improve the timing of such analysis. 
+Largely Complete 
+e) The FIA should undertake a full analysis of SARs/STRs submitted 
+with a view to determining whether, based on the nature and 
+characteristics of business in the Territory, FIs and DNFBPs are 
+appropriately filing SARs/STRs. 
+Complete 
+f) 
+The FIA should finalize its risk assessment framework manual for 
+supervised entities – NPOs, DNFBPs and HVG Dealers. 
+Complete 
+g) The FIA should develop written guidelines on AML/CFT 
+compliance for the guidance of all entities under its 
+supervision, including the DNFBP and NPO sectors in order to 
+ensure greater understanding and compliance with their 
+obligations. 
+Largely Complete 
+h) A full analysis of the roles and functions of the Steering 
+Committee (SC) must be carried out to ascertain whether the 
+structure is optimal for the receipt and analysis of SARs/STRs 
+and, if necessary, to carry out necessary reforms, including 
+advising on reforms to the Financial Investigation Agency Act 
+(FIAA). 
+Largely Complete 
+i) 
+As the FIA is responsible for carrying out inspections and 
+investigations, conducting supervisory activities and 
+processing of SARs/STRs, it is essential for the FIA to conduct a 
+self-assessment (considering the FATF Recommendations) that 
+would assist in remedying the deficient areas identified in 
+relation to the organization, and also in ascertaining what is 
+needed to accomplish the various tasks (investigations, 
+inspections, supervisory activities and processing of 
+SARs/STRs). 
+Complete 
+j) 
+The FIA should review the effectiveness of its current 
+document control and management procedures and revise 
+them on a regular basis to ensure their currency; this should 
+extend to all other procedure manuals in place. 
+Largely Complete 
+k) The FIA should make a full assessment of its resource needs 
+and ensure that it has sufficient resources to efficiently and 
+effectively carry out both its supervisory and investigative 
+functions; this should include maximizing the use of currently 
+available resources. 
+Largely Complete 
+l) 
+The FIA should ensure that adequate and timely feedback is 
+provided to entities that file SARs/STRs in accordance with the 
+Largely Complete 
+requirements of the Anti-Money Laundering and Terrorist 
+Financing Code of Practice (AMLTFCOP). 
+m) The FIA’s SOPs manual needs to be updated and reissued as 
+a matter of urgency. 
+Complete 
+n) The FIA should implement procedures to capture data on the 
+number of extensions granted when requests are made to 
+entities for information and the reason(s) given for seeking the 
+extension. 
+Complete 
+o) The FIA should liaise with the RVIPF to develop proper 
+protocols and procedures in relation to the timely processing 
+of Interpol requests; this should include a review of the MOU 
+with the RVIPF to establish the deficiencies within the MOU 
+and agree on appropriate amendments that will make the 
+MOU a truly helpful workable document; it should also include 
+an agreement on timeliness of processing. 
+Complete 
+p) The FIA should liaise with the AGC to develop protocols and 
+procedures in relation to all international cooperation 
+requests to ensure timely processing, including the provision of 
+responses; these protocols and procedures should be 
+reviewed and updated regularly to ensure continued 
+effectiveness, especially in the context of changing standards 
+on international cooperation. 
+Complete 
+q) The FIA should risk assess all DNFBPs and NPOs and develop a 
+supervisory plan which includes onsite inspection 
+management meetings, industry meetings, periodic reports 
+for off-site analysis, and guidance for each section on a 
+defined periodic basis, taking into account the risks relative to 
+each and thus ensure the proper allocation of resources. 
+Largely Complete 
+r) 
+The FIA should increase its oversight of the DNFBP and NPO 
+sectors (the HVG sector is assessed as posing relatively low 
+risk) by carrying out more onsite inspections; this should 
+include a monitoring process that is conducted on a 
+continual basis but placing more emphasis on areas that 
+pose higher risks. 
+Largely Complete 
+s) The FIA should put mechanisms in place to identify those 
+DNFBPs and NPOs that are operating without registration 
+and/or authorization and take measures to ensure that all 
+DNFBPs and NPOs are appropriate registered; in order to 
+facilitate this process, the FIA should develop a Cabinet 
+Paper seeking approval for legislative reform to mandate the 
+compulsory registration with the FIA of all DNFBPs (as is 
+currently the case with NPOs in relation to the NPO Board). 
+Complete 
+t) 
+The FIA should continue to provide outreach to all DNFBPs, 
+HVGs and NPOs to familiarize them with the requirements of 
+the AML/CFT legislation and the expectations of the FIA in 
+ensuring compliance therewith. 
+Largely Complete 
+u) The SC should assume and perform its functions as mandated 
+by the FIAA. Where it is considered that the SC’s functions 
+would be better performed by the Director, serious 
+consideration should be given to reforming the FIAA to 
+properly place those functions in the Director and either limit 
+the responsibilities of the SC or do away with the SC 
+altogether. 
+Largely Complete 
+v) If the SC is to be retained and therefore remain functional it 
+should develop its own internal operating procedures which 
+deal with the processes engaged in considering SARs/STRs 
+Largely Complete 
+and how decisions are taken and matters advanced to ML/TF 
+investigations. 
+w) The SC should meet more regularly and, in any case, not less 
+than once a month in order to more efficiently and 
+effectively carry out its functions. 
+Largely Complete 
+x) The FIA’s review and approval of AML/CFT manuals should be 
+restricted to the entities that it supervises; the manuals relating 
+to FIs should be reviewed approved by the FSC. 
+Complete 
+y) The FIA should maintain statistical data on the number of 
+AML/CFT compliance manuals received for approval 
+pursuant to regulation 3 (3) of the Anti-Money Laundering 
+Regulations (AMLR); this should result in the development of 
+relevant statistics outlining the number and types of institutions 
+for which approvals have been granted. 
+Partially Complete 
+z) A working group or committee comprising of the ODPP, the 
+FIA and the RVIPF should be formed to deal with coordination 
+and cooperation between these agencies; the group or 
+committee should be chaired by the DPP and meet on a 
+regular basis to discuss and provide assistance to the workings 
+of each other, including identifying areas of challenge and 
+how the challenges may be effectively managed and 
+overcome; this will help to remove the discrepancies in 
+procedures, in particular, to ensure the proper streamlining of 
+statistical data in relation to criminal cases investigated and 
+prosecuted. 
+Complete 
+aa) The Board of the FIA should identify and appoint an 
+independent person versed in AML/CFT issues, including the 
+FATF 40 Recommendations, to oversee and supervise the 
+implementation by the FIA of the above recommendations in 
+order to ensure proper and timely delivery of positive results; 
+the appointed person should carry out internal audits on a 
+periodic basis as a means of testing the FIA’s compliance with 
+its obligations and the recommendations within the NRAR. This 
+recommendation is without prejudice to the establishment of 
+an Implementation Unit to ensure compliance with all 
+recommendations continued in the NRAR. 
+Complete 
+Terrorist and Proliferation Financing Recommendations 
+bb) The current PF legislation is 6 years old and does not cover 
+some of the elements listed in Recommendation 7 of the FATF 
+Recommendations. It would be prudent, therefore, for the 
+legislation to be reviewed and amendments made, where 
+necessary, to bring it into line with the current FATF 
+requirements on PF. 
+Largely Complete 
+cc) In reviewing the legislation, consideration should be given to 
+allowing directions to be issued by the FIA where the 
+development, production or facilitation of such development 
+or production of WMDs poses a threat to any country outside 
+the current limitation of the VI and the UK. 
+Largely Complete 
+dd) The FIA should be provided immediate training in detecting 
+and investigating TF. 
+Largely Complete 
+ 
+ 
+ 
+FINANCIAL SERVICES COMMISSION (FSC) 
+ 
+High Risk 
+ 
+Time frame to complete compliance inspections 
+Medium Risk 
+ 
+Inter-agency cooperation – handling of outgoing requests 
+ 
+Handling of incoming requests for information from foreign CAs 
+ 
+Handling of outgoing requests for information to foreign CAs 
+ 
+Challenges to requests for information made by foreign CAs 
+ 
+Handling of complaints filed by foreign CAs 
+Low Risk 
+ 
+Governance and administration 
+ 
+Handling of incoming requests from other local CAs 
+ 
+Handling of complaints filed by FSC 
+ 
+Records maintenance and accessibility 
+ 
+Difficulties processing MLA requests 
+ 
+The FSC has been diligent in completing the recommendations provided within the 2016 
+NRAR. They have made progress with all of the recommendations and have implemented a 
+series of amendments to legislation, actions and internal controls to aid them. Most 
+recommendations are continuous in nature and the FSC has displayed that they are 
+monitoring these activities, whether on a quarterly or annual basis. The staffing needs of the 
+FSC are continuously being updated by decreasing the number of vacancies, while 
+increasing the training and professional needs of staff. The FSC needs to take concrete steps 
+to demonstrate effectiveness as a supervisor by increasing its onsite inspections, fully 
+implementing its risk-based supervision and completing necessary amendments to the 
+AML/CFT regime. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The FSC should enforce vigorously the requirement for 
+licensed entities to adequately maintain and provide upon 
+demand current and valid Customer Due Diligence (CDD) 
+information on all BVI entities and clients. 
+Complete 
+b) The FSC should reassess its staffing situation with a view to 
+strengthening its enforcement, regulatory and supervisory 
+Largely Complete 
+63%
+32%
+5%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+units, particularly the staff complement of its Compliance 
+Inspections, Fiduciary Services and Enforcement Unit. 
+c) The FSC should intensify the number and scope of its 
+inspections to cover a wider cross-section of regulated 
+entities, with particular reference to the securities sector. 
+Largely Complete 
+d) The FSC should ensure that compliance inspection reports are 
+written and issued timely so as to be of value to the licensees 
+to which they relate; it should review its compliance 
+inspection manual to ensure appropriate time frames are 
+outlined and strictly adhered to and, in particular, the time 
+between the date of inspection and date of issuance of the 
+final report should be appropriately benchmarked.  
+Partially Complete 
+e) The FSC should immediately complete its risk assessment 
+framework including its manual for risk assessments. 
+Complete 
+f) 
+The FSC should immediately take steps to ensure that all 
+licensees are appropriately risk assessed and rated so as to 
+effectively deploy its resources. 
+Complete 
+g) The FSC should make an assessment of the effectiveness of its 
+enforcement mechanisms, including monetary penalties to 
+determine whether they are able to deter, or have deterred, 
+“bad behavior” or increased compliance, and document 
+such determination on a periodic basis; this should lead to 
+reforms, where considered necessary. 
+Complete 
+h) The FSC should take immediate steps to reduce the time it 
+takes to respond to requests for information from foreign CAs. 
+Complete 
+i) 
+The FSC should establish a special fund into which 
+administrative penalties collected are paid; it should also 
+outline a mechanism for use of the fund and identify areas of 
+support, such as training, investigations or other appropriate 
+purposes, taking into account the matters outlined in 
+Interpretive Note 38 of Recommendation 38. 
+Complete 
+j) 
+The FSC should consider putting in place written measures to 
+encourage feedback from other CAs on assistance provided 
+to them so that it can better review from time to time its 
+international cooperation regime. 
+Complete 
+k) The FSC should take steps to finalize the Crisis Management 
+Group manual. 
+Complete 
+l) 
+The FSC should continue to take measures to ensure that its 
+licensees and other legal persons are not abused or misused 
+for ML/TF or other criminal activity, which would include being 
+in a position to fully assess the risks posed by such licensees 
+and other legal persons and take appropriate measures to 
+deal with such risks. 
+Complete 
+m) The FSC should benchmark itself against the relevant FATF 
+Recommendations Methodology for assessing compliance 
+with those Recommendations. 
+Complete 
+n) The FSC should develop and institute an internal audit 
+function of its adherence to policies and procedures 
+including service standards administered or overseen directly 
+by the Managing Director and provide periodic reports to the 
+Board of Commissioners; this will enhance the FSC’s 
+governance structure and adherence to established 
+standards, whether of internal or external origin. 
+Largely Complete 
+o) The FSC should put in writing its assessment of the ML/TF risks of 
+the business it supervises so as to inform its overall allocation 
+Largely Complete 
+of resources between sectors. This could be done in 
+conjunction with the risk assessment framework. 
+p) The FSC should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the FSC 
+(preferably by a designated functionary within the FSC) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+Terrorist and Proliferation Financing Recommendations 
+q) The current PF legislation is 6 years old and does not cover 
+some of the elements listed in Recommendation 7 of the FATF 
+Recommendations. It would be prudent, therefore, for the 
+legislation to be reviewed and amendments made, where 
+necessary, to bring it into line with the current FATF 
+requirements of PF. 
+Largely Complete 
+r) 
+In reviewing the legislation, consideration should be given to 
+allowing directions to be issued by the FIA where the 
+development, production or facilitation of such development 
+or production of WMDs poses a threat to any country outside 
+the current limitation of the VI and the UK. 
+Largely Complete 
+s) FSC should be provided immediate training in detecting and 
+investigating TF. 
+Complete 
+ 
+ 
+ 
+INTERNATIONAL TAX AUTHORITY (ITA) 
+ 
+High Risk 
+ 
+Processing difficulties of MLA requests 
+Medium Risk 
+ 
+Inter-agency cooperation 
+ 
+Handling of incoming MLA requests from foreign CAs 
+ 
+Assistance provided in MLA requests resulting in prosecutions 
+and convictions 
+ 
+Complaints handling 
+Low Risk 
+ 
+Governance and administration 
+ 
+Handling of outgoing MLA requests  
+ 
+Handling of complaints filed by ITA 
+ 
+Records maintenance and accessibility 
+ 
+With the implementation of the International Tax Authority Act, the ITA is now a statutory 
+body. Most recommendations are a work in progress as the ITA is currently settling in and 
+making updates where they are due. However, the ITA has made significant improvement 
+with regard to the recommendations, especially in data security, staffing needs and 
+legislative reform. The confidentiality recommendation remains mandatory for staff. The ITA is 
+now in a better position to implement the recommendations from the NRAR. 
+ 
+The ITA should continue to pursue an update of the ITA Act to accommodate the 
+application of compulsory powers in cases where information is not produced. This should be 
+handled in conjunction with the ODPP. A system for monitoring the accounting records of 
+companies and limited partnerships should be implemented by the ITA, in conjunction with 
+the FSC, to abide by the recommendations of the Global Peer Review Report. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The ITA’s governing laws should be amended to allow it to 
+have the necessary powers to impose administrative 
+penalties and sanctions on persons that do not comply with 
+notices to provide information. 
+Largely Complete 
+b) The current data management system should be assessed by 
+performing a gap analysis to help determine what additional 
+Complete 
+42%
+33%
+25%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+tools and features are needed to ensure optimum 
+performance with record keeping and tracking of information 
+(ITA may wish to consider adopting the RFID file tracking 
+system that is currently used by the FSC, or something similar). 
+c) The ITA should be properly resourced with more competent 
+staff to help with the processing of the volume of work and 
+thus ensure timely responses to requests for MLA; this should 
+be dealt with as a matter of the utmost urgency. 
+Largely Complete 
+d) The ITA should be provided, as a matter of urgency, with the 
+technological resources, including computers and internet 
+access with adequate capacity, to allow for the exchange of 
+information without delay. 
+Complete 
+e) The ITA should address all outstanding deficiencies outlined in 
+its 2015 Global Forum Peer Review Report. 
+Partially Complete 
+f) 
+The ITA should make arrangements for its staff to be trained 
+periodically on all matters relative to MLA processing, ML/TF 
+(including predicate offences), treaty negotiations (especially 
+in relation to tax matters), and tax offences, that would help 
+them to have a better understanding of how the financial 
+services industry functions on the global rules on standards 
+development and compliance. 
+Largely Complete 
+g) An assessment of the current security measures that are in 
+place should be carried out to identify ways to improve them. 
+This would contribute to the overall safety of the staff, 
+especially those who are required to work after hours, as well 
+as ensure the security of documents and data generally 
+stored and maintained in the offices of the ITA. 
+Complete 
+h) In view of the fact that the ITA, in the execution of its duties, is 
+bound by confidentiality rules in dealing with requests for 
+assistance and in the context of its information exchange 
+regime generally, it should develop a system whereby its staff 
+renew their oaths of confidentiality; this will ensure that staff 
+keep attuned to their obligations in maintaining the 
+confidentiality of information received from and/or 
+transmitted to foreign CAs. 
+Complete 
+i) 
+The ITA should engage in dialogue with reporting entities to 
+identify and relevant information that might be provided to 
+those entities when making requests for information which 
+would allow entities to specifically identify any clients subject 
+to the request, thus preventing the potential of fishing 
+expeditions. 
+Partially Complete 
+j) 
+The ITA, RVIPF and ODPP and, where necessary, the FSC 
+should better coordinate their relationships in order to 
+facilitate timely prosecution by the ODPP with a view to 
+appropriately dealing with failures to respond to requests for 
+information. 
+Partially Complete 
+k) The ITA should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the ITA 
+(preferably by a designated functionary within the ITA) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+Terrorist and Proliferation Financing Recommendation 
+l) 
+The ITA should be provided immediate training in TF. 
+Largely Complete 
+ 
+ 
+ 
+LAW ENFORCEMENT AGENCIES 
+ 
+This Section provides a progress report on the eight law enforcement agencies of the VI. It 
+displays a synopsis on the progress of the recommendations and the current status of each 
+recommendation. The LEAs are as follows: 
+ 
+BVI Airports Authority 
+ 
+BVI Ports Authority 
+ 
+Magistrate’s Court 
+ 
+High (Supreme) Court 
+ 
+Royal Virgin Islands Police Force 
+ 
+Her Majesty’s Customs 
+ 
+Immigration Department 
+ 
+Office of the Director of Public Prosecutions 
+ 
+ 
+BRITISH VIRGIN ISLANDS AIRPORTS AUTHORITY (BVIAA) 
+ 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Inter-agency cooperation – level of interaction 
+ 
+Staff training in ML/TF 
+ 
+Records maintenance and accessibility 
+ 
+Detection of seizures, smuggling and security breaches 
+ 
+The BVIAA has implemented a Hazard and Risk Assessment Register which allows them to 
+apply a risk-based approach towards their duties. The BVIAA is currently working on ways to 
+have staff trained via online learning. The Aviation Security Unit has approved Standard 
+Operating Procedures, which are maintained, for contraband, drugs, weapons, explosives 
+and activities relating to ML/TF. The BVIAA has implemented a Bomb Threat Checklist to 
+safely guide staff on the procedures for any threats in which the Airports may face. The 
+security staff of the BVIAA is trained on an annual basis for the detection of items related to 
+ML and TF. Police, Immigration, Customs and Airport Management (PICAM) is now known as 
+the Safety and Security Action Group (SSAG). The SSAG meets on a quarterly basis to discuss 
+matters relating to the proper functioning of the Territory’s airports. 
+ 
+To ensure security and safety at all functioning airports, the BVIAA should ensure that there is 
+at least one arresting officer at the airport during operational hours. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The BVIAA should carry out periodically a risk assessment of its 
+security measures at all the airports to determine areas that 
+pose the most risk and provide appropriate resources to deal 
+with those risks. Such assessment should pay particular 
+attention to the risk of terrorism including how to deal with in 
+an efficient and effective manner the discovery of unlawful 
+weapons and explosives. 
+Partially Complete 
+b) The BVIAA should, as a matter of priority, implement a risk-
+rating system whereby security breaches or any other matter 
+Largely Complete 
+34%
+33%
+33%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+that may affect the execution of its mandate, could be 
+identified, assessed and appropriately risk rated. 
+c) The BVIAA should immediately prepare guidelines setting out 
+qualifications of Authorized Officers and make appropriate 
+recommendations to the responsible Minister to expand its 
+cadre of Authorized Officers to be stationed at all of the 
+airports; this will ensure efficiency in its law enforcement 
+machinery. 
+Partially Complete 
+d) The BVIAA should immediately prepare written policies and 
+procedures to be discussed and agreed with the RVIPF, HMC 
+and ID on the referral of breaches or violations that occur in 
+and around airport premises. 
+Complete 
+e) The written policies and procedures referred to above, should 
+be crystalized in a formal MOU setting out the circumstances 
+under which information should be exchanged and matters 
+referred; this should include a process for providing updates 
+on the progress and outcome of information exchanged and 
+matters referred. 
+Complete 
+f) 
+The joint meetings of PICAM should be convened more 
+regularly, at least once each quarter, and records of 
+meetings and decisions taken should be provided and 
+maintained by the BVIAA; this should help to improve the 
+level of cooperation between its members and minimize 
+threats and otherwise avoidable vulnerabilities to the airports. 
+Complete 
+g) All senior members of staff as well as the security and other 
+enforcement staff at the BVIAA should be provided with 
+training on relevant security and investigative techniques, 
+including those geared towards identifying risks related to 
+ML/TF issues; training should also include the FATF 40 
+Recommendations and FATF Methodology as relevant in 
+detecting and preventing ML/TF activity through the airports, 
+and the training should be organized regularly and on a 
+periodic basis in order to keep staff attuned to current and 
+emerging trends in security issues which may relate to or 
+affect the operations of the airports. 
+Largely Complete 
+h) The BVIAA should immediately prepare written procedures or 
+guidelines in relation to the detection of the smuggling of 
+contraband, such as drugs, weapons and explosives, 
+including the detection of activities relating to ML/TF. 
+Largely Complete 
+i) 
+The BVIAA should develop a corrective action plan to 
+mitigate the deficiencies (risks and vulnerabilities) identified in 
+the NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the BVIAA 
+(preferably by a designated functionary within the BVIAA) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+j) 
+BVIAA should ensure that proper records are immediately 
+kept of cash seizures and other offences, including all 
+domestic and international cooperation matters. 
+Largely Complete 
+k) BVIAA should develop a system of analyzing statistical data 
+received to evaluate on a regular basis in order to make a 
+proper assessment of threats faced by the HMC and to 
+Partially Complete 
+ensure that more resources are allocated to deal with those 
+threats. 
+Terrorist and Proliferation Financing Recommendation 
+l) 
+The BVIAA should be provided immediate training in TF. 
+Partially Complete 
+ 
+BRITISH VIRGIN ISLANDS PORTS AUTHORITY (BVIPA) 
+ 
+High Risk 
+ 
+Staff training in AML/CFT 
+ 
+Handling of seizures, smuggling and security breaches 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Inter0agency cooperation and level of interaction with other 
+LEAs 
+ 
+Records maintenance and accessibility 
+ 
+The BVIPA is currently working on putting policies in place such as the BVIPA Communications 
+Policy, AML/CFT Policy, BVIPA Anti-Bribery and Corruption Policy, BVIPA Conflicts of Interest 
+Policy, etc. Security logs are maintained and updated on a daily basis. However, statistics 
+are not currently being analyzed by the BVIPA, which is a risk that needs to be dealt with as a 
+matter of urgency. 
+ 
+To enhance the teamwork amongst the HMC, BVIPA, ID and RVIPF in regard to the migrant 
+smuggling operations, policies and procedures should be developed and abided by. The 
+recording of all incidents on port premises should be documented and reported to the 
+respective persons electronically and recorded with a log, which is monitored to ensure 
+there are solutions and risk mitigation measures for all incidents. The BVIPA should ensure all 
+statistics, which are being recorded, are analyzed to seek out any trends or measuring in 
+which may assist with avoiding any threats or vulnerabilities in the future, and the 
+development of mitigation measures. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The BVIPA should immediately prepare written policies and 
+procedures to guide its staff in detecting cases of 
+interference in the work of the BVIPA and creating an 
+effective reporting chain to enable the BVIPA to carry out its 
+mandate efficiently and effectively; the policies and 
+procedures must be geared towards preventing interference 
+by Government, political persons, law enforcement personnel 
+and interest groups. 
+Largely Complete 
+7%
+13%
+60%
+20%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+b) The BVIPA should immediately develop policies and 
+procedures for detecting cases of bribery and corruption, 
+including guidelines to address issues of conflicts of interest 
+amongst staff of the BVIPA. 
+Largely Complete 
+c) The BVIPA should immediately develop its own written 
+procedures for the detection of smuggled and undeclared 
+goods entering through the ports and such procedures must 
+include appropriate measures to minimize the risks that may 
+be associated with ML/TF activity in and around the port or in 
+relation to persons (both natural and legal) that have business 
+transactions with the BVIPA; this will buttress the efforts of  
+HMC in preventing the smuggling of goods and contraband 
+and detecting undeclared goods. 
+Partially Complete 
+d) Immediate steps should be taken to train senior members of 
+the staff of the BVIPA (particularly the Managing Director) on 
+the functions, powers and remit of the BVIPA and how the 
+functions and powers may be performed and exercised 
+optimally; the training should extend to AML/CFT issues. 
+Partially Complete 
+e) The BVIPA should make immediate arrangements for its 
+security and other enforcement staff to receive training in 
+crime detection and investigative techniques; the training 
+should extend to ML/TF issues, basic understanding on 
+predicate offences for ML/TF, the FATF 40 Recommendations, 
+FATF Methodology, and UN Convention against Transnational 
+Organized Crime (specifically with respect to the provisions 
+on smuggling). 
+Partially Complete 
+f) 
+The BVIPA should establish a long-term training program for its 
+staff, and training on key aspects of the program in relation to 
+the BVIPA’s execution of its duties should be conducted on a 
+periodic basis to ensure continuity and relevance of 
+knowledge and skills. 
+Partially Complete 
+g) The BVIPA should review its processes and procedures with 
+regard to port security and conduct periodic tests of the 
+efficacy and effectiveness of the security measures in place; 
+this process should entail a risk assessment of its security 
+measures at all the ports under its administration to determine 
+areas that pose the most risk and provide appropriate 
+resources to deal with those risks. 
+Partially Complete 
+h) The BVIPA should, as a matter of priority, implement a risk 
+rating system whereby security breaches or any other matter 
+that may affect the execution of its mandate, could be 
+identified, assessed and appropriately risk rated. 
+Complete 
+i) 
+The BVIPA should seek to forge a closer working relationship 
+with the RVIPF, HMC and ID (in relation to the smuggling of 
+migrants through the ports) in order to ensure appropriate 
+and timely cooperation; in this regard, the BVIPA should 
+immediately prepare written procedures to be discussed and 
+agreed with the RVIPF, HMC and ID on the referral of 
+breaches or violations that occur in and around port 
+premises. 
+Partially Complete 
+j) 
+While the multilateral MOU of the IGC Members may be used 
+in promoting recommendation I above, consideration should 
+be given to whether a separate MOU specific to the 
+detection and prevention of criminal activities in and around 
+port premises might not be appropriate to ensure 
+effectiveness. 
+Partially Complete 
+k) The BVIPA should conduct a review of its current systems and 
+develop and implement proper record management systems 
+and procedures, ensuring that relevant data in relation to the 
+BVIPA’s activities – case referrals, contraband detected, 
+goods smuggling detected, migrant smuggling detected, 
+interferences reported, security breaches, enforcement 
+actions taken, etc. – is recorded and maintained in a readily 
+accessible and retrievable form. 
+Partially Complete 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+l) 
+BVIPA should ensure that proper records are immediately 
+kept of cash seizures and other offences and breaches, 
+including all domestic and international cooperation matters. 
+No Progress Made 
+m) There should be more appropriate systems in place between 
+BVIPA, HMC and RVIPF to ensure that the data maintained in 
+relation to seizures, forfeitures, confiscations, etc. are 
+reconciled and identifiable. So where, for example, RVIPF 
+records reflect a total number for cash seizures, its records 
+should also be able to identify which seizures were as a result 
+of seizures undertaken by BVIPA. 
+No Progress Made 
+n) BVIPA should develop a system of analyzing statistical data 
+received to evaluate on a regular basis in order to make a 
+proper assessment of threats faced by BVIPA and to ensure 
+that more resources are allocated to deal with those threats. 
+No Progress Made 
+Terrorist and Proliferation Financing Recommendation 
+o) The BVIPA should be provided immediate training in TF. 
+Partially Complete 
+ 
+MAGISTRATE’S COURT (MC) 
+ 
+High Risk 
+ 
+Staff training in AML/CFT  
+Medium Risk 
+ 
+Governance and administration 
+ 
+Inter-agency cooperation – level of independence 
+ 
+Records maintenance and accessibility 
+
+Complaints handling 
+ 
+The MC remains severely understaffed. Efforts have been made to secure additional funding 
+and resources since the NRA exercise; such efforts have yet to yield positive returns. A 
+request for additional staff and equipment to aid the MC with implementing the NRA 
+Recommendations was made during the 2020 budget cycle; however, no resources were 
+provided to the MC to date. Training is lacking within the MC and due to the shortage of 
+staff, there is a backlog with regard to updating the electronic filing system. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The MC should immediately undertake an assessment of its 
+human resources needs to effectively address the delays 
+associated with the proper and full utilization of the Judicial 
+Enforcement Management System (JEMS) and the timely 
+preparation and submission of records of appeal; the results 
+of the assessment should be shared with the Deputy 
+Governor’s Office (DGO) which should explore avenues for 
+obtaining relevant resources to strengthen the work of the 
+MC, as a matter of urgency. 
+Complete 
+b) The DGO should immediately take steps to restore the Police 
+Security for the Magistrates; in addition, it should ensure that 
+there is physical presence at all the MC premises of security 
+personnel during official working hours, including all other 
+periods when the Magistrates are on the MC premises to 
+perform their duties. 
+Partially Complete 
+c) The DGO should immediately take steps to determine how 
+the MC may be adequately provided with Court Reporters 
+Largely Complete 
+9%
+27%
+46%
+18%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+and to ensure that such resources are provided in the shortest 
+time possible. 
+d) The MC should immediately take steps to provide or ensure 
+the provision of a proper records management system 
+whereby records can be easily accessed and readily 
+retrievable; this should include establishing an electronic filing 
+and storage system. 
+Partially Complete 
+e) The records management system referred to in 
+Recommendation D above should be sufficiently efficient to 
+allow for the recording of complaints received and disposed 
+(including how they are disposed), criminal cases prosecuted 
+before the MC, convictions and acquittals, which cases 
+resulted in the imposition of fines and which in the imposition 
+of terms of imprisonment, seizures and confiscations ordered, 
+whether any included a ML/TF prosecution and conviction, 
+and such other information as may be considered relevant 
+for statistical purposes. 
+Largely Complete 
+f) 
+The MC should undertake a periodic review and analysis of 
+the data recorded pursuant to Recommendation D above to 
+establish where risks exist (if any) and determine what steps 
+should be taken or what recommendations to make to 
+ensure the proper and adequate mitigation of those risks; any 
+such reviews and analyses should be properly recorded, 
+easily accessible and readily retrievable. 
+Largely Complete 
+g) The MC should put in place an appropriate structure to 
+ensure the continued functioning of the MC in the absence 
+of the Court Manager; this may be carried out by identifying 
+at least 2 other senior staff, who should be trained and 
+involved from time to time in the work of the Court Manager, 
+so they may develop the necessary experience to function in 
+that office effectively in the absence of the Court Manager. 
+Partially Complete 
+h) The MC should immediately develop written policies and 
+procedures to specifically deal with complaints and issues of 
+bribery and corruption in relation to staff and the MC 
+generally. 
+Partially Complete 
+i) 
+The MC should immediately explore and identify training 
+needs of its staff, both judicial and administrative, and 
+provide training schedules to ensure that all key staff receive 
+adequate and periodic training in AML/CFT matters, FATF 40 
+Recommendations, FATF Methodology, conflicts of interest, 
+bribery and corruption, and use of JEMS. 
+Partially Complete 
+j) 
+The MC should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the MC 
+(preferably by a designated functionary within the MC) by 
+carrying out internal audits on a periodic basis. 
+No Progress Made 
+Terrorist and Proliferation Financing Recommendation 
+k) The MC should be provided with immediate training in TF. 
+No Progress Made 
+ 
+ 
+ 
+HIGH (SUPREME) COURT (HC) 
+ 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Staff training in AML/CFT 
+ 
+Records maintenance and accessibility 
+Low Risk 
+ 
+Inter-agency cooperation – level of cooperation 
+
+Complaints handling 
+ 
+The HC has not made any noticeable progress in addressing the NRA Recommendations 
+Similar issues exist as with the MC in terms of resources and training.  
+ 
+The HC should take appropriate measures to ensure that the statistical data maintained is 
+being comprehensively used to track trends, mitigate risks and assist with the improvements 
+of the office of the Supreme Court. All archived files of the HC should be scanned and filed 
+on a secured server for easily accessibility and the safety of staff. An electronic filing system 
+should be created and managed by the HC. Security measures should be implemented by 
+the HC, inside the courtroom and the entire HC Registry premises. The HC should undertake a 
+mandatory risk assessment, which would assist with identifying any current risks, threats or 
+vulnerabilities that may impair the work of the HC. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The HC should develop a training program to enable its staff, 
+including all legal staff, to receive training on AML/CFT 
+matters, FATF 40 Recommendations and FATF Methodology; 
+the training program should embrace training on conflicts of 
+interest and bribery and corruption. 
+Partially Complete 
+b) The amount and type of statistical data maintained should 
+be reviewed with a view to ensuring that comprehensive 
+data is collected, collated and analyzed to determine trends 
+that could result in appropriate reforms to better improve the 
+functioning of the HC in the delivery of its assignments; this 
+should include data on the predicate offences prosecuted, 
+those that relate to ML/TF; the number of convictions and 
+Partially Complete 
+86%
+14%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+acquittals and the number of requests for service of foreign 
+process and how many of those relate to ML/TF. 
+c) Steps should be taken to ensure that files are properly stored 
+and are easily retrievable accordingly, and electronic filing 
+system and electronic storage of files should be undertaken. 
+Partially Complete 
+d) Adequate security measures should be implemented inside 
+the courtroom and the entire HC Registry premises.  
+Partially Complete 
+e) Considering the low level of cooperation received from the 
+HC Registry during the NRA exercise, the Government should 
+undertake or commission a special review of the HC and HC 
+Registry to establish whether any other risks exist which, if left 
+unaddressed, could potentially impair the work of the 
+institutions, especially as it relates to the VI’s international 
+obligations relative to ML/TF and facilitating cooperation to 
+effectively combat criminal activity. 
+Partially Complete 
+f) 
+The HC should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the HC 
+(preferably by a designated functionary within the HC) by 
+carrying out internal audits on a periodic basis. 
+Partially Complete 
+Terrorist and Proliferation Financing Recommendation 
+g) The HC should be provided immediate training in TF. 
+No Action Made 
+ 
+ 
+ 
+ROYAL VIRGIN ISLANDS POLICE FORCE (RVIPF) 
+ 
+High Risk 
+ 
+Staff training, resources and expertise 
+ 
+Records maintenance, including data collection and analysis 
+ 
+Handling of incoming MLA requests, including extradition 
+matters 
+ 
+Handling of outgoing MLA requests, including extradition 
+matters 
+ 
+Providing feedback on requests that have been declined 
+ 
+Difficulties experienced in processing MLA requests 
+
+Monitoring of BVIBC activities 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Inter-agency cooperation in relation to the processing of MLA 
+requests 
+ 
+Investigations related to ML/TF 
+Low Risk 
+ 
+Inter-agency cooperation – level of interaction 
+ 
+The RVIPF has implemented most of their recommendations to some degree and are in the 
+process of completing the remainder. Officers are being added to the RVIPF to assist with the 
+needs of the RVIPF. The RVIPF has enhanced their border security regime with the addition of 
+a boat, additional officers, development of a marine auxiliary/volunteer force to and 
+expand the marine capacity. The IT architecture was enhanced by the updating of the 
+Overseas Territories Criminal Intelligence System (OTRCIS) database, the RVIPF email system, 
+video surveillance, body worn cameras, Automated Fingerprint Identification System (AFIS) 
+and the Integrated Ballistic Identification System (IBIS). Training programs have been 
+developed for the Basic Financial Investigations Course and the Cash Seizure, Terrorist 
+Financing and Proceeds of Crime. The RVIPF participates virtually in courses offered by the 
+FSC and other agencies. The staff complement of the FCU has increased. A complete review 
+of the FCU will be conducted by the City of London Police. To assist with the policies and 
+procedures of investigations, an Investigative Manual is currently drafted. On an annual 
+basis, a comprehensive report is completed by the RVIPF, which is laid before the House of 
+Assembly. 
+ 
+The RVIPF should ensure all staff is currently trained based on their respective duties. Further, 
+focus must be placed on ensuring that investigations are done to ensure the proceeds are 
+taken out of crime through increase confiscation, seizures and forfeitures. Focus should also 
+be placed on fully resourcing the FCU and other related Units responsible for directly 
+connecting investigations of financial and other crimes related to ML/TF/PF. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) Immediately develop a training program for all levels of the 
+RVIPF. Identify training opportunities for its officers on an 
+ongoing basis (especially those on the investigative side) and 
+conduct regular and periodic training; such training should 
+include investigative techniques taking into account modern 
+technology as a tool in combatting crime, including ML/TF. 
+Largely Complete 
+b) Immediately develop processes and procedures to maximize 
+its available resources so that they can be properly leveraged 
+by committing more of those resources to identified areas of 
+high risk; in so doing, the RVIPF should at all times adopt a risk-
+based approach in the execution of its duties. 
+Largely Complete 
+c) Immediately prepare and implement written internal policies 
+and procedures with respect to the handling, processing, 
+investigation and referral of criminal cases (for approval 
+along the chain of command and prosecution). 
+Partially Complete 
+d) Ensure that the Financial Crime Unit (FCU) is involved in either 
+the investigation of all predicate offences or it is notified of 
+such investigations and the results thereof shared with the 
+FCU so that it can make an assessment as to whether a 
+particular predicate offence presents ML/TF opportunities 
+which require further investigation or liaison with the ODPP. 
+Complete 
+e) Immediately conduct an analysis of the timeframe it takes 
+from the time and offense is investigated to when it is 
+forwarded to the ODPP for prosecution with a view to 
+decreasing the timeframe. 
+Partially Complete 
+f) 
+Take immediate steps to increase its human resource 
+capacity and assign sufficient numbers of qualified and 
+competent Police Officers to the FCU and Criminal 
+Investigation Department (CID) in order to ensure the speedy, 
+efficient and effective investigation of all predicate offences, 
+including ML/TF; the current vacant positions should, to the 
+extent possible, be filled as soon as possible and the Ministry 
+Partially Complete 
+45%
+31%
+24%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+of Finance should assist with financial resource allocation to 
+make this a reality. 
+g) Immediately conduct an assessment of its technological 
+needs, including computer systems and databases, and 
+make necessary recommendations to the Government for 
+funding, and the Government should accommodate these 
+needs as essential to developing an effective modern-day 
+police force. 
+Largely Complete 
+h) Immediately develop clear written terms of reference and 
+procedures for each unit within the RVIPF and put in place 
+appropriate monitoring mechanisms to ensure compliance 
+with those terms and procedures in a timely manner. 
+Complete 
+i) 
+Take immediate steps to ensure that comprehensive statistics 
+of the offences committed in the VI are accurately compiled 
+on an ongoing basis to ensuring that data is available from 
+each unit within the RVIPF and that all relevant persons 
+understand how to record the data and are able to access 
+such, and are properly trained to record and analyze the 
+data to identify areas of high risk to which more resources are 
+to be applied; consideration should be given to centralizing 
+all compiled data which must be easily accessible and 
+retrievable. In this regard, compiled statistics should include 
+information on: 
+o 
+The number of ML/TF investigations and referrals for 
+prosecutions on an annual and ongoing basis; 
+o 
+The number of predicate offense investigations and 
+referrals for prosecutions on an annual and ongoing 
+basis; 
+o 
+The number of ML/TF and predicate offences referred 
+for prosecution on an annual basis that have not 
+been pursued and whether reasons are given in each 
+case; and 
+o 
+The assets confiscated and seized on an annual and 
+ongoing basis and whether such confiscation and 
+seizure relate to external requests or are tied to 
+domestic investigation and prosecution. 
+Complete 
+j) 
+Review and revise its procedures on the receipt and handling 
+of complaints to ensure that the process is not compromised; 
+this should clearly deal with both internal and external 
+complaints, map out a process for dealing with complaints 
+from inception (point of receipt of complaint) to conclusion 
+(when the complaint is disposed of) and providing formal 
+responses to complainants. 
+Complete 
+k) Take immediate steps to ensure that the work environment in 
+all the Police Stations is safe and conducive to the good 
+health of Police Officers and, in particular, the presence of 
+mold in the buildings is addressed, as a matter of priority. 
+Partially Complete 
+l) 
+In order to facilitate statistical data collection, collation and 
+centralization, identify and appoint suitable and adequate 
+human resource to undertake responsibility for statistical data 
+management and analysis. 
+Complete 
+m) Develop a procedures manual on how to collect and 
+maintain statistical data and the format in which such data 
+should be maintained and closely monitor adherence to the 
+procedures manual which should be reviewed and updated 
+as necessary from time to time. 
+Complete 
+n) Take immediate steps to ensure that comprehensive statistics 
+of the number of requests received from Interpol and other 
+external sources for assistance are properly compiled and 
+maintained; the statistics must include data on when the 
+requests were received, when their processing was 
+completed and when responses were sent. 
+Largely Complete 
+o) Undertake periodic analysis and assessment of requests for 
+cooperation from other foreign LEAs, including Interpol, to 
+identify whether there are any particular trends, and the 
+countries from which risk to the Territory emanates or relates 
+to. 
+Largely Complete 
+p) Produce a comprehensive annual report for public and 
+internal purposes; the internal report should provide detailed 
+and comprehensive information on crime statistics, 
+investigations and prosecutions or referrals for prosecution. 
+Largely Complete 
+q) Work closely with the ODPP, HMC and ID to ensure proper 
+and effective coordination and cooperation on matters of 
+mutual interest, targeting in particular areas of risk and threats 
+to the Territory from an AML/CFT perspective to develop 
+appropriate measures to prevent and detect crime as early 
+as possible. 
+Complete 
+r) 
+Form a working group or committee comprising the ODPP, 
+FIA, ID and RVIPF to deal with coordination and cooperation 
+between the agencies; the group or committee should be 
+chaired by the DPP and meet on a regular basis to discuss 
+and provide assistance to the workings of each other, 
+including identifying areas of challenges and how those 
+challenges may be effectively managed and overcome. 
+Complete 
+s) Work with the ODPP to ensure proper cataloguing of offences 
+so that the categories of offences referred to when recording 
+matters coincide with the categories of offences referred to 
+by the ODPP for prosecution purposes. 
+Partially Complete 
+t) 
+Develop a corrective action plan to mitigate the deficiencies 
+(risks and vulnerabilities) identified in the NRAR. This plan 
+should also include measures that would enable continuous 
+effective management and monitoring of the measures 
+currently in place to prevent any otherwise avoidable 
+shortcoming. The implementation of the corrective action 
+plan should be monitored carefully by the RVIPF (preferably 
+by a designated functionary within the RVIPF) by carrying out 
+internal audits on a periodic basis. 
+Complete 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+u) The PCCA should be amended to specifically give the power 
+to allow confiscation in relation to third parties benefitting 
+from the proceeds of criminal conduct, notwithstanding that 
+Section 6 (7) of the PCCA – which refers to a person deriving 
+a pecuniary or other quantifiable advantage in relation to 
+the commission of an offense – may be construed to include 
+third parties. 
+Largely Complete 
+v) Each Department of the RVIPF should have ongoing and 
+effective dialogue for the sharing of information internally to 
+offset any disparities in relation to the records collected, 
+recorded and maintained by each in order to ensure 
+appropriate synergy. 
+Complete 
+w) The RVIPF should develop written internal policies and 
+procedures to streamline the processes between 
+Complete 
+departments within the RVIPF with respect to the handling 
+and recording of forfeiture, seizure and confiscation of 
+cash/assets suspected of being proceeds of criminal conduct 
+under the PCCA, DTORA and CMDA. The policies and 
+procedures should be reviewed periodically to bring them in 
+line with any new and emerging developments in dealing 
+with and recording crime data. 
+x) More resources should be committed into identifying and 
+deploying specific persons to record relevant statistical data 
+which should be regularly uploaded in a database in 
+accordance with appropriate policies and procedures 
+established by the RVIPF; such data should also be 
+appropriately categorized to enable the ongoing monitoring 
+of criminal activities, including whether the investigation of 
+such activities has resulted in the seizure, forfeiture, freezing, 
+confiscation, etc. of cash/assets. 
+Complete 
+y) The RVIPF should perform a full assessment of its crime data to 
+fully understand trends, typologies and whether the proceeds 
+of crime are being taken away from the criminal conduct of 
+suspects, whether through seizure, forfeiture, confiscation or 
+otherwise. 
+Largely Complete 
+z) The staff numbers of the FCU should be augmented in order 
+to enable the Unit to sufficiently and robustly respond to 
+challenges presented in financial crimes, including ML 
+activity. 
+Partially Complete 
+aa) Cash Seizure Policy should be revised outlining some of the 
+policy matters clearly and succinctly. 
+Complete 
+bb) RVIPF should immediately develop written procedures on 
+dealing with domestic and international requests for mutual 
+legal assistance and designate trained officers to facilitate 
+domestic and international cooperation. 
+Partially Complete 
+Terrorist and Proliferation Financing Recommendation 
+cc) The RVIPF should be provided immediate training in 
+detecting, investigating and prosecuting TF. 
+Largely Complete 
+ 
+ 
+ 
+HER MAJESTY’S CUSTOMS (HMC) 
+ 
+High Risk 
+ 
+Staff training in ML/TF 
+Medium Risk 
+ 
+Handling of seized assets, smuggling and security breaches 
+Low Risk 
+ 
+Governance and administration 
+ 
+Inter-agency cooperation – level of interaction 
+ 
+Records maintenance and accessibility 
+ 
+There is an NRA Implementation Team within the HMC, which assists with the NRA 
+Recommendations. This team works diligently on the implementation of the 
+recommendations outlined in the NRA, drafting of procedural manuals and code of ethics. 
+Once the documents are finalized, the NRA Team will be conducting regular operational 
+audits. The priority recommendation for a Procedural Manual on record keeping is greatly 
+required by HMC as there are currently no procedures in place for this recommendation, 
+which leaves the agency’s internal controls exposed. The human resource needs of HMC are 
+being assessed. HMC, in collaboration with the Immigration Department and the RVIPF, and 
+led by the Commissioner of Customs, have created a Joint Border Security Task Force. All 
+plans in association with this Task Force are updated on a monthly basis. HMC is currently 
+sourcing training for the detection, investigation and prosecution of TF. Additionally, HMC 
+utilizes the OTRCIS database, which is a major improvement in the information sharing 
+capabilities of the agency with domestic and territorial law enforcement agencies. 
+ 
+It is imperative for HMC to have an officer(s) that is trained to assist the ODPP and the RVIPF 
+with case files and prosecution, where necessary. 
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) HMC should ensure that proper records are immediately kept 
+of cash seizures and other offences and breaches, including 
+all domestic and international cooperation matters. 
+Partially Complete 
+b) HMC should ensure that proper records are kept of incoming 
+and outgoing cash declarations/disclosures and that 
+mechanisms are put in place to analyze the 
+declarations/disclosures to identify trends and any anomalies 
+Partially Complete 
+28%
+29%
+43%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+which may necessitate reforms for greater efficiency; the 
+records should embrace all relevant statistical data relating 
+to the key functions and cooperation arrangements of HMC. 
+c) HMC should immediately develop comprehensive written 
+procedures on record management, which must implement 
+effectively, in addition to ensuring that all HMC staff adhere 
+strictly to the procedures. 
+Partially Complete 
+d) HMC should, along with the ODPP, FIA, RVIPF and ID, 
+constitute a committee to meet on a regular and periodic 
+basis to discuss and share information on breaches of the law 
+relating to or affecting their areas of responsibility in order to 
+ensure appropriate coordinating and maintaining of non-
+conflicting records; the committee should be coordinated by 
+the DPP. 
+Complete 
+e) Arrangements should be made to ensure that the staff of 
+HMC receives training that covers the FATF 40 
+Recommendations, FATF Methodology, TF, all FATF predicate 
+offences for ML, PF and the UN Convention against 
+Transnational Organized Crime (specifically considering the 
+provisions on smuggling), UN Convention against Narcotics 
+and Psychotropic Substances and UN Convention against 
+Terrorist Financing; the training should be extended to deal 
+with governance issues relative to dealing with conflicts of 
+interest and corruption. 
+Partially Complete 
+f) 
+HMC should implement a proper record management system 
+or register which enables the proper recording of employee 
+complaints and unscrupulous behavior including corrupt 
+behavior, reports lodged, and action taken, number of cases 
+referred to the RVIPF, and how many of those resulted in 
+prosecution and conviction and sentence. 
+Partially Complete 
+g) HMC should immediately re-evaluate its current human 
+resource capacity and assign staff in an efficient and 
+effective manner by concentrating on areas that pose the 
+highest risk to the work of the HMC. 
+Largely Complete 
+h) HMC should develop and put in place written procedures to 
+intensify the monitoring of the VI’s borders that are not 
+designated as ports of entry on a routine basis; and, as far as 
+possible, in close cooperation with other LEAs, especially the 
+ID, FIA and RVIPF. These procedures should be tested for their 
+efficacy at least once a year. 
+Complete 
+i) 
+HMC should, in cooperation with the ID and RVIPF, develop a 
+structured border monitoring mechanism with a single 
+coordinator (which may be rotated on a periodic basis if 
+considered necessary) to ensure a much more streamlined 
+border protection system to detect and protect the VI from 
+cross border criminal activities and prevent the smuggling of 
+persons and goods, especially contraband goods such as 
+firearms, ammunition and explosives (save those licensed for 
+entry). 
+Complete 
+j) 
+HMC should develop a corrective action plan to mitigate the 
+deficiencies (risks and vulnerabilities) identified in the NRAR. 
+This plan should also include measures that would enable 
+continuous effective management and monitoring of the 
+measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by HMC 
+Complete 
+(preferably by a designated functionary within HMC) by 
+carrying out internal audits on a periodic basis. 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+k) There should be more appropriate systems in place between 
+HMC and the RVIPF to ensure that the data maintained in 
+relation to seizures, forfeitures, confiscations, etc. are 
+reconciled and identifiable. So where, for example, RVIPF, 
+records reflect a total number for cash seizures, its records 
+should also be able to identify which seizures were as a result 
+of seizures undertaken by HMC. 
+Largely Complete 
+l) 
+HMC should develop a system of analyzing statistical data 
+received to evaluate on a regular basis in order to make a 
+proper assessment of threats faced by HMC and to ensure 
+that more resources are allocated to deal with those threats. 
+Largely Complete 
+m) HMC should immediately develop written procedures on 
+dealing with domestic and international requests for 
+cooperation and designate trained officers to facilitate 
+domestic and international cooperation. 
+Largely Complete 
+Terrorist and Proliferation Financing Recommendation 
+n) HMC should be provided immediate training in detecting and 
+investigating TF. 
+Partially Complete 
+ 
+IMMIGRATION DEPARTMENT (ID) 
+ 
+High Risk 
+ 
+Staff training in AML/CFT 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Records maintenance and accessibility 
+ 
+Smuggling activities and deportation 
+Low Risk 
+ 
+Inter-agency cooperation – level of interaction 
+ 
+The ID has identified the need for the Immigration Act to be completely reviewed, and a 
+number of amendments are currently being worked on. Training was completed on safety to 
+assist the Officers of the ID. The ID continues to struggle with the development of internal 
+procedures for detecting, documents and handling incidents of bribery and corruption; 
+training is required in these areas. Domestic and international cooperation has significantly 
+improved due to the establishment of the Joint Border Security Task Force, which includes the 
+ID, RVIPF and HMC. 
+ 
+The ID should be provided with immediate training in detecting, investigating and 
+prosecuting TF. The ID should develop its own policies and procedures to ensure all staff 
+abides by the rules and regulations of the ID. The ID should implement a monitoring and 
+reporting mechanism, to ensure staff is protected when reporting cases of bribery and 
+corruption.  
+ 
+ 
+ 
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The ID should immediately review its record keeping 
+processes and implement appropriate record keeping 
+measures that will ensure the collection, collation and 
+maintaining of adequate and relevant information relative to 
+the work, including the matters identified in the NRAR; this will 
+enable a proper assessment of the areas that could 
+potentially be high risk to the VI. 
+Partially Complete 
+b) A proper review of the Passport and Immigration Act (and 
+any related relevant legislation) should be carried out with 
+Partially Complete 
+33%
+8%
+42%
+17%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+the aim of ensuring their adequacy of its provisions to enable 
+the optimal execution of the ID’s mandate. 
+c) An assessment of the adequacy, and appropriateness of the 
+policies and procedures should be carried out, and new 
+policies and procedures developed in respect of the key 
+areas identified in the NRAR. 
+Partially Complete 
+d) A full review of human resource needs must be carried out 
+with a view to strengthening the functionality of the ID; this 
+includes assigning enough Immigration Officers at ports of 
+entry to ensure efficiency and effectiveness and relieve 
+unnecessary pressure on the Immigration Officers which could 
+affect their morale and long-term effectiveness. 
+Complete 
+e) The ID should ensure that staff receives training that covers 
+the areas of AML/CFT, PF, FATF Methodology, FATF 40 
+Recommendations, and the UN Convention against 
+Transnational Organized Crime and the UN Protocol against 
+the Smuggling of Migrants by Land, Sea and Air; such training 
+should concentrate on the obligations required of the VI in 
+forestalling and preventing criminal activity, including the 
+activity of ML/TF and equip Immigration Officers with 
+knowledge on investigative techniques and identifying 
+suspicious activities. Training should also include all FATF 
+predicate offences for ML as well as methods on identifying 
+and resisting bribery and corruption. 
+Complete 
+f) 
+Outside of the General Orders, specific internal procedures 
+should be developed and put in place to detect, document 
+and handle incidents of bribery and corruption within and in 
+relation to the ID. 
+Partially Complete 
+g) The ID should ensure that investigative and other staff directly 
+dealing with issues such as migrant smuggling and human 
+trafficking receive training in appropriate law enforcement 
+techniques; such training should include (nit not be limited to) 
+techniques in interviewing/questioning persons, sourcing 
+intelligence, report writing, taking statements, self-defense 
+and equipment training. 
+Complete 
+h) The ID should ensure that, at a very basic level, a careful 
+inventory is taken of all official stamps and seals, and that 
+appropriate measures are put in place to ascertain their 
+whereabouts at all times. The circumstances under which 
+stamps and seals are in the custody of Immigration Officers at 
+their homes should be carefully reviewed as this practice 
+opens the door for corrupt practices that are not consistent 
+with the mandate of the ID. 
+Largely Complete 
+i) 
+The ID should review its mechanisms for domestic (inter-
+agency) cooperation with other local and foreign LEAs, 
+including putting appropriate policies and procedures in 
+place to better guide staff in facilitating cooperation; these 
+should include negotiating and agreeing specific relevant 
+MOUs, to facilitate cooperation and coordination. 
+Partially Complete 
+j) 
+The ID should develop policies and procedures to ensure that 
+all members of staff declare their interests on a periodic basis 
+to mitigate any potential conflicts of interest in discharging 
+their functions. 
+No Progress Made 
+k) The ID should develop a corrective action plan to mitigate 
+the deficiencies (risks and vulnerabilities) identified in the 
+NRAR. This plan should also include measures that would 
+Complete 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the ID 
+(preferably by a designated functionary within the ID) by 
+carrying out internal audits on a periodic basis and producing 
+written reports and findings.  
+Terrorist and Proliferation Financing Recommendation 
+l) 
+The ID should be provided immediate training in TF. 
+No Progress Made 
+ 
+ 
+ 
+OFFICE OF THE DIRECTOR OF PUBLIC PROSECUTIONS (ODPP) 
+ 
+High Risk 
+ 
+Insufficient resources 
+ 
+Inadequate experience and training 
+ 
+Record keeping 
+ 
+Lack of ML prosecutions 
+Medium Risk 
+ 
+Governance and administration 
+ 
+Inter-agency cooperation – level of interaction 
+Low Risk 
+ 
+Staff training in AML/CFT 
+ 
+Records maintenance and accessibility 
+ 
+Complaints handling 
+ 
+The ODPP is actively involved in consultation with and guiding the RVIPF and HMC in all 
+investigations. In collaboration with DoIT, they are attempting to make DOCCOVA useful to 
+the ODPP. This will serve as a modern case file management system for the ODPP. The DPP 
+has submitted legislative amendments to the AGC, to assist with streamlining processes for 
+the respective CAs and LEAs as it related to MLAs, extraditions and the successful 
+prosecution of ML/TF cases. Further, the DPP is the Chairman of the Committee of Law 
+Enforcement Agencies (CLEA), which was developed to ensure greater coordination and 
+collaboration in the fight against ML, TF and other organized crime, through intelligences 
+sharing, the joint pursuit and apprehension of criminals and the disruption of criminal activity. 
+ 
+With the addition of new staff, the ODPP should ensure all staff is properly trained and/or 
+exposed to AML/CFT international standards such as the FATF 40 Recommendations, FATF 
+Methodology and the Mutual Evaluation process. To ensure that all MLAs and extraditions 
+are being processed as efficiently and effectively as possible, the AGC and DPP should 
+ensure there is adequate and timely cooperation and coordination, including where 
+legislative amendments are necessary to improve the extradition process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17%
+44%
+39%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made
+NRA RECOMMENDATIONS 
+General Recommendations 
+a) The need for additional human resources at the prosecutorial 
+level should be addressed (in consultation with the DPP) with 
+some level of urgency to ensure that the ODPP has sufficient 
+resources and expertise to carry out its functions; this should 
+include the creation of the position of Deputy DPP in order to 
+close the extensive gap with the DPP and ensure that, in the 
+absence of the DPP from office, key decisions continue to be 
+taken at a very senior level. 
+Partially Complete 
+b) The DPP should immediately liaise with the AG to bring about 
+a quick consolidation of criminal laws. 
+Partially Complete 
+c) The training received on asset recovery, asset confiscation, 
+restraint and forfeiture should be arranged on a periodic and 
+determined basis to include all the key LEAs in order to 
+enhance the level of coordination and cooperation between 
+them as well as keep the experience of prosecutorial staff 
+current and relevant. 
+Partially Complete 
+d) The current policies and procedures established with the 
+RVIPF for the processing and transmission of case files should 
+be reviewed immediately to improve and bring them up-to-
+date; these should be clearly outlined in writing, reviewed 
+periodically and monitored by the DPP (or Deputy DPP when 
+the position is created and occupied) for compliance by all 
+concerned. 
+Largely Complete 
+e) The ODPP should from time to time carry out a threat 
+assessment in relation to predicate offences and ML/TF risks 
+based on the cases it receives and prosecutes this should 
+include a proper analysis of trends in prosecution activity in 
+order to enable appropriate adjustments to be made to 
+behavior. 
+Partially Complete 
+f) 
+The ODPP should be consulted and be involved in the early 
+stages of the investigation of serious offences as a 
+mechanism for guiding the RVIPF in their investigations and to 
+ensure that potential ML/TF opportunities are properly 
+pursued during the court of the investigations; this practice 
+may be reviewed as confidence develops with such an 
+arrangement. 
+Complete 
+g) Training in the FATF 40 Recommendations, FATF Methodology 
+and the Mutual Evaluation process should also be provided 
+as a supplement to AML/CFT training. 
+Largely Complete 
+h) The ODPP, in collaboration with the RVIPF, should immediately 
+develop a training program on AML/CFT matters, including all 
+predicate offences, as a means of improving investigations 
+and prosecutions of ML/TF offences; this training should be 
+held on a periodic and continuing basis and should include 
+all key staff. 
+Largely Complete 
+i) 
+A working group or committee comprising the ODPP, FIA, 
+HMC, ID and RVIPF should be formed to deal with 
+coordination and cooperation between the agencies; the 
+group or committee should be chaired by the DPP and meet 
+on a regular basis to discuss and provide assistance to the 
+workings of each other, including identifying areas of 
+challenges and how those challenges may be effectively 
+managed and overcome. 
+Complete 
+j) 
+The ODPP and AGC should develop close cooperation 
+measures (which should be outlined in writing) with each 
+other in order to ensure the proper, efficient and effective 
+processing of MLA and extradition matters; in addition, the 
+ODPP should identify any shortcoming in the criminal laws, 
+which may hinder the successful prosecution of ML/TF cases 
+and discuss with the AGC identified areas of reform which the 
+AG should take forward to the enactment stage. 
+Partially Complete 
+k) The ODPP should develop a corrective action plan to 
+mitigate the deficiencies (risks and vulnerabilities) identified in 
+the NRAR. This plan should also include measures that would 
+enable continuous effective management and monitoring of 
+the measures currently in place to prevent any otherwise 
+avoidable shortcoming. The implementation of the corrective 
+action plan should be monitored carefully by the ODPP 
+(preferably by a designated functionary within the ODPP) by 
+carrying out internal audits on a periodic basis. 
+Complete 
+Freezing, Seizures Confiscation and Forfeiture Recommendations 
+l) 
+There is need for adequate and consistent training of 
+prosecutors on confiscation matters so that confiscation forms 
+an integral part of the prosecution of predicate offences 
+(while acknowledging at the same time that similar training is 
+required for the Policy in their conduct of investigations in 
+order to better aid any pursuit of confiscation proceedings by 
+the prosecution). 
+Largely Complete 
+m) The implementation of a more robust case management 
+system and policy as it relates to confiscation would be 
+beneficial in tracing and recovering assets. 
+Partially Complete 
+n) The ODPP should, as a matter of priority, prepare and issue 
+necessary guidelines to staff and the RVIPF, as well as other 
+relevant LEAs, on asset confiscation, including the procedures 
+to follow in relation thereto; this will lead to better and more 
+effective coordination between the ODPP, RVIPF and other 
+LEAs. 
+Partially Complete 
+o) The ODPP should actively pursue with the VI Government, 
+while at the same time seeking the cooperation of the AGC, 
+the need for reforming the PCCA to enable an application 
+for a confiscation order from the Court without the need to 
+link such an application to a predicate offense (the 
+equivalent provision of Section 35A (2) of the DTOA should be 
+adopted); alternatively, consideration may be given to 
+developing and enacting a civil forfeiture legislation with 
+appropriate safeguards on individual rights and freedoms. 
+Largely Complete 
+Terrorist and Proliferation Financing Recommendations 
+p) The current PF legislation is 6 years old and does not cover 
+some of the elements listed in Recommendation 7 of the FATF 
+Recommendations. It would be prudent, therefore, for the 
+legislation to be reviewed and amendments made, where 
+necessary, to bring it into line with the current FATF 
+requirements on PF. 
+Largely Complete 
+q) In reviewing the legislation, consideration should be given to 
+allowing directions to be issued by the FIA where the 
+development, production or facilitation of such development 
+or production of WMDs poses a threat to any country outside 
+the current limitation of the VI and the UK. 
+Largely Complete 
+r) 
+The ODPP should be provided immediate training in 
+detecting, investigating and prosecuting TF. 
+Largely Complete 
+ 
+ 
+ 
+CONCLUSION 
+ 
+The BVI conducted its first NRA exercise from 2014-2015. The resulting NRA Report was issued 
+in 2016, which displayed the threats and vulnerabilities the Territory faced in relation to ML/TF. 
+In August 2018, a Progress Report was issued on the status of the implementation of the NRA 
+Recommendations.  
+ 
+Since then, the AML/CFT Implementation Unit, whose role has been to keep the NRAR up to 
+date and assess any changes in AML/CFT risk of the Virgin Islands, has been working diligently 
+with each of the agencies to assist with the ongoing implementation of the 
+recommendations. The Unit’s work involves a continuous assessment and update of the 
+NRAR, and, on an ongoing basis, provides analysis of the impact of implementing the 
+recommendations on the overall AML/CFT risk in the Virgin Islands. 
+ 
+In August 2020, the AML/CFT Implementation Unit completed desk-based monitoring of the 
+agencies to ensure that progress was being made, despite the COVID-19 implications. 
+ 
+This report outlines the AML/CFT deficiencies identified for each CA and LEA in the initial 
+NRAR and measures their progress in addressing their deficiencies to date.  
+ 
+Overall, agencies implemented or largely implemented 68% of recommendations made in 
+the NRAR with a further 27% partially implemented.  
+ 
+ 
+ 
+Therefore, the Virgin Islands has significantly implemented the recommendations within the 
+NRAR and increased its technical compliance with the FATF’s 40 Recommendations, and its 
+effectiveness in forestalling ML, TF and PF. 
+ 
+The AML/CFT Implementation Unit will continue to work with each of the agencies to ensure 
+the recommendations displayed within the 2016 NRAR and fully implemented, and 
+monitored, and that the AML/CFT risk assessments of the Virgin Islands are kept up to date. 
+36%
+32%
+27%
+5%
+Complete
+Largely Complete
+Partially Complete
+No Progress Made

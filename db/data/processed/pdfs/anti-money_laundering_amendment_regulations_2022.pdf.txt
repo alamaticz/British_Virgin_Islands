@@ -1,0 +1,407 @@
+  
+ 
+1 
+ 
+VIRGIN ISLANDS 
+ANTI-MONEY LAUNDERING (AMENDMENT) REGULATIONS, 
+2022 
+ARRANGEMENT OF REGULATIONS 
+ 
+REGULATION 
+ 
+1. 
+Citation and commencement 
+ 
+2. 
+Regulation 2 amended 
+ 
+3. 
+Regulation 3 amended  
+ 
+4. 
+Regulation 4 amended 
+ 
+5. 
+Regulation 6 amended 
+ 
+6. 
+Regulation 7 amended 
+ 
+7.  Regulation 9 amended 
+ 
+8. 
+Regulation 10 amended 
+ 
+9. 
+Regulation 13 amended 
+ 
+10. 
+Regulation 14 amended 
+ 
+11. 
+Regulation 16 amended 
+ 
+12. 
+Regulation 17 amended 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+2 
+ 
+VIRGIN ISLANDS 
+STATUTORY INSTRUMENT 2022 NO. 77 
+PROCEEDS OF CRIMINAL CONDUCT ACT 
+(Revised Edition 2020) 
+ 
+Anti-money Laundering (Amendment) Regulations, 2022 
+ 
+[Gazetted 19th August, 2022]  
+ 
+The Cabinet, in exercise of the powers conferred by section 41 of the Proceeds of 
+Criminal Conduct Act, Revised Edition 2020, and with the advice of the Financial 
+Services Commission, makes these Regulations.  
+ 
+Citation and commencement 
+1. (1) These Regulations may be cited as the Anti-money Laundering 
+(Amendment) Regulations, 2022.  
+(2)  Subject to subregulation (3), these Regulations shall come into force on 
+the 22nd day of August, 2022.  
+(3)  The provisions of these Regulations that relate to providing virtual 
+assets service shall come into force on the 1st day of December, 2022.  
+Regulation 2 amended 
+2. Regulation 2 of the Anti-money Laundering Regulations, Revised Edition 
+2020 (hereinafter referred to as “the principal Regulations”) is amended 
+(a) in subregulation (1) 
+(i)  in the definition of “Agency” by deleting the words, “under 
+section 3” and substituting the words, “under section 3(1)”;  
+(ii) in the definition of “customer due diligence”, by deleting the 
+words, “in his dealings with an applicant for business” and 
+substituting the words, “in its or his or her dealings with an 
+applicant for business”;  
+(iii) in relation to the definition of “relevant business” 
+(aa) by revoking paragraph (b), and substituting the following 
+paragraph 
+“(b) the business of providing category A or category B 
+insurance business or acting as an insurance 
+intermediary within the meaning of the Insurance 
+Act, Revised Edition 2020;”;  
+ 
+  
+ 
+3 
+ 
+(bb) in paragraph (e) (iv), by deleting the words, “as a trustee 
+of a trust” and substituting the words, “as a trustee, 
+protector or administrator of a trust or settlement”;  
+(cc) by revoking paragraph (h);  
+(dd) by revoking paragraph (l) and substituting the following 
+paragraph 
+“(l) the business of gaming and betting within the meaning 
+of the Virgin Islands Gaming and Betting Control Act, 
+2020, No. 14 of 2020 when a transaction involves 
+accepting a cash payment of $3,000 or more or the 
+equivalent in any other currency;”;  
+(ee) by inserting after paragraph (l), the following new 
+paragraphs 
+“(m) carrying on the business of a cooperative society 
+registered under the Co-operative Societies Act, Cap. 
+267; and  
+ (n) the business of carrying on or providing virtual assets 
+service when a transaction involves virtual assets 
+valued at $1,000 or more;”;  
+(iv) by revoking the definition of “applicant for business” and 
+substituting the following definition 
+““applicant for business” means the party intending to enter 
+into a business relationship or one-off transaction with 
+a relevant person;”;   
+(v) by revoking the definition of “beneficial owner” and substituting 
+the following definition 
+““beneficial owner” means the natural person who ultimately 
+owns or controls an applicant for business or a 
+customer or on whose behalf a transaction or activity 
+is being conducted, and includes, though not restricted 
+to 
+(a) in the case of a body corporate 
+(i) as it relates to a legal person that is not a 
+company whose securities are listed on a 
+recognised exchange, a natural person who 
+ultimately owns or controls, whether directly 
+or indirectly, 10% or more of the shares or 
+voting rights in the legal person; and 
+(ii) as it relates to any body corporate, a natural 
+person who otherwise exercises control over 
+the management of the legal person; and  
+(b) in the case of a partnership 
+(i) a natural person who is ultimately entitled to 
+or controls, whether directly or indirectly, 
+10% or more share of the capital or profits of 
+  
+ 
+4 
+ 
+the partnership or 10% or more voting rights 
+in the partnership; and  
+(ii) a person who otherwise exercises control over 
+the management of the partnership;  
+(c) in the case of a trust 
+(i) any person, characteristic or class of persons 
+entitled to a vested right in the trust; and  
+(ii) the trustee, the settlor, the protector (if any), or 
+any other person who has control over the 
+trust; and  
+(d) in the case of any other type of legal person or legal 
+arrangement, the persons in equivalent or similar 
+positions or who exercise similar controls to those 
+detailed in paragraphs (a) to (c);”;  
+(vi) by inserting in their appropriate alphabetical order, the following 
+new definitions 
+““Act” means the Proceeds of Criminal Conduct Act, Revised 
+Edition 2020;  
+“control”, for the purpose of the definition of “beneficial owner”, 
+means having an influence over the activities of an applicant 
+for business or customer without any ownership interest, and 
+includes 
+(a) having an influence through close family relationships, or 
+historical or contractual associations; or 
+(b) using, enjoying or benefitting from the assets owned by 
+the applicant for business or customer; 
+“money laundering” has the meaning ascribed to it under section 2 
+(1) of the Act and for the purposes of these Regulations a 
+reference to money laundering includes 
+(a) “terrorist financing” as defined under section 2(1) of the 
+Financial Investigation Agency Act, Revised Edition 
+2020; and  
+(b) “proliferation financing” as defined under section 6 of the 
+Proliferation Financing (Prohibition) Act, 2021;  
+“virtual asset” means a digital representation of value that can be 
+digitally traded or transferred, and can be used for payment or 
+investment purposes, but does not include 
+(a) digital representations of fiat currencies and other assets 
+or matters specified by enactment or guidelines; or 
+(b) a digital record of a credit against a financial institution 
+of fiat currency, securities or other financial assets that 
+can be transferred digitally;  
+  
+ 
+5 
+ 
+“virtual assets service” means the business of engaging, on behalf 
+of another person, in any VASP activity or operation (as 
+outlined in the definition of “VASP”), and includes 
+(a) hosting wallets or maintaining custody or control over 
+another person’s virtual asset, wallet or private key;  
+(b) providing financial services relating to the issuance, offer 
+or sale of a virtual asset; 
+(c)  providing kiosks (such as automatic teller machines, 
+bitcoin teller machines or vending machines) for the 
+purpose of facilitating virtual assets activities through 
+electronic terminals to enable the owner or operator of the 
+kiosk to actively facilitate the exchange of virtual assets 
+for fiat currency or other virtual assets; or  
+(d) engaging in any other activity that, by enactment or 
+guidelines, constitute the carrying on of the business of 
+providing virtual asset service or issuing virtual assets or 
+being involved in virtual asset activity;  
+“VASP”, for the purpose of the definition of “virtual assets 
+service” means a virtual asset service provider who provides, 
+as a business, one or more of the following activities or 
+operations for or on behalf of another person 
+(a) exchange between virtual assets and fiat currencies;  
+(b) exchange between one or more forms of virtual assets;  
+(c) transfer of virtual assets, where the transfer relates to 
+conducting a transaction on behalf of another person that 
+moves a virtual asset from one virtual asset address or 
+account to another;  
+(d) safekeeping or administration of virtual assets or 
+instruments enabling control over virtual assets;  
+(e) participation in, and provision of, financial services related 
+to an issuer’s offer or sale of a virtual asset; 
+(f) perform such other activity or operation as may be 
+specified by enactment;” and  
+(vii) by revoking the definition of “Steering Committee”; and  
+(b) in subregulation (3), by deleting the words, “subsection (1)(k) and 
+(l)” and substituting the words, “subsection (1)(k), (l) and (n)”.  
+Regulation 3 amended 
+3. Regulation 3(1) of the principal Regulations is amended 
+(a) in subparagraph (b)(ii), by deleting the words “the Proceeds of 
+Criminal Conduct Act” and substituting the words, “the Act”; and  
+(b) by revoking subparagraph (c)(ii), and substituting the following 
+subparagraph 
+  
+ 
+6 
+ 
+“(ii) in dealing with customers where such transactions have been 
+reported to the Agency in accordance with the provisions of the 
+Act.”. 
+Regulation 4 amended 
+4. Regulation 4(2)(a) of the principal Regulations is amended, by deleting the 
+words, “unless and to the extent that the Agency advises otherwise” and 
+substituting the words, “unless otherwise permitted pursuant to section 23 of the 
+Code”.  
+Regulation 6 amended 
+5. Regulation 6 of the principal Regulations is amended 
+(a) by inserting before the words, “exceptions to” in the heading the 
+words, “Simplified and”;  
+(b) in subregulation (1), by deleting the words, “is not required to” in 
+the closing paragraph, and substituting the words, “may apply 
+simplified measures to”;  
+(c) in subregulation (2) 
+(i)  in the opening paragraph, by deleting the words, “the person 
+handling the transaction on behalf of”;  
+(ii) in paragraph (a), by deleting the word “or” at the end of the 
+paragraph;  
+(iii) in paragraph (b), by deleting the full-stop at the end of the 
+paragraph and substituting the word “; or”; and  
+(iv) by inserting after paragraph (b), the following new paragraph 
+“(c) has made a determination of low risk that is not consistent 
+with the money laundering risks identified by the Virgin 
+Islands, including risk identified in any national risk 
+assessment, or a risk assessment conducted by a 
+competent authority, law enforcement agency or any 
+other authority with responsibility relating to money 
+laundering, in the Virgin Islands.”; 
+(d) in subregulation (2A), by deleting the words, “normal or”; and 
+(e) by revoking subregulation (3) and substituting the following 
+subregulations 
+“(3) A person carrying on relevant business is, in relation to 
+a one-off transaction, not required to obtain evidence of the identity 
+of an applicant for business where the amount to be paid by or to 
+the applicant for business 
+(a) is less than $15,000 or the equivalent amount in 
+another currency;  
+(b) is, in the case of gaming and betting, less than 
+$3,000 or the equivalent in any other currency; or 
+  
+ 
+7 
+ 
+(c) in the case of virtual assets service, the virtual assets 
+are valued at less than $1,000.  
+(4) Subregulation (3) does not apply where 
+(a) the person carrying on the relevant business has 
+reasonable grounds for believing (whether at the 
+beginning or subsequently), that the transaction is 
+linked to one or more other transactions, and the 
+total amount to be paid by or to the applicant for 
+business in respect of all the linked transactions is 
+(i) 
+in the case of gaming and betting $3,000 or 
+more;  
+(ii) in the case of virtual assets service, valued at 
+$1,000 or more;  
+(iii) in all other cases, $15,000 or more; or 
+(b) any person handling the transaction on behalf of the 
+person carrying on relevant business knows or 
+suspects that the transaction involves money 
+laundering.”. 
+Regulation 7 amended 
+6.  Regulation 7 of the principal Regulations is amended 
+(a) in subregulation (1)(c), by inserting after the words, “control 
+structure of the body corporate”, the words “, including beneficial 
+ownership”;  
+(b) by deleting subregulation (3) and substituting the following 
+subregulation 
+“(3) Where a relevant person wishes to rely on an 
+introduction by a third party, the relevant person shall have regard 
+to information that is available on the level of risk in the country or 
+territory where the third party is incorporated, registered or formed 
+and operating.”; and  
+(c) in subregulation (5) 
+(i)  in paragraph (a), by deleting the word “and” at the end of the 
+paragraph;  
+(ii) in paragraph (b), by deleting the full-stop at the end of the 
+paragraph and substituting the word, “; and”; and  
+(iii) by inserting after paragraph (b), the following new paragraph 
+“(c) has anti-money laundering policies and procedures to 
+adequately mitigate the risks posed by any higher risk 
+country or territory.”. 
+Regulation 9 amended 
+7. Regulation 9 of the principal Regulations is amended 
+  
+ 
+8 
+ 
+(a) by designating the current regulation as subregulation (1); and  
+(b) by inserting after subregulation (1) as redesignated, the following 
+new subregulation 
+“(2) Subregulation (1) is without prejudice to compliance by 
+a relevant person that is a legal person or legal arrangement with 
+the requirement to maintain records and underlying documentation 
+within the meanings of the BVI Business Companies Act, Revised 
+Edition 2020 and Mutual Legal Assistance (Tax Matters) Act, 
+Revised Edition 2020.” 
+Regulation 10 amended  
+8. Regulation 10 of the principal Regulations is amended 
+(a) in subregulation (1) (b), by deleting the words, “formally ended” 
+and substituting the word, “terminated”; and  
+(b) in subregulation (2), by deleting the words, “Anti-money 
+Laundering Reporting Officer” and substituting the words, 
+“Money Laundering Reporting Officer”.  
+Regulation 13 amended 
+9. Regulation 13 of the principal Regulations is amended 
+(a) by revoking subregulation (1B) and substituting the following 
+subregulation 
+“(1B) 
+A relevant person shall, within 14 days of 
+appointing a Money Laundering Reporting Officer (including 
+every new appointment of a Money Laundering Reporting Officer) 
+(a) in the case of a relevant person regulated by the 
+Commission, notify the Commission in writing of 
+that fact specifying the date of his or her 
+appointment; and 
+(b) in any other case, notify the Agency in writing of 
+that fact specifying the date of his or her 
+appointment.”;   
+(b) in subregulation (1C) 
+(i) 
+in paragraph (b) 
+(aa) by deleting the words, “who is resident in the Virgin 
+Islands and”; and  
+(bb) by deleting the word, “; or” at the end of the paragraph 
+and substituting a full-stop; and  
+(ii) by deleting paragraph (c);  
+(c) in subregulation (2), by deleting the words, “and terrorist 
+financing” wherever they appear; and  
+(d) in subregulations (3) and (4),  
+  
+ 
+9 
+ 
+(i)  by deleting the words, “the Proceeds of Criminal Conduct 
+Act” wherever they appear and substituting the words, “the 
+Act”; and  
+(ii) by deleting the words, “and terrorist financing” wherever they 
+appear. 
+Regulation 14 amended 
+10. Regulation 14 (1) of the principal Regulations is amended by deleting the 
+words, “the Proceeds of Criminal Conduct Act” and substituting the words, “the 
+Act”. 
+Regulation 16 amended 
+11. Regulation 16 of the principal Regulations is amended 
+(a) in subregulation (1) 
+(i)  in paragraph (a) 
+(aa) by deleting the words, “the Proceeds of Criminal 
+Conduct Act” and substituting the words, “the Act”; and  
+(bb) by deleting the words, “and terrorist financing”; and  
+(b) in subregulation (2)(ii), by deleting the words “and terrorist 
+financing”. 
+Regulation 17 amended 
+12. Regulation 17 of the principal Regulations is amended 
+(a) by deleting subregulation (2), and substituting the following 
+subregulation 
+“(2) A person who commits an offence under subregulation 
+(1) is liable on conviction to a fine not exceeding $150,000.”; and  
+(b) by revoking subregulation (7).  
+ 
+Made by Cabinet this 19th day of August, 2022. 
+ 
+ 
+(Sgd.) Sandra Ward, 
+ 
+Cabinet Secretary. 

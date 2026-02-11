@@ -1,0 +1,955 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+British Virgin Islands 
+Financial Services Commission 
+AML/CFT POLICY 
+ 
+ 
+ 
+ 
+Reference: AML-010 
+Publication Date:  19th March, 2020 
+Version: 1.0 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 2 of 26 
+ 
+ 
+ 
+ 
+ 
+Document title 
+ 
+AML/CFT POLICY 
+BVI Financial Services Commission  
+ 
+ 
+Approving body 
+Date of approval 
+ 
+Board of Commissioners  
+BVI Financial Services Commission  
+ 
+ 
+ 
+25th February, 2020 
+Related documents 
+Version 
+Reference 
+ 
+AML/CFT STRATEGY 2020-2022 
+ 
+ 
+ 
+1.0 
+ 
+AML-010 
+Effective date 
+ 
+25th February, 2020 
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 3 of 26 
+ 
+TABLE OF CONTENTS 
+ 
+Approval of the Board of Commissioners ………………………………………………...… 3 
+1. Introduction ……………………..………………………………………..…………..… 4 
+2. Background …………………………………………………………..………………..… 6 
+3. Money Laundering and Terrorist Financing ………………………..……………. 7 
+4. The Virgin Islands AML/CFT Framework ……………………….…..………………… 9  
+5. The Commission’s Role in the National Framework ……………..……….……. 16 
+6. Identified Threats and Vulnerabilities ………………………………...…………... 17 
+7. Identified ML, TF and PF Risks Levels ………………………………….…………….. 19 
+8. The Commission’s AML/CFT Objectives .………………..…………………………….. 21 
+9. Implementation, Monitoring and Evaluation ………………...………….……………..… 23 
+List of Acronyms …………………………………………………………………………... 24 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 4 of 26 
+ 
+ 
+Approval of the Board of Commissioners  
+ 
+The adoption of the BVI Financial Services Commission’s AML/CFT Policy was approved 
+by the BVI Financial Services Commission Board of Commissioners on 25th February, 2020. 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 5 of 26 
+ 
+1. Introduction  
+1.1 It is recognised globally that the fight against ML, TF and PF has to be a coordinated 
+global effort if positive results are to be achieved, as ML TF and PF permeate national 
+borders. The Virgin Islands recognises the global concern regarding ML, TF and PF, 
+and the ramifications of such activities on the integrity of the Territory’s financial 
+system, the stability of its economy, and the safety of its citizens.  
+1.2 As an International Finance Centre the Virgin Islands remains committed to the 
+global fight against ML/TF/PF by ensuring that, as a territory, it is in compliance with 
+the FATF’s International Standards on Combatting Money Laundering and the 
+Financing of Terrorism and Proliferation (the FATF Recommendations).  
+1.3 The BVI Financial Services Commission (the Commission), as an autonomous 
+regulatory authority responsible for the regulation, supervision, and inspection of all 
+financial services in and from within the Virgin Islands, is responsible for upholding 
+the integrity of the Virgin Islands as a well-regulated international finance centre and 
+safeguarding the economic interests of the Territory by: 
+• 
+protecting the interests of the general public and market participants; 
+• 
+ensuring industry compliance with the highest international regulatory standards 
+and best business practices; and 
+• 
+ensuring that the Virgin Islands plays its part in the fight against trans-national 
+crime while safeguarding the privacy and confidentiality of legitimate business 
+transactions. 
+1.4 The Commission, having been established through the Financial Services 
+Commission Act, 2001 authorises and supervises entities and persons who 
+conduct financial services business in compliance with relevant Virgin Islands 
+legislation.  
+1.5 The following regulated activities are considered financial services business:  
+a) Insurance – includes the provision of insurance productions and related services 
+covering insurance brokers, insurance agents, insurance loss adjusters and 
+insurance managers.  
+b) Banking - includes the provision of general banking services including loans, 
+savings accounts, and fixed deposits.   
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 6 of 26 
+ 
+c) Fiduciary Services - includes the provision of trustee services, company 
+management business, registered office and registered agent services, directorships 
+and other services. 
+d) Investment Business - includes services related to the dealing or arranging of deals 
+in investments, managing investments, providing investment advice, providing 
+custodial or administration services with respect to investments, operating an 
+investment exchange, or acting as an investment adviser or investment manager. 
+e) Financing and Money Services Business - includes the provision of credit under 
+financing agreements, leasing of property under a financing lease, provision of 
+money transmission services, cheque cashing services, currency exchange 
+services, the issuance, sale or redemption of money orders or traveller’s cheques, 
+as well as the provision of lending in the peer-to-peer (P2P) FinTech market, 
+including peer-to-business (P2B) and business-to-business (B2B) markets. 
+f) Insolvency Services - includes appointments as administrators, administrative 
+receivers, interim supervisors, supervisors, provisional liquidators, liquidators or 
+bankruptcy trustees. 
+1.6 The Commission’s licensing regime is geared towards protecting market 
+participants by preventing those individuals, who may be inclined on using the 
+Virgin Islands for illicit or criminal purposes, from establishing corporate 
+structures in the Territory and providing services to entities that may wish to 
+operate in or from within the jurisdiction, or using the Territory’s financial 
+system to funnel illicit gains or fund illicit operations.  
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 7 of 26 
+ 
+2. Background 
+2.1 The objective of this AML/CFT1 policy framework is to strengthen the 
+Commission’s supervisory, enforcement and domestic and international co-
+operation regimes, thereby assisting in preventing money laundering and any 
+activity that facilitates money laundering, the funding of terrorists or other 
+criminal activities in or from within the Virgin Islands. 
+ 
+2.2 The policy has been developed systematically and strategically by first seeking 
+to provide a thorough understanding of ML, TF and PF and how these matters 
+are addressed through the Virgin Islands’ legislative framework, and outlining 
+the role the Commission plays in ensuring compliance with the Territory's 
+AML/CFT systems through the enforcement of relevant AML/CFT legislation.     
+ 
+2.3 The policy takes an in depth look at the ML, TF and PF risks emanating from 
+the threats identified in relation to the Territory’s AML/CFT regime relative to the 
+Commission, and the vulnerabilities identified that represent weaknesses in the 
+Commission’s AML/CFT system which may support or facilitate the threat activities.  
+ 
+2.4 The potential consequences of the identified risks include, inter alia, poor risk 
+mitigation, inadequate and ineffective supervision and monitoring, and an 
+inability to co-operate, all of which could lead to reputational damage to the 
+Territory and a negative impact on the overall economy.  In recognising the 
+potential consequences of these risks, the Commission has developed an action 
+plan to address the recommendations emanating from the NRA. In so doing, the 
+Commission has taken a proactive approach to mitigating some of its risk.   
+ 
+2.5 These actions, along with the Commission’s understanding of the Territory’s 
+AML/CFT framework, the role it plays in ensuring compliance with the 
+Territory's AML/CFT regime, its recognition of the risks emanating from the 
+identified threats and vulnerabilities and potential consequences, as well as its 
+ongoing review of current developments in international standards has resulted 
+in the development of this policy framework.    
+ 
+ 
+ 
+ 
+                                                          
+1 For the purposes of this Policy references to AML/CFT also include PF 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 8 of 26 
+ 
+3. Money Laundering and Terrorist Financing 
+ 
+3.1 Money laundering is not a single act but is generally defined as “the processing of 
+criminal proceeds to disguise their illegal origin”.2 Essentially, it is engaging in acts 
+designed to conceal or disguise the true origins of criminally derived proceeds so that 
+the proceeds appear to have originated from legitimate sources or constitute 
+legitimate assets.  
+ 
+3.2 Generally, money laundering occurs in three stages:   
+ 
+1) Placement – funds generated from criminal activities enter the financial system 
+and are converted into monetary instruments or deposited into accounts at 
+financial institutions. The aim is to remove the funds from the location of 
+acquisition to avoid detection by the authorities and to transform it into other 
+assets e.g. purchase of high value goods, property or business assets. 
+ 
+2) Layering – the funds are transferred or moved into other accounts or other 
+financial institutions to further separate the money from its criminal origin. The 
+aim is to disassociate the illegal monies from the source of the crime by creating a 
+complex web of financial transactions designed to disguise the audit trail e.g. wire 
+transfers using funds disguised as proceeds of legitimate business, cash deposited 
+in overseas banking system and the resale of goods/assets. 
+ 
+3) Integration – the funds are reintroduced into the legitimate economic and 
+financial system and used to purchase legitimate assets or to fund other criminal 
+activities or legitimate businesses thereby making it appear that the money has 
+been legally earned e.g. false loan repayments or forged invoices, complex web of 
+transfers both domestic and international. 
+ 
+3.3 Terrorist financing may be described as the use of funds, or the making available of 
+funds, for the purposes of terrorism; or the acquisition, possession, concealment, 
+conversion or transfer of funds that are, directly or indirectly, intended to be used or 
+made available for the purposes of terrorism.  TF may not involve the proceeds of 
+criminal conduct, but rather an attempt to conceal either the origin of the funds or 
+their intended use, which could be for criminal purposes.  A key difference between 
+terrorist financiers and traditional criminal organizations is the legitimate sources of 
+                                                          
+2 FATF definition of ML found at www.fatf-gafic.org/faq/moneylaundering  
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 9 of 26 
+ 
+funds used by terrorist financiers. In addition to charitable donations, legitimate 
+sources include foreign government sponsors, business ownership and personal 
+employment. Although the motivation differs between traditional money launderers 
+and terrorist financiers, the actual methods used to fund terrorist operations can be 
+the same as or similar to methods used by other criminals to launder funds. Funding 
+for terrorist attacks does not always require large sums of money and the associated 
+transactions may not be complex. 
+ 
+3.4 Proliferation Financing “refers to the act of providing funds or financial services 
+which are used, in whole or in part, for the manufacture, acquisition, possession, 
+development, export, trans-shipment, brokering, transport, transfer, stockpiling or 
+use of nuclear, chemical or biological weapons and their means of delivery and related 
+materials (including both technologies and dual use goods used for non-legitimate 
+purposes), in contravention of national laws or, where applicable, international 
+obligations”.3 In essence, any act of providing funds or financial services to any person 
+(legal or otherwise) for purposes of financing the production or use of WMD 
+constitutes an act of proliferation; this includes any form of technology or goods that 
+have dual uses if used for purposes that are not legitimate. 
+ 
+ 
+ 
+                                                          
+3 See footnote 1 of FATF Best Practices Paper on “Sharing Among Domestic Competent Authorities Information 
+Related to the Financing of Proliferation”, February 2012. 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 10 of 26 
+ 
+4. The Virgin Islands AML/CFT Framework 
+4.1 To ensure that the Virgin Islands’ AML/CFT legislative regime adheres to all relevant 
+international standards, an extensive suite of laws and regulations have been 
+developed to give effect to those obligations as set out in the international standards. 
+ 
+4.2 The principal requirements and obligations that are currently in force and which are 
+applicable to persons living or operating from or within the Virgin Islands are 
+contained in the following legislation: 
+ 
+A. Drug Trafficking Offences Act, 1992  
+ 
+• Sections 5 and 10  empower the Court to issue confiscation orders to confiscate 
+proceeds through the Police where such proceeds are suspected of being used in 
+the commission of a drug trafficking offence or to benefit a defendant in the 
+commission of  a drug trafficking offence; 
+ 
+• Section 48  provides measures which permit Customs or the Police to seize or 
+detain any cash found in the Territory (whether imported or exported) not less 
+than ten thousand dollars, where there are reasonable grounds for suspecting 
+that it represents drug trafficking  proceeds (directly or indirectly) or for use in 
+drug trafficking or ML; 
+ 
+• Section 33 (1) makes provision for the confiscation of any property which 
+represents another person’s proceeds of drug trafficking which he acquires, 
+transfers or has possession of;       
+ 
+• Section 49 provides measures which enable the Magistrate to order the forfeiture 
+of any cash seized under section 34 where the Police or Customs suspect that it 
+represents cash intended for use in drug trafficking; and  
+ 
+• Section 50 provides for the forfeiture of any property that represents the 
+proceeds of drug trafficking or drug money laundering, whether or not the 
+defendant is convicted of the offence.  
+ 
+4.3 The Drug Trafficking Offences Act also gives effect to the provisions of the 
+Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, 
+1988.  It establishes the legal framework for the recovery of the proceeds of drug 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 11 of 26 
+ 
+trafficking and, towards that end, it creates a regime of international co-operation on 
+drug trafficking, including applications for confiscation, restraint and charging orders.  
+ 
+4.4 The Drug Trafficking Offences Act is complemented by the Drug Trafficking 
+(Designated Countries and Territories) Order, 1996. This Order deals with the details 
+of the assistance to be provided to appropriate authorities of designated countries and 
+territories in relation to drug trafficking and drug money laundering. Where no 
+appropriate authority is specified in relation to a country or territory, the Governor 
+is empowered to issue a certificate to the effect that the authority named therein is 
+the appropriate authority.  
+ 
+B. Criminal Justice (International Cooperation) Act, 1993 
+ 
+4.5 The objective of the Criminal Justice International Cooperation Act is to create a 
+flexible and comprehensive regime that enables the Virgin Islands to co-operate with 
+other countries in matters pertaining to criminal investigations and proceedings; in 
+addition, the Act regulates substances that are considered useful for the manufacture 
+of controlled drugs and also creates a regime of hot-pursuit in apprehending vessels 
+and persons concerned with drug offences. This latter regime, however, operates only 
+on a bilateral arrangement, as currently exists between the Virgin Islands and the 
+USA.  
+ 
+• Section 9 provides measures for international cooperation in the enforcement of 
+overseas forfeiture orders and applies to (among other things) any offence under 
+the DPMA, or drug trafficking offences as defined in section 2 of the DTOA; and 
+ 
+• Sections 12(6), 13(1) and (2), and 14(1) provide measures for international 
+cooperation in the enforcement of confiscation orders in relation to the proceeds 
+of drug trafficking. 
+ 
+4.6 The Act is complemented by the Criminal Justice (International Co-operation) 
+(Enforcement of Overseas Forfeiture Orders) Order, 1996. This Order outlines the 
+process for obtaining assistance in matters concerning the enforcement of 
+confiscation orders as well as applications for restraint and charging orders. Its scope 
+is also sufficiently broad to enable assistance to be rendered to any country or 
+territory. 
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 12 of 26 
+ 
+ 
+ 
+C. Proceeds of Criminal Conduct Act, 1997  
+ 
+4.7 The Proceeds of Criminal Conduct Act represents an all-crimes anti-money 
+laundering legislation. It provides for the recovery of the proceeds of crime; in 
+addition, it also establishes a regime for the registration and enforcement of external 
+confiscation orders.  
+ 
+• Sections 6 grants the Court power to make confiscation orders in relation to 
+criminal conduct and applies where an offender is convicted of an indictable 
+offence;  
+ 
+• Section 32 provides measures to facilitate external confiscation orders and 
+proceedings for external forfeiture orders which may be instituted in a 
+designated country; and  
+ 
+• Section 34 provides for forfeiture, after conviction, of any real property or any 
+ship, vessel, boat, aircraft, vehicle or means of conveyance where the conviction 
+relates to the offence of assisting another to retain the benefit of criminal 
+conduct, or acquisition, possession or use of proceeds of criminal conduct, or 
+concealing or transferring proceeds of criminal conduct. It further gives the 
+Court power to order the defendant to pay any sum under the Act or serve a 
+term of imprisonment in respect of the offence. 
+ 
+4.8 The Proceeds of Criminal Conduct Act is complemented by the Proceeds of Criminal 
+Conduct (Designated Countries and Territories) Order, 1999.  This Order provides the 
+process for enforcing a request to confiscate assets or applying for a restraint or 
+charging order.  
+ 
+D. Terrorism (United Nations Measures) (Overseas Territories) Order, 2001 
+ 
+4.9 The Terrorism (United Nations Measures) (Overseas Territories) Order prohibits the 
+raising of funds for purposes of terrorism; it places restrictions on making funds 
+available and providing financial services to terrorists. It creates a regime that allows 
+for the disclosure of information, on the authority of the Governor, to the United 
+Nations and any government of a country for the purpose of detecting evasion of 
+measures relative to terrorism. 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 13 of 26 
+ 
+E. Anti-terrorism (Financial and Other Measures) (Overseas Territories) Order, 2002  
+ 
+4.10 The Anti-terrorism (Financial and Other Measures)(Overseas Territories) Order 
+restricts transactions in terrorist property and creates extra-territorial jurisdiction in 
+respect of offences relative to terrorism – that is to say, engagement in fundraising or 
+money laundering, using or possessing property or arranging fundraising activities, 
+for terrorist purposes.  It also enables the registration and enforcement of foreign 
+confiscation orders by an order of the Governor. 
+ 
+4.11 The Order provides measures for the enforcement of forfeiture orders in relation to:  
+ 
+• money or other property which is likely to be used for the purposes of terrorism;  
+• proceeds of the commission of acts of terrorism; and  
+• proceeds of acts carried out for the purposes of terrorism.   
+ 
+F. Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) Order, 2011  
+ 
+4.12 The Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) Order extends Part 
+1 (including Part 1 of Schedule 2) of the United Kingdom’s Terrorist Asset-Freezing 
+etc. Act 2010 to the Territory and replaces the existing power that the Territory has 
+to freeze the assets of those suspected of being involved in terrorism under the 
+Terrorism (United Nations Measures) (Overseas Territories) Order. 
+ 
+G. Afghanistan (United Nations Measures)(Overseas Territories) Order, 2012  
+ 
+4.13 The Afghanistan (United Nations Measures)(Overseas Territories) Order replaces the 
+Al-Qaida and Taliban (United Nations Measures) (Overseas Territories) Order, 2002  
+and gives effect to UNSCR 1988 which maintains in force the sanctions first imposed 
+by resolution 1267 (1999) against the Taliban.  This instrument enables the relevant 
+authorities to take the necessary action to freeze assets in respect of the Taliban and 
+persons associated with them, and to prohibit funds being made available to such 
+persons. It also prohibits the supply of military goods and technical assistance related 
+to military activities to designated persons. 
+ 
+H. ISIL (Da’esh) and Al-Qaida (Sanctions) (Overseas Territories) Order, 2016 
+ 
+4.14 The ISIL (Da’esh) and Al-Qaida (Sanctions) (Overseas Territories) Order replaces the 
+Al-Qaida (United Nations Measures) (Overseas Territories) Order, 2012  and provides 
+for the implementation of targeted financial sanctions pursuant to UNSCR 2253 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 14 of 26 
+ 
+which maintains in force the sanctions first imposed by resolution 1267 (1999) but 
+expressly extends the sanctions regime to ISIL (Da’esh).  This instrument, together 
+with the Proceeds of Criminal Conduct Act and the Terrorism (United Nations 
+Measures) (Overseas Territories) Order provides for, and enables the relevant 
+authorities to take the necessary action to freeze funds of designated persons and 
+entities in respect of targeted individuals, groups, undertakings and entities associated 
+with ISIL (Da’esh) and Al-Qaida, and to prohibit funds being made available to such 
+persons. It also prohibits the supply of military goods and technical assistance related 
+to military activities to designated persons. 
+ 
+I. Anti-money Laundering Regulations, 2008  
+ 
+4.15 The Anti-money Laundering Regulations foster the regulation/supervision of 
+regulated and non-regulated entities by requiring the adoption of specified measures 
+to guard against the activities of money laundering and terrorist financing and ensure 
+the availability of information when requested.  
+ 
+J. Anti-money Laundering and Terrorist Financing Code of Practice, 2008   
+ 
+4.16 The Anti-money Laundering and Terrorist Financing Code of Practice supplements 
+the Anti-money Laundering Regulations and establishes a framework for compliance 
+with AML/CFT matters including the verification and maintenance of relevant 
+ownership information and other pertinent records, as well as exchange of 
+information with relevant authorities. 
+ 
+K. Proliferation Financing (Prohibition) Act, 2009  
+ 
+4.17 The Proliferation Financing (Prohibition) Act confers power on the FIA to take action 
+against persons and activities that may be related to terrorist financing, money 
+laundering or the development of weapons of mass destruction (proliferation 
+financing).  Such action comes primarily in the form of directions that may be issued 
+by the FIA in relation to any and all persons or class of persons operating within the 
+financial sector from a country where there is reasonable belief on the part of the FIA 
+that activities carried out in the country, or by the government or any other person 
+resident or incorporated in the country, pose a significant risk of terrorist financing, 
+money laundering or the development or financing of weapons of mass destruction, 
+and as such pose a risk to the interests of the Virgin Islands or the United Kingdom.  
+Information gathered by the FIA in the exercise of its duties in carrying out the 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 15 of 26 
+ 
+provisions of this Act may be the subject of information exchange providing such 
+requests for information are made in accordance with relevant legislative provisions. 
+ 
+L. Chemical Weapons (Overseas Territories) Order, 2005  
+ 
+4.18 The Chemical Weapons (Overseas Territories) Order prohibits the use, development 
+or production, possession or transfer of a chemical weapon or any military preparation 
+relating to the intended use of a chemical weapon. Requests in relation to these 
+matters are transmitted through the Governor as the relevant central authority. 
+ 
+M. Chemical Weapons (Sanctions) (Overseas Territories) Order, 2018 
+ 
+4.19 This Order gives effect to the sanctions regime created by the EU in Council Decision 
+(CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of 
+chemical weapons, and in Council Regulation (EU) 2018/1542 concerning restrictive 
+measures against the proliferation and use of chemical weapons.  
+ 
+4.20 The sanctions imposed include an asset-freeze on persons designated by the Council 
+of the European Union as persons who are responsible for, involved in or promote the 
+proliferation and use of chemical weapons, as well as persons associated with such 
+persons. The Order makes provision for the Governor to license certain activities in 
+line with exemptions and derogations under the sanctions regime. 
+Committees and Other Co-ordinating Bodies 
+4.21 The Territory’s AML/CFT framework also includes several co-ordinating bodies 
+whose mandates vary, but which all play an important role in the Territory’s 
+AML/CFT architecture.   
+ 
+4.22 The structure of these bodies is outlined below. 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 16 of 26 
+ 
+ 
+ 
+4.23 NAMLCC serves as the Territory’s national coordinating body on AML/CFT issues in 
+accordance with Recommendation 2 of the FATF recommendations, in addition to 
+providing policy guidance on all AML/CFT issues relating to or affecting the 
+Territory.  It is responsible for driving the national AML/CFT architecture by 
+developing and coordinating strategies to ensure that the Virgin Islands responds to 
+money laundering and terrorist financing threats and other issues in an effective 
+manner and ensuring compliance with all relevant standards.  
+ 
+4.24 CCA’s role is to facilitate coordination between the Territory’s CAs relative to the 
+execution of domestic and international cooperation matters and other relevant 
+AML/CFT issues relating to or affecting the Territory.   
+ 
+4.25 The CLEA was established to ensure greater coordination and collaboration in the 
+fight against ML, TF and other organised crime through intelligence sharing, the joint 
+pursuit and apprehension of criminals, and the disruption of criminal activity.   
+ 
+4.26 JALTFAC is a statutory body established under the PCCA and has responsibility for 
+advising the Commission on “initiatives for the prevention and detection of money 
+laundering and terrorist financing”.4  The Commission is required to encourage 
+dialogue with the private sector with a view to establishing a broad-based 
+understanding and awareness of issues concerning ML, TF and PF as well as 
+promoting the exchange of information on ML/TF/PF matters.5    
+ 
+                                                          
+4 See section 27A (1) of the PCCA. 
+5 Section 51 of the AMLTFCOP 
+National AML/CFT 
+Coordinating Council 
+(NAML/CFTCC)
+JALTFAC
+Inter-Governmental 
+Committee (IGC)
+Council of Competent 
+Authorities (CCA)
+Committee for Law 
+Enforcement Authorities 
+(CLEA)
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 17 of 26 
+ 
+4.27 The IGC is established pursuant to the powers granted to the FSC and FIA under the 
+AMLTFCOP6 and serves as a mechanism for “creating, enhancing and promoting 
+public awareness of issues relating to money laundering and terrorist financing” and 
+fostering cooperation between key public bodies involved in the fight against, or that 
+have some nexus to, ML/TF activities, through a system of dialogue and the sharing 
+of information amongst its members.  This system of dialogue includes the promotion 
+of cooperation and information exchange between agencies in order to detect and 
+prevent ML/TF; the rendering of necessary assistance to each other in respect of each 
+other’s law enforcement or regulatory functions; and the promotion of cooperation 
+with foreign regulatory, administrative and law enforcement officials in relation to 
+any ML or TF matter.7 
+ 
+5. The Commission’s Role in the National Framework 
+ 
+5.1 The Commission is responsible for ensuring compliance with the Territory's 
+AML/CFT systems and controls through supervision and inspection of regulated 
+financial institutions in accordance with the Anti-Money Laundering Regulations, 
+2008 and the Anti-Money Laundering and Terrorist Financing Code of Practice, 2008.  
+This responsibility includes the monitoring of licensees for compliance with 
+identification and verification procedures for new and continuing business 
+relationships, record keeping requirements, third party relationships and the reliance 
+thereon including testing of such relationships, reporting of suspicious activities, 
+internal control system requirements, identification and handling of PEPs and other 
+high risk individuals.  The Commission also has a responsibility to provide guidance 
+and perform outreach to its licensees to aid them in understanding their obligations 
+and ensuring the highest level of compliance with AML/CFT requirements.  
+ 
+5.2 In addition, the Commission’s international co-operation obligations also requires it 
+to engage in a wide array of exchange of information and cross-border international 
+cooperation.  This is achieved primarily through its association with various regional 
+and international standards setting bodies such as IOSCO, IAIS, GIFCS, ASBA and 
+CGBS.  The Commission is also a signatory to various MoUs and MMoUs 
+established between the Commission and other local and international partners 
+for the exchange of information and provision of assistance on AML/CFT and 
+other regulatory related issues. 
+                                                          
+6 See section 50 (1) of the AMLTFCOP. 
+7 Section 50 (2) of the AMLTFCOP 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 18 of 26 
+ 
+ 
+5.3 The Commission also serves as liaison to Government on AML/CFT matters and 
+is a member of JALTFAC, IGC, CCA and NAMLCC.   
+ 
+6. Identified AML/CFT/PF Threats and Vulnerabilities 
+6.1 A threat is something harmful which, while it may not definitely happen, could 
+happen if relevant action is not taken.  ML/TF/PF threats can come directly from 
+people (natural and legal), terrorists and their facilitators and criminals generally. Or 
+they can be indirect where systems require improvement to detect, mitigate, combat 
+and curtail harmful activity.   
+6.2 The NRA Report has identified primary threats as having a high impact on the 
+stability of the AML/CFT regime and the reputation of the Territory if they were to 
+occur.  Secondary threats have been identified as having a lower probability of 
+occurring but could impact the reputation of the Territory and the stability of the 
+AML/CFT regime if they were to occur.  
+Threats 
+6.3 Based on analysis of the information collected during the NRA exercise the primary 
+threats to the functioning of the Commission are: 
+a) Inadequate and inappropriate supervisory and enforcement frameworks for FIs (and 
+DNFBPs) which leads to abuse of these systems by criminals; 
+b) Negligent and complicit TCSPs whose actions may result in the facilitation of 
+ML/TF; 
+c) Misuse of financial services products such as legal persons, legal arrangements and 
+money services by criminals to facilitate fraud, corruption and other financial 
+crimes and to launder money and finance terrorism; 
+d) Failures by financial institutions (and DNFBPs) in the maintenance of BO 
+information, record keeping and reliance on third parties that could allow for 
+ML/TF to go undetected; and 
+e) Criminals’ ability: 
+i. 
+to launder money and finance terrorism where international cooperation is 
+not effective; 
+ii. 
+to retain the proceeds of crime through breaches of sanctions; 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 19 of 26 
+ 
+iii. 
+to exploit the vulnerabilities in the MSB sector, being a highly cash intensive 
+business with cross-border reach, for the purpose of laundering money or 
+financing terrorism. 
+Vulnerabilities 
+6.4 The concept of vulnerabilities is closely linked to that of a threat, and comprises 
+those things that can be exploited by the threat, or that may support or facilitate 
+the threat activities. The vulnerabilities are effectively those factors that 
+represent weaknesses in the Commission’s AML/CFT system. 
+ 
+6.5 The vulnerabilities identified in the NRA in relation to the Commission are: 
+ 
+a) inadequate technological resources available to carry out activities 
+associated with record keeping and generation of statistics; 
+b) no follow up mechanism in place to assist with gathering feedback from 
+requesting CAs that will help determine the usefulness of information 
+provided to them and enable appropriate reforms to be carried out where 
+necessary; 
+c) excessive time to respond to requests for information from foreign CAs 
+could mean that ML/TF involving a BVI business company may go 
+undetected, or prosecutions/investigations being carried out by foreign 
+authorities may be hindered; 
+d) inadequate resources dedicated to compliance inspection and the 
+enforcement of FSC legislation; 
+e) failure of adequate supervision, including absence of appropriate and 
+adequate supervisory framework; 
+f) lack of trained investigative staff in the Enforcement Unit; and 
+g) lack of understanding of the risk posed by licensees through a determination 
+of their level of non-compliance due to limited inspections. 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 20 of 26 
+ 
+7. Identified ML, TF and PF Risks Levels 
+ 
+7.1 The risks identified are a function of the threats to the Territory’s AML/CFT 
+regime, and the vulnerabilities of the Commission listed above that were 
+identified during the conduct of the NRA.  
+ 
+7.2 The primary risks to the Commission itself have been identified as the inability 
+to effectively supervise its licensees and take appropriate enforcement action 
+where necessary, along with difficulties in fulfilling its domestic and 
+international co-operation obligations.  These risks if left unaddressed would 
+have a knock on effect on the Territory’s financial services sector. 
+ 
+7.3 Based on the findings of the NRA the ML risk of the main financial services 
+sectors was identified as follows: 
+Sector 
+Risk Rating 
+Banking 
+Low 
+Insolvency 
+Low 
+Insurance 
+Medium 
+Investment Business 
+Medium 
+Trust and Corporate Services 
+Medium 
+Money Services 
+High 
+Designated Non-financial Businesses and Professions 
+Medium 
+ 
+ 
+7.4 The Commission recognises the Territory’s standing in the global community as an 
+IFC and a leader in company formation business, and the high risks inherent in such 
+business.  As such, the Commission understands the need to ensure compliance with 
+international standards relative to the regulation and supervision of legal persons8 
+such as BVIBCs and partnerships, and legal arrangements9 including express trusts, 
+                                                          
+1. 
+8 Legal persons are defined by the FATF as “any entities other than natural persons that can establish a 
+permanent customer relationship with a financial institution or otherwise own property”. 
+2. 
+9 Legal arrangements are defined by the FATF as “express trusts or other similar legal arrangements”. 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 21 of 26 
+ 
+particularly with respect to the maintenance and timely production of BO 
+information and the misuse of legal arrangements for ML/TF and PF.  This policy has, 
+therefore, also taken these specific risks into account in an effort to minimise their 
+impact. 
+ 
+7.5 The Commission also recognises that while the risk of TF in the Territory has been 
+assessed as being relatively remote and low, the size and nature of the financial 
+services industry in the Territory does provide some risk of it being used to finance 
+terrorists or terrorist activities.  The policy has, therefore taken this into account.  
+ 
+7.6 As with TF, the risk of PF is considered to be low and relatively remote. However, 
+due to the nature of the financial services industry in the Territory, it is recognised 
+that some risk, although remote, may exist in relation to the misuse of corporate 
+entities in the financing of proliferation of WMDs.  
+ 
+7.7 The consequences of unchecked ML/TF/PF activity may be short or long term and 
+may have limited or general effect on the Territory’s reputation, national or 
+international interests, business environment, attractiveness of its financial services 
+industry, its ability to co-operate domestically and internationally, and on trade 
+relations (including correspondent banking relationships).   
+ 
+7.8 As the Territory’s gatekeeper to financial services, the Commission understands that 
+if the identified risks to the Commission are left unchecked, they would have a 
+deleterious effect on the work and effectiveness of the Commission, the consequence 
+of which would be a weakening of the Territory’s ability to comply with its AML/CTF 
+obligations.   
+ 
+7.9 To minimise the potential of any such negative impact, the Commission developed an 
+action plan to chart the way forward in addressing these threats and vulnerabilities 
+based on the recommendations put forward in the NRA Report relative to its work 
+and for the various FI sectors.  Progress made has allowed for a more positive impact 
+on the Commission’s level of effectiveness and ability to mitigate its existing risks.  
+These actions have, therefore, also been taken into account in the development of this 
+policy. 
+ 
+7.10 Since the conclusion of the NRA there have been various developments in 
+international AML/CFT standards, particularly in the form of revisions to the FATF’s 
+Recommendations and Methodology.  Additionally there has been increased focus on 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 22 of 26 
+ 
+matters of taxation, corruption, transparency of legal entities and arrangements with 
+respect to beneficial ownership, and sanctions busting to name a few.  These issues, 
+in so far as they affect the work of the Commission and the proper conduct of its 
+licensees, have also been taken into account in the development of this policy.       
+ 
+8. The Commission’s AML/CFT Objectives 
+ 
+8.1 The Commission’s AML/CFT policy provides a framework for its  AML/CFT strategy, 
+which is designed to meet the Commission’s objectives of mitigating its risks and 
+complying with all applicable international standards and national requirements 
+under the Proceeds of Criminal Conduct Act, 1997 and other ancillary legislation that 
+form part of the Territory’s AML/CFT framework.  This Policy is geared towards 
+preventing money laundering and any activity that facilitates money laundering or 
+the funding of terrorist or criminal activities, and promoting domestic and 
+international co-operation. 
+ 
+8.2 To achieve its objectives and demonstrate the effectiveness of its AML/CFT 
+supervision the Commission will focus on the follow key areas: 
+ 
+1) Supervision 
+2) Enforcement 
+3) Promotion of Cooperation 
+4) Stakeholder Awareness and Outreach 
+ 
+8.3 Supervision will be achieved by: 
+• 
+enhancing the current risk-based approach to the assessment and management of 
+the Territory’s money laundering and terrorist financing risks within the 
+Financial Services Sector; 
+• 
+enhancing  risk-based systems and procedures used for the monitoring of on-going 
+licensee activity  to prevent criminals and their associates from abusing the 
+financial services sector; 
+• 
+conducting regular risk assessments of licensees to determine appropriate intervals 
+for supervisory contact; 
+• 
+periodically reviewing and updating AML legislation and guidelines to ensure 
+compliance with international requirements; 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 23 of 26 
+ 
+• 
+strengthening capacity to achieve a greater degree of effectiveness in the 
+regulation and supervision of licensees by developing employees’ analytical, 
+investigative and supervisory skills; and 
+• 
+reviewing and addressing all outstanding deficiencies identified in the Territory’s 
+National Risk Assessment relative to the Commission’s regulatory functions and 
+responsibilities and any other actions identified as a consequence thereof. 
+ 
+8.4 Enforcement will be achieved by: 
+• 
+taking effective and appropriate enforcement actions on all AML/CFT breaches to 
+ensure compliance with regulatory standards; and 
+• 
+ensuring necessary steps are taken by licensees to prevent breaches of compliance 
+with United Nations and other relevant sanctions regimes, and by identifying and 
+penalising regulated entities found to be transacting with individuals, companies 
+and countries that are on prescribed sanctions lists. 
+• 
+strengthening capacity to achieve a greater degree of effectiveness in the 
+identification and enforcement of Ml/TF/PF breaches. 
+ 
+8.5 Promotion of Cooperation will be achieved by: 
+• 
+promoting domestic and international co-operation through enhanced 
+relationships with relevant domestic, regional and international authorities; and 
+• 
+ensuring proper and timely cooperation on intelligence matters with local and 
+foreign competent authorities, including establishing appropriate procedures for 
+sharing intelligence where available and ensuring quality of information 
+provided.  
+ 
+8.6 Stakeholder Awareness and Outreach will be achieved by: 
+• 
+facilitating ongoing dialogue with industry stakeholders, professional associations 
+and the general public to raise awareness of ML/TF/PF. 
+ 
+ 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 24 of 26 
+ 
+9. Implementation, Monitoring and Evaluation  
+Implementation  
+9.1 The Board of Commissioners is responsible for the approval of the Commission’s 
+AML/CFT Policy and the AML strategy emanating from the development of this 
+policy.  The Commission’s senior management is responsible for implementation.   
+ 
+Monitoring and Evaluation  
+ 
+9.2 Monitoring is the act of observing processes and activities to ensure they are executed 
+properly and fairly.  In the context of this Policy, the Commission, through its 
+dedicated Units and Divisions, will monitor its processes and activities to ensure that 
+they align with, support and promote the relevant key initiatives.  Progress on such 
+activities will be reported to Management by the Deputy Director AML/CFT and the 
+assigned Director as Head of the Anti-money Laundering Unit.  
+ 
+9.3 As it relates to evaluation, this Policy has been designed to ensure compliance with 
+all applicable international standards and domestic AML/CFT legislation and will be 
+reviewed and updated on a periodic basis to account for changes that may arise in 
+either domestic or international requirements.  The Head of the Anti-money 
+Laundering Unit will be responsible for reviewing the Policy and recommending any 
+modifications that may be deemed necessary to ensure ongoing compliance with all 
+relevant standards.  
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 25 of 26 
+ 
+List of Acronyms 
+ 
+AML  
+- 
+Anti-money Laundering 
+ASBA  
+- 
+Association of Supervisors of Banks of the Americas 
+BO 
+ 
+- 
+Beneficial Ownership 
+BVI 
+ 
+- 
+British Virgin Islands  
+CA 
+ 
+- 
+Competent Authority 
+CCA  
+- 
+Council of Competent Authorities 
+CDD  
+- 
+Customer Due Diligence 
+CFATF 
+- 
+Caribbean Financial Action Task Force 
+CFT 
+ 
+- 
+Countering the Financing of Terrorism 
+CGBS   
+- 
+Caribbean Group of Banking Supervisors 
+CLEA  
+- 
+Committee of Law Enforcement Agencies 
+DNFBP 
+- 
+Designated Non-financial Businesses and Professions 
+DTOA  
+- 
+Drug Trafficking Offences Act, 1992 
+EU 
+ 
+- 
+European Union 
+FI 
+ 
+- 
+Financial Institutions 
+FIA 
+ 
+- 
+Financial Investigation Agency 
+GIFCS  
+- 
+Group of International Finance Centre Supervisors 
+IAIS   
+- 
+International Association of Insurance Supervisors 
+IFC 
+ 
+- 
+International Finance Centre 
+IGC   
+- 
+Inter-governmental Committee on AML/CFT Matters  
+IOSCO 
+- 
+International Organisation of Securities Commissions  
+JALTFAC  
+- 
+Joint Anti-money Laundering and Terrorist Financing Advisory 
+Committee 
+ML 
+ 
+- 
+Money Laundering 
+MLRO  
+- 
+Money Laundering Reporting Officer 
+MMoU 
+- 
+Multi-lateral Memorandum of Understanding 
+BVI Financial Services Commission AML/CFT Policy    |   Version:  1.0    |  Page 26 of 26 
+ 
+List of Acronyms 
+ 
+MoU  
+- 
+Memorandum of Understanding 
+MSB  
+- 
+Money Services Business 
+NAMLCC 
+- 
+National AML/CFT Co-ordinating Council 
+NRA  
+- 
+National Risk Assessment 
+PEP 
+ 
+- 
+Politically Exposed Person 
+PF 
+ 
+- 
+Proliferation Financing 
+RA 
+ 
+- 
+Registered Agent 
+RBA  
+- 
+Risk Based Approach 
+TCSP  
+- 
+Trust and Corporate Services Provider 
+TF 
+ 
+- 
+Terrorist Financing 
+UNSCR 
+- 
+United Nations Security Council Resolution 
+WMD  
+- 
+Weapons of Mass Destruction 
+ 

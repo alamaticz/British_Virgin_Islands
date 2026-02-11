@@ -1,0 +1,29 @@
+{
+  "slug": "amlcft-policies",
+  "title": "FSC AML/CFT Policies | British Virgin Islands Financial Services Commission",
+  "url": "https://www.bvifsc.vg/fsc-amlcft-policies",
+  "content_html": "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden clearfix\">\n<div class=\"field-items\">\n<div class=\"field-item even first last\" property=\"content:encoded\">\n<ul>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/fsc_aml-cft-cpf_policy_2025_final.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">FSC AML/CFT/CPF Policy 2025</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/national_aml-cft-cpf_policy_2024_final.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">National AML/CFT/CPF Policy 2024</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/GUIDANCE/FSC_AML-CFT_Policy/fsc_aml-cft_policy_0.pdf\" target=\"_blank\">FSC AML/CFT Policy</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/GUIDANCE/FSC_AML-CFT_Policy/vi_aml-cft_policy.pdf\" target=\"_blank\">National AML CFT Policy</a></li>\n</ul>\n<p>\u00a0</p>\n</div>\n</div>\n</div>",
+  "content_text": "FSC AML/CFT/CPF Policy 2025\nNational AML/CFT/CPF Policy 2024\nFSC AML/CFT Policy\nNational AML CFT Policy",
+  "attachments": [
+    {
+      "name": "FSC AML/CFT/CPF Policy 2025",
+      "filename": "fsc_aml-cft-cpf_policy_2025_final.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/fsc_aml-cft-cpf_policy_2025_final.pdf"
+    },
+    {
+      "name": "National AML/CFT/CPF Policy 2024",
+      "filename": "national_aml-cft-cpf_policy_2024_final.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/national_aml-cft-cpf_policy_2024_final.pdf"
+    },
+    {
+      "name": "FSC AML/CFT Policy",
+      "filename": "fsc_aml-cft_policy_0.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/GUIDANCE/FSC_AML-CFT_Policy/fsc_aml-cft_policy_0.pdf"
+    },
+    {
+      "name": "National AML CFT Policy",
+      "filename": "vi_aml-cft_policy.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/GUIDANCE/FSC_AML-CFT_Policy/vi_aml-cft_policy.pdf"
+    }
+  ]
+}

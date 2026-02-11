@@ -1,0 +1,403 @@
+ENACTMENT AND APPLICATION OF NEW REQUIREMENTS
+Q&A
+BENEFICIAL OWNERSHIP 
+IMPLEMENTATION
+Who do the Regulations apply to? 
+As per section 11(1) of the Regulations, provisions of same as stated in subsection (a) “apply, subject to 
+paragraph (c), to every beneficial owner, legal entity and other persons referred to in the Regulations, 
+save as may otherwise be exempted or excluded in any particular case;” and, as stated in subsection
+(b) “apply, subject to paragraph (c) and any exemption or exclusion referred to in paragraph (a), to every 
+limited partnership notwithstanding the limitation provided in section 5 of the Limited Partnership Act, 
+Revised Edition 2020”. Exemptions to the application of the Regulation are stated in section 11(1) (c).
+See Regulation 11.
+Are nil filings permitted? 
+No. Nil filings are not permitted on the Beneficial Ownership Register.
+Are licensees required to verify the identity of each beneficial owner? 
+Yes. All licensees are required to identify and verify each applicant for business and customer, including 
+the underlying beneficial owner(s). This requirement is set out in section 19 of the Anti-Money Laundering 
+Terrorist Financing Code of Practice (the “AMLTFCOP”) and Regulation 16.
+What date will the BVI Business Companies and Limited Partnerships 
+(Beneficial Ownership) Regulations, 2024 (the “Regulations”) come into force?
+The Regulations come into force on 2 January 2025 by Notice published in the Gazette No. 138, dated 4 
+December 2024. 
+Beneficial Ownership Implementation Q&A  	
+	
+	
+	
+	
+	
+                                                              Page 1 
+Version 1.0 | Published 22 January 2025
+Are registered agents required to verify the beneficial ownership details that 
+are being filed?
+Yes. Regulation 18 sets out the duty to investigate beneficial ownership information to confirm that 
+particulars provided are up-to-date and correct, which also buttresses the provisions of Part III within the 
+Anti-Money Laundering Terrorist Financing Code of Practice (the “AMLTFCOP”) as it relates to the
+verification of due diligence information. 
+How long does one have before they must file information for existing 
+BVI Business Companies (BVIBCs) and Limited Partnerships (LPs) after the 
+enactment of the Regulations?
+It is important to note that relevant persons have 30 days on or after (from?) the coming into force of these 
+Regulations to obtain and file with the Registrar, the particulars of BO information with respect to the 
+beneficial owners of the legal entity. Details can be found in Regulation 17 (1).
+Is there a transitional period for the filing of beneficial ownership information 
+of existing BVIBCs and LPs? 
+There is no transitional period for the filing of beneficial ownership information. The Regulations provide 
+a continuance of the requirement to file beneficial ownership information that was captured under the 
+Beneficial Ownership Secure Search System (BOSSs).
+All relevant persons are required to file beneficial ownership information for BVIBCs and LPs without delay 
+such that they have fully filed all information no later than Monday, 30 June 2025.
+FILING REQUIREMENTS
+Can beneficial owners make filings directly to the Registrar of Companies? 
+No. Filings must be made through the Registered Agent of the BVIBC or LP. See
+Regulation 14. 
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 2 
+What information should be obtained to make a complete filing of beneficial 
+ownership information for an individual?
+Filing obligations for individuals can be found at Part III of the Regulations. Regulation 21 sets out specific 
+provisions for the particulars to be filed to satisfy the requirement to file beneficial ownership information.
+The particulars of BO information required in relation to a beneficial owner are
+(a) in the case of an individual
+	
+(i) full legal name as it appears in a passport or other government-issued identity document;
+	
+(ii) former name, other current name, or aliases used;
+	
+(iii) month and year of birth;
+	
+(iv) date and place of birth;
+	
+(v) gender;
+	
+(vi) occupation;
+	
+(vii) nationality;
+	
+(viii) principal residential address;
+	
+(ix) country in which the individual is usually resident; and
+	
+(x) the nature of his or her interest in, or control over, the legal entity
+It is important to review the Regulations in full for additional provisions to ensure accurate and complete 
+filings are made.
+What information should I obtain to make a complete filing of beneficial 
+ownership information for a legal arrangement?
+Filing obligations for legal arrangements (e.g., a BVIBC or LP) can be found in Part III of the Regulations. 
+Regulation 21 (1) (b) sets out specific provisions for the particulars to be filed to satisfy the requirement to 
+file beneficial ownership information. 
+	
+with respect to a legal entity (connected to the beneficial owner), other than a foreign legal entity 	
+	
+	
+that is incorporated, registered or formed in a jurisdiction outside the Virgin Islands in which it 	
+	
+	
+provides BO information equivalent to that required under these Regulations or that is otherwise 	
+	
+	
+on a publicly accessible register
+	
+	
+(i) name, including alternative names;
+	
+	
+(ii) incorporation number or its equivalent;
+INDIVIDUAL FILINGS
+LEGAL ARRANGEMENT FILINGS
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 3 
+	
+	
+(iii) date of incorporation;
+	
+	
+(iv) address of principal office or registered office;
+	
+	
+(v) country of incorporation or registration;
+	
+	
+(vi) the legal form of the legal entity and the law by which it is governed;
+	
+	
+(vii) the type of register
+	
+	
+	
+(A) under section 230(1)(a) or (b) of the Act in which it is
+	
+	
+	
+registered and its company number (and, in respect of a
+	
+	
+	
+foreign company, details of the country of incorporation
+	
+	
+	
+or registration), where the legal entity is a company; or
+	
+	
+	
+(B) under section 108(1)(a) of the Limited Partnership Act,
+	
+	
+	
+Revised Edition 2020, in which it is registered and its
+	
+	
+	
+unique number, where the legal entity is a limited
+	
+	
+	
+partnership; and
+	
+	
+(viii) the nature of its interest in, or control over, the legal entity concerned
+It is important to review the Regulations in full for additional provisions to ensure
+accurate and complete filings.
+What information should I obtain to make a complete filing of beneficial 
+ownership information for a legal structure (such as a trust)?
+Where a trust is part of the ownership structure of an applicant for business or
+customer, the beneficial owners of the trust must be identified.
+1. The following persons are the BOs of a trust:
+	
+a. the trustee;
+	
+b. the settlor;
+	
+c. the protector (if any);
+	
+d. person, characteristic or class of persons with a vested interest in the trust (i.e. beneficiary); and
+	
+e. any other natural person exercising ultimate effective control over the trust (including through a 	
+	
+chain of control or ownership).
+TRUST FILINGS
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 4 
+Are nominee shareholders required to file BO information?
+Yes. Nominee Shareholders are required to file BO information for the natural person on whose behalf 
+they are acting as nominee.
+Do the Regulations make provisions for nominee shareholder arrangements?
+Yes. Regulation 4 sets out how nominee shareholder arrangements should be handled.
+Importantly, where a share that is held by a person as nominee for another person in relation to a legal 
+entity is to be construed, for the purposes of these
+NOMINEE SHAREHOLDER FILINGS
+What information should be filed where there is a nominee shareholding 
+arrangement? 
+The particulars set out in Regulation 21 for the filing of beneficial ownership information set out the 
+information required to be filed for the true beneficial owner.
+How can you determine the BO of a Non-Profit Organisation?
+If the entity is a company formed under the BVIBC Act, it will be subject to the BO Guidelines. If it is not, 
+it will be subjected to the FIA Guidelines.
+NON-PROFIT ORGANISATIONS “NPOS”
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 5 
+Where there has been a change of registered agent, and the new agent 
+determines that the previously entered BO information was inaccurate, 
+what steps should be taken?
+What if the previous agent input the BO information wrongly, what should 
+we do as the agent of the same BO for a different company which used 2 
+different registered agents?
+All Agents should verify BO information and ensure that the information entered is complete, accurate, 
+and up to date. Agents should implement protocols that reduce the chances of human errors. 
+Documentation will be required from both Agents of the BO for verification of the identity of the BO.
+Is there a requirement to file an update for a change of percentage ownership 
+of existing beneficial owners that is less than 10% change? 
+Yes. Regulations 22 and 23 set out the provisions for updating information to the Beneficial Ownership 
+Register.
+CHANGE IN BO INFORMATION
+Are provisions made for filing of a change in the event that the BO becomes a 
+sanctioned or designated person, after the initial filing?
+Yes. Legislation makes provisions for filing changes. See Regulations 22 and 23.
+What is the minimum percentage of ownership that triggers the requirement 
+to file information for a beneficial owner of a BVI entity?
+The minimum percentage of ownership that triggers the requirement to file beneficial ownership 
+information is 10%. Where a person holds less than 10%, they are not deemed to be a beneficial owner 
+for the purpose of a BO Filing.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 6 
+Can BVIBCs and LPs be exempt from the requirement to file beneficial 
+ownership information?
+Yes. Regulation 11(2) provides an outline of entities that may be exempt from the requirement to file 
+beneficial ownership information provided that they meet certain criteria.
+Where a legal entity is a subsidiary of another legal entity (“the parent”) if the parent holds, directly or indirectly
+	
+(i) a beneficial interest in 75% or more of the shares in the subsidiary; or
+	
+(ii) more than 75% of the voting rights in the subsidiary
+In addition, where a legal entity that claims to be subject to disclosure and transparency rules as provided in 
+that sub regulation shall
+	
+(i) indicate the specific rules applicable to it and the international standards under which those 	
+	
+	
+rules are provided; and
+	
+(ii) provide the exemption criteria equivalent to those referred to in sub regulation (1)(c)(i) that 	
+	
+	
+are applicable to it.
+Where a legal entity that claims to be subject to disclosure and transparency rules as provided in that sub 
+regulation shall
+	
+(i) indicate the specific rules applicable to it and the international standards under which those 	
+	
+	
+rules are provided; and
+	
+(ii) provide the exemption criteria equivalent to those referred to in sub regulation (1)(c)(i) that 	
+	
+	
+are applicable to it.
+WHO CAN BE EXEMPT FROM BO FILINGS?
+Where a case permits an exemption, what information should be filed to the 
+Beneficial Ownership Register?
+Information should be provided in relation to the registerable legal entity that sets out the provisions 
+that permit an exemption, including the specific rules applicable to it and the international standards 
+under which those rules are provided and the exemption criteria equivalent to those referred to in 
+Regulation 11, sub regulation (1)(c)(i) that are applicable.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 7 
+What steps should be taken if there are doubts about the beneficial 
+ownership information that has been provided by a client?
+Where a relevant person knows or has reasonable grounds to suspect that a legal entity for which they 
+act and have filed beneficial ownership information for, the relevant person must notify the Registrar in 
+accordance with Regulation 15(2).
+It is also important to conduct verification that is in line with the Anti-Money Laundering Terrorist 
+Financing Code of Practice (the “AMLTFCOP”). Sections 23 through 25, refer.
+If a BVIBC or LP has a dispute concerning ownership, what information needs 
+to be filed to the Beneficial Ownership Register? 
+Regulation 3(3) sets out that where there is a “…legal dispute as to the beneficial ownership of any 
+interest in a legal entity which is in the process of being adjudicated by a court or tribunal and is known 
+to the Registrar, no change shall be recorded with respect to the beneficial ownership of that interest 
+prior to the determination of that matter, unless the court or tribunal so orders.”
+Will the Beneficial Ownership Register be accessible to the public?
+Regulation 31 provides that “Any inspection of, or provision of information with respect to, the Register 
+shall comply with the requirements of the Data Protection Act, 2021, and nothing contained in these 
+Regulations shall be construed otherwise.”
+WHO WILL HAVE ACCESS TO VIEW BO FILINGS?
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 8
+How will s96A(11) work in practice, i.e. access to BO info under the regs [to 
+those with a legitimate int] will use 25% threshold, when BO info has to be 
+filed using 10% threshold?
+Once the beneficial owner’s percentage of interest is filed, VIRRGIN will automatically avoid sharing 
+anything under 25%. The registers that will be accessible to Competent Authorities will not display any 
+beneficial owner that owns less than 25%.
+What if there is no shareholder who owns 10% or more interest of the 
+company? 
+The BO is then determined by who has the “mind and control” within the entity to make decisions, 
+whether independently or within a share class.
+OWNERSHIP INTEREST
+What is the percentage Interest threshold for reporting beneficial ownership 
+information? 
+Entities are required to file BO information on any individual holding a 10% interest or more in an entity.
+Will both 10% and 25% interest holding levels have to be on company filings?  
+Yes. Any BO that holds 10% or more will have to file their information with the Registrar.
+The 25% or more is the threshold for reporting relative to Competent Authorities.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 9 
+Will the Registry system have a 25% filter for the info provided?  
+Yes. Once the beneficial owner’s percentage of interest is filed, VIRRGIN will automatically avoid sharing 
+anything under 25%. The registers that will be accessible to Competent Authorities will not display any 
+beneficial owner that owns less than 25%.
+Will Agents be able to make filings for BO in Bulk?
+Yes, the Commission anticipates that bulk filing provisions will be available. Note, however, that the date 
+when this facility will launch has not yet been determined; stakeholders are thus encouraged to continue 
+with single filing until such time that bulk filing becomes available.
+VIRRGIN & FILING PROCESSES
+Can persons who are residents in countries outside the BVI make BO filings? 
+No. The system does not allow for residents located in countries outside of the BVI to file BO 
+information.
+How long will data on previous BOs be maintained?
+Will BO information form a permanent part of the BO register?
+A BO shall be removed after a period of 5 years from the date he or she ceased to be a beneficial owner.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 10 
+Can the beneficial ownership register be printed by the registered agent?
+Yes. A registered agent will have the ability to print the BO Register, but only for those entities for which 
+they act as Agent.
+Can BO information be filed via an excel spreadsheet as was the case with 
+the filing of register of director filings? 
+Can BO information be filed via an excel spreadsheet as was the case with the filing of register of director 
+filings?
+How many days after restoration does an entity have to file a Register of BO?
+Entities restored to the Register after 2nd January 2025, will be treated as Existing Struck Off companies. 
+As such, the Transitional Provisions - section 60J, shall apply and the registers filed within 14 days after 
+restoration.
+Will the Commission host training with the stakeholders who will be using 
+the new BO system?
+The Commission intends to provide some training. Details on training will be communicated when the 
+logistics are finalised.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 11 
+TECHNICAL ISSUES
+What happens if a filing error occurs when entering BO information, and I am 
+unable to proceed or complete a BO filing?
+This is a technical issue that appears to be impacting users of the Firefox browser. Where users 
+experience this issue, they should proceed to clear the CACHE or use another browser such as Chrome 
+or Microsoft Edge.
+Will the beneficial ownership aspects of the BOSS Act be repealed before the
+date that the s96A BC Act obligations on companies to collect, keep and
+maintain beneficial ownership information, and the s230 requirements for 
+the Registrar to maintain a Register of Beneficial Ownership come into force?
+The BOSS Act will not be repealed before the s96A BC Act obligation and s230 requirements come into 
+force on 2nd January 2025.
+BOSSs
+When will BOSS Act be repealed? Will obligations to file under BOSS fall
+away once a filing is made in VIRRGIN?
+The Commission has not received any confirmation that the provisions of the BOSS
+Act regarding BO will be repealed.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 12 
+Will Economic Substance Filings remain with BOSS or be transferred to
+VIRRGIN in the near future?
+The current procedure for filing economic substance will remain with BOSSs at this stage.
+Where are the fees for BO Filings for BCs and LPs located?
+Fees associated with BO Flings are captured in Schedule 1 of the BVI Business
+Companies (Amendment of Schedule 1) Order and Financial Services (Limited
+Partnership Fees) Regulations.
+FEES AND PENALTIES
+Is there a cost associated with getting an extension to the provision to file
+beneficial ownership information?
+No. There is no fee associated with the application for an extension to file beneficial ownership 
+information.
+Where are the fees for failure to file BO information for existing BCs and LPs
+located?
+•  Part VIIB of Schedule 2 of the BVI Business Companies Act and Part III of the Schedule to the Limited 		
+   Partnership Act.
+•  Liable to be struck off or removed after 6 months of non-compliance
+•  Part II of Schedule 1 of the BVI Business Companies Act and Part II of Schedule 1 of the Financial  
+   Services (Limited Partnership Fees) Regulations
+• Liable to be struck off or removed after maximum penalty accrued.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 13 
+Where can the fees for penalties (Where are the penalty fees?) for failing
+to file BO information with the Registrar located?
+Penalty Fees for filing of BO information are captured in Part VIIB of Schedule 2 of the
+BVI Business Companies Act and Part III of the Schedule to the Limited Partnership
+Act.
+Where can the penalties for breaches of specified provisions of the BO
+Regulations be found?
+Penalties for breaches of specified provisions of BO Regulations are captured in Schedule 3 of the BVI 
+Business Companies and Limited Partnerships (Beneficial Ownership) Regulations.
+Beneficial Ownership Implementation Q&A | Version 1.0 | Published 22 January 2025     	
+	
+                                                         Page 14 

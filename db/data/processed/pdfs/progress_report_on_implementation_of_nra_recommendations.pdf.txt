@@ -1,0 +1,495 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIRGIN ISLANDS 
+PROGRESS REPORT 
+ON THE 
+IMPLEMENTATION OF THE RECOMMENDATIONS 
+FROM THE NATIONAL RISK ASSESSMENT 
+2 
+ 
+ABBREVIATIONS 
+ 
+AGC  
+ 
+- 
+Attorney General’s Chambers 
+AML/CFT 
+ 
+- 
+Anti-money Laundering/Countering the Financing of Terrorism 
+ASP 
+ 
+ 
+- 
+Airport Security Programme 
+BVIAA 
+ 
+- 
+BVI Airports Authority 
+BVIPA 
+ 
+- 
+BVI Ports Authority 
+CAs 
+ 
+ 
+- 
+Competent Authorities 
+CDD  
+ 
+- 
+Customer Due Diligence 
+CJ(IC)A 
+ 
+- 
+Criminal Justice (International Cooperation) Act 
+CLEA  
+ 
+- 
+Committee of Law Enforcement Agencies 
+DNFBP 
+ 
+- 
+Designated Non-financial Businesses and Professionals 
+DTOA  
+ 
+- 
+Drug Trafficking Offences Act 
+FATF  
+ 
+- 
+Financial Action Task Force 
+FI 
+ 
+ 
+- 
+Financial Institutions 
+FIA 
+ 
+ 
+- 
+Financial Investigation Agency 
+FSC 
+ 
+ 
+- 
+Financial Services Commission 
+GO 
+ 
+ 
+- 
+Governor’s Office 
+HMC  
+ 
+- 
+Her Majesty’s Customs 
+HVG  
+ 
+- 
+High Value Goods Dealers 
+ID 
+ 
+ 
+- 
+Immigration Department 
+LEAs  
+ 
+- 
+Law Enforcement Agencies 
+MC 
+ 
+ 
+- 
+Magistrate’s Court 
+3 
+ 
+ML 
+ 
+ 
+- 
+Money Laundering 
+MLA  
+ 
+- 
+Mutual Legal Assistance 
+MoU  
+ 
+- 
+Memorandum of Understanding 
+NRA  
+ 
+- 
+National Risk Assessment 
+NPO  
+ 
+- 
+Non-profit Organisations 
+ODPP  
+ 
+- 
+Office of the Director of Public Prosecutions 
+OECS  
+ 
+- 
+Organisation of Eastern Caribbean States 
+PCCA  
+ 
+- 
+Proceeds of Criminal Conduct Act 
+PF 
+ 
+ 
+- 
+Proliferation Financing 
+RVIPF  
+ 
+- 
+Royal Virgin Islands Police Force 
+SAR/STR 
+ 
+- 
+Suspicious Transaction Report/Suspicious Activity Report 
+TF 
+ 
+ 
+- 
+Terrorist Financing 
+USVI  
+ 
+- 
+United States Virgin Islands 
+4 
+ 
+TABLE OF CONTENTS 
+ 
+Introduction ……………………………………………………………...…….….  
+5 
+Improvements in AML/CFT Regime since NRA .................................. 
+6 
+Review of Agencies ………………………………………..…………….. ……… 
+7 
+ 
+Governor’s Office ………………………………..………….………. 
+ 
+7 
+ 
+Attorney General’s Chambers ………………….…………..…….. ……… 
+7 
+Financial Investigations Agency …..….…………………………………  
+8 
+Financial Services Commission ………………..………………… ……… 
+8 
+Magistrate’s Court ……………………………………………….. ……… 
+9 
+Immigration Department ……………………………………….. ……… 
+9 
+Her Majesty’s Customs ………………………………………….. ……… 
+10 
+Royal Virgin Islands Police Force ………………………………. ……… 
+10 
+Office of the Director of Public Prosecutions …………….……. ……… 
+11 
+BVI Ports Authority ………………………………………….…. ……… 
+11 
+BVI Airports Authority ………………………………………… ……… 
+12 
+Conclusion ………………………….…………………………..……….……. 
+. 
+13 
+ 
+ 
+ 
+5 
+ 
+Introduction 
+Recommendation 1 of the Financial Action Task Force’s (FATF) International Standards on 
+Combating Money laundering and the Financing of Terrorism & Proliferation sets out that 
+countries should identify, assess and understand money laundering (“ML”) and terrorist 
+financing (“TF”) risks.  It has been determined that the most practical way this work can be 
+carried out is by way of a national risk assessment.   
+On Wednesday, 12th March, 2014, the Cabinet of the Virgin Islands approved the outline for 
+the Territory’s first National Risk Assessment (NRA) which commenced in September, 2014, 
+and lasted two years, concluding in 2016.  This NRA was aimed at assessing the ML/TF/PF 
+risks to the Virgin Islands in order to enable the targeted application of a risk-based approach 
+to AML/CFT.  It was determined that the successful conduct of an NRA would help the 
+Territory to identify and assess its ML/TF risks, and that the results of the NRA should 
+provide a clear picture as to which sectors are most vulnerable to ML/TF.   
+The NRA was geared towards determining where resources should be allocated based on the 
+level of identified risk, and provided the opportunity to identify required changes to the 
+current AML/CFT regime.  The period of assessment covered 2011 to 2014 inclusive and 
+identified threats and vulnerabilities for a range of agencies and sectors including all of the 
+Territory’s CAs and its identified Law Enforcement (or enforcement related) Agencies, 
+which are the focus of this report.  With respect to the other sectors, i.e. the FIs, DNFBPs, 
+NPOs and HVGs, the responsibility for ensuring that the recommendations identified in the 
+NRA report are being implemented lies with the relevant regulators.   
+In general, it was found that the CAs are carrying out their respective functions at an 
+appreciable level.  Areas that require addressing included resources and expertise, the 
+appropriate collection of statistical data in order to be able to assess effectiveness, their 
+handling of Mutual Legal Assistance and other international cooperation requests, and their 
+overall compliance with international standards.  With respect to the LEAs, it was found that 
+much room exists for these agencies to improve their staffing resources, staff training and 
+understanding of ML/TF, as well as their overall ML/TF law enforcement capability. The 
+LEAs could also benefit from having and adhering to policies against political and other 
+interference and improve their inter-agency cooperation and handling of ML/TF 
+investigations. 
+ 
+6 
+ 
+ 
+Emanating from the assessment was the need to establish a National Risk Assessment 
+Implementation Unit (“the Unit”) to undertake and ensure effective implementation of the 
+recommendations contained in the NRA Report.   
+This Unit was established in March 2017 and has been given the responsibility to follow up 
+on the implementation of all recommendations noted in the 2016 NRA Report relative to the 
+Government and quasi-government agencies, and to ensure the Territory’s readiness to 
+undergo its Fourth Round Mutual Evaluation by the Caribbean Financial Action Task Force. 
+Since completion of the NRA exercise the agencies assessed have been striving towards 
+addressing their deficiencies through the development of Action Plans outlining how they 
+intend to do so.  These Action Plans were required to be submitted to the Unit, and updated 
+on a periodic basis.  The Unit has used these Action Plans as a measure to track the progress 
+of each agency.  In addition, the Unit conducted on-site reviews to determine the level and 
+effectiveness of implementation of the relevant recommendations, and whether each agency 
+had effectively addressed its risks.  These reviews were scheduled to be completed by 
+September 2017.  Unfortunately, due to the passage of Hurricanes Irma and Maria in 
+September, 2017 there was some delay in completing these reviews prior to December 2017.  
+ 
+Improvements in AML/CFT Regime since NRA 
+The Virgin Islands has made notable progress in implementing the recommendations of the 
+NRA and improving the effectiveness of its AML/CFT regime to combat ML, TF and related 
+financial crimes. Progress has been made across relevant agencies and specifically the CAs 
+and LEAs. The Implementation Unit has worked alongside each agency to identify and 
+determine progress, and such progress has been verified by the Unit. This report provides a 
+synopsis of the most significant improvements to date since the finalisation of the NRA 
+Report. The findings of the Unit should be read as an addendum to the British Virgin Islands: 
+National Risk Assessment of Money Laundering and Terrorist Financing Report of 3 July, 
+2017.    
+ 
+ 
+7 
+ 
+Review of Agencies 
+ 
+1. 
+Governor’s Office 
+Risks identified, including inadequate recordkeeping, staff training in AML/CFT, and 
+security breaches, have been substantially addressed by the Governor’s Office (GO).  
+Updated Standard Operating Procedures for matters of Extradition, MLA, issuing of Licences 
+for persons wishing to conduct business for, or on behalf of a listed person who is subject to 
+sanctions, and publication of Sanctions Orders have been developed and implemented.  
+These measures have helped to streamline processes, provide proper guidance, reduce 
+timeframes and increase efficiency for dealing with such matters. All of the issues with 
+regard to security highlighted in the NRA Report have been fully addressed. Furthermore, 
+staff have received additional AML/CFT training.  
+ 
+2. 
+Attorney General’s Chambers (AGC) 
+The AGC has developed a Standard Operating Procedural Manual for processing both MLA 
+and extradition requests. Additionally, an action plan, including a proposal for an electronic 
+database of extradition records and the creation of an MLA Unit has been developed and will 
+be implemented.  This Plan would become the structure for successfully implementing an 
+effective ML/TF/PF control system within the AGC.  Once implemented this will help to 
+streamline the relevant processes and provide a guide for proper administration of these 
+matters.  
+In terms of improving the AGC’s ability to assist with MLA requests, subsidiary legislation 
+was passed to remove specific designations of countries in the DTOA, PCCA, and CJ(IC)A.  
+These amendments allow AGC to provide assistance to a wider range of countries. With 
+respect to security and confidentiality, the issues highlighted in the NRA Report have been 
+fully addressed including improvements to the electronic records system.  This has provided 
+greater security and efficiency in the handling of records within the AGC. 
+ 
+ 
+8 
+ 
+ 
+3. 
+Financial Investigation Agency (FIA) 
+The FIA continues to focus on its primary responsibilities of receiving, analysing and 
+investigating SARs/STRs; and the supervision of the NPO and DNFBP sectors.  Increased 
+registrations have been noted in relation to supervised entities, and additional compliance 
+inspections. Collaborative public awareness training with respect to the quality of SAR 
+filings has also been conducted by the FIA for Money Services Businesses and the Bankers 
+Association.   
+The FIA has fulfilled the FATF requirements and Egmont rules in relation to information 
+security by ensuring that there is a distinct physical separation between its Compliance Unit 
+and its Financial Investigations Unit which is responsible for the processing of SARs/STRs.  It 
+has also bolstered its Financial Investigations Unit by increasing the number of analysts 
+assigned to receive and analyse SARs/STRs.  This should aid in reducing the current response 
+time. Additionally, Guidance Notes on SAR/STR reporting have been produced to assist FIs 
+and DNFBPs in understanding how to properly file SARs/STRs. This should further increase 
+the quality of SARs/STRs and provide better information to the FIA from which it can 
+produce intelligence reports that lead to prosecutions and convictions. 
+In terms of its supervisory responsibilities, the FIA has developed an NPO and DNFBP 
+Procedures and Assessment Guide which now serves as its risk assessment framework 
+manual for supervised entities. Draft Guidance Notes on AML/CFT compliance for DNFBPs 
+and NPOs have also been developed and are in the process of being implemented.  These 
+Guidance Notes would help the entities under the FIA’s supervisory charge to better 
+understand their obligations with respect to AML/CFT. 
+ 
+4. 
+Financial Services Commission (FSC) 
+The FSC has conducted a benchmarking exercise against the FATF Recommendations and 
+Methodology in an effort to ensure that the AML/CFT regime fully satisfies the 
+Recommendations, and where necessary changes will be made. The FSC is developing 
+relevant amendments to satisfy any identified shortcomings with a view to making legislative 
+changes by year’s end.   
+ 
+9 
+ 
+In relation to its supervisory responsibilities, the FSC’s Risk Based Approach to Supervision 
+document was approved by its Board on January 10, 2017.  This document outlines how to 
+risk assess the entities the FSC supervises.  The Risk Based Framework allows the FSC to take 
+a more targeted approach to supervision and to improve its effectiveness as a supervisor.  The 
+FSC has also allocated more staff to compliance inspections and enforcement matters. Hence, 
+statistics showed improvement in the time taken to conduct compliance inspections. 
+ 
+With respect to enforcement, the FSC has put measures in place to sanction its licensees for 
+non-compliance with CDD and other AML/CFT related measures.  This includes a process of 
+escalating penalties for infractions based on severity, which is in line with international 
+standards. Penalties range from simple warnings to monetary penalties and later to 
+revocation of approvals.  The FSC has also done a comprehensive assessment of the 
+effectiveness and impact of administrative penalties imposed. This is geared towards ensuring 
+that the penalties are proportionate and dissuasive. 
+ 
+ 
+5. 
+Magistrate’s Court (MC) 
+The Magistrate’s Court has developed an action plan and has taken steps to address 
+deficiencies. Of significant importance is the overarching effort to address its human 
+resource needs by conducting a human resource needs assessment. Once this assessment has 
+been agreed and the recommendations implemented the MC should see significant increases 
+in efficiency. In the interim, the MC has proactively attempted to increase its court reporting 
+staff through internal transfer of staff from the High Court where appropriate.  It is hoped 
+that this will assist in reducing the time taken to produce transcripts of court proceedings.  
+In relation to proper records management, including electronic data management, 
+accessibility, security and timely updating of records, a new system was installed at the OECS 
+courts system headquarters in St. Lucia which the MC is connected to that addresses most 
+vulnerabilities in the current records management system.  This system should help to 
+facilitate the proper and more efficient tracking and management of all court records. 
+ 
+6. 
+Immigration Department (ID) 
+Understanding its role in the fight against ML, TF and other related crimes including 
+smuggling of migrants, human trafficking and border protection, the ID has conducted a full 
+human resources assessment to determine optimal staffing levels, and is taking steps to fill 
+the identified gaps in its human resources.  
+10 
+ 
+The ID has also been able to demonstrate a greater level of effective implementation of its 
+AML/CFT obligations through greater use of inter-agency agreements (MoUs), including a 
+shiprider agreement with USVI counterparts and with RVIPF.  These agreements have 
+allowed for greater effectiveness in border protection as the ID has been involved in various 
+joint operations with other LEAs.  
+The ID has made strides in improving its records management systems, and its 2017 strategic 
+plan included improvements to both administrative filing and procedures, and processing of 
+immigration applications and procedures.  An Office Procedures Manual has also been 
+produced to provide clear guidance on how to carry out the various functions within the 
+Department.  These improvements should bring about greater efficiency within the ID. 
+ 
+7. 
+Her Majesty’s Customs (HMC) 
+HMC is primarily concerned with contraband smuggling, smuggling of migrants, and illegal 
+movement of cash.  HMC has developed a cash declaration and seizure policy for dealing 
+with incoming and outgoing passengers once undeclared cash is detected. A "Bulk Cash 
+Movement" log records both incoming and outgoing passengers found traveling with bulk 
+cash.  HMC also maintains a Report of International Transportation of Currency and 
+Monetary Instruments.   
+HMC continues to be proactive in cooperating with other agencies and has signed various 
+MOUs with other LEAs.  HMC is a member of the Committee of Law Enforcement Agencies 
+(CLEA), which has been established to assist law enforcement agencies in overcoming 
+challenges faced in their interrelated functions.   
+ 
+8. 
+Royal Virgin Islands Police Force (RVIPF) 
+The RVIPF is primarily concerned with monitoring and investigating all crimes, including 
+predicate offences to ML, as well as ML, TF and PF related crimes.  Cooperation, both locally 
+and internationally is key to the RVIPF being able to execute its mandate.   
+The RVIPF has developed an action plan with established timelines to address the 
+deficiencies and implement changes. However, the challenges faced by the RVIPF were 
+compounded by the devastation caused by the 2017 Hurricanes which caused a number of 
+11 
+ 
+their priorities to shift.  Since that time their focus has been on ensuring predicate offences 
+are adequately identified and arrests made.  This in itself has been identified by the RVIPF as 
+the first step in pursuing ML convictions.  The RVIPF’s action plan continues to be 
+implemented as demonstrated by it being able to develop procedures for cash seizures, which 
+should help to ensure the proper handling and processing of cash as evidence, and which 
+would ensure transparency and prosecutions.   
+ 
+9. 
+Office of the Director of Prosecutions (ODPP) 
+The ODPP plays a pivotal role in the prosecution of persons charged with predicate offences 
+and those offences related to ML/TF.  The ODPP has developed an action plan and has 
+demonstrated progress in addressing its deficiencies.  For example, the ODPP, in consultation 
+with the RVIPF, has implemented a “vetting form” which outlines the broad areas that the 
+RVIPF should take into account when filing charges to ensure that all proper procedures are 
+followed.  This form is used to assist the ODPP in ensuring proper charges are filed and 
+sufficient evidence is in place to allow for a greater probability of securing a conviction.  This 
+process should also ensure that charges are more quickly and appropriately brought which 
+should lead to an increased rate of satisfactory prosecutions.  
+The ODPP has also developed internal procedures relating to staff training including the 
+need to involve other law enforcement agencies. In that regard, the ODPP has engaged in 
+internal training and has involved the RVIPF in training sessions relative to case file 
+preparation. Additionally, the DPP currently chairs the Committee of Law Enforcement 
+Agencies (CLEA), which has been established to assist law enforcement agencies in 
+overcoming challenges faced in their interrelated functions including investigations, 
+prosecutions and convictions for money laundering, terrorism financing and related financial 
+crimes.  The meetings have proved to be a useful medium to ensure cooperation amongst 
+local LEAs. 
+ 
+10. 
+BVI Ports Authority (BVIPA) 
+BVIPA is primarily concerned with contraband smuggling, smuggling of migrants, and illegal 
+movement of cash. The BVIPA has always been intensely security driven.  Its membership in 
+regional organisations which specialize in providing industry best practice, coupled with 
+12 
+ 
+sufficient monitoring by these organisations, has assisted the BVIPA’s positive security 
+posture, and as a result safety measures have been greatly enhanced.  These organisations 
+have also assisted in the review and testing of policies and procedures of port security.   
+Additionally, the BVIPA’s Operational Manual is being finalised. The BVIPA has also made 
+progress in setting up internal structures to address various vulnerabilities, including the 
+development of a risk rating system for security breaches, as well as providing various 
+training sessions for staff. 
+  
+11. 
+BVI Airports Authority (BVIAA) 
+BVIAA has implemented measures which have improved its physical security. A number of 
+procedures have also been developed and implemented to assist the BVIAA in implementing 
+its mandate. These procedures includes an Airport Security Program Manual, (“ASP”), which 
+includes procedures of how breaches should be handled, including referring where necessary 
+to the appropriate LEA.  Additionally, procedures have been drafted for the detecting of 
+prohibited items, but this is still a work in progress. 
+Inter-agency cooperation between BVIAA and other LEAs is vital to successfully detect and 
+prosecute ML/TF related matters. Such cooperation has been enhanced in part with the 
+creation of committees for inter-agency cooperation and the signing of various MOU 
+between agencies.  
+ 
+ 
+ 
+13 
+ 
+Conclusion 
+The Virgin Islands continues to make progress on the implementation of the 
+recommendations of the NRA Report with a view to addressing all of the identified 
+deficiencies before its scheduled Mutual Evaluation. Progress of these agencies’ ability to 
+implement the recommendations and address their identified deficiencies will continue to be 
+monitored by the Unit.  This monitoring will include a focused assessment of each agency to 
+determine how well they have each implemented their relevant recommendations. Upon 
+completion of this assessment the Unit will generate a further report on the Virgin Islands’ 
+progress, the status of the implementations in respect of each agency, and the level of 
+effectiveness of each agency.  This should culminate in an updated NRA for the Virgin 
+Islands.   
+ 
+ 
+ 
+ 

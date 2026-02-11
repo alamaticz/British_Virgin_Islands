@@ -1,0 +1,54 @@
+{
+  "slug": "risk-assessments",
+  "title": "Risk Assessments | British Virgin Islands Financial Services Commission",
+  "url": "https://www.bvifsc.vg/risk-assessments",
+  "content_html": "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden clearfix\">\n<div class=\"field-items\">\n<div class=\"field-item even first last\" property=\"content:encoded\">\n<ul>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/vi_tf_risk_assessment_report_2025.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">VI TF Risk Assessment Report 2025</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/vi_lpla_risk_assessment_2025.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">VI LPLA Risk Assessment 2025</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/virgin_islands_2022_ml_risk_assessmentam.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">Virgin Islands Money Laundering Risk Assessment 2022</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/pf_risk_assessment_report_2022.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">Virgin Islands Proliferation Financing Risk Assessment 2022</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/tf_risk_assessment_report_-_2020.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">Terrorist Financing Risk Assessment Report - 2020</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/money_laundering_risk_assessment_2020_report_final.pdf\" onclick=\"window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;\">Money Laundering Risk Assessment Report - 2020</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/progress_report_on_implementation_of_nra_recommendations.pdf\" target=\"_blank\">Progress Report on NRA Recommendation Implementation</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/virgin_islands_nra_report_2016.pdf\" target=\"_blank\">Virgin Islands NRA Report 2016</a></li>\n<li><a href=\"https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/final_progress_report_on_implementation_of_nra_recommendations.pdf\" target=\"_blank\">Final Progress Report on Implementation of NRA Recommendations</a></li>\n</ul>\n</div>\n</div>\n</div>",
+  "content_text": "VI TF Risk Assessment Report 2025\nVI LPLA Risk Assessment 2025\nVirgin Islands Money Laundering Risk Assessment 2022\nVirgin Islands Proliferation Financing Risk Assessment 2022\nTerrorist Financing Risk Assessment Report - 2020\nMoney Laundering Risk Assessment Report - 2020\nProgress Report on NRA Recommendation Implementation\nVirgin Islands NRA Report 2016\nFinal Progress Report on Implementation of NRA Recommendations",
+  "attachments": [
+    {
+      "name": "VI TF Risk Assessment Report 2025",
+      "filename": "vi_tf_risk_assessment_report_2025.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/vi_tf_risk_assessment_report_2025.pdf"
+    },
+    {
+      "name": "VI LPLA Risk Assessment 2025",
+      "filename": "vi_lpla_risk_assessment_2025.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/vi_lpla_risk_assessment_2025.pdf"
+    },
+    {
+      "name": "Virgin Islands Money Laundering Risk Assessment 2022",
+      "filename": "virgin_islands_2022_ml_risk_assessmentam.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/virgin_islands_2022_ml_risk_assessmentam.pdf"
+    },
+    {
+      "name": "Virgin Islands Proliferation Financing Risk Assessment 2022",
+      "filename": "pf_risk_assessment_report_2022.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/pf_risk_assessment_report_2022.pdf"
+    },
+    {
+      "name": "Terrorist Financing Risk Assessment Report - 2020",
+      "filename": "tf_risk_assessment_report_-_2020.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/tf_risk_assessment_report_-_2020.pdf"
+    },
+    {
+      "name": "Money Laundering Risk Assessment Report - 2020",
+      "filename": "money_laundering_risk_assessment_2020_report_final.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/money_laundering_risk_assessment_2020_report_final.pdf"
+    },
+    {
+      "name": "Progress Report on NRA Recommendation Implementation",
+      "filename": "progress_report_on_implementation_of_nra_recommendations.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/progress_report_on_implementation_of_nra_recommendations.pdf"
+    },
+    {
+      "name": "Virgin Islands NRA Report 2016",
+      "filename": "virgin_islands_nra_report_2016.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/virgin_islands_nra_report_2016.pdf"
+    },
+    {
+      "name": "Final Progress Report on Implementation of NRA Recommendations",
+      "filename": "final_progress_report_on_implementation_of_nra_recommendations.pdf",
+      "url": "https://www.bvifsc.vg/sites/default/files/documents/AML_CFT/RISK-ASSESSMENT/final_progress_report_on_implementation_of_nra_recommendations.pdf"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+Source: https://www.bvifsc.vg/faqs
+
+How may I obtain a list of the Authorised Agents and Registered Agents of the BVI?
+A list of the Authorised Registered Agents of the BVI may be accessed via this website.
+What can I do if I have a complaint against a bank in the BVI?
+Should you have a complaint against a BVI bank, you are invited to write to the bank explaining your concerns and ask that your request be reviewed by a senior officer or manager of the bank (one who is not directly involved in the complaint). The BVI Financial Services Commission is responsible for the supervision of banks in the British Virgin Islands and does not have the authority to act as arbitrator between parties to a dispute. Albeit, if you feel that the bank has not addressed your concerns the Commission will act mainly as an intermediary, between the complainant and the bank (delete - in question), and seek to establish a factual account of the situation. The Commission will work towards determining whether any violation of laws, regulations and/or policy guidelines has occurred. Complaints are to be made in writing by letter, fax or email to the BVI Financial Services Commission (
+[email protected]
+).
+How may I obtain a copy of the Banks and Trust Companies Act, 1990?
+The Banks and Trust Companies Act, 1990 is a fairly large document with several amendments. Many service providers unofficial consolidated copies available for their clients. In so far that a specific issue may be in question, the FSC can arrange to mail or fax you a copy of relevant sections.
+How may I obtain an application form for a banking licence?
+Application forms are available on the website. However, potential applicants are asked to note that applications should be forwarded to the Commission either through a Legal Advocate or Registered Agent. A list of each can be found on this website.
+Who is a General Trust Licence holder?
+A General Trust Licence holder is an entity which holds a valid general trust licence as prescribed by the Banks and Trust Companies Act, 1990 and enables the holder to carry on trust business without restrictions. Trust business as defined by this Act means "the business of (a) acting as a professional trustee, protector or administrator of a trust or settlement, (b) managing or administering any trust or settlement, and (c) company management as defined by the Company Management Act, 1990.
+What is the VIRRGIN service?
+VIRRGIN is the FSC's internet based information network that provides on-line electronic access to the services of the Registry of Corporate Affairs including full electronic filing of all documents.
+How do I access VIRRGIN?
+VIRRGIN may be accessed through the url
+https://VIRRGIN.bvifsc.vg
+after  you have registered for access and received confirmation from the FSC of your login ID and password.
+How do I register to use VIRRGIN?
+BVI Registered Agents may register for access to VIRRGIN for use by their authorised signatories and staff by completing the VIRRGIN Registration Agreement.
+What are the technical requirements for using VIRRGIN? Do I need to install or download anything to my internal systems?
+VIRRGIN is internet based and is accessible through the use of a standard office computer. The specific techincal requirements are:
+Pentium III processor
+512 MB RAM
+10 GB Hard Disk
+Windows XP
+Internet connection
+Internet Explorer 6.0 and above (with Multiple Language Support)
+Adobe Acrobat Reader 7.0
+Scanner (to scan the documents)
+Software to convert documents into PDF
+Why does VIRRGIN tell me "the name I would like to reserve is not a desirable name for an entity" ?
+The Name Reservation screen does not require you to attach the ending to the proposed company name (example LTD or Limited) as the ending is not used to determine likeness to other names on the Register or desirability. Please try your name reservation again excluding the company suffix which you can select at the time of incorporation.
+How do I complete a Name Reservation for changing the name of an IBC?
+The Name Reservation Section in VIRRGIN does not distinguish between names for BCs and IBCs. You can reserve the name in VIRRGIN and then submit as usual your Change of Name documents including the name reservation number (which you can print from the confirmation screen in VIRRGIN).
+Will the Registry still process Name Reservations for us?
+Will the Registry still process Name Reservations for us?
+The VIRRGIN system is available for Name Reservations on-line and we encourage all agents to use this feature. Please call the VIRRGIN Customer Care Centre for assistance in completing Name Reservations.
+What happen after my 10 day Name Reservation has expired if I haven't incorporated the company?
+After the inital name reservation period expires, your option for immediate re-reservation of the name is to exercise the 90-day Name Reservation. The initial name reservation cannot be extended for further complimentary 10-days immediately but you can do this after a further 10 days have past.
+What happens when I file an appeal on a name?
+Once the Name Appeal is processed by the Registry, the system will return an email confirmation that includes the proposed name, name reservation number, status and time remaining on the reservation period.
+Pages
+1
+2
+3
+4
+5
+6
+7
+8
+9
+next ›
+last »
+Upcoming Events
+All Events
+17 Feb 2026
+9:00
+In person
+Meet The Regulator: BVI
+Eileen L Parsons Auitorium, HLS Community College
+23 Feb 2026
+9:00
+In person
+Meet The Regulator: Panama
+Hilton Panama
+26 Feb 2026
+9:00
+In person
+BVI FSC Roundtable: London
+JW Marriott Grosvenor House London
+British Virgin Islands Financial Services Commission uses cookies to capture data, allowing us to improve our site experience for everyone. To learn about how we use cookies please visit our
+privacy policy
+I understand

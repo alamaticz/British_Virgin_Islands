@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+@theme {
+  --color-bvi-navy: #00205B;
+  --color-bvi-red: #EF3340;
+  --color-bvi-gold: #FFD100;
+  --color-bvi-green: #4C8D2B;
+  --color-bvi-light-gray: #F3F4F6;
+  --color-bvi-dark-gray: #374151;
+
+  --font-playfair: "Playfair Display", serif;
+  --font-inter: "Inter", sans-serif;
+
+  --background-image-gradient-radial: radial-gradient(var(--tw-gradient-stops));
+  --background-image-gradient-conic: conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops));
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  color: #1a1a1a;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Custom styles for matching the BVIFSC look */
+.bvi-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+@utility nav-link {
+  @apply text-bvi-navy font-semibold hover:text-bvi-red transition-colors duration-200 uppercase text-sm tracking-wider;
+}
+
+@utility dropdown-item {
+  @apply block px-4 py-2 text-sm text-gray-700 hover:bg-bvi-light-gray hover:text-bvi-navy;
+}
+
+@utility section-title {
+  @apply text-3xl font-bold text-bvi-navy mb-8 relative pb-2;
+}
+
+.section-title::after {
+  content: '';
+  @apply absolute bottom-0 left-0 w-16 h-1 bg-bvi-red;
+}

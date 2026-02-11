@@ -1,0 +1,2170 @@
+ 
+ 
+ 
+ 
+1 
+ 
+Table of Contents 
+Foreword .................................................................................................................................................. 2 
+ACRONYMS ............................................................................................................................................... 3 
+1. 
+Executive Summary .......................................................................................................................... 5 
+2. 
+Introduction ...................................................................................................................................... 8 
+Jurisdictional Profile ............................................................................................................................. 8 
+3. 
+Methodology .................................................................................................................................... 9 
+4. 
+The Legislative Framework ............................................................................................................ 12 
+5. 
+CPF Operational Framework .......................................................................................................... 15 
+Domestic Cooperation ........................................................................................................................ 16 
+International Cooperation ................................................................................................................. 17 
+Targeted Financial Sanctions ............................................................................................................. 19 
+Investigation and Prosecution of PF .................................................................................................. 19 
+6. 
+Proliferation Financing – Risk Overview ........................................................................................ 21 
+PF Threats ........................................................................................................................................... 21 
+A. Use of Legal Persons and Legal Arrangements ........................................................................... 22 
+B. International Trade and Collection and Movement of Funds .................................................... 25 
+C. Ship Registration and Shipping Related Activities ...................................................................... 27 
+7. 
+Vulnerabilities ................................................................................................................................ 30 
+A. Use of Legal Persons and Legal Arrangements ........................................................................... 30 
+B. International Trade and Collection and Movement of Funds .................................................... 33 
+C. Ship Registration and Shipping Related Activities ...................................................................... 33 
+D. Law Enforcement’s Understanding of PF Risk ............................................................................ 35 
+8. 
+Virtual Assets and Virtual Asset Service Providers ....................................................................... 37 
+Threats ............................................................................................................................................ 37 
+Vulnerabilities ................................................................................................................................. 37 
+9. 
+Recommendations ......................................................................................................................... 39 
+National CPF Recommendations..................................................................................................... 39 
+CPF Recommendations for LEAs ..................................................................................................... 39 
+CPF Recommendations for CAs ....................................................................................................... 40 
+CPF Recommendations for Private Sector ...................................................................................... 41 
+10. Conclusion ...................................................................................................................................... 42 
+ 
+2 
+ 
+ 
+ 
+Foreword 
+ 
+The Financial Services Commission and the Financial Investigation Agency are proud of the strong and 
+robust AML/CFT/CPF regime in place to combat the risks of money laundering (ML), terrorist financing 
+(TF) and the financing of proliferation (PF).  We continue to take proactive and positive steps to ensure 
+compliance with international standards and to maintain our reputation as a leading international 
+financial centre.  Conducting the Virgin Islands first national proliferation financing risk assessment is yet 
+another step in so doing. 
+ 
+This report outlines the findings of the proliferation financing risk assessment, which takes a critical look 
+at the PF threats to which the Virgin Islands are exposed.  It also looks at the resulting PF risks posed by 
+vulnerabilities identified within the Virgin Islands’ CPF framework that allow these threats to persist.  
+Conducting this assessment has ensured that the Territory is able to properly identify these threats and 
+the existing vulnerabilities.  It also now allows us to be able to take appropriate action to effectively 
+mitigate and manage the resulting risks.   
+ 
+The importance of identifying, understanding and mitigating the risk of PF as a result of the activities 
+carried out in and from within the Virgin Islands cannot be underscored.  The need to comprehensively 
+examine the threats and vulnerabilities that may impact the Virgin Islands is clearly understood by all 
+Competent Authorities and Law Enforcement Agencies within the Virgin Islands. Such examination not 
+only ensures compliance with international standards, but aids in maintaining the safety of the citizens of 
+the Virgin Islands and our reputation as a leading international financial centre.   
+ 
+All relevant public and private sectors should pay particular attention to the findings of this report as this 
+will help you to better identify the particular PF risks you face and allow you to take the necessary actions 
+to mitigate the vulnerabilities that allow such risks to exist.  Each vulnerability is unique as are the risks 
+identified.  Public and private sector entities should therefore examine the findings of the report and 
+integrate these findings into their own institutional risk assessments and those of their clients where 
+applicable. 
+ 
+The Virgin Islands is committed to playing its part in the global fight to combat not just proliferation 
+financing, but also money laundering and terrorist financing, and to tackling the resulting illicit flows.  This 
+is vitally important to us maintaining safety and enhancing our global reputation as a place to conduct 
+legitimate business. We are confident that by appropriately identifying and responding to all relevant 
+risks, and with continued cooperation and collaboration between the public and private sectors, we will 
+be able to safeguard the Virgin Islands’ reputation as a cooperative jurisdiction that takes its 
+responsibilities to the global community seriously. 
+ 
+ 
+ 
+Kenneth Baker  
+ 
+ 
+ 
+ 
+ 
+ 
+Errol George 
+Managing Director/CEO  
+ 
+ 
+ 
+ 
+ 
+Director 
+BVI Financial Services Commission 
+ 
+ 
+ 
+ 
+Financial Investigation Agency 
+ 
+ 
+3 
+ 
+ACRONYMS 
+ 
+AGC 
+Attorney General’s Chambers 
+AML 
+Anti-money Laundering 
+AMLR 
+Anti-money Laundering Regulations 
+AMLTFCOP 
+Anti-money Laundering and Terrorist Financing Code of Practice 
+ASBA 
+Association of Supervisors of Banks of the Americas 
+ATF 
+Bureau of Alcohol Tobacco, Firearms and Explosives 
+BO 
+Beneficial Owner/Ownership 
+BVIBC 
+British Virgin Islands Business Company 
+BVIBCA 
+British Virgin Islands Business Companies Act 
+BVI 
+British Virgin Islands 
+CA 
+Competent Authority 
+CARICOM 
+Caribbean Community 
+CBP 
+Customs and Border Patrol 
+CCLEC 
+Caribbean Customs Law Enforcement Council 
+CDD 
+Customer Due Diligence 
+CFT 
+Countering the Financing of Terrorism 
+CGBS 
+Caribbean Group of Banking Supervisors 
+CGSR 
+Caribbean Group of Securities Regulators 
+CPF 
+Counter Proliferation Financing  
+CRF 
+Compliance Reporting Form 
+DEA 
+Drug Enforcement Agency 
+DNFBP 
+Designated Non-financial Businesses and Professions 
+DPRK 
+Democratic People’s Republic of Korea 
+EC 
+European Community 
+ECDD 
+Enhanced Customer Due Diligence 
+EEA 
+European Economic Area 
+EU 
+European Union 
+FATF 
+Financial Action Task Force 
+FBI 
+Federal Bureau of Investigations 
+FCDO 
+Foreign and Commonwealth Development Office 
+FCU 
+Financial Crimes Unit 
+FIA 
+Financial Investigation Agency 
+FI 
+Financial Institutions 
+FSC 
+Financial Services Commission 
+GDP 
+Gross Domestic Product 
+GIFCS 
+Group of International Finance Centre Supervisors 
+GO 
+Governor’s Office 
+HMC 
+Her Majesty’s Customs 
+IAIS 
+International Association of Insurance Supervisors 
+ICE 
+Immigration and Customs Enforcement 
+IMO 
+International Maritime Organisation 
+INTERPOL 
+International Crime Police Organisation 
+4 
+ 
+IOSCO 
+International Organisation of Securities Commissions 
+ITA 
+International Tax Authority 
+LEA 
+Law Enforcement Agencies 
+LPA 
+Limited Partnership Act 
+MLA 
+Mutual Legal Assistance 
+ML 
+Money Laundering 
+MMoU 
+Multilateral Memorandum of Understanding 
+MoU 
+Memorandum of Understanding 
+MSA 
+Merchant Shipping Act 
+MSB 
+Money Services Business  
+NCA 
+National Crime Agency 
+ODPP 
+Office of the Director of Public Prosecutions 
+OECS 
+Organisation of Eastern Caribbean States 
+OFSI 
+Office of Financial Sanctions Implementation 
+OT 
+Overseas Territory 
+PCCA 
+Proceeds of Criminal Conduct Act 
+PEP 
+Politically Exposed Persons 
+PF 
+Proliferation Financing 
+PFPA 
+Proliferation Financing Prohibition Act 
+RA 
+Registered Agent 
+RP 
+Representative Person 
+RVIPF 
+Royal Virgin Islands Police Force 
+SAMLA 
+Sanctions and Money Laundering Act 
+SAR 
+Suspicious Activity Report 
+SIT 
+Serious Investigation Team 
+TCSP 
+Trust and Corporate Services Provider 
+TF 
+Terrorist Financing  
+TFS 
+Targeted Financial Sanctions 
+UK 
+United Kingdom 
+UN 
+United Nations 
+UNSCR 
+United Nations Security Council 
+USCG 
+United States Coast Guard 
+US 
+United States 
+USVI 
+United States Virgin Islands 
+VA 
+Virtual Assets 
+VASP 
+Virtual Assets Service Providers 
+VI 
+Virgin Islands 
+VISG 
+Virgin Islands Sanctions Guidelines 
+VISR 
+Virgin Islands Shipping Registry 
+WMD 
+Weapons of Mass Destruction 
+ 
+ 
+5 
+ 
+1. 
+Executive Summary 
+ 
+1.1 
+In the VI, while the threat of PF in the domestic context may be minimal, given the Territory’s standing as 
+an International Finance Centre, understanding the inherent risks stemming from vulnerabilities within 
+the Territory that promote the threat of PF in the jurisdiction is critical to ensuring the VI is able to develop 
+the proper mechanisms to effectively mitigate against these risks.  Such understanding is also important 
+in ensuring the jurisdiction is able to meet its international counter-proliferation financing obligations.  
+ 
+1.2 
+While the subject of PF was touched on briefly during the initial NRA which concluded in 2016, it was 
+reviewed solely in the context of the mitigating measures put in place to address PF through the now 
+repealed Proliferation Financing (Prohibition) Act, 2009. This assessment, which was jointly commissioned 
+by the Financial Services Commission and the Financial Investigation Agency, takes a deeper look into the 
+level of exposure to PF related activities at a national level focusing on the following key areas: 
+ 
+• 
+Use of legal persons and legal arrangements; 
+• 
+International trade and collection and movement of funds; 
+• 
+Ship registration and shipping related activities; and 
+• 
+Virtual Assets (VAs) and Virtual Assets Service Providers (VASPs). 
+ 
+1.3 
+The report also considers the vulnerabilities within each of those key areas that if left unchecked could 
+result in a greater level of PF risk within the Territory. Attention has also been paid to vulnerabilities of 
+Registered Agents acting as “gatekeepers” who facilitate the registration of legal persons and legal 
+arrangements and the execution of cross-border business activities relative to shipping and international 
+trade that may be exploited. 
+ 
+1.4 
+The domestic and international cooperation frameworks within the Territory and the practical 
+implementation of such, the existing Targeted Financial Sanctions regime, the ability to investigate and 
+prosecute PF related matters, and the overall level of understanding of PF across law enforcement 
+agencies were also considered. 
+ 
+1.5 
+Data used in the exercise came from the following sources which are responsible for, or connect to some 
+aspect of the CPF regime in the Virgin Islands: 
+ 
+Agency 
+Area of Responsibility 
+British Virgin Islands Financial Investigation Agency 
+CA for PF related matters, Financial Intelligence Unit 
+and Supervisor of DNFBPs and NPOs  
+British Virgin Islands Financial Services Commission 
+Regulator/Supervisor of FIs  
+Office of the Director of Public Prosecutions  
+Criminal Prosecutions 
+Office of the Governor 
+Competent Authority for Sanctions Implementation 
+Registry of Corporate Affairs 
+Registration of BVI Business Companies and other 
+legal persons  
+Royal Virgin Islands Police Force   
+Criminal Investigations 
+Virgin Islands Shipping Registry   
+Ship Registration   
+ 
+ 
+6 
+ 
+Use of Legal Persons and Legal Arrangements 
+ 
+1.6 
+The threat of PF is of particular importance given the VI’s standing as an International Finance Centre and 
+the use of BVIBCs and other legal arrangements to facilitate business globally. In reviewing the data and 
+other qualitative material gathered during the assessment, including international typologies, it was 
+determined that trusts were not typical vehicles used to facilitate PF. The overall risk, therefore, was 
+considered Low.  As such, primary focus was placed on the use of legal persons.   
+ 
+1.7 
+The global nature of business in which legal persons are involved makes these structures susceptible to 
+misuse for illicit purposes. One of the identified threats of PF to the VI is the use of BVIBCs to facilitate 
+business transactions, particularly in relation to movement of, and payment for goods and other services 
+where the ultimate destination of such goods is a sanctioned jurisdiction. This threat is further enhanced 
+through the use of BVIBCs to establish ownership of vessels that may engage in transporting illicit cargo 
+to sanctions countries.  The ability for structures established in the VI to be misused elevates the level of 
+risk as this misuse lends itself to these entities being exploited to facilitate the financing of WMDs. The 
+risk of this threat is therefore considered to be High as any linkages to a BVI company, entity or person 
+may create significant reputational damage. 
+ 
+International Trade and Collection and Movement of Funds 
+ 
+1.8 
+Most BVIBCs are created for the purposes of cross-border business, primarily as entities to hold assets or 
+as vehicles for joint ventures which may be linked to the investment sector. However, as a number of 
+BVIBCs do engage in import/export and other trading related activities the possibility of these entities 
+being involved in the export and trade of dual use and other proliferation sensitive materials was also 
+considered. As there are no manufacturing sites or research centres physically located in the VI that 
+produce dual use and proliferation sensitive goods, exposure to the export and trade in such goods from 
+a domestic perspective is not considered to be a threat. The concern, therefore, is from an international 
+perspective given the ability of BVIBCs to engage in import/export and other trading related activities.  
+Given the global nature of such trading activities and the identification of the involvement of BVIBCs in 
+illegal trade related activities with the DPRK, although minimal, the threat of PF from such activities is 
+considered to be High.  
+ 
+1.9 
+The banking sector within the VI predominantly provides banking facilities to residents and local 
+businesses. Exposure to high-risk customers and PEPs is therefore highly localised to those types of 
+customers resident in the Territory. Given the predominantly domestic nature of the banking services 
+provided and the limited services provided to non-resident individuals the threat of PF within this sector 
+was found to be Low. 
+ 
+1.10 Similarly, the core markets for MSBs within the VI are non-resident workers repatriating funds to their 
+home countries and residents sending money abroad primarily for business and educational support 
+purposes. The top jurisdictions receiving outward transfers aligned to the size of the immigrant 
+populations of these jurisdictions from which the labour force in the VI is sourced. The threat of misuse 
+of the money services sector for PF purposes, therefore, was found to be Low as there is no evidence of 
+any financial flows involving Iran or DPRK or any high-risk conflict areas. 
+ 
+7 
+ 
+1.11 Reported instances of PF associated with BVI structures have been minimal during the reporting period.  
+Nonetheless, due to the large number of BVIBCs and other legal arrangements operating in and from 
+within the VI, the threat of misuse of these entities is considered to be material, given the potentially 
+extensive impact of such activity to the reputation of the jurisdiction. The threat of PF associated with the 
+collection and movement of funds on an international level by BVIBCs was, therefore, rated as Medium. 
+ 
+Ship Registration and Shipping Related Activities 
+ 
+1.12 With regard to ship registration and shipping related activities, the threat in the VI context, is twofold.  
+Firstly, through the possible use of BVI flagged vessels registered by VISR, including those owned through 
+a BVIBC, that may be used to transport goods to sanctioned countries or that may be involved in other 
+illegal activities. Secondly, through the use of non-domestic vessels where ownership is through a BVIBC.  
+Vulnerabilities identified in relation to CDD failings by the RAs and the absence of maintenance of BO 
+information by VISR contributed to the risk of both threats materialising being rated as Medium.   
+ 
+Virtual Assets (VAs) and Virtual Assets Service Providers (VASPs) 
+ 
+1.13 In relation of VAs and VASPs, international typologies indicate that digital assets, and more specifically, 
+cryptocurrencies are being used by non-state actors tied to the DPRK.  In the VI, VAs and VASPs are 
+currently un-regulated, with the exception of certain activities regulated under SIBA. A review of 
+transactions and economic activities, including company formation and other business, indicates that 
+there is an evolving risk from un-regulated BVIBCs operating in or from within the VI that serve as VASPs 
+or facilitate the provision of VAs. Additional risks inherent to VAs and the provision of VA services are the 
+level of anonymity they provide to the user while conducting multiple high value payments, the ease in 
+which transactions may be structured and the ability to execute cross-jurisdictional transactions without 
+being traced. Such risks are heighted by the lack of regulation of the entities that facilitate these activities.  
+Based on these identified factors, the risk of this threat was found to be High. 
+ 
+1.14 Given the identified threat areas and the existing vulnerabilities, the Territory’s overall PF risk was 
+determined to be Medium. The report makes a number of recommendations that, if properly 
+implemented, should aid in enhancing the level of effectiveness of the Territory’s CPF regime. The 
+recommendations have been grouped into national, law enforcement agency specific, competent 
+authority specific, and private sector specific recommendations. As this was the first PF risk assessment 
+conducted by the VI, the findings provide a useful foundation upon which law enforcement and other 
+regulatory authorities, as well as relevant gatekeepers can conduct meaningful risk analyses and adopt 
+policies, procedures and strategies to effectively address PF related matters.  
+ 
+ 
+8 
+ 
+2. 
+Introduction  
+ 
+Jurisdictional Profile 
+ 
+Geographical  
+ 
+2.1 
+The Virgin Islands is an archipelago of some sixty (60) islands which sit to the north of the Leeward Islands 
+and lie approximately 110 miles west of St. Maarten, a few miles east of the USVI and some 60 miles east 
+of Puerto Rico. Of the approximately sixty islands, islets and cays, twenty are inhabited. The islands are 
+primarily volcanic in nature, with the exception of Anegada, which is the most northerly of the islands and 
+is constituted of coral and limestone.  The islands’ geographical location in itself is not such that it would 
+be considered at risk for proliferation related activities.   
+ 
+Political 
+ 
+2.2 
+The Territory is classified by the United Nations as a non-self-governing Territory of the United Kingdom.  
+However, the Territory is internally self-governing, and operates under the Westminster system with a 
+Cabinet style government.The UK, however, maintains responsibility for external affairs and security and 
+retains associated reserve powers in these areas. 
+ 
+2.3 
+Ministers of Cabinet are appointed from amongst the members of the Legislature and are not 
+independently elected to executive office. Ultimately, they are accountable to the Parliament. The Virgin 
+Islands’ Parliament consists of thirteen elected members, the Attorney General and a non-elected Speaker 
+selected by the elected members of the House.   
+ 
+Socio-economic 
+ 
+2.4 
+The population of the Virgin Islands is approximately 32,000 and the Territory is home to residents from 
+over 110 different countries and territories who make up approximately 70% of the local labour force.  
+The official currency of the Territory is the US dollar.1 The Virgin Islands’ current economic performance 
+is reflected by slightly negative growth in the Territory’s GDP from $1.38 billion in 2018. The negative 
+impact on performance and growth can be attributed largely to the effects of the global coronavirus 
+pandemic during that period, particularly given the total closure of the tourism sector for most of the 
+fiscal year 2020, at which point GDP stood at $1.31 billion, before rising to $1.34 billion in 2021. 
+ 
+1 This is by virtue of the Legal Tender (Adoption of United States Currency) Act (Cap. 102) of the Laws of the Virgin Islands. 
+9 
+ 
+3. 
+Methodology 
+ 
+3.1 
+The methodology used to conduct this risk assessment was based on international best practices and 
+implemented through the use of the Proliferation Financing Rapid Risk Assessment Tool developed by the 
+Royal United Services Institute for Defence and Security Studies (RUSI). 
+ 
+3.2 
+Data and other information was gathered from a number of sources including the Ministry of Finance, 
+Companies Registry, the VISR, the FIA, the FSC, the GO, the ODPP and the RVIPF. Questionnaires were also 
+circulated to each LEA to gauge their understanding of their involvement in the Territory’s CPF framework 
+and their exposure and experience in dealing with CPF related issues. Compliance inspection data was 
+also reviewed to determine the level of understanding of, and compliance with CPF requirements within 
+the private sector. 
+ 
+3.3 
+The methodology provides for the identification of threats in the context of various socio-economic, 
+political, geographic, legal and sectoral factors within the jurisdiction. These threats were then analysed 
+and rated based on an assessment of their prevalence in the Territory. Similarly, the vulnerabilities of 
+those jurisdictional factors that allow for the promulgation of the identified threats were also identified, 
+analysed and rated taking into account any mitigating factors. The Assessment Tool then provided the 
+likelihood of a risk emanating from each threat and associated vulnerabilities. In essence this is the risk 
+associated with each threat. 
+ 
+3.4 
+Threats and vulnerabilities were identified as low, medium or high and rated accordingly. The following 
+point value scales were then be applied to determine the overall vulnerability and risk ratings for each 
+identified threat: 
+ 
+ 
+Scale 
+Rating 
+ 
+a) 
+2.1 – 3 
+High 
+ 
+b) 
+1.1 – 2.09 
+Medium 
+ 
+c) 
+0 – 1.09 
+Low 
+ 
+ 
+3.5 
+The overall threat, vulnerability and risk ratings are identified in Table 3.1.  
+ 
+Threat 
+Threat 
+Score 
+Vulnerability 
+Score 
+Risk Score 
+Risk 
+ Rating 
+Use of BVIBCs to facilitate business 
+transactions 
+3 
+1.83 
+2.42 
+H 
+Use of Registered Agents 
+2 
+1.29 
+1.64 
+M 
+ 
+Use of cryptocurrencies 
+3 
+2.33 
+2.67 
+H 
+ 
+Use of Trusts 
+1 
+1.00 
+1.00 
+L 
+Exposure in banking sector to high-risk 
+customers 
+1 
+1.00 
+1.00 
+L 
+10 
+ 
+Threat 
+Threat 
+Score 
+Vulnerability 
+Score 
+Risk Score 
+Risk 
+ Rating 
+Use of MSBs for cash transfers to 
+support PF 
+1 
+1.00 
+1.00 
+L 
+Use of BVI flagged vessels owned via 
+BVIBCs 
+1 
+1.33 
+1.17 
+M 
+Use of non-domestic vessels owned via 
+BVIBCs 
+2 
+1.43 
+1.71 
+M 
+Use of BVIBCs to facilitate international 
+trade 
+3 
+1.63 
+2.31 
+H 
+Use of BVIBCs to facilitate collection and 
+movement of funds 
+2 
+1.50 
+1.75 
+M 
+Table 3.1 – PF Threats, Vulnerability and Risk Scores and Ratings 
+ 
+3.6 
+The threats and corresponding vulnerabilities are depicted in Chart 3.1, while the overall risk rating for 
+each identified threat can be found at Chart 3.2. 
+ 
+ 
+Chart 3.1 – PF Threats and Vulnerability Ratings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Use of BCs
+to
+facilitate
+business
+trans-
+actions
+Use of
+Registered
+Agents
+Use of
+crypto-
+currencies
+Use of
+legal
+arrange-
+ments
+Exposure
+in banking
+sector to
+high-risk
+customers
+Use of
+MSBs for
+cash
+transfers
+to support
+PF
+Use of BVI
+flagged
+vessels
+owned via
+BVIBCs
+Use of
+non-
+domestic
+vessels
+owned via
+BVIBCs
+Use of
+BVIBCs to
+facilitate
+inter-
+national
+trade
+Use of
+BVIBCs to
+facilitate
+collection
+and
+movement
+of funds
+Threat
+3
+2
+3
+1
+1
+1
+1
+2
+3
+2
+Vulnerability
+1.83
+1.29
+2.33
+1.00
+1.00
+1.00
+1.33
+1.43
+1.63
+1.50
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Threats and Vulnerabilities
+11 
+ 
+ 
+Chart 3.2 – PF Risk Ratings 
+ 
+ 
+Use of BCs
+to
+facilitate
+business
+trans-
+actions
+Use of
+Registered
+Agents
+Use of
+crypto-
+currencies
+Use of
+legal
+arrange-
+ments
+Exposure
+in banking
+sector to
+high-risk
+customers
+Use of
+MSBs for
+cash
+transfers
+to support
+PF
+Use of BVI
+flagged
+vessels
+owned via
+BVIBCs
+Use of
+non-
+domestic
+vessels
+owned via
+BVIBCs
+Use of
+BVIBCs to
+facilitate
+inter-
+national
+trade
+Use of
+BVIBCs to
+facilitate
+collection
+and
+movement
+of funds
+Likelihood
+2.42
+1.64
+2.67
+1.00
+1.00
+1.00
+1.17
+1.71
+2.31
+1.75
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+PF Risk
+12 
+ 
+4. 
+The Legislative Framework 
+ 
+4.1 
+The Virgin Islands’ domestic PF framework is in alignment with the various UN Council Resolutions 
+(UNSCRs) on biological, chemical and nuclear weapons and in particular UNSCR 1540 which calls on all 
+member states to refrain from providing any form of support to non-State actors that attempt to develop, 
+acquire, manufacture, possess, transport, transfer or use nuclear, chemical or biological weapons and 
+their means of delivery, in particular for terrorist purposes. The resolution requires all States to adopt and 
+enforce appropriate laws to this effect as well as other effective measures to prevent the proliferation of 
+these weapons and their means of delivery to non-State actors, in particular for terrorist purposes.2 
+ 
+4.2 
+The Proliferation Financing (Prohibition) Act, 2021 (PFPA) is the primary piece of legislation governing the 
+criminalisation of proliferation of weapons of mass destruction and the provision of financing for such 
+activities in the Virgin Islands. The implementation of the new PFPA comes as a result of the 
+recommendation made in the 2016 NRA for the legislation to be reviewed to ensure it covered all of the 
+elements listed in Recommendation 7. As such, the provisions within the PFPA seek to prevent the 
+proliferation of WMD and their financing and is fashioned off of FATF Recommendation 7 on targeted 
+financial sanctions (TFS) related to proliferation. This Act supersedes the Proliferation Financing 
+(Prohibition) Act, 2009 which governed the prohibition of PF related activities in the Territory prior to the 
+revision of the FATF’s then 40 +9 Recommendations to incorporate provisions on PF. 
+ 
+4.3 
+The PFPA defines PF as the act of making available an asset, providing a financial service or conducting a 
+financial transaction that facilitates: 
+• 
+the manufacture, production, possession, acquisition, stockpiling, storage, development, 
+transportation, sale, supply, transfer, export, trans-shipment or use of: 
+• 
+nuclear, chemical or biological weapons; or 
+• 
+materials related to nuclear, chemical, biological or radiological weapons that are restricted or 
+prohibited 
+ 
+4.4 
+Within the PFPA, PF also includes the provision of technical training, advice, service, brokering or 
+assistance related to any of the above activities.  This definition aligns with the FATF definition of PF3, and 
+the provisions of the PFPA support the implementation of prohibitions outlined in the relevant UNSCRs 
+relating to CPF.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 https://www.un.org/disarmament/wmd/sc1540/  
+3 Pg 5 Combating Proliferation Financing: A Status Report on Policy Development and Consultation 
+13 
+ 
+4.5 
+The PFPA confers power on the BVI Financial Investigation Agency (FIA) to:  
+ 
+• 
+monitor and assess the level of PF risk in the Territory and take appropriate steps to address that 
+risk; 
+• 
+provide guidance and feedback to persons and entities to assist them in complying with the 
+provisions of the PFPA; 
+• 
+cooperate with domestic and international counterparts to ensure consistent, efficient and 
+effective implementation of the PFPA; and 
+• 
+perform any other duties that are not inconsistent with the PFPA to ensure compliance with the 
+requirements of the PFPA.4 
+ 
+4.6 
+The PFPA also empowers the FIA to take action against any person or entity for non-compliance with the 
+provisions of the PFPA. Such action would come primarily in the form of directions that may be issued by 
+the FIA. The ability to do so was also identified and recommended in the 2016 NRA. Information gathered 
+by the FIA in the exercise of its duties in carrying out the provisions of the PFPA may be the subject of 
+information exchange, provided that such requests for information are made in accordance with relevant 
+legislative provisions. The PFPA also calls for mandatory reporting by persons, natural or legal, of assets 
+frozen and other actions taken against designated persons. Such assets should be frozen without delay 
+thereby preventing funds from being made available directly or indirectly for the benefit of any designated 
+person or entity. The PFPA prohibits persons from dealing with assets of a designated person unless 
+authorised to do so via licence issued by the Governor. 
+ 
+4.7 
+In addition, the PFPA provides the Governor with the authority to make designations of persons who meet 
+the criteria for designation by the UN Security Council and its Committees. 
+ 
+4.8 
+With regard to TFS, the United Kingdom Sanctions and Anti-Money Laundering Act, 2018 (“SAMLA”) 
+provides the legal framework for the implementation of sanctions in the United Kingdom. Pursuant to 
+SAMLA, UN designations and UN Security Council Resolutions automatically apply in the UK and are 
+implemented through the relevant UK Sanctions Regulations and under the Immigration Act 1971 in 
+relation to travel bans.  These Regulations include the Democratic People’s Republic of Korea (Sanctions) 
+(EU Exit) Regulations 2019, which establishes a sanctions regime in relation to the DPRK for the purposes 
+of implementing many of the obligations that the United Kingdom has under UN Security Council 
+Resolution 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 
+2371 (2017), 2375 (2017) and 2397 (2017).  It also includes the Iran Sanctions (Nuclear) (EU Exit) 
+Regulations 2019 which give effect to UNSCR 2231 endorsing the 2015 Joint Comprehensive Plan of 
+Action.  
+ 
+ 
+ 
+ 
+ 
+4 s.38 Proliferation Financing (Prohibition) Act, 2021 
+14 
+ 
+4.9 
+The FCDO has broad oversight for UK Sanctions policy and is responsible for administering and maintaining 
+a list of sanctions in the UK OTs. As an OT, the VI is required to implement the international sanctions 
+obligations of the UK. The sanction measures for various sanctions regimes established under the relevant 
+UK Sanctions Regulations are extended to the VI via Overseas Territories Orders-in-Council. This includes 
+The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2020 which extends 
+the provisions of the Democratic People’s Republic of Korea (Sanctions) (EU Exit) Regulations 2019 and 
+The Iran (Sanctions) (Nuclear) (Overseas Territories) Order 2020 which extends the provisions of the Iran 
+Sanctions (Nuclear) (EU Exit) Regulations 2019.  
+ 
+4.10 In the VI, the Governor is the Competent Authority for the administration and enforcement of these 
+Orders-in-Council. The Governor, therefore, has certain powers and duties in relation to the 
+implementation of sanction measures. This includes the power to issue, amend and revoke licences 
+(subject to the consent of the Secretary of State) issued to sanctioned individuals or their representatives 
+in justified cases, which would permit the conduct of otherwise prohibited acts. The Orders-in-Council 
+typically also require the Governor to publish a notice of each OT Order in addition to a consolidated list 
+of designated persons or restricted goods and to keep such lists updated. 
+ 
+4.11 In addition to the various Orders-in-Council that cover financial sanctions, the following Orders-in-Council, 
+are also applicable and form part of the Territory’s Counter Proliferation Financing (CPF) framework.   
+ 
+• 
+Chemical Weapons (Overseas Territories) Order, 2005 - prohibits the use, development or 
+production, possession or transfer of a chemical weapon or any military preparation relating to 
+the intended use of a chemical weapon. Requests in relation to these matters are transmitted 
+through the Governor as the relevant central authority. 
+ 
+• 
+Chemical Weapons (Sanctions) (Overseas Territories) Order, 2020 - gives effect to the sanctions 
+regime created under the Chemical Weapons (Sanctions) (EU Exit) Regulations, 2019 for the 
+purpose of deterring the proliferation and use of chemical weapons, including encouraging the 
+effective implementation of the Chemical Weapons Convention.   
+ 
+ 
+15 
+ 
+5. 
+CPF Operational Framework  
+ 
+5.1 
+In the Virgin Islands the responsibility for identifying, monitoring, investigating, prosecuting and providing 
+mutual legal assistance and other forms of international cooperation on PF related matters spans across 
+the following CAs and LEAs.   
+ 
+a) AGC  – primary authority responsible for receipt and actioning of MLA requests and other forms 
+of international cooperation relative to civil and criminal matters. 
+b) FIA  – primarily responsible for PF matters including taking action against persons/entities for 
+non-compliance with the PFPA. Serves as the national financial intelligence unit for the 
+receipt and analysis of SARs and dissemination of intelligence to local and foreign 
+counterparts. Assists the AGC in the provision of information in response to MLA requests 
+and is responsible for investigating and reporting on any potential sanctions breaches 
+identified by the GO. Supervisory authority for NPOs and DNFBPs.   
+c) FSC  – regulatory authority responsible for the supervision of FIs including monitoring and 
+enforcement of regulatory obligations relative to Targeted Financial Sanctions (TFS).  
+Responsible for the administration of the BVI Business Companies Act and the registration 
+of BVIBCs doing business in and from within the VI, and maintenance of the Register of 
+Companies. Provides international cooperation assistance to foreign counterparts in 
+concurrence with established MoUs and other international obligations. 
+d) GO  –  responsible for the implementation of UK sanctions measures including the issuing, 
+varying and revocation of licences that permit the conduct of activities otherwise not 
+permitted under the relevant Orders-in-Council. 
+e) RVIPF – responsible for the investigation of all criminal matters including PF related activities.  
+f) ODPP –  prosecutorial authority responsible for ensuring swift and proper prosecution of all 
+criminal matters including PF related matters. 
+g) HMC  –  primarily responsible for the safeguarding of the Territory’s borders (in conjunction with 
+the RVIPF and the Immigration Department) against illegal entry, people smuggling and 
+human trafficking, and the prevention of importation and/or transhipment of illegal 
+weapons and related contraband.     
+h) VISR – responsible for the registration of ships, and for implementing and enforcing the 
+regulations applicable to all Virgin Islands vessels on both domestic and international 
+routes, and for all vessels navigating in the territorial waters of the Virgin Islands. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+Domestic Cooperation 
+5.2 
+The framework used for fostering inter-agency cooperation in the VI includes information exchange based 
+on the use of bi-lateral inter-agency MOUs as well as a multi-lateral inter-agency MOU established 
+amongst the 18 members of the IGC5. This MMoU defines the relationship between the members and 
+compels them to work together to, inter alia, enhance the Territory’s compliance with its international 
+obligations with respect to information exchange, and coordinate activities to effectively combat 
+criminality relative to all AML/CFT related matters, including PF.   
+ 
+5.3 
+Cooperation and the use of the MMoU could be further strengthened with a review of the MMoU, which 
+is currently eight years old, to include timescales for the processing of requests as in some instances 
+responses to requests were not received or received timely.   
+ 
+5.4 
+Additionally, the LEAs within the Territory as a matter of practice, co-operate and share information with 
+each other on a regular basis. Case Example 1 below, although not PF related demonstrates the level of 
+cooperation engaged in across domestic LEAs. 
+ 
+Case Example 1 
+In 2021, as a result of an RVIPF intelligence led operation, subject was stopped and arrested.  A 
+quantity of cocaine was seized and a value of over $50 million was identified.  
+A parallel ML investigation was formally instigated following information obtained from the FIA in 
+August 2021, although informal enquiries had been conducted prior. 
+The ML Investigation utilised search warrants, the IGC MMoU and Production Orders requested under 
+the PCCA.  The subject’s gross earnings during a 10-year period averaged under $5,000 per year. No 
+social contributions had been made by the subject since 2007, and no revenue was declared for a 
+business that the subject claimed to operate, although information gathered identified multiple 
+vehicles imported from December 2019 to March 2021 on behalf of the declared business.These 
+vehicles were mainly pre-owned with a total value of over $130,000.  
+The RVIPF FCU instigated formal requests through HMC with US authorities to identify the relevant 
+information to support a formal MLA request in relation to the purchase of the said vehicles and any 
+other ancillary information.  
+Concerning the ML charge, restraint and eventual confiscation of the identified vehicles recorded as 
+belonging to the subject has been requested through the ODPP as required by the RVIPF/ODPP 
+protocols. 
+ 
+ 
+ 
+ 
+5 Members of the IGC are the AGC, FSC, FIA, HMC, Post Office, Inland Revenue Department, High Court, 
+Magistrate’s Court, Immigration Department, ODPP, RVIPF, VISR, Department of Trade and Consumer Affairs, BVI 
+Ports Authority, BVI Airports Authority, Land Registry, International Tax Authority and the NPO Board. 
+17 
+ 
+5.5 
+In addition, information that relates to maritime activities of vessels registered in the BVI, including 
+beneficial ownership of such vessels where available, is shared between VISR, the RVIPF, HMC, the FIA 
+and the ITA on a case-by-case basis. 
+ 
+5.6 
+The relationship between the FIA and the GO is of particular importance in relation to the investigation of 
+potential breaches of targeted financial sanctions. Where the GO receives a report of a suspected breach, 
+it will request the FIA investigate. The GO keeps a log and track of these investigations, and the FIA 
+provides regular updates to the GO on the investigations. The FIA also provides valuable support to the 
+AGC in gathering information relating to legal persons and legal arrangements established in the VI to 
+allow for the AGC to respond to MLA requests.   
+ 
+International Cooperation 
+5.7 
+ The Virgin Islands has for over twenty-five years, since the enactment of the Criminal Justice 
+(International Cooperation) Act, 1993, been involved in international cooperation matters by providing 
+mutual legal assistance upon request. The VI embraces international standards and best-practice 
+standards which promote international cooperation and international security in accordance with 
+international agreements. This includes the implementation of measures to ensure that it meets its 
+obligations to combat ML, TF and PF as embodied under the FATF Recommendations. 
+ 
+5.8 
+International cooperation is of utmost importance in relation to PF given the deleterious consequences 
+that may occur should proliferation actors be allowed to carry out their illicit activities. The ability to 
+provide mutual legal assistance and other forms of international cooperation is, therefore, paramount to 
+the VI’s ability to assist in mitigating such risk.  
+ 
+5.9 
+LEAs and CAs within the VI have the capacity to cooperate and exchange information with their regional 
+and international counterparts. The RVIPF has several bi-lateral agreements in place with policing 
+authorities in St. Vincent and the Grenadines, Antigua and Barbuda, the Turks and Caicos Islands, the 
+Cayman Islands, Canada, St. Martin, Trinidad and Tobago, and the UK, as well as US and USVI law 
+enforcement authorities. The RVIPF has a good working relationship with the US DEA, ATF, FBI and the 
+USVI Police Department. The RVIPF regularly supports US LEA operations which plays a pivotal role in 
+disrupting drugs, people and firearms smuggling between the VI and the surrounding US Territories of the 
+USVI, Puerto Rico and the US mainland. The RVIPF also has a good working relationship with the UK NCA, 
+the Law Enforcement Adviser – British Overseas Territories within the FCDO who provides access to UK 
+Police Services, and INTERPOL.   
+ 
+ 
+18 
+ 
+5.10 Case Examples 2 and 3 below, while not specifically PF related, demonstrate the RVIPF’s ability to 
+cooperate with foreign law enforcement. 
+ 
+Case Example 2 
+ 
+Case Example 3 
+In 2022, information was received that a murder suspect had illegally travelled to the USVI. The RVIPF 
+made contact with the USVI Police Department and US Department of Homeland Security to brief them 
+and circulated a Wanted Persons Bulletin. Within 48hrs the suspect was sighted and detained. The 
+suspect was then deported by the US Department of Homeland Security and on arrival in the BVI was 
+charged and is currently awaiting trial. 
+ 
+5.11 HMC is a member CCLEC and has participated in joint operations with the US ICE and CBP units amongst 
+others. As a member of Egmont, the FIA is able to provide and request assistance from other members 
+when necessary to aid in domestic and foreign investigations. Additionally, VISR has a good working 
+relationship with the USCG. 
+ 
+5.12 With respect to the CAs, they too are able to provide international cooperation to their foreign 
+counterparts when called upon. The FSC is a member of IOSCO, IAIS, GIFCS, ASBA, CGSR and CGBS.  
+Membership in these organisations allow the FSC to assist member countries with information requests 
+when called upon. Under the Territory’s international cooperation framework, the AGC has the ability to 
+provide information through the formal MLA process as well as spontaneously when necessary.  The GO, 
+which is the CA responsible for sanctions matters, is supported by its colleagues in the Sanctions Unit in 
+the FCDO to ensure the necessary sanctions orders are implemented domestically, and to provide 
+responses to queries received from the various UN Panel of Experts. The GO also works closely with OFSI 
+for advice on best practice, including training opportunities, with respect to sanction implementation.  
+The VI thereby mitigates PF risk by ensuring timely communication with respect to international 
+cooperation requests, including those received from the various UN Panel of Experts, and by 
+implementing specific strategies to mitigate PF risk. Case Example 4 highlights the VI’s ability to effectively 
+respond to international cooperation requests and assist with extra-territorial investigations. 
+ 
+ 
+ 
+ 
+In 2021 the RVIPF arrested a subject suspected of being involved in organised crime. The arrest phase 
+of the operation was supported by US law enforcement.   The suspect was found to be in possession of 
+a fully loaded modified handgun.  Further search of his property uncovered a number of other firearms 
+and accessories as well as thousands of rounds of ammunition and a large quantity of cash and illegal 
+drugs. 
+ 
+Following the recovery of these firearms the RVIPF MIT initiated contact with the US ATF in order to 
+trace the source of the firearms. This has led to an ATF firearms trafficking investigation in the US which 
+is ongoing and has already led to one arrest and the recovery of a firearm in the USVI. 
+19 
+ 
+Case Example 4 
+In May 2020 the FIA received a request for assistance from the UN Panel of Experts on DPRK via the 
+Office of the Governor. The request was in reference to a BVIBC suspected of non- compliance with 
+measures imposed on DPRK. The request sought confirmation of company registration, director, 
+shareholder, and BO information along with any bank account details for any accounts that may have 
+existed in the BVI. The FIA conducted enquiries and provided a response to the UN Panel through the 
+Governor’s Office in May 2020. No supplemental requests were received in reference in this matter; 
+therefore, the matter was closed. 
+ 
+Targeted Financial Sanctions 
+5.13 As a British Overseas Territory, the VI is committed to ensuring its role in the maintenance of international 
+peace and security, and therefore implements the international sanctions obligations extended through 
+the UK in the form of Orders-in-Council. The Governor is the CA with responsibility for enforcing Orders-
+in-Council relative to international sanctions. Through internal processes between the GO and the FIA 
+suspected breaches are investigated and responded to in a timely manner. In accordance with the TFS 
+regime, the Governor is conferred with powers under the individual Sanctions Orders, with the consent 
+of the Secretary of State, to issue licences to conduct business with or on behalf of a designated person 
+or entity.  In considering such licences the GO works closely with the AGC to ensure all applications meet 
+the criteria and are properly evaluated. The GO and AGC are also supported by the FCDO’s Sanction Unit 
+and OFSI in considering the applications. 
+ 
+5.14 Between 2018 and 2021 the Governor granted one (1) such license. The licence was granted under the 
+Ukraine (Sanctions) (Overseas Territories) (No. 2) Order 2014 and was not specifically in relation to 
+persons or entities designated for matters concerning PF. The low number of requests for licenses 
+correlate with the low number of instances in which BVIBCs or persons related to BVIBCs have been 
+designated, regardless of the reason for designation.   
+ 
+Investigation and Prosecution of PF  
+5.15 The RVIPF is the LEA responsible for the investigation of all suspected criminal matters. The RVIPF’s FCU 
+is the single point of contact for RVIPF enquiries into financial matters and is the lead unit for financial 
+crime investigations. The FCU works closely with other Units within the RVIPF including the Major Crimes, 
+Serious Investigation Team (SIT) Intelligence Unit and the Criminal Investigations Division. In addition, 
+there are regular formal and informal working arrangements with other domestic and foreign agencies 
+during such investigations. Where the RVIPF may become involved in a complex case for which they lack 
+internal expertise, they have the ability to bring in the necessary external expertise to assist with any 
+investigations that may need to be conducted. 
+ 
+ 
+20 
+ 
+5.16 During the reporting period no PF cases were referred to the FCU for investigation, nor did the FCU 
+instigate any investigations on its own.  Additionally, there were no PF-related MLA or other international 
+cooperation requests received. The FCU however, as noted previously, does have good working 
+relationships with its regional and international counterparts that would allow it to provide assistance 
+should the need arise and stands ready to undertake any future investigations that may arise. The RVIPF 
+also has the ability to run parallel investigations domestically and concurrently with its international 
+counterparts where the alleged activities of a BVI person, including a legal person or arrangement are 
+such that charges could be brought in domestic courts for breach of any domestic legislation. The RVIPF’s 
+experience in running parallel investigations in relation to ML demonstrates that there is no impediment 
+to them being able to do so in relation to any potential PF investigation that may arise. 
+ 
+5.17 The ODPP is the sole prosecutorial authority in the Virgin Islands. All investigative files submitted by the 
+RVIPF regardless of the offense, are reviewed by the ODPP prior to any charges or complaints being 
+preferred. Files are subjected to a two-step test which looks at a) whether there is sufficient evidence that 
+would more than likely lead to a conviction, and b) whether it is in the public interest to commence a 
+prosecution. Only when both tests are met will a prosecution commence. The ODPP also has the ability 
+to engage outside counsel to assist in prosecuting matters of a complex nature where they may not have 
+the specific expertise.   
+ 
+5.18 No PF related prosecutions were carried out in the Territory within the reporting period.  However, where 
+an investigation is being conducted in another jurisdiction the Virgin Islands has the ability, through its 
+international cooperation framework, to offer international legal assistance to that jurisdiction if so 
+requested. The experience of LEAs, including the ODPP in relation to investigations and prosecutions of 
+ML cases with an extra-territorial element demonstrates the Territory’s ability to cooperate 
+internationally, which would also include on issues relative to PF. The ODPP has indicated that providing 
+assistance via international cooperation is the preferred way of dealing with alleged crimes committed by 
+a BVI entity outside the Territory rather than attempting to prosecute locally, particularly in relation to a 
+BVIBC that may have no physical presence in the Territory. Given this policy, any prosecutions relative to 
+PF would likely, therefore, occur extra-territorially with the Virgin Islands providing assistance when called 
+upon to do so. While this policy allows the Territory to demonstrate its ability to provide international 
+cooperation it signifies a shortcoming in the domestic framework that may allow BVIBCs to evade local 
+prosecution for their involvement in any potential illegal activities.  
+ 
+ 
+21 
+ 
+6. 
+Proliferation Financing – Risk Overview  
+ 
+6.1 
+The risk of PF to a jurisdiction is considered to be a function of its PF threats and vulnerabilities and 
+resulting consequences. PF risk is based primarily on the threat caused by illicit use of products and 
+services and exploitation of key sectors by persons designated by the United Nations, and those who act 
+on their behalf, to facilitate the financing of proliferation of weapons of mass destruction, and the 
+vulnerabilities inherent in a jurisdiction’s systems that allow these threats to persist. Vulnerabilities are 
+effectively those factors that represent weaknesses in the Territory’s CPF system, including features of a 
+particular sector, financial product or type of service that may provide opportunities for designated 
+persons and entities to raise or move funds or other assets. 
+ 
+6.2 
+The FATF refers to a threat in the PF context, as designated persons and entities that have previously 
+caused, or with the potential to evade, breach or exploit a failure to implement PF-TFS in the past, present 
+or future. Such threat may also be caused by those persons or entities acting for or on behalf of designated 
+persons or entities and can be an actual or a potential threat6. The concept of vulnerabilities is closely 
+linked to that of a threat and comprises those things that can be exploited by the threat, or that may 
+support or facilitate the breach, non-implementation, or evasion of PF-TFS7.   
+ 
+PF Threats 
+6.3 
+In the Virgin Islands, while the threat of PF in the domestic context may be minimal, given the Territory’s 
+standing as an International Finance Centre, understanding the threat of PF in this context is of particular 
+importance. The use of BVIBCs and other legal persons and arrangements to facilitate business globally 
+enhances the susceptibility of these structures to misuse for illicit purposes. 
+ 
+6.4 
+In this context particular attention has been paid to the threats facing the Territory in relation to  
+ 
+a) use of legal persons and legal arrangements;  
+b) international trade and collection and movement of funds; and  
+c) the use of ships registered in the Territory and their related activities, which include international 
+trade and shipping of goods by or on behalf of designated persons through the use of legal persons 
+and legal arrangements registered and operating from within the VI.   
+ 
+6.5  Attention has also been paid to the vulnerabilities of Registered Agents acting as “gatekeepers” given the 
+risk and context of the VI, who facilitate the registration of legal persons and arrangements and the 
+execution of cross-border business activities relative to shipping and international trade that may be 
+exploited to facilitate such illegal activities. 
+ 
+ 
+ 
+ 
+6 Pg 9 FATF Guidance on Proliferation Financing Risk Assessment and Mitigation 
+7 Ibid 
+22 
+ 
+A. Use of Legal Persons and Legal Arrangements 
+ 
+Trusts 
+ 
+6.6 
+In the Virgin Islands trusts are not required to be registered.  The requirement to undertake due diligence 
+on trusts including the beneficiaries is the obligation of the trustee. However, in the Virgin Islands persons 
+undertaking professional trustee business are required to be licensed to do so. TCSPs are regulated under 
+the BTCA and are subject to AML/CFT legislative provisions. Of the 283 licensed TCSPs in the Territory at 
+the end of 2021, 134 have the ability to provide trust business. Trust business provided by TCSPs includes 
+professional trustee, protector and administrator services.   
+ 
+6.7 
+At the end of 2020 there were 6,628 express trusts under administration. Further, there were 1,326 trusts 
+held under the Virgin Islands Special Trusts Act, 2003. At the end of 2020 the express trusts under 
+administration were valued at approximately $3.187 trillion. 
+ 
+6.8 
+During the reporting period there were no SARs filed with the FIA relative to PF or PF related activities 
+that involved a legal arrangement. Additionally, no MLA requests were received by the AGC, and no 
+directions were issued by the FIA in relation to any legal arrangement due to an association with PF. There 
+was also no reporting by FIs and DNFBPs of assets frozen or other actions taken against designated 
+persons linked to any legal arrangements as required under the PFPA.   
+6.9 
+In reviewing the data and other qualitative material gathered during the assessment, including 
+international typologies, it was determined that trusts were not typical vehicles used to facilitate PF, 
+therefore primary focus was placed on the use of legal persons. However, it is recognised that there is 
+some residual risk in relation to legal arrangements where the ownership structure of a legal person 
+includes a trust. The overall risk, however, was considered Low. 
+ 
+Limited Partnerships 
+ 
+6.10 In the Virgin Islands limited partnerships may be formed under the Limited Partnership Act, 2017 (LPA), 
+which replaced the provisions for limited partnerships under the Partnership Act, 1996. A limited 
+partnership must maintain a registered office and RA within the VI at all times8. Further, the general 
+partners of a limited partnership are required to maintain at the registered office a register of general 
+partners and a register of limited partners, or a record of the address of where such registers are 
+maintained9. Each register is required to include the name and address of each general and limited 
+partner, the date on which a person became a general or limited partner, the date a person ceased to be 
+a general or limited partner, and the particulars of the general or limited partnership interest, if any. The 
+limited partnership is also required to keep financial records and any other underlying documentation of 
+the limited partnership10. At the end of 2021 there were 2,066 limited partnerships registered in the 
+Territory. 
+ 
+8 Sections 18 and 19 LPA 
+9 Section 53 LPA 
+10 Section 54 Limited Partnership Act, 2017 
+23 
+ 
+6.11 There were no SARs filed with the FIA relative to PF or PF related activities that involved a limited 
+partnership during the reporting period.  No MLA requests were received by the AGC, nor were any 
+directions issued by the FIA in relation to any limited partnership due to an association with PF.  There 
+was also no reporting of assets frozen or other actions taken against designated persons linked to any 
+limited partnerships as called for under the PFPA. These factors, along with the lack of international 
+typologies identifying this type of legal person being misused for PF provided sufficient evidence to 
+consider the risk of misuse of limited partnerships to be Low. The risk involving the use of legal persons 
+and legal arrangements for the purposes of PF was therefore concentrated on BVIBCs. 
+ 
+BVI Business Companies 
+ 
+6.12 In relation to companies, there is no distinction between a company established to operate in or from 
+within the Territory.  At the end of 2021, there were 368,893 active BVIBCs on the Companies Register 
+(i.e. in good standing and in compliance with the BVIBCA). On average, however, less than 1% of BVIBCs 
+incorporated annually operate physically in the Virgin Islands. Most BVIBCs incorporated in the jurisdiction 
+are created for the purposes of cross-border business, primarily as entities to hold assets or as vehicles 
+for joint ventures which may be linked to the investment sector.    
+ 
+6.13 One of the identified threats of PF to the Virgin Islands is the use of BVIBCs to facilitate business 
+transactions, particularly in relation to movement of, and payment for goods and other services where 
+the ultimate destination of such goods is a sanctioned jurisdiction. This threat is further enhanced through 
+the use of BVIBCs to establish ownership of vessels that may engage in transporting illicit cargo to 
+sanctions countries. Case Examples 5 and 6 below highlight PF related activities linked to the DPRK 
+involving BVIBCs that were documented during the period 2018 to 2021 and the Territory’s ability to 
+investigate and respond to requests for cooperation from foreign counterparts. 
+ 
+ 
+Case Example 5 
+In August 2020, a BVIBC pleaded guilty in a U.S. Court to charges of conspiring to launder money in 
+order to evade US sanctions against DPRK The BVIBC did not contest the allegations and was fined 
+$673,714 by the US authorities.11   
+ 
+This matter was referred to the FIA by the Office of the Governor for investigation.  At a very early stage 
+in the process, the decision was taken to submit an MLA request to the foreign authorities in an effort 
+to obtain whatever evidence they may have had on the BVIBC to determine whether local charges 
+should be pursued.  However, the local investigation was discontinued as the FIA was unable to receive 
+the necessary information and documentation from the relevant foreign authorities although several 
+follow-up requests were made. 
+ 
+ 
+ 
+11 https://www.justice.gov/opa/pr/company-pleads-guilty-money-laundering-violation-part-scheme-circumvent-
+north-korean 
+24 
+ 
+Case Example 6 
+In 2019 fourteen countries were cited for failing to uphold DPRK sanctions in relation to vessel and 
+shipping related activities.  This included failure to prohibit nationals or entities incorporated in these 
+territories or subject to their jurisdiction, or vessels flying their flags, from facilitating or engaging in ship-
+to-ship transfers to or from DPRK flagged vessels.  This came as a result of an operation that identified a 
+number of illegal shipments to the DPRK, including the transfer of $5,700,000 worth of petroleum to a UN 
+designated ship destined for DPRK.  BVI corporate structures were named in the complex ownership of a 
+number of the vessels involved in the illegal ship to ship transfers. 
+ 
+In March of 2021, the FIA received a request for assistance from the UN Panel of Experts on the DPRK via 
+the Office of the Governor.  The request sought information on several BVIBCs pertaining to their 
+suspected involvement in several illicit ship-to-ship transfers, which resulted in refined petroleum 
+deliveries to the DPRK in violation of relevant UN sanctions including Resolutions 2321 and 2270 of 2016, 
+which prohibit the supply of financial services, directly or indirectly to the DPRK. Subsidiaries of the parent 
+group, including several of the BVIBCs, were alleged to be directly involved in facilitating sanctions evading 
+activities. As a result of inquiries conducted by the FIA, some 46 BVIBCs were found to be connected to the 
+parent group. The FIA assisted the UN Panel of Experts with information, including UBO, director, and 
+shareholder information on all of the mentioned BVIBCs, which included nationals of Singapore, Taiwan 
+and China.   
+ 
+6.14 Due to the nature of PF activities, jurisdictions could suffer significant reputational damage and negative 
+impacts to their economies for not taking sufficient steps to protect themselves and the international 
+community from the impact of these activities. Therefore, the ability for structures established in the BVI 
+to be misused as described in the cases above highlights the level of PF threat to which the jurisdiction is 
+exposed, and ultimately elevates the level of risk as any linkages to a BVI company, entity or person may 
+create significant reputational damage.  
+ 
+6.15 However, while the cases highlight that BVIBCs have been identified internationally in connection with 
+possible PF activities, there have been no SARs filed with the FIA within the reporting period relative to 
+PF or PF related activities. Additionally, no MLA requests were received by the AGC where PF or any PF 
+related activity was the subject of the request. There have also been no directions issued by the FIA in 
+relation to any person or entity associated with PF or any reporting by FIs and DNFBPs of assets frozen 
+and other actions taken against designated persons as called for under the PFPA. This may either be 
+interpreted as a true absence of any significant PF related activities, or it may be indicative of a lack of 
+understanding by BVIBCs and their service providers of their obligations in relation to PF. Where such 
+vulnerabilities exist, this lends itself to these entities being exploited by the threats facing the Territory 
+caused by the illicit use of these products and services to facilitate the financing of WMDs. The risk of this 
+threat is therefore considered to be High. 
+ 
+ 
+25 
+ 
+6.16 During the reporting period five requests for information from the UN Panel of Experts on DPRK were 
+received by the GO by way of the FCDO in relation to potential sanctions breaches involving the DPRK’s 
+nuclear weapons programme. Requests received by the GO from any of the UN’s Panels of Experts are 
+forwarded to the FIA for investigation, and results are returned to the GO without exception.  The requests 
+that were sent to the FIA for investigation were in relation to potential breaches of UN sanctions and 
+generally sought information on beneficial ownership, directorships and other shareholder information 
+of BVI registered entities. In all instances the FIA was able to provide the information requested, and all 
+requests were responded to by the FIA within the desired timeframe. The resulting findings were 
+communicated to the UN Panel of Experts in accordance with the Territory’s commitment to its 
+international cooperation obligations. The jurisdiction has received positive feedback from the UN Panel 
+for its responsiveness to their requests. 
+ 
+B. International Trade and Collection and Movement of Funds 
+ 
+6.17 The primary sectors of the economy which generate the most economic activity and revenue are tourism 
+and financial services, with financial services contributing approximately 33.8% of the Territory’s GDP, 
+with the larger portion of this revenue stemming from company formations. Most BVIBCs incorporated in 
+the jurisdiction are created for the purposes of cross-border business, primarily as entities to hold assets 
+or as vehicles for joint ventures which may be linked to the investment sector.   
+ 
+6.18 As a number of BVIBCs do engage in import/export and other trading related activities the possibility of 
+these entities being involved in the export and trade of dual use and other proliferation sensitive materials 
+was also considered. However, as there are no manufacturing sites or research centres physically located 
+in the Virgin Islands that produce dual use and proliferation sensitive goods, exposure to the export and 
+trade in such goods from a domestic perspective is not considered to be a threat. Additionally, the 
+geographical location of the Virgin Islands does not make it attractive as a trans-shipment point for goods 
+destined to the DPRK or Iran. The concern, therefore, in relation to such a threat would be from an 
+international perspective given the ability of BVIBCs to engage in import/export and other trading related 
+activities. This elevates the risk of these entities having direct or indirect engagement with some 
+sanctioned jurisdictions, or being used, whether knowingly or unknowingly, to provide goods that may 
+allow for the financing of proliferation related activities or development of proliferation capabilities for 
+the benefit of these sanctioned jurisdictions.  
+ 
+6.19 While most BVIBCs operate mainly in major global economies including Asia, South America, Europe, 
+North America, and to a lesser extent Africa, and provide legitimate services, data collected during the 
+assessment exercise was insufficient to quantify the level and type of trade engaged in by these entities.  
+Given the global nature of such trading activities, however, and the identification of the involvement of 
+BVIBCs in illegal trade related activities with the DPRK, although minimal, the threat of PF from such 
+activities is considered to be High.  
+ 
+ 
+26 
+ 
+6.20 The banking sector within the VI is small in comparison to other similar jurisdictions of size and type and 
+consists of six commercial banks and one private wealth management institution. Five of the commercial 
+banks are subsidiaries or branches of international banking groups established in a range of jurisdictions 
+with equivalent AML/CFT/CPF regimes to the Virgin Islands. The sixth commercial bank is domestically 
+owned with the majority shareholder being the Government of the Virgin Islands.  No bank in the Territory 
+provides foreign correspondent banking services. However, each bank has relationships with overseas 
+banks that provide the local entities with correspondent banking services. While the sector plays an 
+integral part within the financial services sector, with operations at both the domestic and international 
+levels, the products and services offered are standard banking related products and services and are not 
+of an overly complex nature.   
+ 
+6.21 Services are provided to non-resident persons either directly or through the provision of banking services 
+to legal persons and legal arrangements. The BOs and other relevant persons of these legal persons and 
+legal arrangements are clients of licensed TCSPs who are obligated to conduct CDD on their clients.  
+However, all of the banks are subject to the AMLTFCOP and AMLR and have undergone AML/CFT 
+compliance inspections to determine their level of adherence with their own AML/CFT obligations.  
+ 
+6.22 The banking sector within the VI predominantly provides banking facilities to residents and local 
+businesses. To put this into perspective the total value of non-resident loans at the end of 2021 was 
+reported at $60.03 million or approximately 4.8% of all total loans currently issued.  Similarly, non-resident 
+deposits accounted for only 21.3% of all deposits. Exposure to high-risk customers and PEPs is therefore 
+highly localised to those types of customers resident in the Territory. Given the predominantly domestic 
+nature of the banking services provided and the limited services provided to non-resident individuals the 
+threat of PF within this sector is considered to be Low. 
+ 
+6.23 With regard to money transfer services, only 2 money services licences have been issued. These two 
+entities are part of large international money transfer organisations with operations throughout the wider 
+Caribbean region and beyond. They currently provide money transmission services through two branches 
+and three representative offices. 
+ 
+6.24 Outward money transfers constitute the greatest number of transactions recorded, accounting for 90.83% 
+of all transactions. The average value of outgoing transactions is $314.00. Incoming transfers average 
+approximately 9.17% of all transactions. Given the demographic composition of the Territory this 
+imbalance between incoming and outgoing transfers is not unexpected.  
+ 
+ 
+27 
+ 
+6.25 The core markets for MSBs within the VI are non-resident workers repatriating funds to their home 
+countries and residents sending money abroad primarily for business and educational support purposes.  
+Majority of MSB clients have been identified as construction workers, labourers and low-income earners.  
+The top jurisdictions receiving outward transfers are the Dominican Republic, Jamaica and Guyana. This 
+is aligned to the size of these immigrant populations which rank in the top 5 jurisdictions from which the 
+labour force in the VI is sourced. The threat of misuse of the money services sector for PF purposes, 
+therefore, is considered to be Low as there is no evidence of any financial flows involving Iran or DPRK or 
+any high-risk conflict areas. 
+ 
+6.26 Given the volume of large-scale cross-border transactions conducted on a daily basis by BVIBCs, the 
+potential for misuse is inherently greater. This is driven by the complexity of the international financial 
+transactions they often engage in, which heighten the risk of these structures being used to facilitate the 
+financing of proliferation. The rationale being that it is possible that these BVIBCs and other available 
+financial products may be used to facilitate payments through the legitimate banking system to other 
+entities involved in the provision, transportation and/or delivery of proliferation related goods and 
+services to sanctioned countries.   
+ 
+6.27 Reported instances of PF associated with BVI structures have been minimal during the reporting period.  
+Nonetheless, due to the large number of BVIBCs and other legal arrangements operating in and from 
+within the VI, the threat of misuse of these entities is considered to be material, given the potentially 
+extensive impact of such activity to the reputation of the jurisdiction. The threat of PF associated with the 
+collection and movement of funds on an international level by BVIBCs is, therefore, considered to be 
+Medium. 
+ 
+C. Ship Registration and Shipping Related Activities 
+ 
+6.28 The responsibility for registration of vessels wishing to fly the VI maritime flag lies with the VISR.  VISR is 
+a Category 1 ships registry which allows it to register all ship types of unlimited size.  It is an active 
+participant at the International Maritime Organization (IMO), and all major maritime conventions have 
+been extended to the BVI and enacted through BVI law. VISR’s primary role is to implement the maritime 
+policies of the BVI Government, principally through the BVI Merchant Shipping Act, 2001 (MSA).12     
+ 
+6.29 All VI maritime laws are applicable to vessels registered by VISR and administration of these vessels is the 
+responsibility of VISR through its certification process.   
+ 
+ 
+ 
+12 https://www.redensigngroup.org/member-registers/category-1/british-virgin-islands/  
+28 
+ 
+6.30 Citizens of, and Bodies Corporate registered in the BVI or, any of the following countries, are qualified to 
+own a Virgin Islands vessel:  
+• 
+United Kingdom and its Crown Dependencies and Overseas Territories 
+• 
+Nationals of and bodies corporate incorporated in: 
+o Member States of the European Community (EC) or European Economic Area (EEA) 
+o Overseas Territories of the Members of EC or EEA.  (Bodies corporate must have a place 
+of business in such Member State or Overseas Territory) 
+• 
+Bodies corporate incorporated in a Member State of the Caribbean Community (CARICOM) or the 
+Organization of Eastern Caribbean States (OECS) and registered in the BVI13. 
+ 
+6.31 A Body Corporate must submit a valid Certificate of Incorporation issued by the Registrar of Companies 
+within the respective jurisdiction, while individuals must provide certified proof of nationality.  A company 
+incorporated for more than twelve months is also required to submit a ‘Certificate of Good Standing’. 
+ 
+6.32 When registering a vessel where ownership is through a BVIBC, VISR relies on the Registered Agent of the 
+BVIBC to conduct CDD on the beneficial owners of a vessel. In cases where a registered vessel is owned 
+by a qualifying non-BVIBC, VISR will require the vessel to appoint a ‘Representative Person’ (RP), defined 
+in VISR’s certification instructions as an individual or company resident in the Virgin Islands. This person 
+is held responsible for conducting and maintaining CDD on the beneficial owner of the vessel. Information 
+on BO is not required to be provided to VISR, however, VISR can request this information should the need 
+arise.   
+ 
+6.33 As of 1 June 2022, there were 3137 vessels on VISR’s register, 551 of which were registered between 2018 
+and 2021.  Of this 551, 493 were owned through a corporate structure as outlined in Table 6.1 below. 
+ 
+Year 
+Ownership 
+  
+Individual 
+Company 
+2018 
+9 
+154 
+2019 
+7 
+124 
+2020 
+7 
+88 
+2021 
+35 
+127 
+Total 
+58 
+493 
+Table 6.1 – Ships Registered by VISR between 2018 and 2021 by Ownership 
+ 
+6.34 The types of vessels registered by the VISR vary (see Table 6.2); however, 79% of the vessels registered 
+between 2018 and 2021 were privately owned pleasure craft, while 17% were classified as commercial or 
+cargo.  The other 4% consisted of passenger vessels and tugs.   VISR currently does not distinguish between 
+vessels owned through a BVIBC and those owned by or through a non-BVI corporate structure.  
+ 
+ 
+ 
+13 https://bvi.gov.vg/services/application-register-shipvessel  
+29 
+ 
+Year 
+Type 
+  
+Pleasure 
+Tugs 
+Passenger 
+Commercial 
+Cargo 
+2018 
+142 
+4 
+3 
+14 
+0 
+2019 
+104 
+1 
+3 
+22 
+1 
+2020 
+76 
+0 
+5 
+14 
+0 
+2021 
+114 
+0 
+5 
+43 
+0 
+Total 
+436 
+5 
+16 
+93 
+1 
+ 
+79.13% 
+0.91% 
+2.90% 
+16.88% 
+0.18% 
+Table 6.2 – Ships Registered by VISR between 2018 and 2021 by Type 
+ 
+6.35 Commercial vessels pose the highest risk of being involved in proliferation related activities as it is these 
+types of vessels that are generally identified in transnational shipping where goods may be directed or 
+redirected to proliferation acting states such as Iran and DPRK.    
+ 
+6.36 The threat in the Virgin Islands context, therefore, is twofold. Firstly, through the possible use of BVI 
+flagged vessels registered by VISR, including those owned through a BVIBC, that may be used to transport 
+goods to these sanctioned countries or that may be involved in “spoofing” or other illegal activities, 
+including ship-to-ship transfers of fuel and other prohibited goods destined for sanctioned countries.  The 
+risk of this threat is considered to be Medium.  Secondly, through the use of non-domestic vessels outside 
+the realm of VISR registration, where ownership is through a BVIBC. This may occur where a non-domestic 
+vessel engaging in the illicit transportation of goods to sanctioned countries is directly owned by a BVIBC, 
+or where a BVIBC is listed in the ownership structure of the vessel in question.  Vessels that fly another 
+country’s maritime flag are considered non-domestic. Documentation and certification of non-domestic 
+vessels rests with the country of registration, even while such vessels are in VI waters. The risk of this 
+threat is also considered to be Medium. 
+ 
+ 
+30 
+ 
+7 
+Vulnerabilities 
+ 
+7.1 Vulnerabilities inherent in a jurisdiction’s AML/CFT/CPF systems are closely linked to threats and represent 
+weaknesses that allow such threats to persist. Vulnerabilities comprise those things that can be exploited 
+by the threat, including those that may support or facilitate the breach, non-implementation, or evasion 
+of sanctions.  Such vulnerabilities include features of a particular sector, financial product or type of service 
+that may provide opportunities for designated persons and entities to misuse them in an effort to facilitate 
+the financing of proliferation. This section reviews the vulnerabilities that would allow the threats 
+identified to increase the Territory’s PF risk. 
+ 
+A. Use of Legal Persons and Legal Arrangements 
+ 
+7.2 As noted under Section 6 Part A, trusts are not typical vehicles used to facilitate PF, therefore in considering 
+vulnerabilities focus was placed on the use of legal persons. In particular BVIBCs, as limited partnerships 
+were also considered to by low risk for misuse. 
+ 
+7.3 
+The TCSP sector is the primary gateway to the Virgin Islands’ international financial services sector and 
+only TCSPs that are categorised as RAs are permitted to form legal persons in the Territory.  At the end of 
+2021 there were 100 TCSPs that were licensed to provide RA services. As gatekeepers, RAs are obligated 
+to know their clients and understand the businesses they engage in. As with all FIs, they are also obligated 
+to report any unusual or suspicious activities of their clients to mitigate any threats that these activities 
+may pose. 
+7.4 
+The provisions of the PCCA, AMLR and AMLTFCOP apply to all RAs providing services to legal persons 
+incorporated or registered in the VI. In this regard, CDD requirements must be carried out by the RA prior 
+to incorporation and on an ongoing basis during the business relationship. The fundamental elements of 
+CDD require the identification and verification of a customer’s identity, the identification and verification 
+of the beneficial owner, and understanding and obtaining information on the purpose and intended 
+nature of the business relationship as appropriate. Furthermore, all CDD information acquired is required 
+to be maintained for at least a period of 5 years from the date of completion of one-off transactions or 
+linked series of transactions, or from the date of the termination of the business relationship with a 
+customer.14  The business relationship terminates only when the company is dissolved or when the RA 
+takes the active step of terminating the business relationship, which may be evidenced by resigning as 
+agent of the company.15 Accordingly, so long as the business relationship continues, the RA has a legal 
+obligation to periodically update the CDD information. 
+ 
+ 
+ 
+14 Regulation 10 (1) of the Anti-money Laundering Regulations, 2008. 
+15 A fee of $25.00 is levied for resigning as RA of a company. 
+31 
+ 
+7.5 
+The impact of inadequate CDD measures was considered through the lens of the regulator by reviewing 
+the results of compliance inspections conducted during the reporting period that focused on CDD 
+measures carried out on TCSPs acting as RAs.  
+ 
+7.6 
+The results of these inspections highlighted failings by some RAs to adhere to their own policies and 
+procedures, or in some instances to have proper procedures in place. This resulted in the offending RAs 
+not conducting proper ECDD on high-risk clients, irrespective of whether the client came to them directly 
+or through a third party. Some RAs also failed to obtain information on the place the proposed business 
+would be taking place when taking on new clients. Inadequacies in some policies and procedures in 
+relation to the verification of legal persons were also identified which led, in some instances, to the 
+possibility that some RAs may not be able to identify and/or verify BOs of these entities. There was also 
+some level of deficiency identified in obtaining CDD information as it relates to PEPs. 
+ 
+7.7 
+Corrective actions applied by the regulator for identified failures included requiring the licensees to 
+provide written confirmation detailing measures taken to come into full compliance with the relevant 
+sections of the AMLTFCOP and to report regularly on progress for a specified period. The majority of RAs 
+that were issued such corrective actions have completed the required actions and have been released 
+from monitoring. The remaining RAs continue to be required to report to the regulator on a 30, 60 or 90-
+day basis. In two instances RAs were issued administrative penalties totalling $30,000. One RA was also 
+issued a fine of $10,000 in addition to the administrative penalty. Both RAs completed their corrective 
+actions and became fully compliant. 
+ 
+7.8 
+It is clear that weak or ineffective CDD measures may allow for the manipulation of BVI entities through 
+the control of these entities by persons who may seek to engage in, or who may be affiliated with or 
+connected to persons or entities that engage in PF related activities. 
+ 
+7.9 
+In addition to the requirement to maintain and update CDD information RAs are also required to adhere 
+to the Virgin Islands Sanctions Guidelines (VISG) with respect to screening of their clients against UK and 
+UN sanctions listings. While these Guidelines cover all forms of TFS the requirements are equally relevant 
+to TFS relative to TF and PF. RAs are required to ensure that where it is determined that a client or BO of 
+a client has been listed as a designated person that they take the necessary steps to freeze any assets for 
+which they have custody and to file a Compliance Reporting Form with the GO and a SAR with the FIA, 
+where deemed necessary. RAs are also required to apply to the GO for a licence if they wish to conduct 
+business on behalf of the identified designated person.   
+ 
+7.10 Sanctions screening procedures, if not adhered to may increase the opportunity for this vulnerability 
+within the RAs AML/CFT framework to be exploited to enable BVI entities to engage in PF related activities 
+for the benefit of sanctioned countries and other proliferation actors without being detected. To mitigate 
+this, both the FSC and FIA ensure that all sanctions lists, and relevant notices issued by OFSI are 
+immediately published on their websites. Notifications are then sent to supervised entities to alert them 
+of the postings and to remind them of their obligations to screen their client lists for possible matches.  
+ 
+32 
+ 
+7.11 In sampling RAs’ sanctions handling procedures the regulator identified the following failures in relation 
+to the controls in place: 
+ 
+▪ 
+Failure to identify specific intervals for screening of clients 
+▪ 
+Failure to adequately detail how to handle an existing client that becomes a designated person 
+▪ 
+Failure to identify reporting obligations whether it be to the FIA, FSC or Governor 
+ 
+ 
+7.12 It was found, that while 42% of the sampled RAs performed ongoing screening on a daily basis, or upon 
+receiving the updated designated persons listing from the FSC, the other 58% screened their client lists 
+either quarterly, annual, at intervals associated with the client’s risk rating, or at no specifically defined 
+interval. It was determined, therefore, that this frequency did not facilitate adequate mitigation of the 
+identified risk. As a mitigating measure the FSC imposed corrective actions on the deficient entities which 
+requires an approved director of each entity to review their internal sanctions policy and ensure it is in 
+line with the VISG and provide the FSC with a copy of the updated document for review to ensure it meets 
+the standard. To date 74% of the licensees that were issued corrective actions have completed the 
+required actions and are now fully compliant. 
+ 
+7.13 In relation to RAs who identified sanctioned persons within their client list most were found to have 
+addressed the issue in accordance with their documented internal control procedures, including in one 
+instance taking the requisite precautionary measures (seeking legal advice, filing with the FIA etc.) prior 
+to exiting the relationship. With regard to determining whether RAs have a proper understanding of how 
+TFS should be implemented the level of training provided in this area was considered.  It was determined 
+that 82% of the sampled RAs had provided training for staff. In addition, both the FSC and FIA have 
+conducted outreach on TFS which has aided in developing FIs’ and DNFBPs’ understanding of their 
+obligations and improved overall understanding of the Territory’s financial sanctions regime, thereby 
+further minimising this vulnerability.  
+ 
+7.14 As noted above, between 2018 and 2021 only one (1) license was granted by the GO to allow an RA to 
+conduct business on behalf of a sanctioned individual and this was no in relation to PF sanctions. While 
+the licensing requirements do not differentiate between sanctions regimes it can be determined that 
+there is a general understanding that such requirements apply to all financial sanctions including those 
+relative to PF.     
+ 
+7.15 The vulnerabilities identified in relation to these professional intermediaries elevates the risk of their use 
+and/or misuse to facilitate transactions that may be for the benefit of sanctioned jurisdictions such as the 
+DPRK and Iran.  This risk has, therefore, been rated as Medium. 
+ 
+ 
+33 
+ 
+B. International Trade and Collection and Movement of Funds 
+ 
+7.16 Given the predominantly domestic nature of the services and limited products provided by the banking 
+and money services sectors there appears to be little vulnerability in these sectors being abused for the 
+purpose of PF. The supervisor considers both the banking and money services sectors to be largely 
+knowledgeable of their general AML/CFT requirements.  
+ 
+7.17 The vulnerability of BVIBCs being used to facilitate PF lies with the complexity of the international financial 
+transactions in which these entities engage. As noted previously, most BVIBCs incorporated in the 
+jurisdiction are created for the purposes of cross-border business, and a significant number do engage in 
+import/export and other trading related activities.  Additionally, BVIBCs may be used to secure loans and 
+credit facilities to facilitate export transactions, or project financing for entities in higher-risk jurisdictions.  
+This elevates the risk of these BVIBCs having direct engagement with some sanctioned jurisdictions, or 
+being used, whether knowingly or unknowingly, to finance or facilitate the financing of proliferation 
+related activities for the benefit of these sanctioned jurisdictions.   
+ 
+7.18 Such vulnerabilities are exploited where there is improper or insufficient understanding of the geographic 
+and product/service risk associated with these entities by the RAs that are charged with ensuring proper 
+understanding of the business activities of their clients. This is further heightened by improper record 
+keeping and due diligence procedures that would prevent RAs from being able to properly identify the 
+type of activities engaged in by their clients, and any changes in ownership or circumstances relative to 
+BO that would expose such BVIBCs to being exploited for the facilitation of PF. 
+ 
+7.19 The issues identified above in relation to CDD failings apply equally in relation to the vulnerabilities 
+identified here. 
+ 
+C. Ship Registration and Shipping Related Activities 
+ 
+7.20 VISR’s ship registration process outlined in Section 6 above meets international maritime standards. The 
+ships register maintained by VISR is not currently available online.  However, it is an open register in that 
+persons who wish to search the register may do so by appearing at the office of VISR and making a request.  
+The type of information available on the register includes type and size of vessel and ownership.  
+ 
+7.21 VISR has annual de-registration cycles where vessels are deregistered for various reasons, including, inter 
+alia, ownership changes, personal desires for flag changes, and changes in global areas of operations. The 
+reasons for de-registration are not officially tracked and owners are not mandated to provide the reason, 
+and often choose not to do so. However, VISR does request the information at times primarily to 
+understand market trends and for other marketing purposes.  Additionally, information on de-registered 
+vessels is maintained on the shipping register and is, therefore, publicly available.   
+ 
+ 
+34 
+ 
+7.22 Under the MSA, VISR has the power to terminate a ship’s registration: 
+ 
+a) if the annual tonnage fees of a registered ship has remained unpaid for more than two years;  
+b) if a registered ship is no longer entitled to remain registered;  
+c) on application by the registered owner stating that he wishes to terminate the registration of the 
+ship;  
+d) upon a registered ship becoming a total loss or being otherwise destroyed by, inter alia, 
+shipwreck, demolition, fire or sinking; or  
+e) if the ship fails to maintain an RP if one is required to be appointed. 
+ 
+7.23 Termination of registration may also occur where the Director of Shipping is satisfied that: 
+ 
+a) having regard to the condition of the ship, the health and safety of the persons on board the ship 
+and the possibility of the ship being used for criminal purposes, it would be detrimental to the 
+interests of the Virgin Islands or of international shipping for a ship to continue to be registered; 
+ 
+b) any penalty imposed on the owner of a registered ship in respect of a contravention of the MSA, 
+has remained unpaid for more than three months and no appeal against the penalty is pending; 
+ 
+c) any summons for any contravention has been duly served on the owner of a registered ship and 
+the owner has failed to appear at the time and place appointed for the trial of the information or 
+complaint in question and a period of not less than three months has elapsed since that time.16 
+ 
+7.24 These broad powers of de-registration allow for VISR to take action against vessels that breach the MSA 
+for maritime related offences. As this provision allows for de-registration to occur in instances where a 
+ship may be used for criminal purposes, VISR is empowered to de-register a vessel that is found to be 
+involved in sanctions related activities as this would qualify as a “criminal purpose”. VISR, however, has 
+not had to de-register a vessel due to any criminal action or activity. 
+ 
+7.25 With regard to maintenance of BO information, VISR relies on the RA or RP to conduct CDD on the 
+beneficial owners of a vessel. In that regard, while VISR does not maintain BO information on the 
+registered owners of vessels or companies who serve as registered owners of these vessels, where a BVI 
+entity is involved in the ownership structure, that information is readily available from the RA. The 
+exploitable weakness in the system arises in relation to the RP.  While an RP is required to be an individual 
+or company resident in the Virgin Islands there is no legal requirement for the RP to maintain BO 
+information in the Territory or comply with AML/CFT obligations.  VISR does, however, have the authority 
+to request such information from the RA or the RP when necessary. The vulnerability therefore arises in 
+whether the RP would be able to provide the information when requested and whether such information 
+would be accurate and up to date.     
+ 
+16 s.8 Merchant Shipping Act, 2001 
+35 
+ 
+7.26 Provision of information linking a BVI registered ship to a listed person usual comes through information 
+received by the GO from the relevant UN Panel of Experts or OFSI. BO information would, therefore, be 
+necessary for VISR to positively identify any vessel found to be linked to a sanctioned individual or which 
+is itself subject to sanctions. VISR also has access to the UK sanctions lists which should be monitored and 
+cross-checked against their database to determine whether there is a link between the company 
+registered as a vessel’s owner and the beneficial owner that may be a listed person. This process may be 
+hampered due to the lack of BO information directly maintained by VISR. This vulnerability is exacerbated 
+by VISR’s failure to recognise its responsibility in relation to understanding the full ownership structure of 
+the vessels under its charge. This opens up the possibility of a sanctioned individual or other criminal being 
+able to use a BVI registered vessel to transport goods to sanctioned countries or becoming involved in 
+other proliferation related activities without the knowledge of the VISR.  RAs, however, are also required 
+to monitor their client lists for designated persons and take appropriate action if a match is found.  Such 
+action includes filing a SAR with the FIA and a CRF with the GO. These actions aid in mitigating this 
+particular vulnerability. However, there is no similar obligation for an RP.   
+ 
+7.27 VISR considers its primary function to be the certification of a vessel and its crew in accordance with 
+international maritime conventions and any appreciation of the risks posed by BVI registered vessels 
+outside of that function appears to be limited. VISR does not consider itself to be responsible for vessel 
+compliance with local ML/TF/PF laws or the monitoring of any activity carried out by a vessel in 
+international waters that may have a nexus to sanctions activities related to proliferation and proliferation 
+financing or other financial crimes and illegal activities. 
+ 
+7.28 The risk to the Territory relative to shipping related activities is primarily in relation to the use of domestic 
+vessels owned by legal persons and non-domestic vessels where ownership is through a BVI legal person 
+or legal arrangement. However, based on jurisdictional characteristics it is considered that the most 
+significant risk lies with the use of BVIBCs. This may cause reputational damage where such vessels, 
+directly owned by a BVIBC, or where a BVIBC is listed in the ownership structure of the vessel, engage in 
+the illicit transportation of goods to sanctioned countries. Additional risk may occur where BVIBCs are a 
+part of any ownership structure that facilitates the raising or transfer of funds to facilitate the provision 
+of goods to sanctioned countries. The vulnerabilities identified above in relation to CDD failings by the RAs 
+and the lack of maintenance of BO information by VISR apply equally in allowing the promotion of 
+activities described here. 
+ 
+D. Law Enforcement’s Understanding of PF Risk 
+ 
+7.29 While the probability of PF related activities occurring domestically appears to be low, LEAs’ 
+understanding of PF and the risk it poses to the Territory is still critically important. Particularly so, given 
+the broader exposure to such risk as a result of the international business carried on by BVIBCs. It is 
+important, therefore, to consider the level of understanding of PF across LEAs and the systems they may 
+have in place to address PF and PF related activities, as this would have an impact on LEAs’ ability to 
+identify and respond to threats as well as provide useful international cooperation when requested to do 
+so. 
+ 
+36 
+ 
+Training, Expertise and Resources 
+ 
+7.30 While there is general recognition across LEAs that they have a role to play in the Territory’s CPF 
+framework, there is only a fair understanding of PF generally and in relation to most LEAs specific roles 
+within the national CPF framework.  There is a need for additional training within LEAs, as most LEAs have 
+received limited PF training.Most LEAs have persons assigned to deal with CPF issues, all indicated that 
+the persons responsible for CPF issues did not have sufficient relevant expertise to fulfil their agency’s CPF 
+mandate, nor did the agency have sufficient resources to do so.   
+ 
+7.31 Additionally, with the exception of the RVIPF, which indicated that a CPF strategy was currently being 
+drafted, there were no documented policies, procedures and strategies across any of the other LEAs to 
+address PF related matters. The RVIPF does recognise the importance of training and continual 
+professional development and have recently developed a more robust training programme while 
+maintaining the ability to seek specialist support and advice from UK Policing in relation to complex or 
+specialist cases. 
+ 
+7.32 With regard to the FIA, there is understanding of its responsibilities under the PFPA, which empowers the 
+FIA to take action against any person or entity for non-compliance with the provisions of the Act.  
+However, the new PFPA was only enacted in 2021 and the FIA has not issued any directions under this 
+legislation. The FIA also understands the need for effective cooperation and coordination with the GO in 
+relation to responding to enquiries from the various UN Panel of Experts.  This is evidenced by the positive 
+feedback received from the UN Panel for the Territory’s responsiveness to their requests.  
+ 
+Investigations, Prosecutions and International Cooperation 
+ 
+7.33 These deficiencies across the Territory’s LEAs have a direct impact on LEAs ability to properly investigate 
+and prosecute PF related activities thereby increasing the jurisdiction's vulnerability in regard to potential 
+PF related activities. While there have been no PF related investigations or prosecutions during the 
+reporting period as outlined in Section 5 above, the weaknesses identified within the LEAs bring into 
+question their ability to successfully investigate and prosecute should a case arise. These vulnerabilities 
+also have a direct impact on the Territory’s ability to respond to international cooperation requests 
+received from overseas LEAs that may relate to PF. This raises a wider jurisdictional issue with regard to 
+reputational risk if LEAs are unable to assist their foreign counterparts due to lack of knowledge and/or 
+understanding of the issues relative to the request, as this may be interpreted as being uncooperative. 
+ 
+7.34 Regarding PF related investigations conducted by the FIA, these generally emanate from referrals from 
+the GO. During the reporting period there was one documented matter which was referred to the FIA by 
+the GO. This involved a suspected breach of DPRK sanctions by a BVI registered entity. The investigation 
+was inconclusive as there was insufficient information provided by foreign counterparts to make a sound 
+determination as to whether any local laws had been breached which would have allowed authorities to 
+pursue prosecution. The case demonstrated, however, the FIA’s ability to investigate and cooperate on 
+PF related matters.    
+37 
+ 
+8 
+Virtual Assets and Virtual Asset Service Providers 
+ 
+Threats  
+8.1 
+A virtual asset (VA), according to the FATF is a digital representation of value that can be digitally traded 
+or transferred and can be used for payment or investment purposes.17 International typologies indicate 
+that digital assets, and more specifically, cryptocurrencies are being used by non-state actors tied to the 
+DPRK.  These cryptocurrencies are being used to purchase goods, particularly HVGs, which can then be 
+sold legally or on the black market for fiat currency, which is then used to finance the DPRK’s nuclear 
+weapons programme. 
+ 
+8.2 
+Virtual Asset Services Providers (VASPs) include a significant number of different activities that carry 
+varying threats and vulnerabilities and pose different risks. Services provided include virtual asset 
+exchanges which may be exposed to PF risk as criminals may attempt to use exchanges to place, layer and 
+integrate the proceeds of criminal conduct into the financial system. Other services include virtual assets 
+platforms, custodian services, wallets and transfer services which also pose an elevated level of risk as it 
+is often challenging to verify that the assets are being deposited, transferred, or withdrawn from 
+addresses owned or controlled by the customer of record. For the purpose of PF, the Virgin Islands has 
+identified virtual asset exchanges including virtual asset platforms and those entities that provide custody 
+and wallet related services to pose the most relevant risk. 
+ 
+Vulnerabilities  
+8.3 
+In the Virgin Islands VAs and VASPs are currently un-regulated, with the exception of virtual asset funds, 
+and the provision of management, administration or investment advice to VAs where the assets are 
+securities or a fund type product, which are regulated under SIBA.  A review of transactions and economic 
+activities, including company formation and other business, indicates that there is an evolving risk from 
+un-regulated BVIBCs operating in or from within the Virgin Islands that serve as VASPs or facilitate the 
+provision of VAs.   
+ 
+8.4 
+Additional risks inherent to VAs and the provision of VA services are the level of anonymity they provide 
+to the user while conducting multiple high value payments, the ease in which transactions may be 
+structured and the ability to execute cross-jurisdictional transactions without being traced. Such risks are 
+heighted by the lack of regulation of the entities that facilitate these activities as there is no requirement 
+to conduct any CDD or ECDD on clients of these services or to maintain any transactional records.  
+Sanctions screening obligations also do not apply to un-regulated BVIBCs, but as a BVIBC such entities are 
+required to file a SAR if there is any suspicion of unusual or illegal activity. 
+ 
+ 
+ 
+17 Pg 126 FATF International Standards on Combating Money Laundering and the Financing of Terrorism and 
+Proliferation – The FATF Recommendations 
+38 
+ 
+8.5 
+Over the reporting period the FIA saw a large increase in the number of SARs filed relating to VA activities.  
+Records indicated that a significant number of SARs were filed by one BVIBC acting as a VASP that alleged 
+that clients were using the “dark web” and other fraudulent methods, which effectively made identifying 
+the user/customer untraceable. The FIA, however, currently does not have the resources or the expertise 
+to analyse or investigate crypto-based SARs. This is a vulnerability that may elevate the risk of such 
+activities going undetected or not being properly investigated, which itself increases the risk of 
+proliferation actors being able to use un-regulated BVI VASPs to provide PF. 
+ 
+8.6 
+The FIA, however, is in the process of providing targeted cryptocurrency training to its staff and procuring 
+the necessary resources, including technological tools that would assist in analysing crypto-based SARs.  
+Furthermore, and to ensure compliance with FATF Rec. 15, the Virgin Islands is currently taking steps to 
+regulate VASPs. Once the legislative and regulatory frameworks are in place, this, along with the steps 
+being taken by the FIA, should help to mitigate some of the current identified vulnerabilities. However, as 
+the intended supervisor for VASPs, the FSC has already taken steps to identify and mitigate the risk of VAs 
+and VASPs and have taken steps to prepare for the implementation of the VASP regime. Based on the 
+factors identified, the risk of this threat is considered High. 
+ 
+ 
+39 
+ 
+9 
+Recommendations   
+ 
+9.1 
+Based on the findings of this assessment a number of recommendations have been identified.  For ease 
+of reference these recommendations have been grouped into recommendations that should be 
+addressed at the national level, those that are specific to the relevant CA or LEA and those that apply to 
+the various sectors assessed during this exercise. Where there is overlap in the recommendations those 
+recommendations have been listed under each.  If properly implemented, these recommendations should 
+enhance the level of effectiveness of the Territory’s CPF regime.   
+National CPF Recommendations  
+ 
+9.2 
+The Territory should: 
+a) ensure that the findings of this Report are considered when making changes or assessing the 
+effectiveness of the national AML/CFT regime; 
+b) ensure all relevant CAs and LEAs are adequately trained with regard to identification, investigation 
+and prosecution of PF and PF related activities; 
+c) ensure all relevant CAs and LEAs are adequately resourced to allow for effective identification, 
+investigation and prosecution of PF and PF related activities; 
+d) ensure that relevant AML/CFT data is maintained, collected and analysed to demonstrate that the 
+Territory is effective in the investigation and prosecution of PF, provision of international cooperation, 
+and analysis and dissemination of SARs;  
+e) finalise and implement the legislative and regulatory frameworks needed to regulate VASPs; 
+f) ensure the information contained this Report is used to better understand the types of PF risks posed 
+and where these risks lie to ensure more effective use of surveillance and investigative mechanisms 
+to mitigate PF risk;  
+g) ensure that LEAs and CAs consider the findings of this report when developing their own internal 
+policies and procedures to combat PF; and 
+h) ensure that the Report is kept up to date, having regard to changes in the identified threats, 
+vulnerabilities and mitigating controls.  
+CPF Recommendations for LEAs 
+ 
+9.3 
+All LEAs should: 
+a) ensure they have documented policies, procedures and strategies to address PF related matters, and 
+finalise any existing PF policies and strategic documents; 
+b) ensure persons responsible for CPF issues have relevant and sufficient expertise to fulfil their agency’s 
+CPF mandate;  
+c) ensure they have sufficient resources assigned to deal with CPF issues;   
+d) ensure the information contained this Report is used to better understand the types of PF risks posed 
+and where these risks lie to ensure more effective use of surveillance and investigative mechanisms 
+to mitigate such risk;  
+e) ensure that the findings of this Report are considered when making changes to, or assessing the 
+effectiveness of their internal AML/CFT regimes which may impact their operations; 
+f) ensure proper collection, maintenance and analysis of AML/CFT related data to allow for development 
+of trends and typologies; 
+40 
+ 
+g) ensure ability to analyse data for PF purposes and compile relevant intelligence; 
+h) ensure timely dissemination of intelligence to appropriate domestic and foreign LEAs and CAs; and 
+i) demonstrate high degree of international cooperation and information exchange on PF related 
+matters by responding to such requests in a timely manner, including providing spontaneous 
+information where appropriate. 
+ 
+9.4 
+In addition, VISR and the Government of the VI should: 
+a) Consider, 
+document 
+and 
+implement 
+a 
+policy 
+decision 
+on 
+VISR’s role 
+in 
+ensuring 
+maintenance/accessibility of BO information, and the monitoring of any activity carried out by a vessel 
+in international waters that may have a nexus to sanctions activities, other financial crimes and illegal 
+activities; 
+b) Consider, document and implement a policy decision on updating their records to distinguish between 
+vessels owned through a BVIBC and those owned by or through a non-BVI corporate structure; 
+c) consider and document whether RPs should be required to undertake CDD in accordance with the 
+AMLTFCOP and monitor their client lists for designated persons, including taking appropriate action 
+such as filing a SAR with the FIA and a CRF with the GO where necessary; and   
+d) consider, document and implement a policy decision on whether RPs should be required to maintain 
+BO information in the Territory to facilitate easier monitoring of and access to such information when 
+required by VISR.  
+ 
+CPF Recommendations for Cas 
+ 
+9.5 
+The Governor’s Office should: 
+a) in conjunction with the CCA Sanctions sub-committee, complete the revision of the Virgin Islands 
+Sanctions Guidelines; and 
+b) conduct outreach on sanctions to ensure proper understanding by relevant persons of their 
+obligations in relation to PF, including filing a CRF and making applications for licensing where 
+relevant.      
+c) demonstrate high degree of international cooperation and information exchange on PF related 
+matters by responding to such requests in a timely manner, including providing spontaneous 
+information where appropriate. 
+ 
+9.6 
+The FIA should: 
+a) conduct outreach on PF to ensure proper understanding by relevant persons of their obligations in 
+relation to PF; 
+b) ensure its staff receives targeted cryptocurrency training to allow for the proper analysis of crypto-
+based SARs; 
+c) ensure timely and effective outreach to supervised entities on the findings of this report, including 
+how the report’s findings should be utilised in the development of their own AML/CFT policies and 
+procedures; 
+41 
+ 
+d) ensure that it takes necessary steps, such as desk based and onsite monitoring, to demonstrate that 
+supervised entities are carrying out and implementing the requirements of the AML/CFT regime with 
+regard to PF; 
+e) carry out outreach to DNFBPs on red flag PF indicators to allow for better quality of SARs filings; 
+f) ensure that the findings of this Report are considered when making changes to, or assessing the 
+effectiveness of the AML/CFT regime which may impact supervised entities; 
+g) ensure proper collection, maintenance and analysis of AML/CFT related data to allow for development 
+of trends and typologies; and 
+h) ensure timely dissemination of intelligence to appropriate domestic and foreign LEAs and CAs.  
+ 
+9.7 
+The FSC should: 
+a) ensure timely and effective outreach to FIs on the findings of this report, including how the report’s 
+findings should be utilised in the development of the FIs’ AML/CFT policies and procedures; 
+b) ensure that it takes necessary steps, such as desk based and onsite monitoring, to evidence that FIs 
+are carrying out and implementing the requirements of its AML/CFT regime with regard to PF;  
+c) conduct outreach on PF to ensure proper understanding by FIs of their obligations in relation to PF;   
+d) carry out outreach to FIs on red flag PF indicators to allow for better quality of SARs filings; 
+e) ensure that the findings of this Report are considered when making changes to, or assessing the 
+effectiveness of the AML/CFT regime which may impact FIs; 
+f) ensure that relevant AML/CFT data is maintained, collected and analysed to be able to demonstrate 
+that it is effective in its supervision, enforcement and international cooperation; and 
+g) ensure sufficient monitoring of the perimeter to detect BVIBCs involved in sanctions busting activities 
+or owned by sanctioned individuals.   
+ 
+CPF Recommendations for Private Sector 
+ 
+9.8 
+Financial Institutions and DNFBPs should: 
+a) ensure proper verification and maintenance of BO information of clients; 
+b) ensure proper identification of clients’ source of funds and source of wealth;  
+c) develop and maintain proper AML/CFT policies and procedures that include PF, and ensure all staff 
+are familiar with these policies and procedures; 
+d) ensure proper understanding of clients’ business activities and continue to monitor clients’ 
+transactions to be able to identify any developing trends that may signal possible PF activities; 
+e) ensure staff are aware of any issued guidance on red flag indicators and SARs filings;  
+f) ensure staff are properly trained to identify PF red flag indicators and understand when SARs should 
+be filed;  
+g) conduct timely interrogations of client databases against sanctions listings in accordance with Virgin 
+Islands Financial Sanctions Guidelines, to ensure proper identification of listed persons and entities, 
+and demonstrate appropriate action is taken if such persons are identified;   
+h) conduct and document institutional risk assessments which should also account for PF risk; and 
+i) 
+ensure adherence to the requirements of the AMLR and the AMLTFCOP.  
+ 
+42 
+ 
+10 Conclusion   
+ 
+10.1 The current overall PF risk rating for the Virgin Islands has been identified as Medium. As this was the first 
+PF risk assessment conducted by the Virgin Islands, the findings provide a useful foundation upon which 
+law enforcement and other regulatory authorities, as well as relevant gatekeepers can conduct 
+meaningful risk analyses and adopt policies, procedures and strategies to address PF related matters. The 
+results of this exercise will enable authorities to identify, assess and understand any changes in the PF 
+risks faced by the jurisdiction in order to apply appropriate and effective risk-based preventative or 
+mitigating measures, and should be used to better understand the PF risks within the jurisdiction.   
+ 
+10.2 Such risk analysis is important as it will assist the jurisdiction in implementing suitable policies and 
+procedures to combat PF. Further, the results of the exercise will help both public sector agencies and 
+relevant private sector entities to identify the particular PF risks they face. This is particularly important 
+for the private sector as these businesses are required to carry out their own assessments and have regard 
+to their findings in determining what their risk appetite is, and what constitutes appropriate measures to 
+manage and mitigate risks. The results of this assessment should also be used by supervisory authorities 
+to aid in shaping their inspection programmes and identifying those entities that may require more 
+specialised supervision. 
+ 
+10.3 The methods by which proliferation activities are being financed continue to evolve.  This is particularly 
+relevant with regard to the use of virtual assets and provision of services by virtual asset service providers 
+to facilitate PF. It is imperative, therefore, that the Virgin Islands continues to review its CPF regime on an 
+ongoing basis and seek to ensure that it remains robust and adaptable to any developing risks.   

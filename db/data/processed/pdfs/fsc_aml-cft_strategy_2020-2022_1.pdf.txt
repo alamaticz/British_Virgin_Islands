@@ -1,0 +1,662 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+British Virgin Islands 
+Financial Services Commission 
+AML/CFT STRATEGY 
+2020-2022 
+ 
+ 
+ 
+ 
+ 
+Reference: AML-020 
+Publication Date:  19th March, 2020 
+Version: 1.0 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 2 of 20 
+ 
+ 
+ 
+ 
+ 
+Document title 
+ 
+AML/CFT STRATEGY 2020-2022 
+BVI Financial Services Commission  
+ 
+ 
+Approving body 
+Date of approval 
+ 
+Board of Commissioners  
+BVI Financial Services Commission  
+ 
+ 
+ 
+25th February, 2020 
+Related documents 
+Version 
+Reference 
+ 
+AML/CFT POLICY 
+ 
+ 
+ 
+1.0 
+ 
+AML-020 
+Effective date 
+ 
+25th February, 2020 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 3 of 20 
+ 
+Table of Contents 
+ 
+Introduction ………………………………………………………………….……………. 3 
+ 
+The Commission’s AML/CFT Strategy …………………………………….……………… 5 
+ 
+ 
+Strategic Area 1: Supervision ………………………….……………………….….. 5 
+Strategic Area 2: Enforcement …………………………………………….……… 10 
+Strategic Area 3: Promotion of Cooperation …………………………….……….. 13 
+Strategic Area 4: Stakeholder Awareness and Outreach ……………………….... 15 
+ 
+Implementation ………………………………………………………………………….… 17 
+ 
+Monitoring and Evaluation ……………………………………………………………….. 17 
+ 
+Acronyms ………………………………………………………………………………….. 18 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 4 of 20 
+ 
+1. 
+Introduction 
+ 
+1.1 The Financial Services Commission’s (“the Commission”) AML/CFT1 Strategy is a 
+three-year road map for the period 2020 to 2022, which will be used by the 
+Commission to implement effective measures across the board to combat ML, TF and 
+PF risks inherent in the financial services sector.  The ultimate goal of producing this 
+Strategy is to provide a guide for both Commission staff and financial services industry 
+participants, of actions required to be undertaken in order to uphold the Commission 
+as an effective regulator, and advance the Virgin Islands as a secure and well-regulated 
+international financial centre, effective in mitigating against ML, TF and PF. 
+ 
+1.2 The AML/CFT Strategy is informed by, and designed to address, the broad areas 
+identified in the Commission’s AML/CFT Policy.  These two documents should be 
+viewed in tandem as the Policy provides the framework around which the Strategy 
+and its objectives are built. 
+ 
+1.3 The AML/CFT Strategy sets out goals which embody, inter alia, the recommendations 
+emanating from the Territory’s NRA as a result of the threats and vulnerabilities 
+identified in relation to the Commission’s function as the Territory’s financial services 
+regulator.  In addition, changes in international AML/CFT standards and other 
+findings relative to the operations of the Commission’s supervisory, compliance and 
+enforcement regimes have also been taken into account.  Regard has also been given 
+to the broad national AML/CFT policy requirements communicated by the NAMLCC.    
+ 
+1.4 These goals have been grouped into four key areas of supervision, enforcement, 
+promotion of cooperation, and stakeholder awareness and outreach as identified in 
+the AML/CFT Policy document.  Within each key area several objectives have also 
+been identified.  This Strategy breaks down each objective further into specific actions 
+which must be executed in order to achieve the identified objective and ultimately 
+address each key area outlined in the AML/CFT Policy.  The development and 
+implementation of the actions within each objective are the responsibility of specific 
+Divisions/Units/Committees within the Commission.  In each instance the most 
+appropriately equipped person has been assigned to lead the development and 
+implementation of each of the relevant risk mitigation strategies identified.  
+ 
+1.5 This Strategy is a dynamic document reflecting the Commission’s efforts to combat 
+ML, TF and PF risks and the progress in those endeavours, and will be reviewed 
+periodically to determine whether any amendments may be needed to action items 
+in order to properly deliver on each objective.  Progress on the implementation of 
+these actions will be monitored by the Commission’s Anti-Money Laundering Unit 
+with ultimate reporting to the Board of Commissioners.  
+ 
+                                                          
+1 For the purposes of this strategy document any reference to AML/CFT also includes PF 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 5 of 20 
+ 
+1.6 It is expected that the implementation of both the AML/CFT Policy and this 2020-
+2022 AML/CFT Strategy will improve the Commission’s AML/CFT regime and ensure 
+it meets FATF standards, while aiding in the further enhancement of the Territory’s 
+overall AML/CFT framework. 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 6 of 20 
+ 
+2. The Commission’s AML/CFT Strategy 
+ 
+The Commission’s AML/CFT strategy is geared towards the protection of the financial 
+services industry, and advancement of the Virgin Islands as a secure and well-
+regulated international finance centre, effective in mitigating against ML, TF and PF.  
+The Strategy focuses on the execution of objectives that will improve the effectiveness 
+of the four key areas of supervision, enforcement, cooperation and outreach. 
+ 
+2.1 Strategic Area 1 – Supervision 
+ 
+2.1.1 Central to the work of the Commission is the regulation and supervision of licensees 
+across the six (6) sectors that make up the Virgin Islands’ financial services industry.  
+The overall aim being to ensure compliance, evaluate risk and monitor the 
+perimeter of regulated financial services activity in order to safeguard the public 
+against any illegal and/or unauthorised financial services business and misuse 
+thereof, and safeguard the economic interests of the Territory.  
+ 
+2.1.2 To accomplish this the Commission is committed to the development and 
+maintenance of a modern risk-based legal and regulatory framework consistent 
+with international standards effective in preventing, detecting and responding to 
+ML/TF and PF activities.   
+ 
+2.1.3 Effective supervision is a critical factor in determining the efficacy of licensees in 
+implementing their AML/CFT responsibilities. The Commission will, therefore, 
+ensure that it continues to implement an effective risk-based supervisory approach 
+incorporating both on-site and off-site supervision activity informed by assessments 
+of risk factors within each sector.  Results of such assessments will help to determine 
+the required level of on-site and off-site supervision. Such a risk-based approach 
+will also facilitate a more efficient allocation of resources by directing greater 
+amounts of resources to higher risk areas while ensuring that lower risk scenarios 
+are appropriately addressed. 
+ 
+Objective 1 – Enhance the current risk-based approach to the assessment and 
+management of the Territory’s money laundering and terrorist 
+financing risks within the Financial Services Sector. 
+ 
+Actions: 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 7 of 20 
+ 
+a) Risk assessments will be conducted to allow for an adequate 
+appreciation at all times of ML/TF/PF risks within each sector, and 
+for the efficient allocation of resources and appropriate design of 
+ML/TF/PF risk mitigation measures.  
+ 
+b) The established Risk Assessment Framework will continue to be 
+monitored and assessed with a view to ensuring it provides for all 
+licensees to be properly risk profiled and assessed. 
+ 
+Objective 2 – Enhance risk-based systems and procedures used for the monitoring of 
+on-going licensee activity to prevent criminals and their associates 
+from abusing the financial services sector. 
+ 
+ 
+ Actions: 
+ 
+ 
+a) The Commission’s Risk Assessment Framework will be enhanced to 
+include specific AML/CFT assessment criteria for determining overall 
+risk levels of regulated entities, the effectiveness of which will be 
+monitored, assessed and periodically reviewed to determine the 
+appropriate levels of off-site and on-site monitoring. 
+ 
+b) The system to monitor and assess the implementation of corrective 
+actions and other conditions imposed on licensees will be enhanced 
+to allow for an assessment of the impact of such controls on 
+improving compliance with regulatory requirements.  
+ 
+c) Specific guidelines will be introduced for each sector to assist 
+licensees with implementation of AML/CFT requirements to ensure 
+compliance therewith.  
+ 
+ 
+Objective 3 – Conduct regular risk assessments of licensees to determine appropriate 
+intervals for supervisory contact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actions: 
+a) Frequency of on-site inspections at the sectoral level will be 
+determined based on inherent sectoral risk and will include a 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 8 of 20 
+ 
+combination of full, thematic and targeted examinations informed by 
+individual entities’ risk profiles. 
+ 
+b) Intensity of supervision will be based on risk factors to ensure 
+resources are appropriately placed and efficiently utilised. 
+ 
+c) Desk based monitoring at the Divisional level will be enhanced based 
+on established risk profiles using a combination of tools, the results 
+of which will feed into updated risk profiles. 
+ 
+ 
+Objective 4 –  Periodically review and update AML/CFT guidelines and recommend 
+amendments to legislation to ensure compliance with international 
+requirements. 
+ 
+Actions: 
+a) Changes in international standards will be monitored through 
+ongoing examination of developments from within the FATF as well 
+as regulatory developments emanating from the EU, UK and US. 
+ 
+b) Gap analyses will be conducted on a triennial basis to identify and 
+address any divergences between existing AML/CFT legislation and 
+current international standards.  
+ 
+c) Relevant AML/CFT legislation will be examined in line with 
+developments in international standards as such developments occur. 
+ 
+d) Proposals for legislative reforms, including enhancements to 
+international cooperation measures, will be submitted for Board 
+approval and Cabinet consideration based on gaps identified during 
+benchmarking exercises and other periodic reviews to ensure 
+continued compliance with such standards.   
+ 
+e) Based on developments in the international arena guidance will be 
+developed to cover specific areas of concern or importance to the 
+industry to ensure practitioners are au fait with regulatory 
+requirements and best practice. 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 9 of 20 
+ 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 10 of 20 
+ 
+Objective 5 –  Strengthen capacity to achieve a greater degree of effectiveness in the 
+regulation and supervision of licensees by enhancing employees’ 
+analytical, investigative and supervisory skills. 
+ 
+ 
+Actions: 
+ 
+a) Appropriate resources will be made available to ensure regulatory 
+divisions/units are adequately resourced with competent officers to 
+allow for the effective implementation of supervision and monitoring 
+programs.  
+ 
+b) Skills gap analyses will be conducted to ensure staff are properly 
+placed and have the requisite skills to carry out their respective 
+functions. 
+ 
+c) Training programmes will be delivered for all staff including 
+management involved in AML/CFT supervision.  
+ 
+d) Relevant staff will be provided with training opportunities in 
+investigative techniques and data analysis to ensure the Commission’s 
+ability to monitor licensees’ behaviour and identify potential red flags 
+and properly exploit data collected to assist in more effective 
+supervision. 
+ 
+ 
+Objective 6 –  Review and address all outstanding deficiencies identified in the 
+Territory’s National Risk Assessment relative to the Commission’s 
+regulatory functions and responsibilities and any other actions 
+identified as a consequence thereof. 
+ 
+ 
+ 
+Actions: 
+ 
+a) Legislative and regulatory action will be taken to ensure proper 
+maintenance of BO and CDD information by licensees in accordance 
+with international standards through the review of existing 
+legislation against international standards and risk-based compliance 
+assessments. 
+ 
+b) A review of the work being carried out on crisis resolution will be 
+undertaken with an aim to streamline and enact the Commission’s 
+Crisis Management manual to provide a framework for responding to 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 11 of 20 
+ 
+varying levels of crisis situations that may affect the financial services 
+industry. 
+ 
+c) The internal audit function will be further developed to ensure 
+proper adherence to internal policies and procedures, including 
+service standards, in an effort to enhance the Commission’s 
+governance structure and adherence to established standards. 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 12 of 20 
+ 
+2.2 Strategic Area 2 – Enforcement 
+ 
+2.2.1 The reputation and integrity of the Virgin Islands as a financial services centre 
+hinges on the protection of the persons who are engaged in financial services 
+business in or from within the Virgin Islands, as well as their clients and the wider 
+public; a responsibility which is of the utmost importance to the Commission.  One 
+of the pillars upon which an effective AML/CFT regime rests is a strong framework 
+for investigating, pursuing and sanctioning cases of ML, TF and PF.  As such, one of 
+the Commission’s core functions relates to identifying breaches and taking 
+corrective action when it is found that licensees are not conducting themselves in 
+accordance with the law.  
+ 
+2.2.2 As part of its International Standards on Combatting Money Laundering and the 
+Financing of Terrorism and Proliferation – the FATF Recommendations, the FATF 
+has called for countries to apply sanctions which are “effective, proportionate and 
+dissuasive”. In the context of the Commission, the wide range of available 
+enforcement actions empowers the Commission to act swiftly in addressing non-
+compliance with regulatory measures.  The Commission recognises that without 
+these attributes, sanctions will fail to achieve their deterrent purpose.  As such, it 
+intends to ensure that all regulatory breaches are: 
+• vigorously pursued by competent enforcement officers,   
+• actions are taken that are proportionate to the severity of the contravention, 
+and  
+• penalties are sufficiently dissuasive to ensure that the likelihood of future 
+breaches is reduced.  
+ 
+2.2.3 The Commission also recognises that enforcement transcends national borders.  It 
+is, therefore, committed to ensuring that the Territory’s financial services providers 
+are aware of international sanctions requirements and adhere to the restrictive 
+measures imposed on such listed persons and countries.  Further, that if such 
+sanctions are disregarded, that appropriate action will be taken against offending 
+entities. 
+Objective 1 – Take effective and appropriate enforcement actions on all AML/CFT 
+breaches to ensure compliance with regulatory standards.  
+ 
+Actions: 
+ 
+a) Effective enforcement mechanisms will be employed to ensure 
+breaches of non-compliance with AML/CFT requirements are 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 13 of 20 
+ 
+identified, and that resulting penalties are applied that are effective, 
+proportionate and dissuasive.   
+ 
+b) Existing enforcement powers will be reviewed to establish their level 
+of effectiveness in deterring misconduct and amendments made 
+where necessary to promote enhanced compliance. 
+ 
+ 
+Objective 2 – Ensure licensees are aware of necessary steps to prevent breaches of 
+compliance with United Nations and other relevant sanctions regimes, 
+and to identify and penalise regulated entities found to be transacting 
+with individuals, companies and countries that are on prescribed 
+sanctions lists. 
+ 
+Actions: 
+ 
+a) News and other media will be actively monitored for instances of 
+sanctions busting involving BVI Business companies to ensure proper 
+enforcement action is taken against offending parties. 
+ 
+b) Financial sanctions notices will be published within 24 hours of 
+dissemination from the Office of Financial Sanctions Implementation 
+(OFSI) and notifications will be sent to industry practitioners 
+immediately thereafter informing of publication. 
+ 
+c) UK Overseas Territories Sanctions Orders will be published within 
+24 hours of receipt from the Governor’s Office and notifications will 
+be sent to industry practitioners immediately thereafter informing of 
+publication. 
+ 
+ 
+Objective 3 -  Strengthen capacity to achieve a greater degree of effectiveness in the 
+identification and enforcement of ML/TF/PF breaches. 
+ 
+ 
+Actions: 
+ 
+a) Appropriate resources will be made available to ensure the 
+Enforcement Division is adequately resourced with competent 
+officers to allow for the effective implementation of enforcement 
+programs.  
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 14 of 20 
+ 
+b) Skills gap analyses will be conducted to ensure staff are appropriately 
+placed and have the requisite skills to carry out their respective 
+functions. 
+ 
+c) Relevant staff will be provided with training opportunities in 
+investigative techniques and data analysis to ensure the Commission’s 
+ability to effectively identify and address non-compliant behaviour 
+and properly exploit data collected, in order to assist in more effective 
+enforcement of the AML/CFT regime. 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 15 of 20 
+ 
+2.3 Strategic Area 3 – Promotion of Cooperation 
+ 
+2.3.1 ML, TF and PF are not only domestic threats but are global problems which require 
+cooperation at both the domestic and international levels to be effectively 
+addressed.  
+ 
+2.3.2 On the domestic front the Commission is dedicated to providing guidance and 
+assistance to other competent authorities and law enforcement agencies on 
+AML/CFT matters through active participation in relevant domestic advisory 
+committees such as IGC, JALTAC, CCA and NAMLCC.  It is also committed to the 
+proper exchange of information through both formal and information channels and 
+the utilisation of existing MoUs with both domestic and international counterparts. 
+ 
+2.3.3 Additionally, much of the jurisdiction’s financial services business is cross-border 
+in nature; therefore, providing assistance to foreign regulators and other competent 
+authorities investigating persons and/or entities connected to the Virgin Islands in 
+relation to ML, TF or PF is of highest priority. 
+ 
+2.3.4 Further, the ability to cooperate is dependent on an adequate legal framework for 
+providing assistance and other mechanisms to enhance cooperation. The 
+Commission recognises that the Territory’s legal framework must be continuously 
+enhanced and is committed to assisting in this regard by reviewing and making 
+recommendations for legislative reforms to ensure incorporation of FATF standards 
+and international best practice.   
+ 
+Objective 1 – Promote domestic and international co-operation through enhanced 
+relationships with relevant domestic, regional and international 
+authorities. 
+ 
+Actions: 
+ 
+a) The Commission will actively participate in all domestic advisory 
+committees for which it is a member.  
+b) Avenues for further cooperation with overseas regulatory authorities 
+such as through the initiation and signing of memoranda of 
+understanding will be pursued. 
+ 
+c) Relationships with international organisations will be improved 
+through active participation in working groups and other forums. 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 16 of 20 
+ 
+ 
+d) Relationships with relevant domestic authorities will be fostered to 
+promote the sharing of information and enhance cooperation 
+mechanisms. 
+ 
+e) A review of the Territory’s International Cooperation Handbook will 
+be undertaken with a view to updating as necessary to ensure it aligns 
+with current international requirements. 
+ 
+ 
+Objective 2 – Ensure proper and timely cooperation on intelligence matters with 
+local and foreign competent authorities, including establishing 
+appropriate procedures for sharing intelligence where available and 
+ensuring quality of information provided. 
+ 
+Actions: 
+ 
+a) Operational procedures will be continually reviewed and enhanced 
+with a view to ensuring all requests are addressed in a timely manner. 
+b) The system used to track receipt of cooperation requests will be 
+enhanced to ensure domestic and international cooperation requests 
+are responded to within approved timeframe. 
+c) Feedback on usefulness of information received from domestic and 
+international authorities will be provided to promote open channels 
+of communication between agencies on quality of information being 
+provided. 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 17 of 20 
+ 
+ 
+2.4 Strategic Area 4 – Stakeholder Awareness and Outreach  
+ 
+2.4.1 Engagement with industry stakeholders is an important element in the 
+Commission’s strategy to combat ML, TF, and PF.  It is important for practitioners 
+to be aware of the threats and risks that they may face in carrying out their activities, 
+and the need to put mechanisms in place to prevent their services from being abused 
+by those engaged in ML/TF.  Engagement with industry stakeholders to develop a 
+more cohesive partnership on AML/CFT issues must, therefore, be sustained and 
+the Commission must be willing to work with the industry to address identified 
+gaps and vulnerabilities existing in the financial sector.  
+ 
+2.4.2 The effective implementation of applicable policies and strategies for addressing 
+ML, TF and PF risks is heavily dependent on partnerships between the Commission 
+and the private sector. The aim of such collaboration is to raise awareness of 
+AML/CFT issues and highlight the importance of each stakeholder in ensuring that 
+the jurisdiction remains a premier place to conduct legitimate business while 
+preventing those who seek to engage in ML, TF and PF from doing so.  
+ 
+2.4.3 The Commission also recognises the need to put measures in place to ensure that 
+the financial sector and the wider public is acquainted with the requirements of BVI 
+law regarding AML/CFT and that they are advised of concerns about weaknesses in 
+the AML/CFT systems of other countries.  Additionally, implementing measures to 
+enhance general AML/CFT awareness will further deepen the Territory’s 
+understanding of ML, TF and PF risks and aid in the development of a more 
+educated public that is better equipped at identifying and avoiding activities that 
+may expose them to such risks.  
+ 
+Objective 1 – Facilitate ongoing dialogue with industry stakeholders, professional 
+associations and the general public to raise awareness of ML/TF/PF. 
+ 
+Actions: 
+ 
+a) Programs for raising awareness of AML/CFT among private sector 
+stakeholders will be enhanced to ensure that all industry stakeholders 
+are aware of the jurisdiction’s international obligations and their role 
+in fulfilling those obligations.  
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 18 of 20 
+ 
+b) Regular meetings will be held with industry associations to conduct 
+awareness programmes with an aim to increasing AML/CFT 
+awareness and understanding regarding the requirements of the 
+AML/CFT laws and other AML/CFT issues, including concerns about 
+weaknesses in the AML/CFT systems of other countries they may 
+engage in business with. 
+ 
+c) Guidance on key issues or amendments to existing guidance relative 
+to AML/CFT will be identified and issued to industry stakeholders. 
+ 
+d) Areas where AML/CFT training is needed will be identified and 
+training programmes facilitated with technical assistance from 
+regional and international bodies where required. 
+ 
+e) Print and online media will be utilised to raise awareness of 
+ML/TF/PF by the general public and to ensure that stakeholders are 
+kept up-to-date with AML/CFT issues. 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 19 of 20 
+ 
+3. Implementation, Monitoring and Evaluation  
+Implementation  
+3.1 As with the Commission’s AML/CFT Policy, the Board of Commissioners is 
+responsible for the approval of the Commission’s AML/CFT Strategy.  Responsibility 
+for implementation of both the Policy and the Strategy falls to the Commission’s 
+senior management.   
+ 
+Monitoring and Evaluation  
+ 
+3.2 Responsibility for proper execution of each objective is that of the identified lead(s).  
+Each lead will be responsible for monitoring the processes and activities associated 
+with achieving the specified objectives.  However, this does not negate the 
+responsibility of the other persons involved in this process from ensuring that the 
+identified tasks within each objective are completed.  Overall progress on the status 
+of implementation of each objective will be monitored by the Commission’s Anti-
+Money Laundering Unit with ultimate reporting to the Board of Commissioners.   
+ 
+3.3 As it relates to evaluation, this Strategy is a dynamic document reflecting the 
+Commission’s efforts to combat identified ML, TF and PF risks and will be reviewed 
+periodically to determine whether any amendments may be needed to action items 
+in order to properly deliver on each objective and ensure ongoing compliance with 
+all relevant standards.  
+ 
+ 
+ 
+### 
+ 
+ 
+ 
+ 
+BVI Financial Services Commission AML/CFT Strategy 2020-2022    |   Version:  1    |  Page 20 of 20 
+ 
+ACRONYMS 
+ 
+ 
+AML 
+ 
+- 
+Anti-money Laundering 
+BO 
+ 
+- 
+Beneficial Ownership 
+CCA 
+ 
+- 
+Council of Competent Authorities 
+CDD 
+ 
+- 
+Customer Due Diligence 
+CFT 
+ 
+- 
+Countering the Financing of Terrorism 
+DMD 
+ 
+- 
+Deputy Managing Director 
+EU 
+ 
+- 
+European Union 
+FATF 
+ 
+- 
+Financial Action Task Force 
+IGC 
+ 
+- 
+Inter-governmental Committee on AML/CFT Matters 
+JALTFAC 
+- 
+Joint Anti-money Laundering and Terrorist Financing 
+Advisory Committee 
+ 
+MD/CEO 
+- 
+Managing Director/Chief Executive Officer 
+ML 
+ 
+- 
+Money Laundering 
+NAMLCC 
+- 
+National Anti-money Laundering Coordinating Council 
+PF 
+ 
+- 
+Proliferation Financing 
+TF 
+ 
+- 
+Terrorist Financing 
+UK 
+ 
+- 
+United Kingdom 
+US 
+ 
+- 
+United States of America 
+ 

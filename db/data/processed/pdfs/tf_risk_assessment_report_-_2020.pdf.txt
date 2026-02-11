@@ -1,0 +1,2461 @@
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |1 of 46 
+ 
+Table of Contents 
+ 
+Foreword .................................................................................................................................................. 3 
+1. 
+Executive Summary ......................................................................................................................... 4 
+2. 
+Introduction ..................................................................................................................................... 9 
+Jurisdictional Profile ...................................................................................................................9 
+Geographical ..................................................................................................................................... 9 
+Political .............................................................................................................................................. 9 
+Socio-economic ................................................................................................................................. 9 
+The Assessment ..........................................................................................................................9 
+3. 
+Methodology ................................................................................................................................. 11 
+4. 
+The Legislative Framework ........................................................................................................... 16 
+5. 
+CFT Operational Framework ......................................................................................................... 17 
+6. 
+Terrorist Financing Overview ........................................................................................................ 18 
+TF Threats ................................................................................................................................ 18 
+Labour ............................................................................................................................................. 20 
+Trade - Domestic ............................................................................................................................. 20 
+Trade - International ....................................................................................................................... 21 
+Collection and Movement of Funds - Domestic ............................................................................. 21 
+Collection and Movement of Funds - International ........................................................................ 22 
+TF Risks .................................................................................................................................... 22 
+7. 
+Cooperation Matters ..................................................................................................................... 23 
+International Cooperation ......................................................................................................... 23 
+Targeted Financial Sanctions ..................................................................................................... 24 
+Domestic Cooperation .............................................................................................................. 27 
+8. 
+Sectoral Analysis of TF Risk of Financial Institutions ................................................................... 28 
+Banking ............................................................................................................................................... 28 
+Money Services.................................................................................................................................... 28 
+Insurance ............................................................................................................................................. 29 
+TCSPs ................................................................................................................................................... 30 
+Investment Business ............................................................................................................................ 31 
+Other Financial Services (Financing Business and Insolvency Services) ........................................... 32 
+9. 
+Sectoral Analysis of TF Risk of Designated Non-Financial Businesses and Professions .............. 33 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |2 of 46 
+ 
+Accountants ........................................................................................................................................ 33 
+Lawyers ............................................................................................................................................... 33 
+Notaries ............................................................................................................................................... 34 
+Real Estate Agents .............................................................................................................................. 34 
+Dealers in Precious Metals and Stones (Jewellers) ............................................................................. 35 
+Other High Value Goods Dealers ......................................................................................................... 35 
+10. Sectoral Analysis of TF Risk of Non-profit Organisations ............................................................ 36 
+11. Casinos and other Emerging Products and Technologies ............................................................ 38 
+Casinos ................................................................................................................................................ 38 
+Emerging Products and Technologies ................................................................................................. 38 
+12. Recommendations ........................................................................................................................ 39 
+13. Conclusion ..................................................................................................................................... 43 
+GLOSSARY OF TERMS ................................................................................................................................. 45 
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |3 of 46 
+ 
+FOREWORD 
+This report is the culmination of a joint effort between the Financial Services Commission (“the 
+Commission”) as the regulator/supervisor of financial services and the Financial Investigation Agency 
+(“the FIA”) as AML/CFT supervisor of Non-profit Organisations and Designated Non-Financial Businesses 
+and Professions (DNFBPs) in the Virgin Islands.   
+ 
+This assessment is the first sectoral assessment that specifically targets the risk of terrorist financing 
+within the jurisdiction.  It follows the findings of the National Risk Assessment concluded in 2016, which 
+looked broadly at the structures in place for the criminalisation of Terrorist Financing (“TF”) and the 
+implementation of the relevant UN Security Council Resolutions within the Virgin Islands.  This assessment 
+has moved beyond that review of the effectiveness of the established legislative framework, to taking a 
+critical look at the TF threats to which the Virgin Islands are exposed, and the TF risks posed by the sectors 
+under each of our supervisory remits.  Conducting this assessment has ensured that we will be able to 
+continue to take appropriate action to effectively mitigate and manage these and other emerging risks.   
+ 
+The importance of identifying, understanding and mitigating the risk of TF as a result of the activities 
+carried out in and from within the Virgin Islands cannot be underscored.  As supervisors we are cognizant 
+of the need to comprehensively examine the threats and vulnerabilities that magnify this risk.  Such 
+examination not only ensures compliance with international standards, but aids in maintaining the safety 
+of the citizens of the Virgin Islands and our reputation as a leading International Financial Centre.   
+ 
+All relevant sectors should pay particular attention to the findings of this report as this will help you to 
+better identify the particular TF risks you face and allow you to take the necessary actions to mitigate 
+these risks.  Each sector is unique as are the risks identified.  Entities should therefore examine the findings 
+of the report and integrate these findings into their own institutional risk assessments and those of their 
+clients. 
+ 
+The Commission and the FIA are proud of the strong and robust AML/CFT regime in place to combat the 
+risks of money laundering, terrorist financing and the financing of proliferation.  As supervisors we remain 
+committed to identifying and responding to such risks.  We are confident that with continued cooperation 
+and collaboration between the public and private sectors, we will be able to maintain and enhance our 
+global reputation as a place to conduct legitimate business as we continue to play our part in the ongoing 
+global fight to combat both Money Laundering and Terrorist Financing. 
+ 
+ 
+ 
+ 
+Kenneth Baker  
+ 
+ 
+ 
+ 
+ 
+ 
+Errol George 
+Managing Director/CEO  
+ 
+ 
+ 
+ 
+ 
+Director 
+BVI Financial Services Commission 
+ 
+ 
+ 
+ 
+Financial Investigation Agency 
+ 
+ 
+ 
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |4 of 46 
+ 
+1. EXECUTIVE SUMMARY 
+ 
+1.1 
+The initial National Risk Assessment that was concluded in 2016 reviewed the structures in place for the 
+criminalisation of TF and the implementation of the relevant UN Security Council Resolutions.  
+Recommendations were made for legislative improvements and for proper training of LEAs and CAs in 
+detecting, investigating and prosecuting TF.  Building on the NRA, this assessment delves into the 
+assessment of TF risk at a sectoral level further addressing any perceived gaps from the previous NRA.   
+ 
+1.2 
+The assessment has taken a critical look at the level of exposure to TF and TF related activities at both a 
+domestic and international level, focusing on trade and fund flows generally, and homing in on the 
+activities of each relevant sector that may elevate their exposure to misuse for TF purposes. The 
+assessment was jointly conducted by the Financial Services Commission and the Financial Investigation 
+Agency.  It covers the vulnerabilities within three main areas: the financial services sector which comprises 
+the banking, money services, insurance, TCSP, investment business, financing and insolvency sectors; the 
+designated non-financial businesses and professions sector which comprises the accounting, legal, 
+notarial, real estate, jewellery and other high value goods dealers; and the non-profit organisations sector. 
+ 
+1.3 
+Data used was collected from the following CAs and LEAs with responsibility for, and connected to various 
+aspects of the AML/CFT regime within the jurisdiction: 
+ 
+Agency 
+Area of Responsibility 
+British 
+Virgin 
+Islands 
+Financial 
+Services 
+Commission 
+Regulator/Supervisor of FIs 
+British Virgin Islands Financial Investigation 
+Agency  
+Financial Intelligence Unit and Supervisor of 
+DNFBPs and NPOs 
+The Royal Virgin Islands Police Force  
+Criminal Investigations 
+Office of the Governor  
+International Sanctions and extraditions 
+Attorney General’s Chambers  
+Mutual Legal Assistance 
+Office of the Director of Public Prosecutions  
+Criminal Prosecutions 
+Department 
+of 
+Labour 
+and 
+Workforce 
+Development  
+Approval of employment status of emigrant 
+workers and general employment matters 
+Her Majesty’s Customs  
+Imports/Exports, border protection 
+Immigration Department  
+Immigration/Emigration  
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |5 of 46 
+ 
+ 
+National Threats 
+ 
+1.4 
+The threat of TF is of particular importance given the Virgin Islands’ standing as an International Finance 
+Centre and the use of BVIBCs and other legal arrangements to facilitate business globally.  The global 
+nature of such business makes these structures susceptible to misuse for illicit purposes.  Reported 
+instances of TF associated with BVI structures have been very few during the reporting period, which 
+covered 2015 to 2019. However, given the large number of BVIBCs and other legal arrangements 
+operating in and from within the Virgin Islands the threat of misuse of these entities internationally is 
+considered to be greater than at the domestic level. 
+ 
+1.5 
+At the domestic level, there are no known terrorist groups, organisations and/or terrorist fighters or self-
+radicalised terrorists operating in or targeting the Virgin Islands.  Labour force data does indicate, 
+however, that during the reporting period a number of persons from several Tier 1 and Tier 2 jurisdictions 
+(as defined in the Methodology and outlined in paragraph 6.6) were granted authorisation to reside in the 
+Territory for work purposes.  To date, there has not been any information or intelligence provided to 
+suggest potential funding of overseas terrorist organisations by individuals resident in the Territory. 
+ 
+1.6 
+The VI’s main industries are tourism and financial services.  It carries out little to no manufacturing or 
+agricultural activities at any significant scale and is not a significant exporter of locally manufactured 
+goods.  Conversely, because the VI is not a large-scale producer of goods it is heavily dependent on 
+imports.  There is no indication, however, of any level of direct engagement with any high-risk country as 
+a result of the importation of goods into the Territory.   
+ 
+1.7 
+Internationally, a significant number of BVIBCs do engage in import/export and other trading related 
+activities.   Consequently, there is an elevated risk of these entities having direct engagement with some 
+of the jurisdictions categorised as high-risk, or being used, whether knowingly or unknowingly, to finance 
+or facilitate the financing of terrorist activities. 
+ 
+1.8 
+The general threat of funds generated in the VI being used to finance terrorist operations within the VI is 
+low.  Remittance payments indicate that funds generated in the VI have been transmitted to a number of 
+Tier 1 and Tier 2 jurisdictions.  However, the data has not yielded any evidence that any funds generated 
+in the VI were used to support or finance terrorist activities.  Where the threat level becomes slightly 
+elevated is in relation to activities carried out by the BVIBCs registered in the VI that conduct business 
+globally.  The rationale being that it is possible that these BVIBCs and other available financial products 
+may be used to route funds to terrorist organisations.  However, during the reporting period reported 
+instances of TF associated with BVI structures have been limited.   
+ 
+Inherent TF Risk at the Sectoral Level 
+1.9 
+The banking sector in the Virgin Islands is small in comparison to other similar jurisdictions.  However, the 
+sector plays an integral part within the local financial services sector, with operations at both the domestic 
+and international levels.  Exposure to criminality within the banking sector comes from the universal 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |6 of 46 
+ 
+nature of retail banking transactions, as well as the frequency and speed with which they are conducted.  
+However, the volume of activities involving high-risk jurisdictions is small and are not conducted on a 
+regular basis.  Further, exposure to high-risk customers and PEPs is highly localised to those types of 
+customers resident in the Territory.  There is some risk of international exposure due to the provision of 
+services to non-resident clients, many of whom may be legal persons and legal arrangements.    
+ 
+1.10 While the money services sector itself is small in terms of number of participants, it is significant in terms 
+of outflows, as it accounts for a large volume of cross-border transactions.  The core markets for MSBs 
+are emigrant workers repatriating funds to their home countries, and residents sending money abroad 
+primarily for business and educational support purposes.  While remittance payments data does indicate 
+that funds generated in the VI have been transmitted to some Tier 1 and Tier 2 jurisdictions, there is no 
+evidence that any of these funds were used to support or finance foreign terrorist activities.  Rather, the 
+jurisdictions in question equate to the country of origin of the migrant workers who tend to repatriate 
+funds to their home countries to support their families.    
+ 
+1.11 The insurance sector in the VI comprises primarily of domestic and captive insurance business.  It also 
+includes intermediaries such as managers, brokers, and agents as well as loss adjusters.  The products and 
+services offered through domestic insurance companies and intermediaries are limited to life and health 
+insurance, and property and casualty insurance business.   These products are not seen as likely vehicles 
+for the movement of terrorist-related funds.  With regard to captive insurance providers, given the nature 
+and the way in which they operate they are internationally considered low risk institutions.  Further, there 
+is no significant level of business relationships with any of the identified Tier 1 or Tier 2 countries.   
+ 
+1.12 Based on nature and activity, it is recognised that the greatest risk of TF lies within the TCSP sector, which 
+serves as the primary gateway to the Virgin Islands’ international financial services sector.  The complex 
+corporate and legal structures facilitated by TCSPs, as well as other services provided, make these 
+structures attractive to both legitimate and illegitimate activity.  This attraction may be elevated due to 
+the high level of non-face to face transactions, and the potential for these structures to be used to conceal 
+the source of assets and the identity of BOs.  Given the size of the client base of the Territory’s TCSP sector, 
+the risk of misuse of such structures for TF purposes is considered more elevated than in other sectors. 
+ 
+1.13 The complex nature of the products offered by the investment business sector makes them attractive to 
+high-risk customers, including PEPs and other high net worth individuals.  However, these products are 
+not generally attractive vehicles for providing financing to terrorist organisations, although the risk 
+remains given the nature of the products.  Most service providers reside outside the VI and are 
+geographically dispersed providing for a high level of non-face to face business.  The sector’s diverse 
+international client base increases the potential for exposure to some Tier 1 and Tier 2 countries.  This, 
+however, does not inherently indicate a higher risk of TF. 
+ 
+1.14 With regard to financing business, the services provided are currently limited to the provision of small, 
+short term loans to connected persons or payment plans for insurance premiums.  Further, services are 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |7 of 46 
+ 
+offered to residents on a face-to-face basis, and do not involve clients from any Tier 1 or Tier 2 
+jurisdictions.   
+ 
+1.15 Similarly, the general nature of insolvency business not being on-going business makes the risk of the 
+sector being used for any TF purposes extremely miniscule.   
+ 
+1.16 The vulnerability in respect of accountants stems from the businesses they provide services to.  The types 
+of customers served by this sector are generally corporate and business clients, and high net worth 
+individuals, with the majority of the work being undertaken for corporate clients.  However, there is no 
+evidence to suggest any terrorist financing links within this sector, particularly in relation to those firms 
+that are entirely domestically focused.   
+ 
+1.17 As with accountants, the vulnerability within the legal sector also stems from the businesses to which 
+services are provided; a significant number of such services being provided almost exclusively non-face-
+to-face.  The majority of the work undertaken by this sector relates to corporate clients based in the US, 
+UK, China, Hong Kong, Russia and the BVI.  Data reviewed indicates that some law firms have provided 
+services to clients classified as PEPs or based in high-risk jurisdictions. However, the number of 
+transactions where this has been the case is low when compared to the total number of transactions 
+undertaken by these firms.  There is no evidence to suggest any terrorist financing links within this sector.   
+ 
+1.18 Notaries in the VI are required to be practicing lawyers in accordance with the Commissioners for Oaths 
+and Notaries Public Act, 2007.  Issues relative to notaries, therefore, mirror those outlined in relation to 
+lawyers.  There is no data to support any risk of TF by notaries in relation to either foreign or domestic 
+terrorist activities.   
+ 
+1.19 With regard to real estate agents, transactions involved local properties and properties located in other 
+jurisdictions. The data collected shows that most sales were in relation to local residential properties and 
+land, with a very small percentage of commercial property sales also occurring.  As noted, some entities 
+do undertake non-face-to-face transactions involving properties outside of the Territory, but these were 
+found to be predominantly based in the US.  Given the localised nature of the market and the lack of any 
+identifiable domestic terrorist activity the risk of the sector being used for any TF purposes is low.    
+ 
+1.20 There are very few DPMS within the Territory.  Those that do exist, concentrate on the sale of finished 
+pieces, almost exclusively on a face-to-face basis.  They do not focus on the sale of raw stones, gems or 
+bullion, which, based on international typologies are more attractive means of raising terrorist funds.  
+There have been no suspected cases of TF involving DPMS, nor any other indications of any TF activity 
+within the sector. This is consistent with the makeup of the sector and the general profile of the businesses 
+and their customers.  
+ 
+1.21 The majority of NPOs within the sector have been long established, approximately 95% of whom carry out 
+their activities solely within the Territory.  Cash and donation activity varies; however, donations generally 
+come in the form of cash, cheques or wire transfer.  A considerable number of NPOs operating within the 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |8 of 46 
+ 
+Territory are considered “small” and do not receive donations above $10,000.  During the hosting of 
+events certain larger NPOs have been known to collect significant amounts of funding, contributed for 
+specific philanthropic purposes.  These are all inbound donations, many of the larger of which are made 
+via payments methods (e.g. cheques or wire transfers) utilising the banking and other systems that would, 
+therefore, already have been subject to AML/CFT requirements.  While NPOs may generally be vulnerable 
+to being used for TF purposes through affiliation (i.e. via connection with an organisation situated or 
+working in an area with an active terrorist or TF threat, or knowingly or unknowingly being connected to 
+a terrorist organisation), there is no evidence to indicate that any affiliations with international 
+organisations are being used to foster TF through NPOs within the Territory.  There is also no evidence to 
+indicate that local NPOs supporting charities abroad have unwittingly sent funds to sham NPOs with 
+terrorist connections.   
+ 
+1.22 With regard to VA and VASPs, in the context of the VI, unregulated BVIBCs operating globally do pose an 
+inherent risk, as these entities may, and do, operate as VA exchanges and ICOs.  The VI’s vulnerability 
+exists primarily in that the majority of transactions carried out are on a non-face-to-face basis, which 
+offers a higher degree of anonymity than traditional non-cash payment methods.  Further, VASPs may 
+also include transfers that are anonymous or pseudo-anonymous, making it difficult to identify 
+beneficiaries of the transactions, thereby elevating the risk above other existing FIs.   
+ 
+1.23 The Territory’s overall TF risk was determined based on the impact of the TF threats emanating from both 
+domestic and foreign activities, taking into account all of the vulnerabilities identified within each 
+identified sector.  Given the Territory’s position as an IFC, the impact of foreign criminality on the overall 
+risk level was considered more severe based on the potential of BVI registered entities being used to 
+facilitate TF, and the scope of the impact of this conduct.  The threat of TF for the purposes of supporting 
+foreign terrorist activity was assessed as Medium-Low.  The domestic TF threat was considered Low. 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |9 of 46 
+ 
+2. INTRODUCTION  
+ 
+Jurisdictional Profile 
+ 
+Geographical  
+2.1 
+The Virgin Islands is an archipelago of some sixty (60) islands which sit to the north of the Leeward Islands 
+and lie approximately 110 miles west of St. Maarten, a few miles east of the USVI and some 60 miles east 
+of Puerto Rico.  It consists of approximately sixty islands, islets and cays, twenty of which are inhabited.  
+The islands are primarily volcanic in nature, with the exception of Anegada, which is the most northerly 
+of the islands and is constituted of coral and limestone.  The geographical composition and location of the 
+islands brings with it inherent risks of people smuggling, drug trafficking and illegal movement of goods 
+which have the potential to increase the Territory’s risk of money laundering (ML).  The threat of domestic 
+terrorism, however, has historically been very low.   
+ 
+Political 
+2.2 
+The Territory is classified by the United Nations as a Non-self-governing Territory of the United Kingdom.  
+However, the Territory is internally self-governing, and operates under the Westminster system with a 
+Cabinet style government.  The Ministers of Cabinet are appointed from amongst the members of the 
+Legislature and are not independently elected to executive office.  Ultimately, they are accountable to the 
+Parliament.  The Virgin Islands’ Parliament consists of thirteen elected members, the Attorney General 
+and a non-elected Speaker selected by the elected members of the House.   
+ 
+2.3 
+Historically, the Virgin Islands has had a relatively low crime rate and is politically stable. 
+ 
+Socio-economic  
+2.4 
+The population of the Virgin Islands is approximately 32,000 and the Territory is home to residents from 
+over 110 different countries and territories who make up approximately 70% of the local labour force.  
+The official currency of the Territory is the US dollar.1 The primary sectors of the economy which generate 
+the most economic activity and revenue are tourism and financial services, with financial services 
+contributing approximately 22.6% of the Territory’s GDP. The Virgin Islands’ economic performance is 
+reflected by an increase in positive growth of the Territory’s GDP from $1.02 billion in 2014 to $1.30 billion 
+in 2019.  However, the current global coronavirus pandemic is likely to have some negative impact on 
+performance and growth, particularly given the total closure of the tourism sector for most of the fiscal 
+year 2020. 
+ 
+The Assessment 
+2.5 
+The 2016 NRA covered the period 2011 to 2014 and focused primarily on the implementation of the 
+relevant TF related UN Security Council Resolutions by the Territory, and the corresponding level to which 
+the Territory has been able to criminalise TF.  That NRA also included an initial TF risk assessment, which 
+ 
+1 This is by virtue of the Legal Tender (Adoption of United States Currency) Act (Cap. 102) of the Laws of the Virgin Islands. 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |10 of 46 
+ 
+noted that the shortcomings found in relation to the LEAs, CAs, FIs, NPOs and DNFBPs would indicate that 
+there could be some risk of TF activity occurring without detection because of the low level of training in 
+detecting, investigating and prosecuting TF activity2.  
+ 
+2.6 
+This assessment now takes a more comprehensive look at the Territory’s TF risk profile resulting from 
+data collected for the years 2015 to 2019.  This assessment builds on the findings of the initial NRA as well 
+as other CFT related measures taken by the Territory since that time, and considers mechanisms in place 
+for addressing TF risks, particularly in high-risk sectors such as NPOs.    
+ 
+2.7 
+The assessment was carried out jointly by the FSC and the FIA and involved the following stakeholders: 
+• 
+The British Virgin Islands Financial Services Commission – Regulator/Supervisor of FIs 
+• 
+The British Virgin Islands Financial Investigation Agency – Financial Intelligence Unit/Supervisor of 
+DNFBPs and NPOs 
+• 
+The Royal Virgin Islands Police Force – Criminal Investigations 
+• 
+Office of the Governor – International Sanctions  
+• 
+Attorney General’s Chambers – Mutual Legal Assistance 
+• 
+Office of the Director of Public Prosecutions – Criminal Prosecutions 
+• 
+HM Customs – Import/Export of Goods and Border Security  
+• 
+Department of Immigration – Migration Flows 
+• 
+Department of Labour and Workforce Relations – National Labour Composition  
+ 
+2.8 
+The data used in conducting this risk assessment has been determined through interrogation of the 
+requirements under the FATF Standards, the results of the Virgin Islands’ 2016 National Risk Assessment, 
+and other best practice models.  The assessment looked not only at data available to measure the level of 
+international exposure to TF as a result of the Territory’s position as an IFC, but also at other critical 
+economic and crime data that were key to properly identifying the level of domestic TF risk posed to the 
+VI.   
+ 
+2.9 
+The key sources of data for this exercise included: 
+ 
+• 
+Available macro-fiscal data 
+• 
+FSC supervisory and inspection data 
+• 
+FSC enforcement data 
+• 
+Prosecutorial data 
+• 
+RVIPF crime statistics 
+• 
+Import/export data 
+• 
+Immigration related data 
+• 
+Workforce related data 
+• 
+FIA suspicious activity statistics 
+• 
+Corporate Registry data 
+• 
+International Cooperation data 
+ 
+2 Pg 44 pp 108 Virgin Islands National Risk Assessment Report 2016 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |11 of 46 
+ 
+• 
+Sanctions data 
+• 
+FIA supervisory and inspection data 
+• 
+FIA enforcement data 
+ 
+3. METHODOLOGY 
+ 
+3.1 
+In carrying out this exercise the jurisdiction was assessed based on the following identified areas of 
+vulnerability taking into consideration the threat environment and the potential consequences of such 
+vulnerabilities going undetected and unmitigated:   
+ 
+a) Structural elements: the extent to which elements such as the rule of law, national counter 
+terrorism and TF strategies and activities, and frameworks for relationships with regional 
+partners exist.  
+ 
+b) Materiality: extent to which the Territory is a financial hub, relative importance of different 
+parts of the economy; the extent to which the economy is cash based/unregulated; the 
+importance of financial and non-financial sectors which have been highlighted in international 
+typologies as higher risk for TF; cultural links and society demographics etc.  
+ 
+c) Sector or product-specific TF vulnerabilities: extent to which products or services have been 
+misused in known domestic or international typologies; the level of TF awareness and 
+compliance within sectors, and the relative complexity and reach of money movement 
+through sub-sectors or firms that may be at higher risk for TF i.e. the manner in which funds 
+move around and through sub-sectors and between firms, and how far within the global 
+economy such funds can be dispersed.   
+ 
+d) Compliance with FATF Standards relevant to TF: extent to which the legal framework 
+provides for the TF offence and implementation/management of Targeted Financial Sanctions 
+(TFS), preventive measures, cross-border controls, LEA powers and expertise, and TF 
+information exchange in accordance with FATF standards.  
+ 
+e) Effectiveness of AML/CFT regime and other weaknesses: extent to which authorities have 
+the capacity to identify and prevent TF; effectiveness of TF-related suspicious transaction 
+reporting, monitoring and analysis; quality of intelligence; effectiveness of international CFT 
+cooperation; adequacy of human resources; and timely access to beneficial ownership 
+information.  
+ 
+3.2 
+A numerical rating between 1 and 4, with 1 signifying lowest risk and 4 signifying highest risk, was assigned 
+to each of the five criteria based on the inherent vulnerability to the particular criteria.  The sum of these 
+individual ratings determined the total vulnerability rating, which could range between a minimum of five 
+(5) and a maximum of twenty (20).  This numerical rating determined the jurisdiction’s vulnerability 
+classification as follows: 
+Scale 
+a) High 
+ 
+ 
+17 - 20 
+b) Medium High 
+ 
+13 - 16 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |12 of 46 
+ 
+c) Medium Low 
+ 
+  9 - 12 
+d) Low 
+ 
+ 
+  5 - 8 
+ 
+3.3 
+The level of each of the following controls in place to mitigate against the identified vulnerabilities was 
+used to off-set these vulnerabilities:   
+ 
+1) Knowledge of AML/CFT obligations 
+2) Prior risk assessment rating 
+3) Risk mitigation policies and procedures in place 
+4) Level of inter-agency training, coordination and information sharing 
+5) Level of maintenance of BO information 
+ 
+3.4 
+Similarly to the vulnerability criteria, each of the five (5) mitigating criteria was assigned a rating between 
+0 and 2, with 0 indicating a low level of mitigation control measures and 2 indicating a high level of 
+mitigation control measures.  The sum of these individual ratings determined the total controls rating, 
+which could range between a minimum of zero (0) and a maximum of ten (10).  This numerical rating 
+determined the sector’s mitigating classification as follows: 
+Scale 
+a) High 
+ 
+ 
+9 - 10 
+b) Medium High 
+ 
+6 - 8 
+c) Medium Low 
+ 
+3 - 5 
+d) Low 
+ 
+ 
+0 - 2 
+ 
+3.5 
+The total controls rating was then subtracted from the total vulnerability rating to determine the overall 
+TF risk rating.  The following point value scales were then applied to determine the overall risk rating: 
+ 
+ 
+Scale 
+Rating 
+Rationale 
+a) 
+15 -20 
+High 
+high vulnerability/low mitigating controls 
+b) 
+ 8 - 14 
+Medium High 
+high vulnerability/high mitigating controls 
+c) 
+ 1 - 7 
+Medium Low 
+low vulnerability/low mitigating controls 
+d) 
+-5 - 0 
+Low 
+low vulnerability/high mitigating controls 
+ 
+ 
+3.6 
+The resulting risk rating for each sector of either Low, Medium Low, Medium High or High as outlined in 
+Charts 3.1 and 3.2 below, was based on the average net score received after applying the mitigating 
+controls to offset the identified vulnerabilities as detailed in Tables 3.1 and 3. 2.  
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |13 of 46 
+ 
+ 
+Chart 3.1: Financial Institutions Sector Risk Ratings 
+Sector 
+Vulnerability 
+Mitigating Controls 
+Net Score 
+Risk Rating 
+Banking 
+8 
+8 
+0 
+L 
+Money Services 
+10 
+5 
+5 
+ML 
+Financing 
+6 
+7 
+03 
+L 
+Insurance 
+8 
+6 
+2 
+ML 
+TCSPs 
+10 
+6 
+4 
+ML 
+Investment Business 
+10 
+6 
+3 
+ML 
+Insolvency Services 
+7 
+7 
+0 
+L 
+Emerging Products  
+19 
+0 
+19 
+H 
+Table 3.1: Financial Institutions Sector Risk Scoring and Ratings 
+ 
+ 
+3 Discrepancies in final scores are result of rounding out average vulnerability and mitigating control scores 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Banking
+Money
+Services
+Financing
+Insurance
+TCSPs
+Investment
+Business
+Insolvency
+Emerging
+Products
+Low
+Medium Low
+Low
+Medium Low Medium Low Medium Low
+Low
+High
+Financial Institutions TF Risk
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |14 of 46 
+ 
+ 
+Chart 3.2: DNFBP AND NPO Sectors Risk Ratings 
+Sector 
+Vulnerability 
+Mitigating Controls 
+Net Score 
+Risk Rating 
+Accountants 
+10 
+6 
+4 
+ML 
+Lawyers 
+7 
+7 
+0 
+L 
+Real Estate Agents 
+13 
+4 
+9 
+MH 
+DPMSs 
+11 
+5 
+6 
+ML 
+Other HVGs 
+11 
+4 
+7 
+ML 
+NPOs 
+11 
+5 
+6 
+ML 
+Table 3.2: DNFBP AND NPO Sectors Risk Scoring and Ratings 
+ 
+3.7 
+Additionally, the methodology was modified to take into account the risk of TF from both a domestic and 
+international perspective.  The reason for this is due to the BVI’s position as a significant IFC, which in itself 
+carries its own additional risk factors.  Charts 3.3 and 3.4 outline the domestic and international TF risk 
+ratings assigned to the financial institutions, and DNFBPs and NPOs respectively.   
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Accountants
+Lawyers
+Real Estate Agents
+DPMSs
+Other HVGs
+NPOs
+Medium Low
+Low
+Medium High
+Medium Low
+Medium Low
+Medium Low
+DNFBP and NPO Sectors TF Risk
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |15 of 46 
+ 
+ 
+Chart 3.3: Financial Institutions: Domestic vs Foreign Risk Ratings 
+ 
+Chart 3.2: DNFBP AND NPO Sectors: Domestic vs Foreign Risk Ratings 
+ 
+ 
+Low
+Low
+Low
+Low
+Low
+Low
+Low
+Low
+Low
+Med-Low
+Low
+Med-Low
+Med-Low
+Med-Low
+Low
+High
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Banking
+Money
+Services
+Financing
+Insurance
+TCSPs
+Investment
+Business
+Insolvency
+Emerging
+Products
+Financial Institutions TF Risk: Domestic vs Foreign 
+Low
+Low
+Low
+Low
+Low
+Low
+Low
+Med-Low
+Low
+Low
+Med-High
+Med-Low
+Med-Low
+Med-Low
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Accountants
+Lawyers
+Notaries
+Real Estate
+Agents
+DPMSs
+Other HVGs
+NPOs
+DNFBP and NPO Sectors TF Risk: Domestic vs Foreign
+Domestic
+Foreign
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |16 of 46 
+ 
+4. THE LEGISLATIVE FRAMEWORK 
+ 
+4.1 
+Terrorist Financing is criminalized in the Virgin Islands through the following Orders-in-Council, which are 
+imperial legislation extended to the Territory by the United Kingdom.   
+ 
+• 
+Terrorism (United Nations Measures) (Overseas Territories) Order, 2001 - prohibits the raising of 
+funds for purposes of terrorism and places restrictions on making funds available and providing 
+financial services to terrorists. It creates a regime that allows for the disclosure of information, on 
+the authority of the Governor, to the United Nations and any government of a country for the 
+purpose of detecting evasion of measures relative to terrorism. 
+ 
+• 
+Anti-terrorism (Financial and Other Measures) (Overseas Territories) Order, 2002 - restricts 
+transactions in terrorist property and creates extra-territorial jurisdiction in respect of offences 
+relative to terrorism such as engaging in fundraising or money laundering, using or possessing 
+property or arranging fundraising activities, for terrorist purposes.  It also enables the registration 
+and enforcement of foreign confiscation orders by an order of the Governor, and provides measures 
+for the enforcement of forfeiture orders in relation to:  
+• 
+money or other property which is likely to be used for the purposes of terrorism;  
+• 
+proceeds of the commission of acts of terrorism; and  
+• 
+proceeds of acts carried out for the purposes of terrorism.   
+ 
+• 
+Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) Order, 2011 (as amended) - extends 
+Part 1 (including Part 1 of Schedule 2) of the United Kingdom’s Terrorist Asset-Freezing etc. Act 
+2010 to the Territory and replaces the existing power that the Territory has to freeze the assets of 
+those suspected of being involved in terrorism under the 2001 Order. 
+ 
+4.2 
+In addition, the Afghanistan (United Nations Measures) (Overseas Territories) Order, 2012 and the ISIL 
+(Da’esh) and Al-Qaida (Sanctions) (Overseas Territories) Order, 2016 give effect to the UNSCRs which 
+impose targeted financial sanctions against the Taliban, Al-Qaida and ISIL (Da’esh).  They enable relevant 
+authorities to take the necessary action to freeze funds of designated persons and entities in respect of 
+targeted individuals, groups, undertakings and entities associated with the Taliban, ISIL and Al-Qaida, and 
+prohibit funds being made available to such persons. The 2016 order also prohibits the supply of military 
+goods and technical assistance related to military activities to designated persons. 
+ 
+4.3 
+At the time of writing, the Territory was in the process of finalising a draft Counter Terrorism Bill, which 
+when enacted would serve as the primary legislation under which terrorism and terrorism financing 
+offences, inter alia, would be criminalised within the Virgin Islands. 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |17 of 46 
+ 
+5. CFT OPERATIONAL FRAMEWORK  
+ 
+5.1 
+In the Virgin Islands the responsibility for identifying, monitoring, investigating, prosecuting and providing 
+mutual legal assistance and other forms of international cooperation on TF related matters spans across 
+the following CAs and LEAs.   
+ 
+a) AGC  –  primary authority responsible for receipt and actioning of MLA requests and other forms 
+of international cooperation relative to civil and criminal matters 
+b) FIA  –  supervisory authority for NPOs and DNFBPs.  Serves as the national intelligence unit for 
+the receipt and analysis of SARs and dissemination of intelligence to local and foreign 
+counterparts. Assists the AGC in the provision of information in response to MLA requests 
+c) FSC  – regulatory authority responsible for the supervision of FIs including monitoring and 
+enforcement of regulatory obligations relative to TFS.  Provides international cooperation 
+assistance to foreign counterparts in concurrence with established MoUs and other 
+international obligations 
+d) GO  
+–   CA responsible for the implementation of financial sanctions measures including the 
+issuing, varying and revocation of licences that permit the conduct of activities otherwise 
+not permitted under the relevant Orders-in-Council 
+e) RVIPF – sole LEA responsible for the investigation of terrorist and TF related activities, and 
+development and implementation of the Territory’s Counter-Terrorism strategy.  
+f) ODPP –  prosecutorial authority responsible for ensuring swift and proper prosecution of TF and 
+other terrorism related matters 
+g) HMC  –  primary LEA responsible for the safeguarding of the Territory’s borders (in conjunction 
+with the RVIPF and the Immigration Department) against illegal entry, people smuggling 
+and human trafficking, and the prevention of importation and/or transhipment of illegal 
+weapons and related contraband     
+h) ID 
+ –  primary LEA responsible for the identification and detention of illegal immigrants, 
+prevention of entry of unauthorised persons, and the deportation of persons identified as 
+undesirable    
+ 
+5.2 
+These agencies work closely together on a bi-lateral and multi-lateral basis and have established MoUs 
+that allow for domestic cooperation and the exchange of information on matters relative to TF in addition 
+to other ML and sanctions related matters4. A legislative framework is also in place that allows for the 
+exchange of information and the provision of mutual legal assistance in international cooperation matters. 
+ 
+ 
+ 
+4 A list of MoUs currently in place are set out in Appendix I 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |18 of 46 
+ 
+6. TERRORIST FINANCING OVERVIEW 
+ 
+6.1 
+A “terrorist act” is defined by the FATF as any act constituting an offence under a range of widely adopted 
+international conventions5.  The FATF further defines terrorist financing as the financing of terrorist acts, 
+and of terrorists and terrorist organisations6.  These definitions are aligned with those specified in the 
+relevant Orders-in-Council that criminalise terrorism and terrorist financing within the Virgin Islands. 
+ 
+6.2 
+As with ML, a jurisdiction’s TF risk is considered to be a function of its TF threats and vulnerabilities.  A 
+threat in the TF context, being a person or group of people, object or activity with the potential to cause 
+harm to the state, society, economy etc.7, through the raising, moving, storing or using of funds and other 
+assets (whether from legitimate or illegitimate sources) for terrorist purposes, if relevant action is not 
+taken.   
+ 
+6.3 
+The concept of vulnerabilities is closely linked to that of a threat and comprises those things that can be 
+exploited by the threat, or that may support or facilitate threat activities. Vulnerabilities are effectively 
+those factors that represent weaknesses in the Territory’s AML/CFT system, including features of a 
+particular sector, financial product or type of service that make them attractive for TF purposes, and 
+covers the broadest areas of the economy.   
+TF Threats  
+6.4 
+The threat of TF is of particular importance given the Virgin Islands’ standing as an International Finance 
+Centre and the use of BVIBCs and other legal arrangements to facilitate business globally, as such 
+structures are susceptible to misuse for illicit purposes.  Reported instances of TF associated with BVI 
+structures, however, have been very few during the reporting period.  The number of SARs received by 
+the FIA directly identifying terrorist or TF related activities totaled 21.  These SARs were all associated with 
+BVIBCs operating in foreign jurisdictions.  Analysis on nine of these SARs did not reveal anything that 
+required further investigation. These SARs were closed, and the information recorded for intelligence 
+purposes.  The remaining twelve SARs are still undergoing analysis and investigation. A general 
+observation is that the information in these SARs were all filed based on information obtained from an 
+electronic online intelligence search tool, whose results were not verified by the reporting entities prior 
+to the SARs being filed. This, along with some of the data provided being outdated resulted in poor quality 
+SARs, thereby posing a challenge where analysis and investigations are concerned.  
+ 
+6.5 
+Further, the RVIPF did not report any TF related investigations, domestic or otherwise during the reporting 
+period, which is not unexpected in view of the low level of TF related SARs reported.  However, additional 
+training with respect to identification investigation and prosecution of TF related matters for LEAs would 
+be beneficial to ensure these agencies fully understand their roles. 
+ 
+ 
+5 Pg 125, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation, The FATF 
+Recommendations, June 2019 
+6 Ibid 
+7 Pg 8 FATF Report, Emerging Terrorist Financing Risks, October 2015 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |19 of 46 
+ 
+6.6 
+The number of TF related SARs received over the reporting period does not reflect a recognizable threat 
+of TF in this area, as these SARs accounted for a mere 0.96% of the 2,396 SARs received by the FIA.  
+However, this does not negate the potential of BVIBCs and other vehicles being used to finance terrorist 
+activities.  Given the large number of BVIBCs and other legal arrangements operating in and from within 
+the Virgin Islands the threat of misuse of these entities is considered to be greater than at the domestic 
+level. 
+ 
+6.7 
+Exposure to terrorism and TF at a domestic level on the other hand is considered to be low.  There are no 
+known terrorist groups, organisations and/or terrorist fighters or self-radicalised terrorists operating in or 
+targeting the Virgin Islands.  For the purposes of this assessment, however, a pool of high-risk jurisdictions 
+was identified to determine the Territory’s potential level of exposure to these countries based on 
+relationships stemming from both domestic and cross-border activities.  These jurisdictions were 
+recognised as having either been identified by the FATF as having weak AML/CFT regimes8, are known 
+conflict areas, or are subject to UN sanctions.  Also included were those countries that did not appear on 
+any of those lists but have ties to the Virgin Islands9 and scored less than 50 on the Global Corruption 
+Perceptions Index (GCPI)10.  This resulted in the classification of the following jurisdictions outlined in 
+Table 6.1 below as Tier 1 and Tier 2 jurisdictions, with Tier 1 jurisdictions posing a higher risk than their 
+Tier 2 counterparts: 
+ 
+Tier 1 Jurisdictions 
+Tier 2 Jurisdictions 
+ 
+ 
+Central African Republic 
+Afghanistan 
+Democratic Republic of Congo 
+India 
+DPRK 
+Nigeria 
+Iran 
+Russia 
+Iraq 
+Trinidad and Tobago 
+Lebanon 
+Ukraine 
+Libya 
+Venezuela 
+Pakistan 
+Zimbabwe 
+Palestine 
+ 
+Philippines 
+ 
+Somalia 
+ 
+South Sudan 
+ 
+Sudan 
+ 
+Syria 
+ 
+Yemen  
+ 
+Table 6.1: Identified Tier 1 and Tier 2 Jurisdictions 
+ 
+6.8 
+Particular attention was placed on the economic activity identified between these countries and the VI in 
+relation to labour and imports on the domestic front, and fund flows in relation to international financial 
+ 
+8 Improving Global AML/CFT Compliance: On-going Process – 18 October 2019 
+9 Ties are either by way of business relationships or immigrant settlers 
+10 2018 Global Corruption Perceptions Index 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |20 of 46 
+ 
+transactions.  Subsequent to this, a further review of the list of countries was carried out to ensure there 
+were no additional anomalies.  
+ 
+Labour   
+6.9 
+During the reporting period the RVIPF did not record any TF related cases associated with domestic 
+activity, nor have there been any reports of radicalisation of persons residing within the VI.  Labour force 
+data does indicate, however, that during the period a number of persons from several Tier 1 and Tier 2 
+jurisdictions were granted authorisation to reside in the Territory for purposes of work.  While this itself 
+is not an indication of any possible TF related activity, authorities should monitor fund flows into these 
+jurisdictions and take into account any trends that may develop that might indicate potential funding of 
+overseas terrorist organisations.  There has, however, not been any information or intelligence provided 
+to suggest any such activity. 
+ 
+6.10 Table 6.2 below outlines the number of work permits granted to citizens of Tier 1 and Tier 2 jurisdictions 
+annually during the reporting period. 
+ 
+  
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+Tier 1 
+Central African Republic 
+0 
+0 
+0 
+0 
+1 
+1 
+Iran 
+0 
+2 
+0 
+1 
+0 
+3 
+Iraq 
+6 
+9 
+0 
+0 
+0 
+15 
+Lebanon 
+0 
+0 
+5 
+1 
+4 
+10 
+Libya 
+2 
+1 
+0 
+0 
+0 
+3 
+Pakistan 
+2 
+1 
+0 
+2 
+0 
+5 
+Palestine 
+0 
+0 
+0 
+1 
+1 
+2 
+Philippines 
+404 
+411 
+400 
+295 
+383 
+1893 
+Syria 
+2 
+0 
+3 
+0 
+0 
+5 
+Tier 2 
+India 
+63 
+77 
+74 
+42 
+71 
+327 
+Nigeria 
+27 
+23 
+29 
+25 
+22 
+126 
+Russia 
+2 
+5 
+3 
+1 
+4 
+15 
+Trinidad and Tobago 
+232 
+194 
+207 
+178 
+160 
+971 
+Ukraine 
+7 
+4 
+6 
+1 
+1 
+19 
+Venezuela 
+0 
+0 
+0 
+42 
+43 
+85 
+Zimbabwe 
+4 
+7 
+10 
+8 
+31 
+60 
+Table 6.2: Work Permits Granted to Citizens of Tier 1 and Tier 2 Jurisdictions: 2015-2019 
+Trade - Domestic   
+6.11 With regard to trade, the VI’s main industries are tourism and financial services.  It carries out little to no 
+manufacturing or agricultural activities at any significant scale and is, therefore, not a significant exporter 
+of local goods.  Rather, it serves as a secondary exporter of goods i.e. for goods previously imported and 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |21 of 46 
+ 
+then re-exported.  This mainly occurs in relation to goods imported and purchased by individuals who 
+then subsequently export these goods to their home country.  Some reasons for this include lack of 
+availability of such goods in the home country, quality of goods and cost.  Goods are primarily exported 
+to other Caribbean countries, particularly St. Vincent and the Grenadines, St. Kitts and Nevis, Trinidad and 
+Tobago and Guyana which parallels the distribution of the migrant population in the Territory.  While such 
+activity has been linked to a level of drug trafficking, there is no evidence to indicate that such activity is 
+linked to any terrorist or TF activities. 
+ 
+6.12 Conversely, because the VI is not a large-scale producer of goods it is heavily dependent on imports.  While 
+most goods are imported from the US, the origin of these goods includes some Tier 1 and Tier 2 countries.  
+This, however, is no indication of any level of direct engagement with these high-risk countries but rather 
+a consequence of the production-distribution chain relative to these products.  The VI does, however, 
+receive a large number of varied imports from Tier 2 country Trinidad and Tobago ranging from dry goods, 
+to paper and plastic products to medical supplies.  The average annual value of such imports is 
+approximately $4.6 million.  Again, such imports are a result of legitimate inter-island trade and there is 
+no evidence that payment for such goods is used to finance terrorist activities in that county.  As such, the 
+threat of TF from domestic trade activities is considered to be very Low.   
+ 
+Trade - International   
+6.13 Most BVIBCs incorporated in the jurisdiction are created for the purposes of cross-border business, 
+primarily as entities to hold assets or as vehicles for joint ventures which may be linked to the investment 
+sector.  Additionally, a significant number of BVIBCs do engage in import/export and other trading related 
+activities these companies operate mainly in major global economies including Asia, South America, 
+Europe, North America, and to a lesser extent Africa.  Consequently, there is an elevated risk of these 
+entities having direct engagement with some of the jurisdictions categorised as high-risk, or being used, 
+whether knowingly or unknowingly, to finance or facilitate the financing of terrorist activities in these or 
+other jurisdictions.  Data collected during the assessment exercise, however, was insufficient to quantify 
+the level of trade engaged in by these entities or to identify potential trading partners.  Given the global 
+nature of such trading activities, however, the threat of TF from such international trade activities is 
+considered to be Medium-High.  
+ 
+Collection and Movement of Funds - Domestic 
+6.14 There are no known terrorist organisations or individual terrorists operating in the VI and there have been 
+no domestic acts of terrorism. There is, therefore, no evidence of financing for specific terrorism or 
+terrorist events.  As such, the general threat of funds generated in the VI being used to finance terrorist 
+operations within the VI is Low.  Further, there is no evidence of a need for funds generated in a foreign 
+jurisdiction to be provided to anyone in the VI to finance such activities domestically. Equally, there is no 
+evidence of such use of funds within the local NPO sector as explained in detail in section 10 of this report.  
+The risk of foreign financing to support domestic terrorist activities is consequently also Low. 
+ 
+6.15 Remittance payments indicate that funds generated in the VI have been transmitted to a number of Tier 
+1 and Tier 2 jurisdictions.  There is no evidence, however, that any funds generated in the VI were used to 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |22 of 46 
+ 
+support or finance terrorist activities outside of the Territory.  Based on labour force data the level of 
+remittances to these jurisdictions is commensurate with the current demographic composition of the local 
+labour force, as non-resident workers tend to repatriate funds to their home countries to support their 
+families.  The average value of outgoing money remittance transactions was $288.00.  As such, this threat 
+is also considered to be Low.   
+ 
+6.16 However, there is still a need for on-going public education of the general populace in relation to emerging 
+TF methods and trends, which could take advantage of both the local and ex-patriate population’s desire 
+to provide legitimate assistance to persons or organisations overseas.  Additionally, training of LEAs in 
+these areas is also important. 
+ 
+Collection and Movement of Funds - International 
+6.17 Where the threat level becomes slightly elevated is in relation to activities carried out by the BVIBCs 
+registered in the VI that conduct business globally.  The inherent vulnerability of such BVIBCs is driven by 
+the complexity of the international financial transactions they engage in, which heighten the risk of these 
+structures being used to facilitate the financing of terrorism. 
+ 
+6.18 As these multinational entities conduct large scale cross-border transactions on a daily basis, the potential 
+for misuse is inherently greater.  The rationale being that it is possible that these BVIBCs and other 
+available financial products may be used to route funds to terrorist organisations.  As noted previously, 
+however, reported instances of TF associated with BVI structures have been negligible during the 
+reporting period.  Nonetheless, irrespective of the number of investigations and TF related SARs recorded, 
+given the large number of BVIBCs and other legal arrangements operating in and from within the VI, the 
+threat of misuse of these entities is considered to be material, given the potentially extensive impact of 
+such activity to the reputation of the jurisdiction.  It is therefore, important that the relevant LEAs receive 
+the requisite training to identify TF at the international level. The threat of TF associated with the 
+collection and movement of funds on an international level is, therefore, considered to be Medium-High. 
+ 
+TF Risks 
+6.19 While the identifiable threats of TF may be low, the risk of TF by and through individuals and entities, 
+including financial institutions, residing in, or operating from within the Virgin Islands cannot be 
+disregarded.  These risks, along with those found in the domestic non-profit (NPO), and to a lesser extent, 
+designated non-financial business (DNFBP) sectors, collectively impact the Virgin Islands’ level of 
+effectiveness in combatting TF, and in meeting its obligations relative to FATF standards.   
+ 
+6.20 TF risks posed by the individual sectors under review are discussed in sections 8 to 10 below.  The level of 
+risk has been identified based on each sector’s level of exposure to identified vulnerabilities taking into 
+consideration the threats to the jurisdiction as identified above, and the extent to which each sector has 
+been able to successfully mitigate these vulnerabilities. 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |23 of 46 
+ 
+6.21 The identified vulnerabilities themselves are based, inter alia, on: 
+• 
+the level of implementation of CT and TF strategies,  
+• 
+use of the Territory’s international cooperation framework,  
+• 
+links to high-risk jurisdictions,  
+• 
+identification of sectors in TF typologies,  
+• 
+level of compliance with TF requirements including TFS,  
+• 
+strength of the legal framework to address TF related offences, and 
+• 
+availability of information to assist in MLA and other international cooperation requests. 
+ 
+6.22 These vulnerabilities have been mitigated to varying levels in most instances through the jurisdiction’s 
+level of understanding of TF amongst high-risk sectors, understanding of its CFT obligations relative to the 
+maintenance of BO information, level of coordination and information sharing among LEAs, and the 
+effectiveness of the sanctions regime currently in place.   
+ 
+6.23 In determining the Territory’s overall TF risk level focus was placed on the major TF threats emanating 
+from both domestic and foreign activities and their impact to the Territory.  The domestic TF threat was 
+considered Low, while the threat of TF for the purposes of supporting foreign terrorist activity was 
+assessed as Medium-Low.  Given the Territory’s position as an IFC, the impact of foreign criminality on 
+the overall risk level was considered more severe based on the potential of BVI registered entities being 
+used to facilitate TF, and the scope of the impact of this conduct. 
+ 
+7. COOPERATION MATTERS 
+International Cooperation 
+7.1 
+The greater risk of TF for the VI lies with the misuse of legal persons and legal arrangements registered in 
+and operating from within the VI.  The ability to provide mutual legal assistance and other forms of 
+international cooperation is therefore paramount to the VI’s ability to assist in mitigating such risk.  Formal 
+MLA requests are handled through the AGC with assistance from the FIA for those requests where a BVIBC 
+or other legal arrangement may be the subject of the enquiry.  In addition, exchange of financial 
+intelligence is facilitated through the FIA’s membership in the Egmont Group as well as the Territory’s 
+membership in the CFATF, which allows the FIA to utilise information sharing agreements with non-
+Egmont members.  The FIA also has the ability to make spontaneous disseminations to other LEAs based 
+on intelligence gathering exercises.   
+ 
+7.2 
+The RVIPF interacts regularly with its foreign counterparts and has developed strong working relationships 
+with regional, US and UK law enforcement authorities which extends to potential matters relating to both 
+ML and TF.  HMC has also forged solid working relationships with regional and international counterparts 
+through its membership in the WCO and the CCLEC, and works closely with US CBP and ICE.  HMC also has 
+the ability to participate in joint operations with these agencies, along with the RVIPF when necessary.  
+These relationships ensure that if there is a need for cooperation in relation to a local TF related 
+investigation with extra-territorial reach, or an international TF investigation with a domestic link, the 
+framework is in place for such cooperation to take place.  
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |24 of 46 
+ 
+ 
+7.3 
+Based on data provided the FIA received seventy-one (71) foreign requests for assistance during the 
+reporting period in which TF was identified in the subject matter.  The vast majority of these, (62), were 
+recorded in 2019 and were related to requests for BO information of BVIBCs from one UK authority.  
+However, the classification of the requests from that particular UK authority was very broad, as all the 
+requests identified “corruption, ML, TF, proliferation and organised crime” as the reason for the request, 
+which appeared to be a ‘catch-all’ description.  It was, therefore, initially unclear whether the activities 
+on which these requests were based, actually involved TF activities.  Nonetheless, the information 
+requested was provided in all instances.  Further review of the information provided that the requests for 
+information were not related specifically to terrorism or TF offences. This was determined through a 
+comparative analysis with the MLA requests received, which showed a correlation with only one of the 
+initial UK requests in which terrorism and/or TF was specifically mentioned, as outlined in paragraph 7.4 
+below. Therefore, the conclusion is that the requests from the UK authority did not relate specifically to 
+terrorism or TF but rather tax related crimes for which they were seeking BO information.  
+ 
+7.4 
+The FIA confirmed that during the reporting period they were asked to provide information for only one 
+terrorism/TF related MLA request.  This request involved two BVIBCs that were accused of providing 
+“material support or resources to a foreign terrorist organisation” in Iraq and Syria.  The request generally 
+sought information on the ownership of the companies. The request was fully responded to and the 
+information on BO of the companies was provided. Feedback on the usefulness of the information was 
+sought, as is standard practice with the FIA. 
+ 
+ 
+7.5 
+On the regulatory side, the FSC is an active member of IOSCO, GIFCS and IAIS, as well as other regional 
+associations such as ASBA, CGBS, and CAIR.  Membership in these organisations allows the FSC to facilitate 
+international cooperation requests received from member jurisdictions and make requests for 
+information, if and when necessary.  During the reporting period the FSC confirmed that it did not receive 
+or make any TF related international cooperation requests. 
+ 
+Targeted Financial Sanctions 
+7.6 
+In order to ensure an effective financial sanctions regime, the VI embraces international standards and 
+best-practice standards which promote international cooperation and international security in 
+accordance with international agreements. This includes the implementation of measures to ensure that 
+it meets its obligations to combat TF as embodied under the FATF Recommendations. 
+Example 
+Two BVIBCs were accused of providing “material support or resources to a foreign terrorist 
+organisation” in Iraq and Syria.  The BVIBCs were linked, together with other ISIS media organisations, 
+to social media accounts used to published ISIS related propaganda.  The necessary BO information on 
+the BVIBCs was provided by local LEAs, which indicated that the BO was an Iraqi born US citizen.  
+Feedback on the usefulness of the information provided was sought, however, no feedback was 
+received. 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |25 of 46 
+ 
+ 
+7.7 
+As a British Overseas Territory, the VI is committed to ensuring its role in the maintenance of international 
+peace and security, and therefore implements the international sanctions obligations extended through 
+the UK in the form of Orders-in-Council. The Governor of the Virgin Islands is the CA with responsibility 
+for enforcing Orders-in-Council relative to international sanctions.  Through internal processes between 
+the GO and the FIA these matters are investigated and responded to in a timely manner.   
+ 
+7.8 
+Between 2015 and 2019 BVIBCs were named in relation to 30 potential breaches of UN sanctions relative 
+to TF.  In addition, communication regarding additional potential breaches involving 27 BVIBCs was 
+received from sources including FIs, DNFBPs and foreign NGOs.  The jurisdictions to which these potential 
+breaches and reports relate are outlined in Table 7.1 below: 
+ 
+Sanctioned Jurisdiction 
+No. of BVIBCs Named by UN in 
+Potential Sanctions Breaches 
+No. of BVIBCs Reported for 
+Possible Sanctions Breaches 
+Burma  
+- 
+1 
+Central African Republic 
+1 
+- 
+Iran 
+- 
+21 
+Libya 
+9 
+311 
+People’s Democratic Republic 
+of Korea (DPRK) 
+19 
+- 
+Syria 
+- 
+2 
+Yemen 
+1 
+- 
+Zimbabwe 
+- 
+312 
+Total 
+30 
+27 
+Table 7.1: Number of BVIBCs Reported for Potential Sanctions Breaches: 2015-2019 
+ 
+7.9 
+Requests received by the GO from the UN’s Panels of Experts, which are working groups established by 
+the UN to support the work of the various UN Sanctions Committees, are forwarded to the FIA for 
+investigation, and results are returned to the GO without exception.  During the reporting period 12 
+requests for information in relation to the 30 BVIBCs named were sent to the FIA, all of which were in 
+relation to potential breaches of UN sanctions by BVI registered entities.  All requests were responded to 
+by the FIA within the desired timeframe, and the resulting findings were communicated to the relevant 
+ 
+11  These 3 companies were named in relation to both Libya and Zimbabwe 
+12 Ibid 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |26 of 46 
+ 
+UN Panel of Experts in accordance with the Territory’s commitment to its international cooperation 
+obligations.  The jurisdiction has received positive feedback from the UN Panel for its responsiveness to 
+their requests. 
+ 
+7.10 With regard to other communication received by the GO from private sector entities, there has been only 
+one instance where evidence was found to warrant action being taken.  In this instance, the FIA completed 
+an investigation and passed the file to the RVIPF. However, it was deemed by the ODPP that there was no 
+legal framework to attempt prosecution in the matter. This is a clear gap in the Virgin Islands’ ability to 
+respond effectively to sanctions related matters which needs to be addressed.   
+ 
+7.11 During the reporting period, 51 SARs submitted to the FIA related to possible sanctions offences, including 
+alleged sanctions breaches by clients, persons on sanctions lists identified as clients, and clients who may 
+have had an association/connection to a sanctioned individual/entity.  The majority of these SARs were 
+filed by TCSPs (see Table 7.2 for details). 
+ 
+Year 
+TCSPs/RAs 
+Law Firms 
+Insolvency 
+Practitioners 
+BVIBCs 
+Banks 
+2015 
+3 
+2 
+0 
+0 
+0 
+2016 
+2 
+1 
+0 
+0 
+0 
+2017 
+7 
+0 
+0 
+0 
+0 
+2018 
+10 
+0 
+0 
+0 
+0 
+2019 
+21 
+1 
+1 
+1 
+2 
+Total 
+43 
+4 
+1 
+1 
+2 
+Table 7.2: Sanctions Related SARs Filings by Sector: 2015-2019 
+All of the 51 SARs concerned sanctioned individuals who were identified as BOs, shareholders and/or 
+directors of BVIBCs.  However, there were no instances in which BVIBCs themselves were found to have 
+breached a UN/EU sanction.  Upon investigation of these SARs, forty-nine of them did not reveal anything 
+that required further investigation as no specific sanction breach was identified.  As such, no further action 
+was recommended, and they were filed for future reference if needed. One SAR was disseminated to a 
+foreign FIU and one to the FSC, both for intelligence purposes.   Prior to the FSC taking action, the RA 
+terminated its relationship with the BVIBC in question.  The BVIBC was subsequently struck from the 
+Register of Companies.   
+ 
+7.12 Given the sheer volume of BVIBCs this may reflect that generally, BVIBCs are aware of their obligations 
+under the various UN/ EU13  sanctions and adhere to the requirements of the sanctions orders, or that 
+client onboarding and monitoring procedures of FIs are robust, thereby minimising the number of clients 
+from Tier 1 and Tier 2 jurisdictions.  Conversely it could point to insufficient monitoring of the perimeter 
+to detect the true number of BVIBCs involved in sanctions busting activities or owned by sanctioned 
+ 
+13 As a result of the UK’s withdrawal from the EU on 31 December 2020 EU sanctions are no longer applicable to 
+the BVI 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |27 of 46 
+ 
+individuals.  This needs to be carefully considered as it may reflect a potentially higher level of risk to the 
+jurisdiction based on exposure to these types of individuals. 
+ 
+7.13 In accordance with the TFS regime the Governor, under the powers conferred by the individual Sanctions 
+Orders, is responsible for granting licences to conduct business with or on behalf of a designated person 
+or entity.  In considering such licences the GO works closely with the AGC to ensure all applications meet 
+the criteria and are properly evaluated.  Between 2015 and 2019 the Governor granted 3 such licenses 
+and revoked one.  Two additional licences that were previously granted became invalid as the designated 
+person was removed from the relevant sanctions list.  The low number of requests for licenses appears to 
+correlate with the low number of instances in which BVIBCs or persons related to BVIBCs have been 
+designated. 
+ 
+7.14 Recognising the importance of proper adherence to the sanctions regime, the GO engages in targeted 
+outreach to the financial services industry and the public in relation to sanctions mechanisms.  Specifically, 
+in 2019 as part of its outreach programme, the GO presented to the Territory’s Association of Compliance 
+Officers on its licensing regime and requirements for applying for a licence to conduct business with or on 
+behalf of a designated person or entity.  Over one hundred (100) persons attended this training, the focus 
+of which was to ensure entities within the financial services sector fully understand their responsibilities 
+when dealing with designated persons.  Therefore, the low number of requests for licences is likely an 
+indication that industry professionals understand the requirements for seeking a licence.  Additionally, in 
+2018 the GO facilitated a sanctions workshop sponsored by OFSI that was geared toward both public and 
+private sector entities based in the Territory.  The GO’s presentation focused on licensing as well as 
+international cooperation relating to investigations, amongst other things.  Over seventy (70) persons 
+participated in that workshop.   
+ 
+Domestic Cooperation 
+7.15 The framework used for fostering inter-agency cooperation in the VI includes information exchange based 
+on the use of bi-lateral inter-agency MOUs such as those established between the FSC and FIA, FIA and 
+HM Customs, and FIA and RVIPF.  Additionally, there is a multi-lateral inter-agency MOU established 
+amongst the 18 members of the IGC, which defines the relationship between the members and compels 
+them to work together to, inter alia, enhance the Territory’s compliance with its international obligations 
+with respect to information exchange, and coordinate activities to effectively combat criminality relative 
+to ML, TF, corruption, matters related to organized crime and tax obligations.  
+ 
+7.16 Cooperation amongst these agencies spans the entire gamut of the Virgin Islands’ AML regime.  Of 
+particular importance is the relationship between the FIA and the RVIPF in relation to the analysis, 
+dissemination and investigation of SAR related activities, as well as the relationship between the RVIPF 
+and the ODPP with respect to investigation and prosecution of offences.  Additionally, as noted above, 
+the FIA provides valuable support to the AGC in gathering information relating to legal persons and legal 
+arrangements established in the VI to allow for the AGC to respond to MLA requests. 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |28 of 46 
+ 
+8. SECTORAL ANALYSIS OF TF RISK OF FINANCIAL INSTITUTIONS 
+ 
+Banking 
+8.1 
+The banking sector in the VI is small in comparison to other jurisdictions, with only six licensed commercial 
+banks and one private wealth management institution, none of which act as a correspondent bank.  The 
+sector plays an integral part within the local financial services sector, with operations at both the domestic 
+and international levels.  The products and services offered are standard banking related products and 
+services and are not of an overly complex nature.   
+ 
+8.2 
+Services are provided to non-resident persons either directly or through the provision of banking services 
+to legal persons and legal arrangements.  The BOs and other relevant persons of these legal persons and 
+legal arrangements are clients of licensed TCSPs.  However, overall, the banking sector within the VI 
+predominantly provides banking facilities to residents and local businesses.  To put this into perspective 
+the total value of non-resident loans at the end of 2019 was reported at $71.125 million or just over 5% 
+of all total loans.  Similarly, non-resident deposits accounted for only 14.2% of all deposits.  While most 
+institutions now offer some form of online banking, a vast majority of business is still conducted face-to-
+face based on the products and services offered.  Exposure to high-risk customers and PEPs is therefore 
+highly localised to those types of customers resident in the Territory.  It is recognised, however, that there 
+is some risk of international exposure due to the provision of services to non-resident clients, many of 
+whom may be legal persons and legal arrangements.    
+ 
+8.3 
+Exposure to criminality within the banking sector comes from the universal nature of retail banking 
+transactions, as well as the frequency and speed with which they are conducted.  While there is the 
+potential for some of the activities within the sector to involve high-risk jurisdictions, the volume of such 
+activities is small and are not conducted on a regular basis.  Cross-border transactions engaged in by the 
+banking institutions, based on the value of reported incoming and outgoing wire transfers primarily 
+involve transfers to and from North America, Europe (including the UK) and the Caribbean.  There is no 
+evidence of any direct link to any Tier 1 or Tier 2 jurisdiction, with the exception of Trinidad and Tobago.  
+However, this is attributed to the trading relationship between Trinidad and Tobago and the Territory.  
+Further, there have been no reports of any VI banking institutions being used to facilitate the financing of 
+any foreign terrorist activities. 
+ 
+8.4 
+The risk of TF in the banking sector in support of foreign terrorism is assessed as Low.  The risk of TF in 
+support of domestic terrorist activities is also assessed as Low. 
+ 
+Money Services 
+8.5 
+There are only 2 licensed MSBs in the VI.  These two entities are part of large international money transfer 
+organisations with operations throughout the wider Caribbean region and beyond.  These licensees 
+currently provide money transmission services through two branches and three representative offices. 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |29 of 46 
+ 
+8.6 
+The core markets for MSBs within the Virgin Islands are emigrant workers repatriating funds to their home 
+countries, and residents sending money abroad primarily for business and educational support purposes.  
+Based on labour force data the level of outbound remittances is commensurate with the current 
+demographic composition of the local labour force. The top jurisdictions receiving outward transfers are 
+the Dominican Republic, Jamaica and Guyana.  This is aligned to the size of these immigrant populations 
+which rank in the top 5 jurisdictions from which the labour force in the VI is sourced.   
+ 
+8.7 
+As noted in section 6 of this report, remittance payments data indicates that funds generated in the VI 
+have been transmitted to some Tier 1 and Tier 2 jurisdictions.  There is no evidence, however, that any of 
+these funds were used to support or finance foreign terrorist activities.  Rather, the jurisdictions in 
+question equate to the country of origin of migrant workers who tend to repatriate funds to their home 
+countries to support their families.    
+ 
+8.8 
+As transactions tend to be one-off, however, there is potentially a higher level of risk associated with the 
+verification of BO information, as such verification is generally only conducted on high-risk customers or 
+on transactions above the specified threshold amount.  Given that approximately 93% of all transactions 
+are outbound, and confirmation of BO information on transactions rests with the local sending party for 
+which there is no evidence of radicalisation, the issue of verification does not appear to elevate the risk 
+of any possible TF threat. 
+ 
+8.9 
+The risk of TF in the MSB sector in regard to support of foreign terrorism is assessed as Medium-Low, 
+specifically in the middle of the medium low scale while the risk of TF in support of domestic terrorist 
+activities is assessed as Low. 
+ 
+Insurance 
+8.10 The insurance sector in the VI comprises primarily of domestic and captive insurance business.  It also 
+includes intermediaries such as managers, brokers, and agents as well as loss adjusters.    The products 
+and services offered through domestic insurance companies and intermediaries are limited to the 
+relatively vanilla type offerings of life and health insurance, and property and casualty insurance business 
+which applies mainly to persons and property in the Territory.  These products are not seen as likely 
+vehicles for the movement of terrorist-related funds.  Furthermore, most business is conducted through 
+face-to-face contact and cash transactions are limited to the payment of premiums by some customers.   
+ 
+8.11 PEPs utilising the products and services offered are generally local PEPs consisting of government officials 
+and other individuals holding high level positions in statutory corporations, along with their close 
+associates and family members.  It is highly unlikely that any of these persons would have connections to 
+foreign terrorist organisations, and given the lack of any known terrorist groups, organisations or self-
+radicalised terrorists operating in the Virgin Islands, such connections relative to domestic terrorist activity 
+are also highly improbable. 
+ 
+8.12 With regard to captive insurance providers, given the nature and the way in which they operate they are 
+internationally considered low risk institutions.  In the VI context, the greater portion of clients serviced 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |30 of 46 
+ 
+by these institutions originate in the US, so the prospect of this sector being used for state sponsored 
+terrorism is not likely, as there is no significant level of business relationships with any of the identified 
+Tier 1 or Tier 2 countries.   
+ 
+8.13 According to typologies and other international guidance, exposure to TF in the insurance sector comes 
+through the provision of kidnap and ransom insurance and potential cyber-attacks.  However, such 
+guidance generally indicates that the use of the insurance sector for the purpose of TF is extremely limited.  
+None of the insurance licensees within the sector are known to provide kidnap and ransom insurance.   
+ 
+8.14 The risk of TF in support of foreign terrorism is assessed at the lower end of the Medium-Low scale while 
+the risk of TF in support of domestic terrorist activities is further assessed as Low. 
+ 
+TCSPs 
+8.15 Based on nature and activity, it is recognised that the greatest risk of TF lies within the TCSP sector.  TCSPs 
+offer a variety of services which include company administration, accounting services, ship registration, 
+trustee and protector services, incorporations through the provision of RA services, and provision of 
+directors and nominee shareholder services.  These entities serve as the primary gateway to the Virgin 
+Islands’ international financial services sector.   
+ 
+8.16 The complex corporate and legal structures facilitated by TCSPs, as well as other services provided, make 
+these structures attractive to high-risk customers, including PEPs and other high net worth individuals 
+who are seeking to maximise and protect their assets.  Unfortunately, these characteristics also make 
+them attractive to international criminals, including terrorist organisations and financiers who may use 
+these structures and services to facilitate the movement of terrorist funds.  This attraction may be 
+elevated due to the high level of non-face to face transactions, and the potential for these structures to 
+be used to conceal the source of assets and the identity of BOs.  Further, there is also the potential for 
+regulatory arbitrage by criminals who may try to take advantage of jurisdictions with lax AML/CFT regimes 
+that lend themselves to TCSPs being open to possible bribery and corruption as a means of facilitating the 
+movement of funds in support of terrorist activities.    
+ 
+8.17 International guidance confirms the risk of such corporate vehicles being susceptible to misuse for TF 
+purposes.  According to the 2006 FATF publication The Misuse of Corporate Vehicles, Including Trust and 
+Company Service Providers, “Corporate entities, including corporations, trusts, foundations and 
+partnerships with limited liability characteristics, …may under certain conditions, be used for illicit 
+purposes, including money laundering, bribery and corruption, improper insider dealings, tax fraud, 
+financing of terrorist activities and other forms of illegal activities”14. 
+ 
+8.18 Additional guidance from the FATF also indicates that the services and products available through the 
+formal financial sector pose significant risk as they may serve as vehicles for moving funds that support 
+ 
+14 Pg 1 The Misuse of Corporate Vehicles, Including Trust and Company Service Providers, Financial Action Task 
+Force, 13 October 2006 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |31 of 46 
+ 
+terrorist organisations and fund acts of terrorism15.   It is for this reason, given the size of the client base 
+of the Territory’s TCSP sector, that the risk of misuse of such vehicles for TF purposes is considered more 
+elevated than in other sectors. 
+ 
+8.19 At the end of 2019 there were 258 licensed TCSPs providing services to 387,344 active clients (i.e. in good 
+standing and in compliance with the BVIBCA).  Clients of TCSPs comprise persons that are resident and 
+non-resident in the Territory, with the latter constituting the vast majority of these clients.  Non-resident 
+clients emanate geographically from most major global economies including those in Asia, South America, 
+Europe, North America, and to a lesser extent Africa.   Data provided indicates that some TCSPs do provide 
+services to clients operating in Tier 2 countries.  
+ 
+8.20 As indicated in section 6, there were 21 SARs submitted to the FIA during the reporting period relating to 
+any potential TF activity.  Of these 21 SARs, 11 were filed by TCSPs while 9 were received directly from 
+one BVIBC which appears to be engaged in VA and VASP type activities.  The one remaining SAR was 
+received from a BVI law firm.  Of the 11 SARs filed by TCSPs, eight did not reveal anything that required 
+further investigation.  These SARs were closed, and the information recorded for future intelligence 
+purposes.  These SARs, along with the one SAR received from the BVI law firm were closed, and the 
+information recorded for future intelligence purposes.  The remaining three SARs filed by TCSPs, along 
+with the nine received from the BVIBC are still undergoing analysis and investigation.  Further, only one 
+TF related MLA request was received in which a BVIBC serviced by a TCSP was the subject.  Information 
+was provided by the TCSP to the FIA, which enabled the AGC to respond to the request in a timely manner.  
+ 
+8.21 With regard to trusts, these products have characteristics that attract use from high-risk persons, including 
+PEPs.  Furthermore, the very nature of the trusts means that they are attractive to high net-worth 
+individuals who may emanate from high-risk jurisdictions, for estate planning purposes or protection of 
+family assets.  However, there is no evidence that such structures have been identified in any international 
+typologies as typical vehicles used by terrorist organisations or sympathisers to facilitate TF.   
+ 
+8.22 Due to the sheer volume of clients serviced by the TCSP sector and the potential for these clients to be 
+used to facilitate TF, the risk of TF in support of foreign terrorism is assessed as mid-range Medium-Low.  
+Conversely, the risk of TF within the TCSP sector in support of domestic terrorist activities is Low given the 
+lack of any known terrorist groups, organisations and/or self-radicalised terrorists operating in or 
+targeting the Virgin Islands. 
+ 
+Investment Business 
+8.23 The complex nature of the products offered by the investment business sector makes them attractive to 
+high-risk customers, including PEPs and other high net worth individuals.  Products and services offered 
+include FOREX, cryptocurrencies, commodities, bonds, equities, fund administration services, insurance 
+products, custodial services, mutual funds, segregated portfolios, and closed ended funds.  Some entities 
+operate online platforms for trading which can be accessed worldwide. These products, however, are not 
+ 
+15 Pg 21 FATF Terrorist Financing Typologies Report, February 2008 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |32 of 46 
+ 
+generally attractive vehicles for providing financing to terrorist organisations, although the risk remains 
+given the nature of the products. 
+ 
+8.24 Due to the nature of investment business, there is generally a high level of non-face to face business.  
+Most service providers reside outside the VI and are geographically dispersed. The sector’s diverse 
+international client base means that these entities hold substantial foreign portfolio holdings, primarily in 
+the Asian-Pacific countries, North America, Europe, Latin America, the Caribbean, Middle East, and Africa.  
+There is potential, therefore, for exposure to some Tier 1 and Tier 2 countries.  This, however, does not 
+inherently indicate a higher risk of TF. 
+ 
+8.25 Generally, the client profile for investment schemes does not correspond to the profile of terrorist 
+organisations or other radicalised individuals.  Further, the investment business sector has not been 
+identified as being particularly vulnerable to TF based on typology reports and other guidance provided 
+by the international community.    
+ 
+8.26 The risk of TF within this sector in relation to support of foreign terrorism is, therefore, assessed at the 
+lower end of the Medium-Low range.  Further, the risk of TF in support of domestic terrorist activities is 
+assessed as Low. 
+ 
+Other Financial Services (Financing Business and Insolvency Services) 
+8.27 Since the coming into force of the FMSA, only three Financing Business licences have been issued.  All 
+three licensees are relatively small with client bases that are generally connected, such as employees.  The 
+services provided are currently limited to the provision of small, short term loans to connected persons 
+or payment plans for insurance premiums.  Further, services are offered to residents on a face-to-face 
+basis, and do not involve clients from any Tier 1 or Tier 2 jurisdictions.  High-risk customers and PEPs 
+utilising these services are all domestic in nature.   
+ 
+8.28 With regard to insolvency services, appointments may involve businesses operating in high-risk 
+jurisdictions and the potential for non-face-to-face business.  Further, the client base may include 
+international PEPs and businesses operating in high-risk jurisdictions.  However, the general nature of 
+insolvency business not being on-going business makes the risk of the sector being used for any TF 
+purposes extremely miniscule.   
+ 
+8.29 The risk of TF in these sectors in regard to support of foreign terrorism is assessed as Low.  Equally, the 
+risk of TF in support of domestic terrorist activities is assessed as Low. 
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |33 of 46 
+ 
+9. SECTORAL ANALYSIS OF TF RISK OF DESIGNATED NON-FINANCIAL BUSINESSES AND 
+PROFESSIONS 
+ 
+Accountants 
+9.1 
+There are a small number of accountants operating within the Territory that, based on their activities, fall 
+to be monitored for AML/CFT purposes.  Most accounting firms form part of larger international firms 
+with established business relationships across the globe.  The sector is supervised by the FIA and is subject 
+to comprehensive AML/CFT requirements.  As with all FIs and DNFBPs, accountants are required to file 
+SARs with the FIA. 
+ 
+9.2 
+The vulnerability in respect of accountants stems from the businesses they provide services to.  Similar to 
+lawyers, the types of customers served by this sector are generally corporate and business clients, and 
+high net worth individuals, with the majority of the work being undertaken for corporate clients. 
+ 
+9.3 
+Lack of data made it difficult to determine whether some entities have provided services to clients 
+classified as PEPs or based in high-risk jurisdictions. However, from what was provided there is no 
+evidence to suggest any terrorist financing links within this sector, particularly in relation to those firms 
+that are entirely domestically focused, given the established jurisdictional profile.   
+ 
+9.4 
+The risk of TF in the accountant sector in regard to support of foreign terrorism is, therefore, assessed as 
+mid-range Medium-Low.  The risk of TF in support of domestic terrorist activities is assessed as Low. 
+ 
+Lawyers 
+9.5 
+As with accountants and other DNFBPs, lawyers fall under the supervisory remit of the FIA if they engage 
+in any of the core activities identified in the AMLR.  Most qualifying entities are established global law 
+firms who have long-standing offices in the Territory.  These firms provide services internationally and 
+usually have global compliance systems in place to ensure their compliance with AML/CFT regulatory 
+requirements. In most cases, the compliance functions are also conducted by the regional or international 
+compliance teams.  During the reporting period one TF related SAR was filed by a BVI law firm.  Upon 
+review by the FIA however, nothing was found that required further investigation. The SAR was closed, 
+and the information recorded for future intelligence purposes by the FIA. 
+ 
+9.6 
+The vulnerability within this sector also stems from the businesses to which services are provided, a 
+significant number of such services being provided almost exclusively on a non-face-to-face basis.  The 
+types of customers that are served by this sector are also high net worth individuals, and corporate and 
+business clients, with the majority of work being undertaken for corporate clients.  Most of these are 
+based in the US, UK, China, Hong Kong, Russia and the BVI.  The size and value of transactions undertaken 
+by these firms varies depending on the work undertaken, the type of entity, and in actuality, the 
+transaction itself.  Given the nature of these transactions, payments received or made are usually done 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |34 of 46 
+ 
+via wire transfers. The level of actual cash used for this purpose is little to none.  While the size of these 
+transactions is significant, this in and of itself is not indicative of any elevated TF risk.  
+ 
+9.7 
+The data received shows that some law firms have provided services to clients classified as PEPs or based 
+in high-risk jurisdictions. However, the number of transactions where this has been the case is low when 
+compared to the total number of transactions undertaken by these firms.  There is no evidence to suggest 
+any terrorist financing links within this sector.   
+ 
+9.8 
+The risk of TF in the legal sector in regard to support of foreign terrorism is assessed as Low.  Equally, the 
+risk of TF in support of domestic terrorist activities is assessed as Low. 
+ 
+Notaries 
+9.9 
+One of the criteria for persons wishing to serve as a notary in the VI is the requirement to be a practicing 
+lawyer within the Territory in accordance with the Commissioners for Oaths and Notaries Public Act, 2007 
+unless special dispensation is granted by the Chief Justice otherwise.  As such, the issues relative to 
+notaries would mirror those outlined in relation to lawyers above.  There is no data to support any risk of 
+TF by notaries in relation to either foreign or domestic terrorist activities.   
+ 
+9.10 The assessment of TF risk in relation to notaries is Low in relation to foreign terrorism.  Likewise, risk of 
+TF in support of domestic terrorist activities is also assessed as Low.  
+ 
+Real Estate Agents 
+9.11 Entities within this sector engage in the business of buying and selling real estate, providing residential 
+and commercial rentals, and property management services. For the purposes of this assessment, 
+however, the focus has been given solely to the buying and selling element, as per the FATF 
+Recommendations.  
+ 
+9.12 The majority of clients served by this sector are individuals, approximately 10% of which are HNIs, with 
+another 10% being corporate clients.  Most real estate sales were found to be in relation to local 
+residential properties and land sales, with a very small percentage of commercial sales also occurring.  
+However, some entities do undertake non-face-to-face transactions involving properties outside of the 
+Territory and these were found to be predominantly based in the US.  
+ 
+9.13 In the course of a transaction REAs generally receive or pay out funds.  The main payment methods are 
+split between wire transfers and cheques. The size and value of transactions vary from entity to entity, 
+depending on their areas of focus as well as the market. The approximate value of annual residential sales 
+transactions during the reporting period ranged from $3 million to $10 million, while annual land sales 
+transactions ranged from $200,000 to $2 million.  The size of these transactions, however, is not indicative 
+of any elevated TF risk.  
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |35 of 46 
+ 
+9.14 Due to this sector’s limited understanding of TF risk, minimal risk mitigation policies and sanctions 
+monitoring frameworks, the risk of TF in support of foreign terrorist activities has been assessed on the 
+lower end of the Medium-High scale. However, given that the market predominantly deals with clients 
+based on the Virgin Islands, and the lack of any identifiable domestic terrorist activity the risk of TF in 
+support of domestic terrorism is assessed as Low. 
+ 
+Dealers in Precious Metals and Stones (Jewellers) 
+9.15 Dealers in precious metals and stones (DPMS) by their very nature operate a high value business, engaging 
+in both purchase and sale of these commodities.  There are only two DPMS within the Territory, and these 
+entities concentrate primarily on the sale of finished pieces, almost exclusively on a face-to-face basis, 
+and not the sale of raw stones, gems or bullion, which, based on international typologies are more 
+attractive means of raising terrorist funds.  They, therefore, are classified as jewellers under the Non-
+financial Business (Designation) Notice, 2008. 
+ 
+9.16 With the BVI being a high tourism destination, many visitors to the Territory purchase jewellery during 
+their stay. These visitors are primarily from the US and Europe and all business in this sector is carried out 
+face to face. There have been no suspected cases of TF involving DPMS, nor any other indications of any 
+TF activity within the sector. This is consistent with the makeup of the sector and the general profile of 
+the businesses and their customers.  
+ 
+9.17 The risk of TF within this sector in relation to support of foreign terrorism is assessed at the higher end of 
+the Medium-Low scale.  The risk of TF in support of domestic terrorist activities is assessed as Low. 
+ 
+Other High Value Goods Dealers  
+9.18 Under the Non-financial Business (Designation) Notice, 2008, persons who engage in buying and selling 
+certain high value goods where the transaction involves acceptance of cash payments of $15,000 or more 
+are subject to AML/CFT supervision by the FIA.  The categories of HVGs under the Notice include: 
+• 
+Boat (yacht) dealers 
+• 
+Vehicle dealers 
+• 
+Jewellers 
+• 
+Furniture, machinery, and art dealers 
+ 
+9.19 Machinery and art dealers have been excluded from this assessment as they are a very insignificant sector 
+and have been deemed to present no ML/TF risk.  Jewellers have been addressed in the assessment of 
+DPMS under the DNFBP section. 
+ 
+9.20 With regard to yacht brokers and dealers, while the yachting industry within the BVI is significant, the 
+number of entities involved in the business of buying and selling of boats is considerably small.  The clients 
+served by this sector range from individuals to businesses and corporate clients.  During the course of a 
+normal transaction these broker/dealers transfer funds between a seller and a buyer.  Over 95% of such 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |36 of 46 
+ 
+payments are made by wire transfers.  While the buying and selling of yachts has been identified as a 
+potential means of ML, there is no evidence to indicate that this sector has been used to facilitate TF.  
+ 
+9.21 The size of vehicle dealers within the Territory varies. The number of transactions engaged in by these 
+businesses also varies as does the average value of the vehicles sold.  This sector does not generally engage 
+in the export of vehicles.  In light of this, and given the lack of any known terrorist groups, organisations 
+and/or terrorist fighters or self-radicalised terrorists operating in or targeting the Virgin Islands, it is 
+difficult to conclude that this sector could be used to finance any domestic or foreign terrorist activity. 
+ 
+9.22 There are very few furniture dealers within the Territory, and as with the vehicle dealers, these entities 
+do not generally engage in the export of their merchandise.  The risk of the sector being used for any TF 
+purposes is extremely low. 
+ 
+9.23 Overall, the risk of TF within the HVG sector in relation to support of foreign terrorism is assessed at the 
+higher end of the Medium-Low scale.  The risk of TF in support of domestic terrorist activities is also 
+assessed as Low. 
+ 
+9.24 It should be noted that any elevated level of risk identified within the various DNFBP sub-sectors is as a 
+result of the lack of mitigating controls currently in place, more so than actual exposure to TF activities.  It 
+is necessary for the FIA as the supervisor, to ensure that all sub-sectors are made aware of their AML/CFT 
+obligations and that proper policies and procedures are in place to mitigate any identified risks.  Further, 
+outreach should be carried out to promote proper understanding of these obligations by each sub-sector.  
+This will aid in reducing the current level of risk. 
+ 
+10. SECTORAL ANALYSIS OF TF RISK OF NON-PROFIT ORGANISATIONS 
+ 
+10.1 NPOs within the VI must register with the NPO Registration Board in accordance with the Non-profit 
+Organisations Act, 2012.  The types of NPOs registered within the VI are varied and include, inter alia, the 
+following categories: 
+ 
+• 
+Community Organisations  
+• 
+Religious Organisations  
+• 
+School Clubs and Associations  
+• 
+Sporting Associations  
+• 
+Youth Organisations 
+ 
+10.2 Supervision of the NPO sector is the responsibility of the FIA who works in tandem with the NPO 
+Registration Board to ensure all identified NPOs are made aware of their statutory obligations.  
+ 
+10.3 Although a small number of new NPOs are formed annually, the majority of NPOs within the sector have 
+been long established.  Of these, approximately 95% carry out their activities solely within the Territory.  
+Of the current active NPOs, approximately 50% are categorised as Religious Organisations. The remaining 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |37 of 46 
+ 
+NPOs are a varied mix of the above types of organisations, the main objectives of which are very much 
+community focused. 
+ 
+10.4 The cash and donation activity within the sector varies depending on the size and type of NPO. Fund-
+raising activity within the sector predominantly occurs via the hosting of events, and receipt of general 
+donations.  Donations are generally facilitated through cash, cheques or wire transfer.  A considerable 
+number of NPOs operating within the Territory are considered “small” and do not receive donations above 
+the $10,000 threshold.  However, for larger NPOs, donation activity does go above the threshold.  During 
+the hosting of events certain larger NPOs have been known to receive significant amounts of cash 
+contributed for specific philanthropic purposes.  Additionally, some sporting organisations receive grants 
+from global organisations with which they are affiliated e.g. International Federation of Association 
+Football (FIFA) or the International Olympic Committee.  These are all inbound donations which would 
+have already been subject to AML/CFT requirements through the banking and other systems, and 
+therefore do not pose any TF risk.  
+ 
+10.5 About 40% of NPOs either collect funds from or issue funds outside of the Territory. Of this 40%, 72% 
+indicated that they send funds outside of the Territory.  The geographical location the funds are sent to 
+varies significantly from NPO to NPO. However, the majority of the funds are being sent by religious 
+organisations to their affiliates in the US.  There are also other affiliated bodies who send membership 
+fees, and other funds to their sister organisations, some of which are in the US and some within the 
+Caribbean region.  However, there are a small number of entities who occasionally send funds to 
+jurisdictions that, while not listed as Tier 1 or Tier 2 jurisdictions, are located in geographical areas where 
+the risk of terrorism is elevated.    
+ 
+10.6 Based on international typologies reviewed, it is recognised that the NPO sector is vulnerable to being 
+used for TF purposes through affiliation.  In the VI context, affiliation occurs primarily within the religious 
+sub-sector.  The main religious organisations within the Territory generally have affiliations with other 
+religious groups, predominantly in the USA.  As is established practice, these religious organisations send 
+monies/dues back to the parent group/affiliate.   While NPOs may generally be vulnerable to being used 
+for TF purposes through affiliation, based on type and location of receiving entities, there was no evidence 
+to indicate that such affiliation is being used to foster TF via NPOs operating within the VI.  This is 
+consistent with the sector, as it is highly unlikely that the sector would be used in this form for TF purposes.  
+ 
+10.7 It is further recognised that the misuse of NPOs for TF purposes can occur through deception i.e. where 
+terrorists or terrorist organisations create sham NPOs or portray themselves as being involved in some 
+benevolent activity and solicit funds under the guise of such.  While this is a generally recognisable 
+vulnerability for the NPO sector globally, there is no evidence of any such occurrence taking place by 
+entities established in the VI.  There is also no evidence to indicate that local NPOs supporting charities 
+abroad have unwittingly sent funds to sham NPOs with terrorist connections.   
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |38 of 46 
+ 
+10.8 In relation to foreign terrorist activities the risk of TF is assessed as Medium-Low.  Given the findings 
+within the NPO sector, the risk of TF with regard to domestic terrorist activities has been assessed as 
+extremely Low. 
+11. CASINOS AND OTHER EMERGING PRODUCTS AND TECHNOLOGIES 
+ 
+Casinos 
+11.1 The Virgin Islands Gaming and Betting Control Act was passed on 18 June 2020 but has not yet been 
+brought into force.  Gambling is, therefore, still not permitted in the Territory.  There is, however, a level 
+of illegal gambling within the Territory, primarily associated with horse racing and underground 
+cockfighting.  While these activities give rise to an elevated risk of ML as identified in the Territory’s 2020 
+Sectoral ML report, there is no evidence to indicate that such activity is linked to the financing of any 
+foreign terrorist activity.  The risk of TF in relation to foreign terrorist activity, therefore, considered to be 
+Low.  Further, given the lack of any identifiable domestic terrorist activity the risk of TF in support of such 
+domestic activity through the gaming sector, legal or otherwise, is also considered Low. 
+ 
+11.2 While gambling may not pose a high risk in relation to TF within the current context of the VI, given the 
+jurisdiction’s inherent vulnerabilities to ML as outlined in the 2020 Sectoral ML Risk Assessment Report, 
+it is critical that the Government ensure the proper framework is put in place to allow for effective 
+AML/CFT supervision of this sector prior to the Act being brought into force.  
+Emerging Products and Technologies 
+11.3 The use of emerging technologies, and more specifically Virtual Assets, has given rise internationally to 
+concerns of abuse of these technologies by terrorists to fund their activities.  However, this appears more 
+theoretical at this stage as there is limited data to indicate wide use of these products by terrorist 
+organisations.  Nevertheless, recognition of the potential risk posed by VA and VASPs by international 
+standards setters, particularly the FATF, which has now called for the regulation and supervision of these 
+entities in like manner to other FIs, indicates that the potential risk posed by these products should be 
+taken seriously and continuously monitored.   
+ 
+11.4 The VI is in the process of drafting legislation that will bring VAs and VASPs wishing to conduct business in 
+or from within the VI under regulatory supervision in accordance with FATF requirements.  The use of 
+these products and technologies within the Territory is not currently permitted.  However, under existing 
+financial services legislation, primarily SIBA, some VA and VASPs are required to be licensed and/or 
+authorised. For example, a mutual fund that is set up to operate and hold virtual assets is required to be 
+approved. A BVI legal person or legal arrangement that provides investment business services to these 
+entities would also be required to be licensed under SIBA should specific criteria, as set out by the 
+regulator, be met.  It is recognised, however, that normal BVIBCs that are not regulated, and which 
+operate globally, do pose an inherent risk, as these entities may, and do, operate as VA exchanges and 
+ICOs.  As such, the probability of these entities being misused for TF purposes is elevated.  However, there 
+has been no evidence of any such misuse based on SARs filed and MLA and other international 
+cooperation requests received.  
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |39 of 46 
+ 
+ 
+11.5 The VI’s vulnerability exists primarily in that the majority of transactions are carried out on a non-face-to-
+face basis which offers a higher degree of anonymity than traditional non-cash payment methods. Further, 
+VASPs may also include transfers that are anonymous or pseudo-anonymous making it difficult to identify 
+beneficiaries of the transactions, thereby elevating the risk above other existing FIs.   
+ 
+11.6 In relation to the financing of foreign terrorist activities, given the potential exposure relative to the use 
+of BVIBCs, the risk of TF in the regard is assessed as High. The risk of these emerging technologies being 
+misused for the purpose of financing domestic terrorist activities, however, is considered Low.   
+ 
+12. RECOMMENDATIONS   
+ 
+12.1 Based on the findings of this assessment a number of recommendations have been identified.  For ease 
+of reference these recommendations have been grouped into recommendations that should be 
+addressed at the national level, those that are specific to the relevant supervisory authority and those 
+that apply to the various sectors assessed during this exercise.  Where there is overlap in the 
+recommendations those recommendations have been listed under each. 
+National AML/CFT Recommendations 
+12.2 The Territory should: 
+ 
+1. ensure that the findings of the NRA and this Report are considered when making changes or 
+assessing the effectiveness of the AML/CFT regime; 
+2. ensure all relevant CAs and LEAs are adequately trained with regard to identification, investigation 
+and prosecution of TF and TF related activities; 
+3. ensure that relevant data on analysis and dissemination of TF related SARs, international 
+cooperation, and the investigation and prosecution of TF is maintained, collected and analysed;  
+4. finalise and implement the Counter Terrorism Bill and other amendments to the AML/CFT regime;  
+5. ensure that the NRA and this Sectoral Risk Assessment are kept up to date, having regard to 
+changes in the identified vulnerabilities and controls;   
+6. ensure that LEAs and CAs consider the findings of this report when developing policies and 
+procedures to combat TF; 
+7. ensure the information contained herein is used to better understand the types of TF risks posed 
+and where these risks lie to ensure more effective use of surveillance and investigative 
+mechanisms to mitigate TF risk;  
+8. ensure that the proper framework is put in place to allow for effective AML/CFT supervision of 
+the gaming sector prior to the Virgin Islands Gaming and Betting Control Act being brought into 
+force;  
+9. develop procedures to ensure all agencies involved in international sanctions matters (UN and 
+UK) are aware of their specific responsibilities, and the process for dealing with breaches 
+(including investigation and prosecution) is clearly documented;   
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |40 of 46 
+ 
+10. ensure that a proper legal framework, policies and procedures is put in place to allow for 
+prosecution under BVI law of legal persons and legal arrangements incorporated or established 
+in the VI which are involved in identified sanctions breaches and other ML/TF/PF related offences; 
+and 
+11. ensure the legal framework in the VI allows law enforcement and prosecutorial agencies to 
+effectively take the proceeds out of crime and, where appropriate, apply proportionate and 
+dissuasive penalties.  
+ 
+Supervisor Specific AML/CFT Recommendations 
+12.3 The FSC should: 
+ 
+1. ensure timely and effective outreach to FIs on the findings of this report, including how the 
+report’s findings should be utilised in the development of the FIs’ AML/CFT policies and 
+procedures; 
+2. ensure that it takes necessary steps, such as increased desk based and onsite monitoring, to 
+evidence that FIs are carrying out and implementing the requirements of its AML/CFT regime with 
+regard to TF;  
+3. carry out ongoing outreach and training on red flag TF indicators to allow for better quality of 
+SARs filings; 
+4. ensure that steps are taken to take the proceeds out of crime by, where appropriate, application 
+of proportionate and dissuasive penalties for breach of AML/CFT regime;  
+5. ensure that the findings of the NRA and this Report are considered when making changes to, or 
+assessing the effectiveness of the AML/CFT regime which may impact FIs; 
+6. ensure that relevant AML/CFT data is maintained, collected and analysed to allow the FSC to 
+demonstrate that it is effective in its supervision, enforcement and international cooperation; 
+7. ensure on-going public education in relation to emerging TF methods and trends, including with 
+regard to the collection and movement of funds; and  
+8. ensure sufficient monitoring of the perimeter to detect BVIBCs involved in sanctions busting 
+activities or owned by sanctioned individuals.   
+ 
+12.4 The FIA as a supervisor should: 
+ 
+1. ensure timely and effective outreach to supervised entities on the findings of this report, including 
+how the report’s findings should be utilised in the development of their own AML/CFT policies 
+and procedures; 
+2. ensure that it takes necessary steps, such as increased desk based and onsite monitoring, to 
+demonstrate that supervised entities are carrying out and implementing the requirements of the 
+AML/CFT regime with regard to TF; 
+3. carry out ongoing outreach and training on red flag TF indicators to allow for better quality of 
+SARs filings; 
+4. ensure that the findings of the NRA and this Report are considered when making changes to, or 
+assessing the effectiveness of the AML/CFT regime which may impact DNFBPs and NPOs; 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |41 of 46 
+ 
+5. ensure that relevant AML/CFT data is maintained, collected and analysed to ensure the FIA can 
+demonstrate that it has effective supervision and enforcement mechanisms, and is effective in 
+the provision of international cooperation; 
+6. determine the level of TF risk within the machinery and art dealer sub-sector of HVGs;  
+7. ensure implementation of FIA Amendment Act, including registration of DNFBPs and conduct of 
+risk assessments;  
+8. ensure implementation of FIA Amendment Act and NPO Amendment Act with regard to assessing 
+risk of NPOs and provide appropriate supervision based on these risk;  
+9. ensure adherence to the relevant sections of the AMLTFCOP by all registered NPOs; and  
+10. ensure on-going public education in relation to emerging TF methods and trends including with 
+regard to the collection and movement of funds.  
+ 
+FIA as an FIU Recommendations 
+12.5 The FIA as an FIU should: 
+ 
+1. ensure the timely analysis of all SARs related to TF; 
+2. ensure proper collection, maintenance and analysis of AML/CFT related data to allow for 
+development of trends and typologies; 
+3. ensure timely dissemination of intelligence to appropriate domestic and foreign LEAs and CAs; 
+and 
+4. demonstrate high degree of international cooperation and information exchange on TF related 
+matters. 
+ 
+Financial Services Sector Recommendations 
+12.6 Financial Institutions should: 
+ 
+1. monitor fund flows into and from Tier 1 and Tier 2 jurisdictions and take into account any trends 
+that may develop that might indicate potential funding of overseas terrorist organisations; 
+2. ensure proper verification and maintenance of BO information of clients; 
+3. ensure proper identification of clients’ source of funds and source of wealth;  
+4. develop and maintain proper AML/CFT policies and procedures and ensure all staff are familiar 
+with these policies and procedures; 
+5. continue to monitor clients’ transactions to be able to identify any developing trends that may 
+signal possible TF activities; 
+6. ensure staff are aware of FATF and FIA Guidance on red flag indicators and SARs filings;  
+7. ensure staff are properly trained to identify red flag TF indicators to improve on the quality of 
+SARs filings;  
+8. conduct timely interrogations of client databases against sanctions listings in accordance with 
+Virgin Islands Financial Sanctions Guidelines, to ensure proper identification of listed persons and 
+entities, and demonstrate appropriate action is taken if such persons are identified;   
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |42 of 46 
+ 
+9. conduct and document institutional risk assessments which should also account for TF risk; and 
+10. ensure adherence to the requirements of the AMLR and the AMLTFCOP.  
+ 
+DNFBP Sector Recommendations 
+12.7 DNFBPs should: 
+ 
+1. monitor fund flows into and from Tier 1 and Tier 2 jurisdictions in relation to client transactions 
+and take into account any trends that may develop that might indicate potential funding of 
+overseas terrorist organisations; 
+2. ensure proper verification and maintenance of BO information of clients; 
+3. ensure staff are properly trained to understand and identify TF related risks;  
+4. ensure staff are aware of FATF and FIA Guidance on red flag indicators and SARs filing  
+5. ensure staff are properly trained to identify red flag TF indicators to improve on the quality of 
+SARs filings;  
+6. develop and maintain proper AML/CFT policies and procedures and ensure all staff are familiar 
+with these policies and procedures; 
+7. continue to monitor clients’ transaction and accounting records to be able to identify any 
+developing trends that may signal possible TF activities; 
+8. conduct and document institutional risk assessments which should also account for TF risk; 
+9. conduct timely interrogations of client databases against sanctions listings in accordance with 
+Virgin Islands Financial Sanctions Guidelines to ensure proper identification of listed persons and 
+entities, and demonstrate appropriate action is taken if such persons are identified;  
+10. ensure proper identification of clients’ source of funds and source of wealth; and 
+11. ensure adherence to the requirements of the AMLR and the AMLTFCOP. 
+ 
+NPO Sector Recommendations 
+12.8 The NPO Board should: 
+ 
+1. ensure all qualifying NPOs are registered; 
+2. ensure the NPO Amendment Act is implemented;  
+3. ensure adherence to the requirements of the NPO Act by all registered NPOs; and 
+4. ensure on-going public education in relation to TF and other related issues. 
+ 
+12.9 The NPO Sector should: 
+ 
+1. ensure they can identify the source of funds for all donations received over $10,000; 
+2. conduct proper due diligence on international charities and other organisations to which outgoing 
+donations/payments may be made to ensure the legitimacy of the work being carried out by the 
+organisation;  
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |43 of 46 
+ 
+3. ensure proper records are maintained of all donations received and made;  
+4. ensure staff are aware of FATF and FIA Guidance on red flag indicators and SARs filing  
+5. ensure staff are properly trained to identify red flag TF indicators to improve on the quality of 
+SARs filings; and 
+6. ensure adherence to the requirements of the NPO Act and the relevant sections of the AMLTFCOP.  
+ 
+13. CONCLUSION   
+ 
+13.1 While TF was considered during the initial NRA in 2016, the execution of this TF risk assessment exercise 
+has provided a more in-depth review of the Territory’s exposure to TF and TF related matters.  The 
+comprehensive nature of this report, which not only looked into the risks relative to the Territory’s FIs, 
+but also those of its DNFBPs and NPOs, was intended to provide a clearer understanding of the current 
+level of exposure to TF and TF related matters facing the Territory.   
+ 
+13.2 On the domestic front, the threat of TF or terrorist related activities is considered very low.  The findings 
+of the evaluation of the domestic labour market and trade activities, including the movement of funds 
+supports this.  The risk of TF within each of the sectors reviewed for the purposes of facilitating domestic 
+terrorist activities was also found to be quite low.  As noted in the report, the elevated level of risk 
+identified within the various DNFBP sub-sectors is as a result of the lack of mitigating controls currently in 
+place, more so than actual exposure to TF activities.   
+ 
+13.3 Where the threat level becomes elevated is in relation to cross-border activities carried out by the BVIBCs 
+registered in the VI that conduct business globally.  Such international exposure increases the possible 
+facilitation, whether knowingly or unknowingly, of TF to route funds to terrorist organisations.  The risk 
+of TF to facilitate foreign terrorist related activities, however, was found to be relatively low based on size 
+and activities carried out within the sectors reviewed.  It is recognised that the size of the client base of 
+the TCSP sector increases the risk of misuse of such vehicles for TF purposes, as does the high degree of 
+anonymity available through the use of VAs and services provided by VASPs, both of which remain 
+unregulated and not subject to AML/CFT requirements.   
+ 
+13.4 The results of this exercise should be used by supervisors and supervised entities alike to better 
+understand the TF risks within the jurisdiction and to ensure that the preventative or mitigating measures 
+they have in place to counter TF remain appropriate and effective.   Additionally, the results of this 
+assessment should be used by supervisory authorities to aid in shaping their inspection programmes and 
+identifying those entities that may require more specialised supervision. 
+ 
+13.5 399Although the results of this assessment indicate that there is very little evidence to support the Virgin 
+Islands being a source of TF, authorities and supervised entities must remain vigilant.   The methods by 
+which terrorist activities are being financed continue to evolve.  It is imperative, therefore, that the Virgin 
+Islands continues to review its CFT regime on an ongoing basis and seek to ensure that it remains robust 
+and adaptable to any developing risks.   
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |44 of 46 
+ 
+Appendix 
+Memoranda of Understanding in Place Between LEAs and CAs in the Virgin 
+Islands  
+ 
+Reason for MOU 
+Agencies Signed  
+Date Signed 
+To facilitate cooperation through exchange 
+of information in relation to ML, TF and 
+other serious organized crimes, and provide 
+assistance in processing requests received 
+from members of Interpol 
+FIA, RVIPF 
+Initially signed 2009 
+Updated 10 July 2020 
+to facilitate cooperation through exchange 
+of information in relation to ML, TF and 
+other serious organized crimes and to 
+facilitate the reporting by HMC of cash 
+declarations or BNIs above the established 
+threshold of $10,000.00 to the FIA 
+FIA, HM Customs 
+Initially signed 17 April 2012 
+Updated 17 August 2020 
+To facilitate cooperation and information 
+exchange related to due diligence, money 
+laundering and terrorist financing, and to 
+assist generally in the preservation of the 
+reputation of the BVI as a financial services 
+centre. 
+FIA, FSC 
+March 2007 
+To foster cooperation in the exchange of 
+information relating to the combating of 
+ML, TF, PF, corruption and other serious 
+organized crimes, as well as promote 
+cooperation in matters relating to the 
+exchange of information in tax matters, and 
+generally to uphold the laws of the Virgin 
+Islands and preserve the reputation of the 
+Virgin Islands. 
+Multilateral MoU 
+between IGC 
+members 
+10 April 2014 
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |45 of 46 
+ 
+GLOSSARY OF TERMS 
+ 
+AGC 
+Attorney General’s Chambers 
+AML 
+Anti-money Laundering 
+AMLR 
+Anti-money Laundering Regulations 
+AMLTFCOP   
+Anti-money Laundering and Terrorist Financing Code of Practice 
+ASBA 
+Association of Supervisors of Banks of the Americas 
+BO 
+Beneficial Ownership 
+BVI 
+British Virgin Islands 
+BVIBC 
+BVI Business Company 
+BVIBCA 
+BVI Business Companies Act 
+CA 
+Competent Authority 
+CAIR 
+Caribbean Association of Insurance Supervisors 
+CBP 
+Customs and Border Patrol 
+CCLEC 
+Caribbean Customs Law Enforcement Council 
+CFATF 
+Caribbean Financial Action Task Force 
+CFT 
+Countering the Financing of Terrorism 
+CGBS 
+Caribbean Group of Banking Supervisors 
+DNFBP 
+Designated Non-financial Businesses and Professions 
+DPRK 
+Democratic People’s Republic of Korea 
+EU 
+European Union 
+FATF 
+Financial Action Task Force 
+FI 
+Financial Institution 
+FIA 
+Financial Investigation Agency 
+FMSA 
+Financing and Money Services Act, 2009 
+FOREX 
+Foreign Exchange 
+FSC 
+Financial Services Commission 
+GDP 
+Gross Domestic Product 
+GIFCS 
+Group of International Financial Centre Supervisors 
+GO 
+Office of the Governor 
+HMC 
+Her Majesty’s Customs 
+IAIS 
+International Association of Insurance Supervisors 
+ICE 
+Immigration and Customs Enforcement 
+ICO 
+Initial Coin Offering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terrorist Financing Risk Assessment 2020 | Version 1.0 |46 of 46 
+ 
+ 
+ 
+ID 
+Immigration Department 
+IGC 
+Inter-governmental Committee on AML/CFT 
+IOSCO 
+International Organisation of Securities Commissions 
+IP 
+Insolvency Practitioner 
+LEA 
+Law Enforcement Agencies 
+ML 
+Money Laundering 
+MLA 
+Mutual Legal Assistance 
+MLRO 
+Money Laundering Reporting Officer 
+MOU 
+Memorandum of Understanding 
+MSB 
+Money Services Business 
+NGO 
+Non-governmental Organisation 
+NPO 
+Non-profit Organisation 
+NRA 
+National Risk Assessment 
+ODPP 
+Office of the Director of Public Prosecutions 
+OFSI 
+Office of Financial Sanctions Implementation 
+PEP 
+Politically Exposed Person 
+RA 
+Registered Agent 
+RVIPF 
+The Royal Virgin Islands Police Force 
+SAR 
+Suspicious Activity Report 
+SIBA 
+Securities and Investment Business Act, 2010 
+TCSP 
+Trust and Corporate Services Providers 
+TF 
+Terrorist Financing 
+UK 
+United Kingdom 
+UN 
+United Nations 
+VASP 
+Virtual Asset Services Provider 
+VA 
+Virtual Assets 
+VI 
+Virgin Islands 
+WCO 
+World Customs Organisation 
+ 

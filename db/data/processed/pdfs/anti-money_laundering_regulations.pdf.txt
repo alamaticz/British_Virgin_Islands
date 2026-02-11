@@ -1,0 +1,843 @@
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+3
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+ANTI-MONEY LAUNDERING REGULATIONS
+ARRANGEMENT OF REGULATIONS 
+ 
+REGULATION
+1. 
+Short title 
+2. 
+Interpretation 
+3. 
+General requirements 
+ 
+4. 
+Identification procedures in relation to new and continuing business 
+relationships 
+ 
+5. 
+Establishing and maintaining verification procedures 
+ 
+6. 
+Exceptions to identification procedures 
+ 
+7. 
+Reliance on third parties 
+ 
+7A. 
+Third party business relationship agreement 
+ 
+7B. 
+Obligation to test business relationship  
+ 
+8. 
+Establishing and maintaining record of verification of identity 
+ 
+9. 
+Maintaining record of transactions and reports 
+ 
+10. 
+Limitation period for retention of records 
+ 
+11. 
+Format and retrieval of records 
+ 
+12. 
+Maintaining register of money laundering reports and inquiries 
+ 
+13. 
+Duty to appoint Money Laundering Reporting Officer 
+ 
+14. 
+Due diligence audit 
+ 
+15. 
+Establishment of procedures in relation to suspicious transactions 
+ 
+16. 
+Staff training 
+ 
+17. 
+Offences and penalties 
+18.  
+Revocation 
+ 
+ 
+SCHEDULE: Transitional Provisions 
+ 
+ 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+5
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+ANTI-MONEY LAUNDERING REGULATIONS – SECTION 41
+(S.I.s 12/2008, 20/2010, 36/2012, 74/2015, 19/2018 and 86/2019)
+Commencement 
+[22 February 2008] 
+Short title 
+1. These Regulations may be cited as the Anti-money Laundering Regulations. 
+Interpretation 
+2. (1) In these Regulations, unless the context otherwise requires— 
+“Agency” means the Financial Investigation Agency established under section 3 of the 
+Financial Investigation Agency Act; 
+“applicant for business” means the party proposing to a relevant person in the Virgin 
+Islands that they enter into a business relationship or one-off transaction; 
+(Substituted by S.I. 20/2010) 
+“beneficial owner” means the natural person who ultimately owns or controls an 
+applicant for business or a customer or on whose behalf a transaction or activity 
+is being conducted and includes, though not restricted to— 
+(a) in the case of a legal person other than a company whose securities are 
+listed on a recognised stock exchange, a natural person who ultimately 
+owns or controls, whether directly or indirectly, ten or more per cent of 
+the shares or voting rights in the legal person; 
+(b) in the case of a legal person, a natural person who otherwise exercises 
+control over the management of the legal person; and  
+(c) in the case of a legal arrangement— 
+ (i) the partner or partners who control the partnership; 
+ (ii) the trustee or other person who controls the applicant for business 
+or customer; or 
+ (iii) the settlor or other person by whom the legal arrangement is made; 
+(Inserted by S.I. 74/2015) 
+“business relationship” means an arrangement between a relevant person and one or 
+more parties, where— 
+(a) the relevant person has obtained satisfactory evidence of identity of the 
+party who, in relation to the formation of that business relationship, was 
+the applicant for business; 
+(b) the relevant person engages in business with the other party on a 
+frequent, habitual or regular basis; and 
+(c) the monetary value of dealings in the course of the arrangement is not 
+known or capable of being known at entry; 
+“CFATF” means the Caribbean Financial Action Task Force of which the Virgin Islands 
+is a member; 
+“cash” includes coins and any type of bearer negotiable or other monetary instrument 
+and any postal orders; 
+6
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+“Code” means the Anti-money Laundering and Terrorist Financing Code of Practice; 
+“Commission” means the Financial Services Commission established under section 3(1) 
+of the Financial Services Commission Act; 
+“customer” means a party that has entered into a business relationship or one-off 
+transaction with a relevant person; (Inserted by S.I. 74/2015) 
+“customer due diligence” refers to the steps required to be taken by a relevant person in 
+his dealings with an applicant for business or a customer in relation to a business 
+relationship or one-off transaction in order to forestall and prevent money 
+laundering and other financial crimes; (Inserted by S.I. 74/2015) 
+“FATF” means the Financial Action Task Force; (Inserted by S.I. 20/2010)
+foreign regulatory authority” means an authority in a jurisdiction outside the Virgin 
+Islands which exercises in that jurisdiction regulatory, supervisory or monitoring 
+functions that substantially correspond to the regulatory, supervisory or 
+monitoring functions of the Agency or Commission; (Substituted by S.I. 
+74/2015) 
+“foreign regulated person” means a person that— 
+(a) is incorporated, registered, licensed or formed, or if it is not a body 
+corporate, has its principal place of business, in a jurisdiction outside 
+the Virgin Islands; 
+(b) carries on business outside the Virgin Islands that, if carried on within 
+the Virgin Islands, would fall within a category of business specified in 
+paragraphs (a) to (e) of the definition of “relevant business”; and 
+(c) in respect of the business referred to in paragraph (b)— 
+ (i) is subject to legal requirements in its jurisdiction for the detection 
+and prevention of money laundering that are consistent with the 
+requirements of the FATF Recommendations in relation to that 
+business; and 
+ (ii) is properly and adequately regulated, supervised or monitored for 
+compliance with those legal requirements by a foreign regulatory 
+authority; 
+(Amended by S.I. 74/2015) 
+“Money Laundering Reporting Officer” means the person appointed under regulation
+13(1) by a relevant person; 
+“one-off transaction” means a transaction that constitutes relevant business and which is 
+carried out other than in the course of an established business relationship; 
+“regulated person” means a person who is licensed or registered to carry on a relevant 
+business in or from within the Virgin Islands; (Amended by S.I. 20/2010) 
+“relevant business” means— 
+(a) banking business or trust business within the meaning of the Banks and 
+Trust Companies Act; 
+(b) insurance business within the meaning of the Insurance Act; 
+(c) the business of company management within the meaning of the 
+Company Management Act; 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+7
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+(d) investment business or business as a mutual fund or a private investment 
+fund within the meaning of the Securities and Investment Business Act, 
+2010; (Substituted by S.I. 19/2018 and amended by S.I. 86/2019) 
+(e) without prejudice to paragraphs (a) and (c), the business of acting as a 
+trust or company service provider for the purpose of providing any of 
+the following services to a third party— 
+ (i) acting as a formation agent of legal persons; 
+ (ii) acting (or arranging for another person to act) as a director or 
+secretary of a company, a partner of a partnership, or a similar 
+position in relation to other legal persons; 
+ (iii) providing a registered office, business address or accommodation, 
+correspondence or administrative address for a company, 
+partnership or any other legal person or arrangement; 
+ (iv) acting (or arranging for another person to act) as a trustee of a trust; 
+ (v) acting (or arranging for another person to act) as a nominee 
+shareholder for another person; 
+(f) the business of providing remittance service of Telegraphic Money 
+Order under the Post Office (Telegraph Money Order) Rules, 1934 or 
+money order under the Post Office Rules, 1976; 
+(g) financing business or money services business within the meaning of the 
+Financing and Money Services Act, 2009; (Substituted by S.I. 19/2018) 
+(h) the business of— 
+ (i) providing advice on capital structure, industrial strategy and related 
+matters, and advice and services relating to mergers and the 
+purchase of undertakings; 
+ (ii) money broking; 
+ (iii) the safe keeping and administration of securities; or 
+ (iv) lending or financial leasing; 
+(i) the provision of services to clients by legal practitioners, notaries public 
+or accountants which involve transactions concerning any of the 
+following activities— 
+ (i) buying and selling of real estate; 
+ (ii) managing of client money, securities or other assets; 
+ (iii) management of bank, savings or securities accounts; 
+ (iv) organization of contributions for the creation, operation or 
+management of companies; and 
+ (v) creation, operation 
+or management 
+of 
+legal 
+persons 
+or 
+arrangements, or buying and selling of business entities; 
+(j) the business of acting as a real estate agent when engaged in a 
+transaction for a client concerning the buying and selling of real estate; 
+8
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(k) the business of dealing in precious metals or precious stones when such 
+transaction involves accepting a cash payment of $15,000 or more or the 
+equivalent in any other currency; 
+(l) the business of operating a casino (where permitted by law) when a 
+transaction involves accepting a cash payment of $3,000 or more or the 
+equivalent in any other currency; 
+“relevant person” means a person carrying on relevant business; and 
+“Steering Committee” means the Steering Committee of the Financial Investigation 
+Agency established under section 3(3) of the Financial Investigation Agency Act, 
+2003. 
+ (2) Subsection (1)(i) does not apply to legal practitioners, notaries public or 
+accountants who are employed by the Government or any statutory body. 
+ (3) For the purposes of subsection (1)(k) and (l), a transaction of or above the 
+threshold designated in that subsection shall be construed to include situations where the 
+transaction is carried out in a single operation or in several operations that appear to be 
+linked. 
+ (4) For the purposes of these Regulations— 
+(a) a business relationship formed by a relevant person is an established 
+business relationship where that person has obtained satisfactory 
+evidence of the identity of the person who, in relation to the formation 
+of that business relationship, was the applicant for business; 
+(b) the question as to what constitutes satisfactory evidence of identity shall 
+be determined in accordance with the provisions of the Code; 
+(c) a staff is a key staff if he or she is an employee of a relevant person who 
+deals with customers or clients and their transactions. (Substituted by 
+S.I. 20/2010) 
+General requirements 
+3. (1) In conducting relevant business, a relevant person shall not form a business 
+relationship or carry out a one-off transaction with or for another person unless the 
+relevant person— 
+(a) maintains— 
+ (i) identification procedures in accordance with regulations 4, 5 and 7; 
+ (ii) record keeping procedures in accordance with regulations 8 to 11; 
+ (iii) internal reporting procedures in accordance with regulation 15; and 
+ (iv) internal controls and communication procedures which are 
+appropriate for the purposes of forestalling and preventing money 
+laundering; 
+(b) takes appropriate measures from time to time for the purpose of making 
+employees aware of— 
+ (i) the procedures maintained under paragraph (a) and any related 
+procedures provided in the Code; and 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+9
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+ (ii) the provisions of the Proceeds of Criminal Conduct Act, the Code, 
+these Regulations and any directive issued pursuant to any 
+enactment; and 
+(c) provides training for employees to assist them— 
+ (i)  in the recognition and handling of transactions carried out by, or on 
+behalf of, any person who is, or appears to be, engaged in money 
+laundering; and 
+ (ii) in dealing with customers where such transactions have been 
+reported to the Steering Committee or the Agency in accordance 
+with the provisions of the Proceeds of Criminal Conduct Act. 
+ (2) The procedures, measures and training requirements outlined in 
+subregulation (1) shall be construed to include any similar or additional procedures, 
+measures and training requirements provided under the Code. 
+ (3) Identification procedures, record keeping procedures, internal reporting 
+procedures and internal controls and communication procedures required to be 
+maintained under subregulation (1)(a) shall be submitted— 
+(a) in the case of a relevant person that is regulated by the Commission, for 
+the approval of the Commissin; and 
+(b) in the case of a relevant person that is not regulated by the Commission, 
+for the approval of the Agency. 
+(Substituted by S.I. 19/2018) 
+ (4) The Commission or the Agency may keep, for its own use, copies of 
+documents submitted under sub-regulation (3). (Inserted by S.I. 19/2018) 
+Identification procedures in relation to new and continuing business relationships 
+4. (1) A relevant person shall establish and maintain identification procedures 
+which, as soon as reasonably practicable after contact is first made between that person 
+and an applicant for business concerning any particular business relationship or one-off 
+transaction require— 
+(a) the production by the applicant for business, satisfactory evidence of his 
+or her identity; or 
+(b) the taking by the relevant person of such measures as are specified in the 
+identification procedures as will produce satisfactory evidence of the 
+identity of the applicant for business. 
+ (2) The identification procedures established pursuant to subregulation (1) shall 
+also— 
+(a) require that where satisfactory evidence of identity is not obtained by 
+the relevant person, the business relationship or one-off transaction shall 
+not proceed any further until such evidence is obtained, unless and to 
+the extent that the Agency advises otherwise; 
+(b) require that where the business relationship or one-off transaction 
+subsists, the applicant for business appears to be acting for a third party 
+in respect of that business relationship, the satisfactory evidence of the 
+identity of the third party will be obtained, failing which the business 
+relationship will be terminated; 
+10
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(c) include the full name (including any other names and aliases) and 
+physical address of the applicant for business and, where he or she is 
+acting for a third party, the full name (including any other names and 
+aliases) and physical address of the third party; 
+(d) provide for the assessment by the relevant person of the risk that any 
+business relationship or one-off transaction may involve money 
+laundering and shall be appropriate to the circumstances, having regard 
+to the degree of risk assessed; and 
+(e) take into account, without limiting paragraph (d), the greater risk of 
+money laundering which arises when the applicant for business is not 
+engaged in a face-to-face relationship or transaction as to be identified. 
+ (3) For the purposes of this regulation, but without prejudice to regulation 
+2(4)(b), satisfactory evidence of identity is evidence which is reasonably capable of 
+establishing, and to the satisfaction of the person who obtains the evidence, does 
+establish, that the applicant for business is the person he or she claims to be. 
+Establishing and maintaining verification procedures 
+5. (1) A relevant person shall establish and maintain procedures which, in respect 
+of transactions undertaken after a business relationship has been established in 
+compliance with regulation 4, require— 
+(a) the satisfactory verification of evidence of identity produced pursuant to 
+regulation 4(1)(a); or 
+(b) the taking of such measures as are specified in the procedures as will 
+produce satisfactory verification of evidence of identity produced under 
+regulation 4(1)(b), 
+as soon as reasonably practicable after transactions are undertaken. 
+ (2) The procedures established pursuant to subregulation (1) shall also require 
+that when satisfactory verification of evidence of identity is not obtained or produced, 
+the business relationship and transactions shall not proceed any further. 
+ (3) The provisions of the Code with respect to the verification of evidence of 
+identity shall apply for the purposes of these Regulations. 
+Exceptions to identification procedures 
+6. (1) Where a person carrying on relevant business assesses an applicant for 
+business to be of low risk and verifies that the applicant for business is—  
+(a) a regulated person; 
+(b) a foreign regulated person; or 
+(c) a legal practitioner, notary public or an accountant who belongs to a 
+professional body whose rules of conduct or practice embody legal 
+requirements for the detection and prevention of money laundering that 
+are consistent with the requirements of the FATF Recommendations 
+and the legal practitioner, notary public or accountant is regulated, 
+supervised or monitored by his or her professional body for compliance 
+with those requirements, 
+the person carrying on relevant business is not required to obtain and verify the identity 
+of the applicant for business. 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+11
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+(Substituted by S.I. 74/2015) 
+ (2) Sub-regulation (1) does not apply where the person handling the transaction 
+on behalf of the person carrying on relevant business to whom the application for 
+business is made— 
+(a) knows or suspects that the applicant is engaged in money laundering or 
+other activity which presents a high risk; or
+(b) has reasonable grounds to doubt the veracity or adequacy of previously 
+obtained customer due diligence information in respect of the applicant 
+for business. 
+(Substituted by S.I. 74/2015) 
+ (2A) In assessing whether an applicant for business is of normal or low risk for 
+the purposes of subregulation (1), the person carrying on relevant business shall have 
+regard to the provisions of the Code. (Inserted by S.I. 20/2010) 
+ (3) A person carrying on relevant business is, in relation to a one-off transaction, 
+not required to obtain evidence of the identity of an applicant for business where the 
+amount to be paid by or to the applicant for business is less than $10,000 or the 
+equivalent amount in another currency, unless— 
+(a) the person carrying on the relevant business has reasonable grounds for 
+believing (whether at the beginning or subsequently), that— 
+ (i) the transaction is linked to one or more other transactions; and 
+ (ii) the total amount to be paid by or to the applicant for business in 
+respect of all the linked transactions is $10,000 or more; or 
+(b) any person handling the transaction on behalf of the person carrying on 
+relevant business knows or suspects that the transaction involves money 
+laundering. 
+Reliance on third parties  
+7. (1) Subject to this regulation and regulations 7A and 7B, a relevant person may 
+rely on introduction of an applicant for business by a third party if the relevant person is 
+satisfied that the third party has taken measures to— 
+(a) obtain and verify the identity of the applicant for business using reliable, 
+independent source documents, data or information; 
+(b) obtain and verify the identity of the beneficial owner of the applicant for 
+business, such that the relevant person is satisfied that it (the relevant 
+person) knows who the beneficial owner is;  
+(c) understand, where the applicant for business is a body corporate, the 
+ownership and control structure of the body corporate; and 
+(d) understand and, where appropriate, obtain information on the purpose 
+and intended nature of the business relationship.  
+ (2) Where a relevant person relies on the introduction of an applicant for 
+business by a third party, the relevant person shall— 
+(a) satisfy itself that the third party is— 
+ (i) a regulated person; 
+ (ii) a foreign regulated person; or 
+12
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(iii) a member of a professional body— 
+(aa) whose rules of conduct or practice embody legal requirements 
+for the detection and prevention of money laundering consistent 
+with the FATF Recommendations generally; and  
+(bb) who, in relation to customer due diligence and record keeping 
+procedures specifically, is regulated, supervised or monitored by 
+that body for compliance with those requirements;  
+(b) immediately upon the introduction, obtain from the third party the 
+information or data required under sub-regulation (1), but this does not 
+require the relevant person to obtain at the same time from the third 
+party a copy of any document or a record of the information or data 
+referred to in that sub-regulation; 
+(c) take adequate steps to ensure that copies of all identification and 
+verification data and other relevant documentation held or maintained 
+by the third party will be made available by the third party upon request 
+without delay;
+(d) ensure that the third party has in place procedures to establish and 
+maintain identification of applicants for business and update 
+identification information based on the risk profile of the applicants for 
+business. 
+ (3) Where a relevant person wishes to rely on an introduction by a third party 
+from a country or territory that is listed in Schedule 2 of the Code, it shall nevertheless 
+have regard to information that is available on the level of the country’s or territory’s 
+risk. 
+ (4) A relevant person shall not rely on an introduction by a third party in 
+circumstances where the third party is relying on another third party or other third parties 
+to conduct and maintain information on the customer due diligence of an applicant for 
+business (multi-level or tiered introduction). 
+ (5) Subject to sub-regulation (7), identification procedures established and 
+maintained pursuant to sub-regulation (2)(d) and the obligation outlined in sub-
+regulation (3) shall not apply where the relevant person and the third party are part of the 
+same group and that group— 
+(a) applies at the group level customer due diligence and record keeping 
+requirements and programmes against money laundering that are at least 
+equivalent to those specified in these Regulations and the Code; and 
+(b) is regulated, supervised or monitored for compliance with those 
+requirements and programmes by a foreign regulated authority or other 
+equivalent body with responsibility for regulating, supervising or 
+monitoring compliance with such requirements and programmes.  
+ (6) In sub-regulation (5), the term “group”, in relation to a body corporate, 
+means that body corporate, any other body corporate which is its holding company or 
+subsidiary and any other body corporate which is a subsidiary of that holding company, 
+and “holding company” and “subsidiary” shall be construed in accordance with section 2 
+(2) to (6) of the Banks and Trusts Companies Act, 1990. 
+ (7) Notwithstanding anything contained in this regulation, the relevant person 
+has the ultimate responsibility for ensuring that it has obtained and verified the identity 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+13
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+of an applicant for business and that it knows the beneficial owner of the applicant for 
+business. 
+ (8) For purposes of sub-regulation (2)(b) with respect to business relationships 
+between a relevant person and a third party that were in existence before the coming into 
+force of these Regulations, the transitional provisions outlined in the Schedule shall 
+apply. 
+(Substituted by S.I. 74/2015) 
+Third party business relationship agreement 
+7A. (1) A relevant person shall, before entering into a business relationship with a 
+third party in respect of the introduction and acceptance of applicants for business, enter 
+into a written agreement with the third party to comply with the requirements of 
+regulation 7(1) and (2) and the conditions stipulated in the Code. 
+ 
+(2) The written agreement shall be valid in respect of every applicant for 
+business that is introduced by the third party and with whom the relevant person has 
+developed a business relationship, and the period of validity of the agreement shall— 
+(a) extend to at least five years or for the duration of the business 
+relationship, whichever is longer; and 
+(b) remain valid for a period of at least five years from the date of 
+termination of the business relationship between the relevant person and 
+the applicant for business. 
+ 
+(3) Sub-regulation (2) does not apply where the written agreement between the 
+relevant person and the third party has been terminated, but— 
+(a) the obligations contained in the agreement, including the customer due 
+diligence information maintained by the third party, are transferred to 
+another third party who has— 
+ (i) agreed to be bound by the written agreement in relation to the 
+relevant person; or 
+ (ii) entered into another written agreement with the relevant person 
+comprising at least the same obligations contained in the 
+agreement; or  
+(b) all the customer due diligence information maintained by the third party 
+has been transferred to the relevant person to maintain. 
+ 
+(4) The Agency, Commission or any other competent authority in the Virgin 
+Islands may request a copy of any written agreement entered into by a relevant person 
+pursuant to this regulation and the relevant person shall comply with that request. 
+ 
+(5) Upon the date of the coming into force of these Regulations, a relevant 
+person shall, in relation to every customer, modify any existing agreement, or enter into 
+a new agreement, with a third party to ensure compliance with the requirements of this 
+regulation. 
+(Inserted by S.I. 74/2015) 
+Obligation to test business relationship 
+7B. (1) Subject to sub-regulation (2), the relevant person shall test its business 
+relationship with the third party by carrying out a periodic review of the customer due 
+diligence measures of the third party to satisfy itself that— 
+14
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(a) the requirements of regulation 7(1) are being complied with; and  
+(b) the terms and conditions of the written agreement entered into pursuant 
+to regulation 7A are being adhered to. 
+ 
+(2) The periodic review referred to in sub-regulation (1) shall be carried out in 
+accordance with the provisions of the Code. 
+(Inserted by S.I. 74/2015) 
+Establishing and maintaining record of verification of identity 
+8. Where a relevant person is required under these Regulations to verify the identity 
+of a person, the relevant person shall establish and maintain a record in the Virgin 
+Islands which— 
+(a) indicates the nature of the evidence obtained; and 
+(b) comprises a copy of the evidence or, where this is not reasonably 
+practicable, contains such information as would enable a copy of the 
+evidence to be obtained. 
+Maintaining record of transactions and reports 
+9. Where a relevant person is required under these Regulations to verify the identity 
+of a person, the relevant person shall maintain a record of— 
+(a) all transactions carried out by or on behalf of that person (such as 
+records sufficient to identify the source and recipient of payments from 
+which investigating authorities will be able to compile an audit trail for 
+suspected money laundering); and 
+(b) all reports made by it to the Agency and all inquiries relating to money 
+laundering received by it from the Agency. 
+Limitation period for retention of records 
+10. (1) A relevant person shall maintain the records required under regulations 7, 8 
+and 9 for a period of at least 5 years from the date— 
+(a) when all transactions relating to a one-off transaction or a series of 
+linked transactions were completed; or 
+(b) when the business relationship was formally ended. 
+(Amended by S.I. 20/2010) 
+ (2) Where a report has been made to the Anti-money Laundering Reporting 
+Officer appointed under regulation 13 or the relevant person knows or believes that a 
+matter is under investigation, that person shall, without prejudice to subregulation (1) or 
+the requirements of the Code relating to the retention of records, retain all relevant 
+records for as long as may be required by the Agency. 
+ (3) For the purposes of this regulation, the question as to what records may be 
+relevant in the investigation process may be determined in accordance with the 
+provisions of the Code. 
+Format and retrieval of records 
+11. (1) A relevant person shall ensure that any records required to be maintained 
+pursuant to these Regulations are capable of retrieval without undue delay and in the 
+manner provided in the Code. 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+15
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+(2) A relevant person may rely on the records of a third party in respect of the 
+details of payments and transactions by customers, provided that it is satisfied that the 
+third party is willing and able to retain and, if asked, to produce in the manner provided 
+in the Code, copies of the records required. 
+Maintaining register of money laundering reports and inquiries 
+12. (1) A relevant person shall maintain a register of— 
+(a) all reports made by it to the Agency; and 
+(b) all inquiries relating to money laundering made of it by the Agency. 
+ (2) The register maintained pursuant to subregulation (1) shall be kept separate 
+from other records and shall contain as a minimum— 
+(a) the date and nature of the report or inquiry; 
+(b) the name and agency of the inquiring officer; 
+(c) the powers being exercised and pursuant to what authority; and 
+(d) details of the accounts or transactions involved. 
+Duty to appoint Money Laundering Reporting Officer 
+13. (1) A relevant person shall appoint a Money Laundering Reporting Officer who 
+shall, in addition to the qualifications set out in subregulation (2), be of sufficient 
+seniority to perform the functions reposed on a Money Laundering Reporting Officer 
+under the Code and these Regulations. (Amended by S.I. 20/2010) 
+(1A) A person who is appointed as a Money Laundering Reporting Officer 
+shall— 
+(a) be a natural person; and 
+(b) have access to all relevant information and material of the relevant 
+person to enable him or her to perform the functions reposed in him or 
+her under the Code and these Regulations. 
+(Inserted by S.I. 20/2010) 
+(1B) A relevant person shall, within 14 days of appointing a Money Laundering 
+Reporting Officer, notify the Agency and the Commission in writing of that fact 
+specifying the date of his or her appointment, and this requirement shall apply in every 
+new appointment of a Money Laundering Reporting Officer. (Inserted by S.I. 20/2010)
+(1C) The appointment of a Money Laundering Reporting Officer under 
+subregulation (1) may relate to an individual who— 
+(a) is an employee of the relevant person; 
+(b) is not an employee of the relevant person, but who is resident in the 
+Virgin Islands and meets the requirements of this regulation to perform 
+the functions of a Money Laundering Reporting Officer; or 
+(c) may or may not be an employee of the relevant person, but who meets 
+the requirements of this regulation and is resident in a jurisdiction that is 
+recognised pursuant to the provisions of the Code.
+(Inserted by S.I. 20/2010)
+ (2) In order to be appointed as a Money Laundering Reporting Officer, a person 
+shall possess the following qualifications— 
+16
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(a) he or she must at the minimum hold a diploma with a post qualification 
+experience of not less than 3 years; 
+(b) he or she must be fit and proper; 
+(c) he or she must have a broad knowledge of anti-money laundering and 
+terrorist financing matters, including the relevant regional and 
+international treaties (including United Nations Resolutions) relating to 
+the combating of money laundering and terrorist financing; 
+(d) he or she must have a good appreciation and understanding of Virgin 
+Islands laws relating to money laundering and terrorist financing; and 
+(e) he or she must possess the ability to make independent and analytical 
+decisions and not be easily susceptible to undue influence. 
+ (3) A Money Laundering Reporting Officer shall be responsible for ensuring 
+compliance by staff of the relevant person with— 
+(a) the provisions of these Regulations, Proceeds of Criminal Conduct Act, 
+the Code and any other enactment relating to money laundering and 
+terrorist financing; 
+(b) the provisions of any internal reporting and manual of compliance 
+procedures relating to money laundering and terrorist financing; and 
+(c) any additional reporting and related obligations provided in the Code. 
+ (4) The Money Laundering Reporting Officer shall, in addition to the functions 
+reposed in him or her by these Regulations and the Code, act as the liaison between the 
+relevant person and the Agency in matters relating to compliance with the provisions of 
+these Regulations, the Proceeds of Criminal Conduct Act, the Code and any other 
+enactment relating to money laundering and terrorist financing. 
+Due diligence audit 
+14. (1) Without prejudice to regulation 13 or any other enactment relating to the 
+conduct of inspections to verify compliance, the Agency or a person designated by the 
+Agency in writing may conduct an inspection of a relevant person to determine 
+compliance by that person with the requirements of these Regulations, Proceeds of 
+Criminal Conduct Act, the Code and any other enactment or directive relating to money 
+laundering. 
+ (2) The Agency may, for purposes of these Regulations and the Code, issue such 
+directives as it considers necessary and the directives, when issued, shall, unless 
+considered by the Agency to be of a restricted and confidential nature, be published in 
+the Gazette. 
+Establishment of procedures in relation to suspicious transactions 
+15. A relevant person shall establish written internal reporting procedures which, in 
+relation to its relevant business, will— 
+(a) enable its directors, or as the case may be, partners, all other persons 
+involved in its management, and all key staff, to know to whom they 
+should report knowledge or suspicion of money laundering; 
+(b) ensure that there is a clear reporting chain under which suspicions of 
+money laundering will be passed to the Money Laundering Reporting 
+Officer; 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+17
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+(c) ensure that the Money Laundering Reporting Officer has reasonable 
+access to all relevant information which may be of assistance to him or 
+her and which is available to the relevant person; and 
+(d) ensure full compliance with the requirements of the Code. 
+Staff training 
+16. (1) A relevant person shall provide education and training for all of its directors 
+or, as the case may be, partners, all other persons involved in its management, and all 
+key staff, to ensure that they are aware of— 
+(a) the provisions of these Regulations, Proceeds of Criminal Conduct Act, 
+the Code and any other enactment relating to money laundering and 
+terrorist financing; 
+(b) the relevant regional and international conventions, United Nations 
+Security Council Resolutions and standards of compliance established 
+from time to time by the CFATF, FATF and other organizations of 
+which the Virgin Islands is a member or in which the Virgin Islands 
+holds associate or observer status, relating to money laundering and 
+terrorist financing; 
+(c) their personal and the relevant person’s obligations under the 
+enactments and instruments referred to in paragraphs (a) and (b); 
+(d) the manual of compliance procedures or internal control systems and 
+other requirements established pursuant to these Regulations and the 
+Code; 
+(e) their personal liability for failure to report information or suspicions in 
+accordance with the requirements of these Regulations, the Code and 
+any other enactment, including any established internal procedures. 
+ (2) A relevant person shall, in addition, provide training— 
+(a) to all of the persons referred to in subregulation (1) with respect to— 
+ (i) ensuring compliance with regulation 3(1)(c); 
+ (ii) its policies and procedures to detect and prevent money laundering 
+and terrorist financing; and 
+ (iii) its customer identification, record keeping and other procedures; 
+and 
+(b) in accordance with the requirements of this regulation and the Code to 
+all new key staff as soon as practicable after their appointment. 
+ (3) A relevant person shall provide the training requirements referred to in 
+subregulations (1) and (2) on such frequent basis as it may determine, but in any case at 
+least once every year. 
+Offences and penalties 
+17. (1) A person who contravenes any provision of these Regulations or any 
+directive issued pursuant to regulation 14(2), commits an offence. (Amended by S.I. 
+74/2015) 
+ (2) A person who commits an offence under subregulation (1) is liable— 
+18
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(a) on summary conviction, to a fine not exceeding $100,000; and 
+(Amended by S.I.s 20/2010 and 36/2012) 
+(b) on conviction on indictment, to a fine not exceeding $150,000. 
+(Amended by S.I. 36/2012) 
+ (3) In proceedings against a person for an offence under these Regulations, it 
+shall be a defence for the person to prove that he or she took all reasonable steps and 
+exercised due diligence to comply with the requirements of these Regulations or any 
+directive issued pursuant to regulation 14(2) in respect of which he or she is charged. 
+ (4) Where an offence under these Regulations has been committed by a body 
+corporate, section 22(2) of the Interpretation Act shall apply, except that the words “the 
+liability of whose members is limited” shall be omitted. 
+ (5) Where the affairs of a body corporate are managed by its members, 
+subregulation (3) applies in relation to the acts and defaults of a member in connection 
+with his or her functions of management as if he or she were a director of the body 
+corporate. 
+ (6) Where an offence under these Regulations is committed by a partnership, or 
+by an unincorporated association other than a partnership, is proved to have been 
+committed with the consent or connivance of, or is attributable to the failure to exercise 
+due diligence by, a partner in the partnership or, as the case may be, a person concerned 
+in the management or control of the association, he or she, as well as the partnership or 
+association, commit that offence and is liable to be proceeded against and punished 
+accordingly. 
+ (7) A person who contravenes any provision of these Regulations may be 
+proceeded against under section 56 of the Financial Services Commission Act instead of 
+under this regulation. (Inserted by S.I. 74/2015) 
+ (8) The imposition of a penalty under or pursuant to this regulation does not 
+absolve the person penalized from complying with the provision of these Regulations 
+that he or she has contravened. (Inserted by S.I. 74/2015) 
+Revocation 
+18. The Anti-Money Laundering Code of Practice, 1999 is revoked. (Inserted by S.I. 
+20/2010)  
+____________ 
+ 
+ 
+ 
+SCHEDULE 
+(Regulation 7(8)) 
+TRANSITIONAL PROVISIONS 
+Application  
+1. These transitional provisions apply to every relevant person who, at the date of 
+the coming into force of these Regulations, has a business relationship with an applicant 
+LAW OF
+VIRGIN ISLANDS
+Anti-Money Laundering Regulations
+19
+Revision Date: 1 Jan 2020 
+[Statutory Instrument] 
+for business or a customer who had been the subject of an introduction to the relevant 
+person by a third party. 
+Compliance with regulation 7 (1) 
+2. Every relevant person shall, upon the coming into force of these Regulations, 
+take adequate measures to obtain from the third party, with respect to each applicant for 
+business or customer with whom the relevant person has a business relationship, the 
+information outlined in regulation 7(1). 
+Period for compliance  
+3. (1) Subject to any extension of time under paragraph 4, the requirement outlined 
+in paragraph 2 must be complied with on or before 31st December, 2016 (“the 
+compliance date”).  
+ (2) For purposes of establishing whether or not relevant persons are complying 
+with the requirement of paragraph 2, the Commission may, before the compliance date 
+and within such period as the Commission may determine— 
+(a) require relevant persons to prepare and submit returns, in such form as 
+the Commission may approve, outlining their level of compliance with 
+the requirement of paragraph 2; and  
+(b) make inquiries and conduct such investigations as it considers 
+appropriate to establish whether and to what extent relevant persons are 
+carrying out the requirement of paragraph 2.  
+ (3) Subject to sub-paragraph (4), any inquiry or investigation to be carried out 
+pursuant to sub-paragraph (2)(b) shall be carried out in such form and manner, including 
+the conduct of an inspection, as the Commission may determine.  
+ (4) Where the Commission intends to carry out an inspection of a relevant 
+person for purposes of sub-paragraph (2)(b), it shall provide the relevant person at least 
+seven days written notice of its intention.  
+Extension of compliance date  
+4. (1) Where, at any time prior to the compliance date referred to in paragraph 
+3(1), the Commission (after making necessary inquiries and conducting necessary 
+investigations under paragraph 3(2)) forms the opinion that a relevant person has made 
+sufficient progress in complying with the requirement of paragraph 2 but, having regard 
+to the number of applicants for business or customers with which the relevant person has 
+a business relationship, or such other factors as the Commission deems relevant, the 
+relevant person may not be able to obtain the required information in respect of every 
+applicant for business or customer by the compliance date, the Commission may grant 
+the relevant person an extension of such period as the Commission considers would 
+enable the relevant person to obtain the required information. 
+ (2) For the purposes of sub-paragraph (1), a relevant person shall be considered 
+to have made sufficient progress in complying with the requirement of paragraph 2 if it 
+has been able to obtain the required information in respect of at least— 
+(a) fifty percent of its applicants for business or customers, if any inquiry or 
+investigation of the relevant person was carried out within 7 months of 
+the compliance date; or 
+20
+Anti-Money Laundering Regulations
+[Statutory Instrument] 
+ 
+ 
+Revision Date: 1 Jan 2020 
+LAW OF
+VIRGIN ISLANDS 
+(b) seventy-five percent of its applicants for business, if any inquiry or 
+investigation of the relevant person was carried out within 10 months of 
+the compliance date.  
+Consequence of non-compliance  
+5. If a relevant person fails to comply with the requirement of paragraph 2 by the 
+compliance date or, if granted an extension under paragraph 4, within the period of 
+extension, it is liable to be proceeded against under regulation 17. 
+(Inserted by S.I. 74/2015) 
+__________

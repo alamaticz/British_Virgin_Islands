@@ -1,0 +1,1760 @@
+No. 15 of 2009 
+ 
+VIRGIN ISLANDS 
+ 
+ 
+PROLIFERATION FINANCING (PROHIBITION) ACT, 2009 
+  
+ 
+ARRANGEMENT OF SECTIONS 
+ 
+ 
+Section 
+ 
+ 
+PRELIMINARY 
+ 
+1. 
+Short title. 
+2. 
+Interpretation. 
+ 
+DIRECTIONS 
+ 
+3. 
+Power to give a direction. 
+4. 
+Persons to whom a direction may be given. 
+5. 
+Conditions for giving a direction. 
+ 
+REQUIREMENTS IN RELATION TO DIRECTIONS 
+ 
+6. 
+Imposing requirements. 
+7. 
+Customer due diligence. 
+8. 
+Ongoing monitoring. 
+9. 
+Systematic reporting. 
+10. 
+Restricting or ceasing business.  
+ 
+PROCEDURES AND LICENSING IN RELATION TO DIRECTIONS 
+ 
+11. 
+General directions: how given. 
+12. 
+Specific directions: notification and duration of direction. 
+13. 
+General directions: publication and duration of direction. 
+14. 
+Directions restricting or ceasing business: exemption by licence. 
+ 
+ENFORCEMENT: INFORMATION POWERS 
+ 
+15. 
+Power to require information or documents. 
+16. 
+Powers of entry and inspection without a warrant, etc. 
+17. 
+Entry to premises under warrant. 
+18. 
+Restrictions on powers. 
+19. 
+Failure to comply with information requirement. 
+ 
+2
+ENFORCEMENT: CIVIL PENALTIES 
+ 
+20. 
+Power to impose civil penalties. 
+21. 
+Duty to issue penalty notice. 
+22. 
+Right of appeal. 
+ 
+ENFORCEMENT: OFFENCES 
+ 
+23. 
+Failure to comply with requirement imposed by a direction. 
+24. 
+Offences in connection with licences. 
+25. 
+Extra-territorial application of offences. 
+26. 
+Time limit for summary proceedings. 
+27. 
+Liability of officers of bodies corporate, etc. 
+28. 
+Proceedings against unincorporated bodies. 
+ 
+GENERAL PROVISIONS 
+ 
+29. 
+Report to Parliament. 
+30. 
+Monitoring persons operating in the financial sector. 
+31. 
+Assistance in preparing guidance. 
+32. 
+Notices. 
+33. 
+Exercise of powers under this Act and S.I. No. 13 of 2008. 
+34. 
+Immunity from liability. 
+35. 
+Power to amend section 2 (2). 
+36. 
+Application to the Crown. 
+37. 
+Regulations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+ 
+ 
+No. 15 of 2009 
+Proliferation Financing (Prohibition) Act, 2009 Virgin  
+Islands 
+ 
+ 
+ 
+I  Assent 
+ 
+ 
+(Sgd.) DAVID PEAREY 
+Governor 
+ 
+2nd  November, 2009 
+ 
+ 
+VIRGIN ISLANDS 
+ 
+No. 15 of 2009 
+ 
+ 
+ 
+An Act to confer powers on the Financial Investigation Agency to take action against 
+persons and activities that may be related to terrorist financing, money laundering or the 
+development of weapons of mass destruction and for other connected matters. 
+ 
+ 
+[Gazetted 19th November, 2009] 
+ 
+ 
+ENACTED by the Legislature of the Virgin Islands as follows: 
+ 
+ 
+PRELIMINARY 
+ 
+Short title. 
+1. 
+This Act may be cited as the Proliferation Financing (Prohibition) Act, 2009. 
+ 
+Interpretation. 
+2. 
+(1) 
+In this Act, unless the context otherwise requires, 
+ 
+“Agency” means the Financial Investigation Agency established under section 3 
+No. 19 of 2003 
+ 
+ 
+of the Financial Investigation Agency Act, 2003;  
+ 
+“biological weapon” means any biological agent or toxin as defined and referred 
+U.K.S.I.1975 
+ 
+ 
+to in section 1 (2) of the Biological Weapons Act 1974 (Overseas  
+No. 240   
+ 
+ 
+Territories) Order 1975; 
+ 
+ 
+4
+ 
+“business relationship” means a business, professional or commercial relationship 
+between a relevant person and a customer, which is expected by the 
+relevant person, at the time when contact is established, to have an 
+element of duration; 
+ 
+“chemical weapon” has the definition referred to in section 1 (1) of Schedule 1 of 
+U.K.S.I. 2005 
+ 
+ 
+the Chemical Weapons (Overseas Territories) Order 2005, and the  
+No. 854   
+ 
+ 
+exceptions outlined in that section apply accordingly;  
+ 
+“Commission” means the Financial Services Commission established under the 
+No. 12 of 2001 
+ 
+ 
+Financial Services Commission Act, 2001; 
+ 
+“conduct” includes an act and an omission; 
+ 
+“country” includes territory; 
+ 
+“currency” means the currency of the United States of America, and any amount 
+expressed in that currency includes the equivalent in any other currency; 
+ 
+“designated person”, in relation to a direction, means a person in relation to whom 
+the direction is given; 
+ 
+“direction” means a direction issued pursuant to section 3; 
+ 
+“document” means information that is recorded in any form; 
+ 
+“enforcement officer” means an officer of the Agency, or any officer of Customs  
+or officer of the Police Force that is specifically or generally authorised by 
+the Agency; 
+ 
+“House” means the House of Assembly of the Virgin Islands; 
+ 
+“money laundering” means any conduct that constitutes an offence under section 
+No. 5 of 1997 
+ 
+ 
+28, 29, or 30 of the Proceeds of Criminal Conduct Act, 1997; 
+ 
+ “notice” means a notice in writing; 
+ 
+“nuclear weapon” includes any nuclear explosive device that is not intended for 
+use as a weapon; 
+ 
+“proliferation” means the development or production of nuclear, radiological, 
+biological or chemical weapons or systems for their delivery; 
+ 
+ 
+5
+“radiological weapon” means a device designed to cause destruction, damage or 
+injury by means of the radiation produced by the decay of radioactive 
+material;  
+ 
+ 
+“relevant person” means a person to whom a direction is given; 
+ 
+“terrorism” bears the meaning provided for the term in article 2 of the Terrorism 
+U.K.S.I. 2001 
+ 
+(United Nations Measures) (Overseas Territories) Order 2001; 
+ 
+ 
+No. 3368 
+ 
+“terrorist financing” means 
+ 
+(a) the use of funds, or the making available of funds, for the purposes of 
+terrorism; or 
+ 
+(b) the acquisition, possession, concealment, conversion or transfer of 
+funds that are, directly or indirectly, intended to be used or made 
+available for the purposes of terrorism. 
+ 
+(2) 
+Subject to subsection (3), a reference in this Act to a person operating in 
+the financial sector refers to a person 
+ 
+(a) whose business falls to be regulated under the Financial Services 
+Commission Act, 2001 or any of the regulatory legislation outlined in 
+Part 1 of Schedule 1 of that Act, and 
+ 
+(b) who acts in the course of a business carried on by it in the Territory, 
+ 
+and “financial sector” shall be construed accordingly. 
+ 
+ 
+(3) 
+A person who falls within the scope of subsection (2) solely as a result of 
+engaging in financial activity on an occasional or very limited basis is not regarded for 
+the purposes of this Act as operating in the financial sector. 
+ 
+ 
+(4) 
+For the purposes of subsection (3), a person is regarded as engaging in a 
+financial activity on an occasional or very limited basis if 
+ 
+(a) 
+the person’s total annual turnover in respect of the financial 
+activity does not exceed one hundred thousand dollars; 
+ 
+(b) 
+the financial activity is limited in relation to a customer to no more 
+than one transaction exceeding one thousand five hundred dollars, 
+whether the transaction is carried out in a single operation or a 
+series of operations which appear to be linked; 
+ 
+(c) 
+the financial activity does not exceed five percent of the person’s 
+total annual turnover; 
+ 
+ 
+6
+(d) 
+the financial activity is ancillary and directly related to the person’s 
+main activity; 
+ 
+(e) 
+the financial activity is not the transmission or remittance of 
+money , or a representation of money value, by any means; 
+ 
+(f) 
+the person’s main activity is not that of a person operating in the 
+financial sector; and  
+ 
+(g) 
+the financial activity is provided only to customers of the person’s 
+main activity.  
+ 
+ 
+DIRECTIONS 
+ 
+Power to give a 3. 
+(1) 
+The Agency may, in relation to any country, give a direction to a relevant 
+direction. 
+person mentioned in section 4 if any of the conditions outlined in section 5 are satisfied, 
+except that direction may not be given in relation to a European Economic Area State. 
+ 
+ 
+ 
+(2) 
+A direction given by the Agency may make different provision in relation 
+to different descriptions or classes of relevant persons. 
+ 
+Persons to  
+4. 
+A direction under this Act may be given to any of the following relevant persons: 
+whom a 
+direction may 
+be given. 
+ 
+(a) 
+a particular person operating in the financial sector; 
+    
+ 
+(b)  
+any description or class of persons operating in the financial sector; 
+or 
+ 
+(c) 
+all persons operating in the financial sector. 
+ 
+Conditions 
+5. 
+(1) 
+The conditions referred to in section 3 (1) with respect to a country are  
+for giving a 
+that 
+direction. 
+(a) 
+the United Nations Security Council or Financial Action Task 
+Force has advised that measures should be taken in relation to the 
+country because of the risks of terrorist financing, money 
+laundering or proliferation activities being carried on 
+ 
+(i) 
+in the country; 
+ 
+(ii) 
+by the government of the country; or 
+ 
+(iii) 
+by persons resident or incorporated in the country; 
+ 
+ 
+(b) 
+the Agency reasonably believes that there is a risk that terrorist 
+financing or money laundering activities are being carried on 
+ 
+ 
+7
+(i) 
+in the country, 
+ 
+(ii) 
+by the government of the country, or 
+ 
+(iii) 
+by persons resident or incorporated in the country, 
+ 
+ 
+and that this poses a significant risk to the interests of the Virgin 
+Islands or the United Kingdom; or 
+ 
+(c)  
+the Agency reasonably believes that  
+ 
+(i) 
+the development or production of nuclear, radiological, 
+biological or chemical weapons in the country or systems 
+for their delivery; or 
+ 
+(ii) 
+the doing in the country of anything that facilitates the 
+development or production of any of the weapons referred 
+to in subparagraph (i), 
+ 
+poses a significant risk to the interests of the Virgin Islands or the 
+United Kingdom. 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+For the purposes of subsection (1) (b) and (c), the question as to whether 
+or not an activity mentioned in that subsection constitutes a significant risk to the Virgin 
+Islands or the United Kingdom is a matter to be determined by the Agency acting in 
+consultation with the Governor. 
+ 
+ 
+REQUIREMENTS IN RELATION TO DIRECTIONS 
+ 
+ 
+Imposing  
+6. 
+(1) 
+Where the Agency gives a direction pursuant to section 3, it may impose  
+requirements. 
+any of the  requirements outlined in sections 7, 8, 9 and 10 in relation to transactions or 
+business relationships with 
+ 
+(a) 
+a person carrying on business in the country concerned; 
+ 
+(b) 
+the government of the country; or 
+ 
+(c) 
+a person resident or incorporated in the country. 
+ 
+(2) 
+A direction may further impose requirements in relation to 
+ 
+(a) 
+a particular person that falls under subsection (1); 
+ 
+(b) 
+a description or class of persons under subsection (1); or 
+ 
+8
+(c) 
+all persons falling under subsection (1). 
+ 
+(3) 
+A direction may make different provision in relation to 
+ 
+(a) 
+different descriptions or classes of designated persons; and 
+ 
+(b) 
+different descriptions of transaction or business relationship. 
+ 
+ 
+(4) 
+The requirements imposed by a direction must be proportionate, having 
+regard to the conditions mentioned in section 5 (1) (a) or, as the case may be, the risk 
+mentioned in section 5 (1) (b) or (c), to the interests of the Virgin Islands or the United 
+Kingdom. 
+ 
+Customer due 
+7. 
+(1) 
+A direction given by the Agency may require a relevant person to  
+diligence. 
+undertake enhanced customer due diligence measures 
+ 
+ 
+ 
+(a) 
+before entering into a transaction or business relationship with a 
+designated person; and 
+    
+ 
+ 
+ 
+ 
+(b)  
+during a business relationship with that designated person. 
+ 
+ 
+(2) 
+The direction may do either or both of the following: 
+ 
+(a) 
+impose a general obligation to undertake enhanced customer due 
+diligence measures; 
+ 
+(b) 
+require a relevant person to undertake specific measures identified 
+or described in the direction. 
+ 
+(3) 
+A direction requiring a relevant person to undertake enhanced customer 
+due diligence measures pursuant to subsection (1) or perform any requirement or 
+undertaking under subsection (2) is without prejudice to the relevant person’s obligations 
+or liabilities in relation to the same matters, where applicable, under the Anti-money 
+S.I. No. 12  
+Laundering Regulations, 2008 or the Anti-money Laundering and Terrorist Financing    
+of 2008  
+Code of Practice, 2008. 
+S.I. No. 13 
+of 2008 
+ 
+(4) 
+For the purposes of this section,  
+ 
+(a) 
+“enhanced customer due diligence measures” means measures to 
+ 
+(i) 
+establish the identity of the designated person; 
+ 
+(ii) 
+obtain information about  
+ 
+(aa) 
+the designated person and their business; and 
+ 
+9
+ 
+(bb) 
+the source of their funds; and 
+ 
+(iii) 
+assess the risk of the designated person being involved in 
+relevant activities; and 
+ 
+ 
+(b) 
+“relevant activities” means 
+ 
+(i) 
+money laundering; 
+ 
+(ii) 
+terrorist financing; or  
+ 
+(iii) 
+proliferation. 
+ 
+Ongoing 
+8. 
+(1) 
+A direction given by the Agency may require a relevant person to  
+monitoring. 
+undertake enhanced ongoing monitoring of any business relationship with a designated 
+person. 
+ 
+(2) 
+The direction may do either or both of the following: 
+ 
+(a) 
+impose a general obligation to undertake enhanced ongoing 
+monitoring; 
+ 
+(b) 
+require a relevant person to undertake specific measures identified 
+or described in the direction. 
+ 
+(3) 
+For the purposes of this section, “enhanced ongoing monitoring” of a 
+business relationship means 
+ 
+(a) 
+keeping up-to-date information and documents obtained for the 
+purposes of  enhanced customer due diligence measures; and 
+ 
+(b) 
+scrutinising transactions undertaken during the course of the 
+business relationship and, where appropriate, the source of funds 
+for those transactions, to ascertain whether the transactions are 
+consistent with the relevant person’s knowledge of the designated 
+person and their business. 
+ 
+Systematic  
+9. 
+(1) 
+A direction given by the Agency may require a relevant person to provide 
+reporting. 
+such information and documents relating to transactions and business relationships with 
+designated persons, as may be specified in the direction. 
+ 
+ 
+ 
+(2) 
+A direction imposing the requirement referred to in subsection (1) shall 
+specify how the direction is to be complied with, including 
+ 
+ 
+ 
+(a) 
+the person to whom the information and the documents are to be 
+provided; and 
+ 
+10
+ 
+ 
+   
+(b)  
+the period within which, or intervals at which, the information and 
+documents are to be provided. 
+ 
+(3) 
+The power conferred by this section is not exercisable in relation to 
+information or documents in respect of which a claim to legal professional privilege 
+could be maintained in legal proceedings. 
+ 
+(4) 
+The exercise of the power conferred by this section and the provision of 
+information under it is not otherwise subject to any restriction on the disclosure of 
+information, whether imposed by statute or otherwise. 
+ 
+Restricting or 
+10. 
+Where the Agency gives a direction, it may require a relevant person not to enter  
+ceasing 
+into or continue to participate in 
+business. 
+(a) 
+a specified transaction or business relationship with a designated person; 
+ 
+(b) 
+a specified description of transactions or business relationships with a 
+designated person; or 
+ 
+(c) 
+any transaction or business relationship with a designated person.   
+ 
+ 
+PROCEDURES AND LICENSING IN RELATION TO DIRECTIONS 
+ 
+ 
+General  
+11. 
+(1) 
+A direction that is given to 
+directions: how  
+given. 
+(a) 
+a description or class, of persons operating in the financial sector, 
+or 
+ 
+(b) 
+all persons operating in the financial sector, 
+ 
+shall be contained in an order made by the Agency and shall, subject to subsection (3), 
+have effect from the date of the making of the order. 
+ 
+(2) 
+If the order made under subsection (1) contains requirements of a kind 
+mentioned in section 10, the Agency shall forthwith transmit a copy of the order to the 
+Attorney General who shall as soon as practicable lay the order before the House for 
+approval. 
+ 
+(3) 
+If, following the laying of the order, the House fails to approve the order 
+within twenty-eight days from the date of laying, the order shall cease to have effect. 
+ 
+(4) 
+An order that ceases to have effect in accordance with subsection (3) shall 
+not affect anything done under the order. 
+ 
+ 
+11
+(5) 
+An order to which subsection (2) does not apply is subject to a negative 
+resolution of the House. 
+ 
+(6) 
+In calculating the period specified in subsection (3), account shall not be 
+taken of the period when the House is prorogued or dissolved. 
+ 
+ 
+Specific 
+12. 
+(1) 
+This section applies in relation to a direction that is given to a  
+directions: 
+particular person. 
+notification and 
+duration of 
+direction. 
+ 
+(2) 
+Where the Agency gives a direction, it shall give notice of the direction to 
+that particular person. 
+ 
+ 
+ 
+(3) 
+The direction, if not previously revoked and whether or not varied, ceases 
+to have effect at the end of the period of one year beginning with the day on which the 
+direction is given. 
+ 
+ 
+ 
+(4) 
+The application of subsection (3) is without prejudice to the giving of a 
+further direction by the Agency. 
+ 
+(5)  
+The Agency may vary or revoke the direction at any time. 
+ 
+ 
+(6) 
+Where the direction to a particular person is varied or ceases to have 
+effect, whether on revocation or otherwise, the Agency shall give notice of that fact to 
+that particular person. 
+ 
+General 
+13. 
+(1) 
+This section applies to an order containing directions under section 11.  
+directions: 
+ 
+publication and  
+ 
+duration of  
+ 
+(2) 
+The Agency shall take such steps as it considers appropriate to publicise 
+direction. 
+an order made under this Act. 
+ 
+ 
+ 
+ 
+ 
+(3)  
+An order 
+ 
+(a) 
+revoking a previous order, or 
+ 
+(b) 
+varying a previous order so as to make its provisions less onerous, 
+ 
+shall be transmitted by the Agency to the Attorney General who shall as soon as 
+practicable lay the order before the House of Assembly. 
+ 
+ 
+ 
+(4) 
+The order, if not previously revoked and whether or not varied, ceases to 
+have effect at the end of the period of one year beginning with the day on which it was 
+made. 
+ 
+ 
+12
+ 
+(5) 
+The application of subsection (4) is without prejudice to the making of a 
+further order by the Agency. 
+ 
+ 
+(6) 
+Where the order is varied or ceases to have effect, whether on revocation 
+or otherwise, the Agency shall take such steps as it considers appropriate to publicise that 
+fact. 
+ 
+Directions 
+14. 
+(1) 
+This section applies where a direction contains requirements of a kind 
+restricting or  
+mentioned in section 10. 
+ceasing  
+business:  
+exemption by 
+ 
+(2) 
+The Agency may grant a licence to exempt acts specified in the licence  
+licence. 
+from the requirements mentioned in section 10. 
+ 
+(3)  
+A licence granted by the Agency may be 
+ 
+(a)   general or granted to a description  or class of persons or to a 
+particular person; 
+ 
+(b) 
+subject to conditions as the Agency may specify in the licence; or 
+ 
+(c) 
+of indefinite duration or subject to an expiry date. 
+ 
+ 
+(4) 
+The Agency may at any time vary or revoke a licence issued under this 
+section. 
+ 
+ 
+(5) 
+Where the Agency grants, varies or revokes a licence, it shall, 
+ 
+ 
+ 
+(a) 
+in the case of a licence granted to a particular person, give notice 
+of the grant, variation or revocation to that particular person; and 
+ 
+ 
+ 
+(b) 
+in the case of a general licence or a licence granted to a description 
+or class of persons, take such steps as it considers appropriate to 
+publicise the grant, variation or revocation of the licence.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ENFORCEMENT: INFORMATION POWERS 
+ 
+Power to require 15. 
+(1) 
+An enforcement officer may by notice to a relevant person require the 
+information or 
+relevant person to 
+documents. 
+(a) 
+provide information as may be specified in the notice; or 
+ 
+ 
+(b) 
+produce documents as may be so specified 
+ 
+in such form and verified or authenticated in such manner as may be required. 
+ 
+ 
+13
+(2) 
+An enforcement officer may exercise powers under this section only if the 
+information or documents sought to be obtained as a result are reasonably required in 
+connection with the exercise by the Agency of its functions under this Act. 
+ 
+(3) 
+Where an enforcement officer requires information to be provided or 
+documents to be produced under this section, 
+ 
+ 
+(a) 
+the notice shall set out the reasons why the enforcement officer 
+requires the information to be provided or the documents to be 
+produced; and 
+ 
+ 
+(b) 
+the information shall be provided or the documents produced 
+ 
+ 
+(i) 
+before the end of the period determined to be reasonable, as 
+may be specified in the notice; and 
+  
+ 
+(ii) 
+at such place as may be so specified. 
+ 
+ 
+(4) 
+In relation to a document that is in electronic form, the power to require 
+the production of the document includes a power to require the production of a copy of 
+the document in legible form or in a form from which the document can readily be 
+produced in visible and legible form.  
+ 
+ 
+(5) 
+An enforcement officer may take copies of, or make extracts from, any 
+document that is produced under this section. 
+ 
+ 
+(6) 
+The production of a document shall not affect any lien which a person has 
+on the document. 
+ 
+Powers of entry 16. 
+(1) 
+Where an enforcement officer has reasonable cause to believe that any  
+and inspection 
+premises are being used by a relevant person in connection with the relevant person’s  
+without a  
+business activities, the enforcement officer may, on producing evidence of authority, at  
+warrant, etc. 
+any reasonable time 
+(a) 
+enter and inspect the premises; 
+ 
+(b) 
+observe the carrying on of business activities by the relevant 
+person; 
+ 
+(c) 
+inspect any document found on the premises; and 
+ 
+(d) 
+require any person on the premises to provide an explanation of 
+any document or to state where it may be found. 
+ 
+ 
+(2) 
+An enforcement officer may take copies of, or make extracts from, any 
+document found pursuant to subsection (1). 
+ 
+ 
+14
+ 
+(3) 
+An enforcement officer may exercise powers under this section only if the 
+information or document sought to be obtained as a result is reasonably required in 
+connection with the exercise by the Agency of its functions under this Act. 
+ 
+ 
+(4) 
+In this section, “premises” means any premises other than premises used 
+only as a dwelling. 
+ 
+Entry to  
+17. 
+(1) 
+A Magistrate or Justice of the Peace may issue a warrant under this section 
+premises under if he or she is satisfied on information on oath given by an enforcement officer that there 
+warrant. 
+are reasonable grounds for believing that any set of conditions outlined in subsection (2), 
+(3) or (4) is satisfied. 
+ 
+(2) 
+The first set of conditions is that 
+ 
+(a) 
+there is on the premises specified in the warrant, a document in 
+relation to which a requirement could be imposed under section 15 
+(1) (b); and 
+ 
+(b) 
+if the requirement under section 15 (1) (b) were to be imposed, 
+ 
+ 
+(i) 
+it would not be complied with; or 
+ 
+(ii) 
+the document to which it relates would be removed, 
+tampered with or destroyed. 
+ 
+(3) 
+The second set of conditions is that 
+ 
+(a) 
+a person on whom a requirement has been imposed under section 
+15 (1) (b) has failed, wholly or in part, to comply with it; and 
+ 
+(b) 
+there is on the premises specified in the warrant, a document that 
+has been required to be produced. 
+ 
+(4) 
+The third set of conditions is that 
+ 
+(a) 
+an enforcement officer has been obstructed in the exercise of a 
+power under section 16; and 
+ 
+(b) 
+there is on the premises specified in the warrant a document that 
+could be inspected under section 16 (1) (c). 
+ 
+ 
+(5) 
+A Magistrate or Justice of the Peace may issue a warrant under this section 
+if he or she is satisfied on information on oath given by an enforcement officer that there 
+are reasonable grounds for suspecting that 
+ 
+ 
+15
+ 
+(a) 
+an offence under this Act has been, is being or is about to be 
+committed by a relevant person; and 
+ 
+ 
+(b) 
+there is on the premises specified in the warrant a document 
+relevant to whether that offence has been, is being or is about to be 
+committed.  
+ 
+(6) 
+A warrant issued under this section shall authorise an enforcement officer 
+to   
+ 
+ 
+(a) 
+enter the premises specified in the warrant; 
+  
+(b) 
+search the premises and take possession of anything that appears to 
+be a document specified in the warrant or to take, in relation to that 
+document, any other steps which may appear to be necessary for 
+preserving it or preventing interference with it; 
+ 
+(c)  
+take copies of, or extracts from, any document specified in the 
+warrant; 
+ 
+(d)  
+require any person on the premises to provide an explanation of 
+any document which appears to be of the kind specified in the 
+warrant or to state where the document may be found; and 
+ 
+(e) 
+use such force as may reasonably be necessary. 
+ 
+Restrictions  
+18. 
+(1) 
+This section applies in relation to the powers conferred by sections 15, 16  
+on powers. 
+and 17. 
+ 
+ 
+ 
+(2) 
+The powers referred to in subsection (1) are not exercisable in relation to 
+information or documents in respect of which a claim to legal professional privilege 
+could be maintained in legal proceedings. 
+ 
+ 
+ 
+(3) 
+The exercise of the powers referred to in subsection (1) and the provision 
+of information or production of documents under those powers is not otherwise subject to 
+any restriction on the disclosure of information, whether imposed by statute or otherwise. 
+ 
+Failure to 
+19. 
+(1) 
+If on an application made by the Agency it appears to the High Court that  
+comply with 
+a person (“the information defaulter”) has failed to do something  that he or she was  
+information  
+required to do under section 15 (1), the High Court may make an order under this section. 
+requirement. 
+(2) 
+An order made under this section may require the information defaulter to 
+do either or both of the following: 
+ 
+(a) 
+to do the thing that he or she had failed to do within such period as 
+may be specified in the order; 
+ 
+ 
+16
+(b) 
+to take such steps to remedy the consequences of the failure as may 
+be so specified. 
+ 
+ 
+(3) 
+If the information defaulter is a body corporate, a partnership or an 
+unincorporated body of persons that is not a partnership, the order may require any 
+officer of the body corporate, partnership or unincorporated body who is, wholly or partly 
+responsible for the failure, to meet such costs of the application as may be specified in the 
+order.  
+ 
+ 
+ 
+ 
+ENFORCEMENT: CIVIL PENALTIES 
+ 
+ 
+Power to 
+20. 
+(1) 
+The Agency may, subject to subsection (2), impose a penalty of such 
+impose civil 
+amount as it considers appropriate on a person who fails to comply with a requirement  
+penalties. 
+imposed by 
+(a) 
+a direction under this Act, or 
+ 
+(b) 
+a condition of a licence under section 14, 
+ 
+and for this purpose, “appropriate” means effective, proportionate and dissuasive. 
+ 
+ 
+(2) 
+The Agency shall not impose a penalty if it is satisfied that the person took 
+all reasonable steps and exercised all due diligence to ensure that the requirement would 
+be complied with. 
+ 
+ 
+(3) 
+In deciding whether to impose a penalty for failure to comply with a 
+requirement, the Agency shall consider whether the person followed any relevant 
+guidance which was at the time  
+ 
+(a) 
+issued by the Agency, Commission or other supervisory body or 
+by a professional body whose members, whether wholly or partly, 
+operate in the financial sector; and 
+ 
+(b) 
+published in a manner approved by the Agency, Commission or 
+other supervisory body or by the professional body as suitable in 
+its opinion to bring the guidance to the attention of persons likely 
+to be affected by it.  
+ 
+ 
+(4) 
+A person on whom a penalty is imposed under this section is not liable to 
+be proceeded against for an offence under section 23 in respect of the same failure. 
+ 
+ 
+(5) 
+A penalty imposed by the Agency pursuant to this section shall not exceed 
+forty thousand dollars, unless such higher penalty is presented to and confirmed by the 
+High Court. 
+ 
+ 
+17
+ 
+(6) 
+Where the Agency presents a higher penalty to the High Court for 
+confirmation, the High Court may 
+ 
+(a) 
+confirm the penalty imposed by the Agency; or 
+ 
+(b) 
+vary the penalty as it considers appropriate, having regard to the 
+seriousness of the failure. 
+ 
+ 
+(7) 
+A penalty imposed by the Agency under this section is payable to the 
+Agency for its use and is recoverable in civil proceedings as a debt due to the Agency. 
+ 
+ Duty to issue 
+21. 
+(1) 
+The Agency shall, before imposing a penalty against a person under  
+penalty notice. 
+section 20, give notice to the person  
+ 
+ 
+ 
+ 
+(a) 
+stating its intention to impose the penalty;  
+ 
+ 
+ 
+ 
+(b) 
+stating the reasons for the intention to impose the penalty; 
+ 
+ 
+ 
+ 
+(c) 
+stating the amount proposed to be imposed as penalty; and  
+ 
+ 
+ 
+ 
+(d) 
+inviting the person to make any representation he or she wishes. 
+ 
+ 
+ 
+(2) 
+A notice issued under subsection (1) shall require the person to whom it 
+relates to submit his or her representation (if any) within a period of twenty-eight days 
+from the date indicated on the notice. 
+ 
+ 
+ 
+(3)  
+Where the Agency receives a representation under this section, it shall 
+consider the representation and 
+ 
+ 
+(a)  
+confirm the amount of the proposed penalty; 
+ 
+(b)  
+vary the penalty to be imposed in such manner as it considers fit; 
+or 
+ 
+(c) 
+withdraw the penalty proposed to be imposed. 
+ 
+(4) 
+Where the Agency varies or withdraws a proposed penalty under paragraph 
+(b) or (c), as the case may be, it may take further steps (if any) in consequence of the 
+variation or withdrawal as it considers appropriate. 
+ 
+(5) 
+The Agency shall notify the person of its decision under subsection (3) 
+and, where it varies or withdraws the proposed penalty, of the further steps (if any) it has 
+taken in relation to the person. 
+ 
+(6) 
+Where the Agency imposes a penalty under subsection (3) (a) or (b), it 
+shall require the person to pay to the Agency the penalty imposed within such period as 
+the Agency may determine.  
+ 
+18
+ 
+(7) 
+Where the Agency varies a penalty under subsection (3) (b), the 
+application of subsection (6) is without prejudice to any further steps that the Agency 
+may take under subsection (5). 
+ 
+ 
+ 
+(8) 
+Where the Agency does not receive a representation in relation to a notice 
+it has issued under this section, it shall proceed to impose such penalty as it considers 
+appropriate. 
+ 
+ 
+(9) 
+A notice issued under this section may, at the written request of the person 
+against whom it is issued, be extended by the Agency for a period not exceeding an 
+additional seven days. 
+ 
+Right of  
+22. 
+(1) 
+A person who is aggrieved by a decision of the Agency imposing a  
+appeal. 
+penalty under section 20 may appeal the decision to the Board. 
+ 
+ 
+ 
+(2) 
+After hearing an appeal brought under subsection (1), the Board may  
+ 
+ 
+ 
+ 
+(a) 
+set aside the decision of the Agency; 
+ 
+ 
+ 
+ 
+(b) 
+confirm the decision of the Agency; or 
+ 
+(c) 
+vary the decision of the Agency in a manner it considers fit.  
+ 
+ 
+(3) 
+For the purposes of this section, “Board” means the Board of the Agency  
+No. 19 of 2003    established under section 3 (2) of the Financial Investigation Agency Act, 2003. 
+ 
+ 
+ 
+(4) 
+A person who is dissatisfied with the decision of the Board may appeal to 
+the High Court, and the High Court may on an appeal brought before it 
+ 
+ 
+ 
+ 
+(a) 
+set aside the decision of the Board; 
+ 
+ 
+ 
+ 
+(b) 
+confirm the decision of the Board; or 
+ 
+(c) 
+vary the decision of the Board in a manner it considers fit. 
+ 
+ 
+ENFORCEMENT: OFFENCES 
+ 
+ 
+Failure to 
+23. 
+(1) 
+Subject to subsection (2), a person who fails to comply with a requirement  
+comply with 
+imposed by a direction under this Act commits an offence. 
+requirement 
+imposed by  
+ 
+(2) 
+A person does not commit an offence under subsection (1) if he or she  
+a direction. 
+took all reasonable steps and exercised all due diligence to ensure that the requirement 
+would be complied with. 
+ 
+ 
+19
+ 
+ 
+(3) 
+In deciding whether a person has committed an offence under this section, 
+the court shall consider whether the person followed any relevant guidance that was at the 
+time 
+ 
+(a) 
+issued by the Agency, Commission or other supervisory body or 
+by a professional body whose members, whether wholly or partly, 
+operate in the financial sector; and 
+ 
+ 
+ 
+(b) 
+published in a manner approved by the Agency, Commission or 
+other supervisory body or by the professional body as suitable in 
+its opinion to bring the guidance to the attention of persons likely 
+to be affected by it. 
+ 
+ 
+(4) 
+A person who commits an offence under subsection (1) is liable 
+ 
+ 
+ 
+(a) 
+on summary conviction, to a fine not exceeding fifty thousand 
+dollars; or 
+ 
+(b) 
+on conviction on indictment, to a fine not exceeding seventy 
+thousand dollars or imprisonment for a term not exceeding three 
+years or both. 
+ 
+ 
+(5) 
+A person who is convicted of an offence under this section is not liable to 
+a penalty under section 20 in respect of the same offence. 
+ 
+Offences in 
+24. 
+(1) 
+A person commits an offence if he or she, for the purpose of obtaining a  
+in connection 
+licence under section 14, 
+with licences. 
+ 
+ 
+(a) 
+provides information that is false in a material respect or a 
+document that is not what it purports to be; and 
+ 
+ 
+ 
+(b) 
+knows that, or is reckless as to whether, the information is false or 
+the document is not what it purports to be. 
+ 
+ 
+ 
+(2) 
+A person who commits an offence under subsection (1) is liable on 
+conviction on indictment to a fine not exceeding seventy thousand dollars or 
+imprisonment for a term not exceeding three years or both. 
+ 
+Extra-territorial 25. 
+(1) 
+An offence under this Act may be committed by a person acting in the  
+application of 
+course of a business in the financial sector although the conduct which gives rise to the 
+offences. 
+offence takes place wholly or partly outside the Virgin Islands. 
+ 
+ 
+ 
+(2) 
+Nothing contained in this section affects any criminal liability arising 
+otherwise than under this section. 
+ 
+ 
+ 
+ 
+ 
+20
+Time limit for 
+26. 
+An offence under this Act that is triable summarily shall be tried  
+summary 
+proceedings. 
+ 
+(a) 
+at any time within three years after the commission of the offence; 
+or 
+ 
+ 
+(b) 
+within twelve months after the date on which evidence sufficient in 
+the opinion of the Director of Public Prosecutions to justify the 
+proceedings comes to his or her knowledge. 
+ 
+Liability of 
+27. 
+(1) 
+Where an offence under this Act committed by a body corporate is shown  
+officers of 
+to 
+ 
+bodies  
+ 
+corporate, etc.  
+ 
+ 
+(a) 
+have been committed with the consent or connivance of an officer 
+of the body corporate, or 
+ 
+(b) 
+be attributable to any neglect on the part of any such officer, 
+ 
+the officer as well as the body corporate commit an offence and are liable to be proceeded 
+against and punished accordingly. 
+ 
+(2) 
+Where an offence under this Act committed by a partnership is shown to 
+ 
+(a) 
+have been committed with the consent or connivance of a partner, 
+or 
+ 
+(b) 
+be attributable to any neglect on the part of a partner, 
+ 
+the partner as well as the partnership commit an offence and are liable to be proceeded 
+against and punished accordingly. 
+ 
+ 
+(3) 
+Where an offence under this Act committed by an unincorporated  
+association (other than a partnership) is shown to 
+ 
+ 
+(a) 
+have been committed with the consent or connivance of an officer 
+of the association, or 
+ 
+(b) 
+be attributable to any neglect on the part of any such officer, 
+ 
+the officer as well as the association commit an offence and are liable to be proceeded 
+against and punished accordingly. 
+ 
+(4) 
+Where the affairs of a body corporate are managed by its members, 
+subsection (1) applies in relation to the acts and defaults of a member in connection with 
+the member’s functions of management as if the member were a director of the body 
+corporate. 
+ 
+ 
+21
+(5)  
+In this section, 
+ 
+ 
+(a) 
+“officer”, 
+ 
+(i) 
+in relation to a body corporate, means a director, manager, 
+secretary, chief executive, member of the committee of 
+management, or a person purporting to act in such a 
+capacity; and 
+ 
+ 
+(ii) 
+in relation to an unincorporated association, means any 
+officer  of the association or any member of its governing 
+body, or a person purporting to act in such a capacity; and 
+ 
+(b) 
+“partner” includes a person purporting to act as a partner. 
+ 
+Proceedings 
+28. 
+(1) 
+Proceedings under this Act that are alleged to have been committed by a  
+against 
+partnership or an unincorporated association shall be brought in the name of the  
+unincorporated partnership or association and not in that of its members. 
+bodies. 
+ 
+ 
+(2) 
+Section 25 of the Interpretation Act relating to the service of documents 
+have effect in relation to proceedings for an offence under this Act as if the partnership or 
+association were a body corporate. 
+ 
+ 
+ 
+(3)  
+A fine imposed on the partnership or association on its conviction for an 
+offence is to be paid out of the funds of the partnership or association. 
+ 
+ 
+GENERAL PROVISIONS 
+ 
+ 
+Report to 
+29. 
+(1) 
+The Agency shall, within a period of six months after the end of each year, 
+Parliament. 
+ 
+  
+(a) 
+prepare a report about its exercise during that year of its functions 
+under this Act; and 
+ 
+(b) 
+transmit a copy of the report to the Attorney General. 
+ 
+ 
+(2) 
+The Attorney General shall, within a period of three months after receipt 
+of a report under subsection (1) (b), lay the report before the House. 
+ 
+ 
+(3) 
+Subsection (1) shall not apply in relation to a year if no direction under 
+this Act was in force at any time in that year. 
+ 
+ 
+(4) 
+In calculating the period specified in subsection (2), account shall not be 
+taken of the period when the House is prorogued or dissolved. 
+ 
+ 
+ 
+22
+Monitoring  
+30. 
+(1) 
+The Agency and the Commission shall take appropriate measures to  
+persons  
+monitor persons operating in the financial sector for the purpose of securing compliance  
+operating in  
+by those persons with the requirements of any directions given under this Act. 
+the financial 
+sector. 
+ 
+(2) 
+For the purposes of ensuring effective monitoring by the Commission of 
+persons operating in the financial sector, the Agency shall provide the Commission with a 
+copy of any direction it gives in relation to those persons. 
+ 
+ 
+ 
+(3) 
+In performing its functions under this Act in relation to a direction given 
+by it, the Agency may seek the assistance of any person or authority and may authorise 
+the person or authority to perform such task on behalf of the Agency as the Agency may 
+prescribe. 
+ 
+ 
+ 
+(4) 
+Nothing contained in subsection (3) includes the giving of a direction 
+under this Act. 
+ 
+Assistance in 
+31. 
+The Agency shall provide such assistance as may reasonably be required by the  
+preparing 
+Commission or other supervisory body or by a professional body whose members operate  
+guidance.  
+in the financial sector in drawing up guidance that, when issued and published, would be 
+relevant guidance for the purposes of sections 20 (3) and 23 (3).   
+ 
+Notices.  
+32. 
+(1) 
+A notice required under this Act may be given to a person, 
+ 
+ 
+ 
+ 
+ 
+(a) 
+by posting it to the person’s last known address; 
+ 
+(b)  
+by leaving it for him or her with some adult person at his or her 
+usual or last known place of abode or business; or 
+(c) 
+where the person is a body corporate, partnership or 
+unincorporated association,  
+ 
+(i) 
+by posting it to the registered or principal office of the body 
+corporate, partnership or association; or 
+   
+(ii) 
+by delivering it to the secretary or clerk of the body 
+corporate, partnership or association at the registered or 
+principal office of the body corporate, partnership or 
+association. 
+ 
+ 
+(2) 
+Where under this Act the Agency is under a duty to give a notice to a 
+person but does not have an address for the person, it shall cause the notice to be 
+published in the Gazette and in at least three issues of a newspaper published and 
+circulating in the Virgin Islands. 
+ 
+ 
+(3) 
+The form of a notice issued under this section shall be such as the Agency 
+may determine. 
+ 
+ 
+ 
+23
+Exercise of 
+33. 
+Where, in relation to a money laundering or terrorist financing activity, a power 
+powers under 
+referred to in this Act may be exercised under this Act and the Anti-money Laundering 
+this Act and  
+and Terrorist Financing Code of Practice, 2008 (“the Code of Practice”), the power shall 
+S.I. No. 13 
+be exercised under either this Act or the Code of Practice, but not under both. 
+of 2008. 
+ 
+Immunity from 34. 
+Neither the Agency nor an enforcement officer shall be liable for anything  
+liability. 
+done by the Agency or enforcement officer in good faith in exercise of the powers 
+conferred by this Act.   
+ 
+Power to 
+35. 
+(1) 
+The Cabinet may, on the advice of the Agency, by Order amend section 2  
+amend section 
+(2) to extend the scope of persons operating in the financial sector. 
+2 (2). 
+ 
+ 
+(2) 
+An Order made under subsection (1) shall 
+ 
+ 
+ 
+ 
+(a) 
+be published in the Gazette; and  
+ 
+ 
+ 
+ 
+(b) 
+be subject to a negative resolution of the House. 
+ 
+Application 
+36. 
+(1) 
+Subject to subsection (2), this Act binds the Crown. 
+to the Crown. 
+ 
+ 
+ 
+(2) 
+The Crown shall not be criminally liable on account of any contravention 
+of this Act. 
+ 
+Regulations. 
+37. 
+The Cabinet may make Regulations for the effective carrying out of the 
+provisions of this Act.  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Passed by the House of Assembly this 29th day of September, 2009. 
+ 
+ 
+(Sgd) ROY HARRIGAN,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Speaker. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         (Sgd) JOANN HODGE, 
+Acting Deputy Clerk of the House of Assembly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

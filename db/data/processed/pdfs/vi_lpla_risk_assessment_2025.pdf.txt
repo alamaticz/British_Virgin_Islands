@@ -1,0 +1,2029 @@
+NATIONAL MONEY LAUNDERING, TERRORIST 
+FINANCING AND PROLIFERATION FINANCING 
+RISK ASSESSMENT OF LEGAL PERSONS AND 
+LEGAL ARRANGEMENTS - 2025 
+                                                                    
+ 
+ 
+ 
+     
+ 
+ 
+THE VIRGIN ISLANDS 
+ 
+ 
+ 
+ 
+ 
+1 | P a g e  
+ 
+1. INTRODUCTION 
+1. The Financial Action Task Force (FATF) recommends that countries carry out a risk 
+assessment of the legal persons and legal arrangements connected with their 
+jurisdiction, either on its own or part of a national risk assessment. FATF 
+Recommendation 24, as amended in March 2022, requires countries to carry out 
+a risk assessment of the risk of misuse of legal persons for money laundering or 
+terrorist financing, and take measures to prevent their misuse.  Recommendation 
+25 requires countries to carry out a risk assessment of trusts and other legal 
+arrangements governed by the law in their country or administered by a trustee in 
+their country. In addition, FATF Immediate Outcome 5 seeks to understand how 
+well the relevant competent authorities in a country identify, assess and 
+understand the vulnerabilities, and the extent to which legal persons created in 
+the country can be, or are being misused for ML/TF. Finally, R. 1 requires countries 
+to carry out an assessment of national risks, which includes risks of Legal 
+Arrangements.   
+2. The Interpretative Note to Recommendation 24 states that countries should: “(a) 
+assess the money laundering and terrorist financing risks associated with 
+different types of legal persons created in the country, and take appropriate steps 
+to manage and mitigate the risks that they identify; and (b) assess the money 
+laundering and terrorist financing risks to which their country is exposed, 
+associated with different types of foreign-created legal persons, and take 
+appropriate steps to manage and mitigate the risks that they identify.”  
+3. The Interpretative Note to Recommendation 25 states: “Countries should assess 
+the money laundering and terrorist financing risks associated with different types 
+of trusts and other similar legal arrangements: (a) governed under their law;  (b) 
+which are administered in their country or for which the trustee or equivalent 
+resides in their country; and (c) types of foreign legal arrangements that have 
+sufficient links with their country and take appropriate steps to manage and 
+mitigate the risks that they identify.” 
+4. The risk assessment of legal persons and legal arrangements aims to satisfy the 
+provisions of FATF Recommendations 1, 24, 25 and Immediate Outcome 5.   
+2. BACKGROUND 
+5. The Virgin Islands (VI) is committed to combatting money laundering (ML), 
+terrorism financing (TF), proliferation financing (PF) and the evasion of targeted 
+financial sanctions. As part of this mandate, the VI seeks to ensure that it 
+understands its exposures to financial crime, and particularly how legal persons 
+and legal arrangements can be misused to commit financial crime, given the VI’s 
+position as one of the world’s leading financial centers.  
+2 | P a g e  
+ 
+6. The VI therefore carried out this risk assessment to identify the risks posed to legal 
+persons and legal arrangements, enhance the granularity of its understanding of 
+those risks in order to ensure that the VI as well as entities operating in and from 
+the VI adopt appropriate measures to mitigate the ML, TF, PF and sanctions 
+evasions risk relating to VI legal persons and legal arrangements.  
+3. PROJECT OBJECTIVES 
+7. The understanding of the risk of legal persons and legal arrangements is a 
+fundamental cross-cutting issue in the VI MER, affecting the risk understanding of 
+Financial Institutions (FIs) and Designated Non-financial Businesses and 
+Professionals’ (DNFBPs) clients, the number and quality of suspicious activity 
+reports filed by these FIs and DNFBPs, the Financial Investigation Agency’s 
+access to intelligence relating to legal persons and legal arrangements, the 
+number of investigations carried out as well as the number of prosecutions.  
+8. The main objective of this risk assessment is to assess the risk exposures of legal 
+persons and legal arrangements established in or operating in the VI to ML, TF and 
+PF in order to (1) deepen the understanding of the risks posed by those entities 
+amongst the regulated sector and the public sector agencies; and (2) implement 
+appropriate mitigating measures.  
+9.  Particularly, the Risk Assessment sought to:  
+a. Consider typologies relating to the misuse of legal persons and legal 
+arrangements 
+b. Assess the identified ML, TF and PF Risks of the legal persons and legal 
+arrangements connected to the VI  
+c. Propose mitigating measures that may be required to control the risk 
+ 
+4. INSTITUTIONAL ARRANGEMENTS 
+10. In the VI, the Financial Services Commission (FSC) is responsible for authorising 
+and supervising Trust and Company Services Providers (TCSPs) for compliance 
+with AML/CFT/CPF requirements. All legal persons registered in the VI must have 
+a registered office in the VI and appoint a registered agent, who must be licensed 
+by the FSC. At the date of this report, there were 104 entities authorised to provide 
+registered office and registered agent services. 
+11. The role of the registered agent is to interact with the FSC relating to the affairs of 
+the legal person and to assess the beneficial owners of any legal person it retains 
+as a client. They also pay required fees and file the required annual returns on 
+behalf of legal persons. Registered agents must also maintain the following 
+documents for the legal persons they act for: 
+a. memorandum and articles of association; 
+b. register of directors (or a copy); 
+3 | P a g e  
+ 
+c. register of shareholders (or a copy); 
+d. register of charges (if any);  
+e. the company’s records and underlying documentation ;  
+f. copies of all notices or other documents filed by the company with the BVI 
+Registrar of Corporate Affairs (the Registrar) in the previous 10 years; and 
+g. minutes of all meetings and all written resolutions of its shareholders and 
+directors.  
+12. The FSC also houses the Registry of Corporate Affairs (ROCA), which is 
+responsible for maintaining the register of basic and beneficial information 
+relating to legal persons.  
+13. The Virtual Integrated Registry and Regulatory General Information Network 
+(VIRRGIN) system is the IT system that holds all information required to be 
+maintained by the ROCA, including basic information relating to legal persons. 
+The information housed in VIRRGIN is publicly available. The requirements for 
+maintaining beneficial ownership information have been passed into law and, as 
+at the date of this report, are being implemented. Bearer shares have been 
+prohibited since 2022. 
+14. In relation to legal arrangements, corporate trustees and trustees operating as a 
+business must be licensed as TCSPs under the Banks and Trust Companies Act. 
+These persons and entities are supervised by the FSC. As at the date of this report, 
+there were 124 trustees licensed by the FSC.    
+15. There is no special tax treatment for any type of legal person or arrangement in the 
+VI and there are no secrecy laws.  
+ 
+5. WORKING METHODS 
+16. A working group was formed on March 28, 2024 to carry out the assessment of the 
+ML, TF and proliferation risks of legal persons and legal arrangements.  
+17. The working group was composed of representatives from the following public 
+sector agencies and was led by an expert from an international compliance 
+consulting firm: 
+a. Royal Virgin Islands Police Force – Financial Crimes Unit (FCU) 
+b. FSC (financial supervision and corporate registry) 
+c. Ministry of Financial Services, Economic Development and Digital 
+Transformation 
+d. Attorney General Chambers – Sanctions Unit and International Cooperation 
+Unit 
+e. Governor’s Office (relating to sanctions implementation) 
+f. Financial Investigation Agency (Analysis and Investigation, and Supervision 
+and Enforcement Units) 
+g. Non-Profit Organisations Board 
+18. Two focus group consultations were held with private sector members: one with 
+representatives from the TCSP sector and one with the accounting and legal 
+sectors. The TCSP group met in person while the latter group received 
+4 | P a g e  
+ 
+questionnaires to be completed. The questions asked in the focus group are 
+attached as Appendix A hereto. Views of the private sector on areas of risk related 
+to legal persons and legal arrangements in the VI are provided throughout this 
+report where relevant.  
+19. The risk assessment was guided by a written methodology that was developed 
+specifically for the risk assessment of legal persons and legal arrangements in the 
+VI. This methodology is available as a separate document.  
+20. The methodology, following on the FATF Guidance on National Money Laundering 
+and Terrorist Financing Risk Assessments, views risk as a function of threats1, 
+vulnerabilities2, controls and consequences.  
+21. Scores for each of the threats, vulnerabilities, controls and consequences were 
+calculated for each of ML, TF and PF. A final score was then arrived at for each 
+type of legal person and legal arrangement in the VI.  
+22. In addition, lists of high risk jurisdictions for each of ML, TF and PF were compiled 
+using publicly available information which included FATF grey and black lists, 
+results of FATF mutual evaluations, indexes produced by international 
+organizations, including the corruption perceptions index and the global terrorism 
+index, and countries featuring in case studies and typologies relating to the 
+misuse of legal persons and legal arrangements. The relevant list of high risk 
+jurisdictions was used as applicable to assess the vulnerabilities of VI legal 
+persons and legal arrangements to ML, TF and PF3 due to their connections to 
+these high risk jurisdictions.  
+23. The data used for the risk assessment covered the period 2020 to Q1 2024 unless 
+otherwise stated. 
+ 
+6. INFORMATION SOURCES 
+24. The working group considered a large quantity of documents and information 
+sources to devise the methodology to carry out this risk assessment, obtain data 
+and analyze the data. The sources of information that were used are listed in 
+Appendix B.  
+ 
+7. OVERVIEW OF TYPES OF LEGAL PERSONS AND 
+LEGAL ARRANGEMENTS IN THE VI 
+ 
+1 The FATF defines threat as “a person or group of people, object or activity with the potential to cause 
+harm to, for example, the state, society, the economy.”  
+2 The FATF defines a vulnerability as “things that may be exploited by the threat, or that may facilitate its 
+activities.” 
+3 In relation to Proliferation Financing, the Working Group opted for an expanded definition of high risk 
+jurisdiction, which included not only the countries of Primary Concern, namely Iran and the Democratic 
+People’s Republic of Korea, but also countries that are listed in reports and literature as being 
+sympathetic or neighbouring to those countries.  
+5 | P a g e  
+ 
+25. Prior to commencing the assessment of the ML, TF and PF risks in the corporate 
+sector, the VI carried out a mapping exercise that summarized the numbers and 
+main characteristics of the different types of legal persons and legal 
+arrangements in the VI. The current numbers and trends relating to legal persons 
+in the VI are shown in Table 1. The types of VI legal persons and legal arrangements 
+are described below the table.  
+Table 1 – Types and Numbers of Legal Persons in the Virgin Islands 
+Entity Type 
+2020 
+2021 
+2022 
+2023 2024        
+(As of 
+30 
+March) 
+5-Year Trend 
+(Increasing, 
+Decreasing or 
+Stable) 
+BVIBC - Limited by 
+Shares 
+342,716 351,266 348,913 340,794 350,491 Relatively stable 
+BVIBC - Limited by 
+Guarantee  
+268 
+277 
+302 
+284 
+299 Relatively stable 
+Unlimited 
+Company  
+235 
+246 
+251 
+236 
+240 Relatively Stable 
+Segregated 
+Portfolio 
+Company 
+97 
+101 
+117 
+121 
+122 Increasing 
+Restricted 
+Purpose 
+Company 
+19 
+22 
+12 
+15 
+17 Relatively stable 
+Private Trust 
+Company (PTCs) 
+1080 
+1141 
+1130 
+1085 
+1106 Relatively stable 
+Foreign Company 
+56 
+53 
+55 
+56 
+55 Relatively Stable 
+Limited 
+Partnership 
+1077 
+1642 
+1902 
+2042 
+2086 Increasing 
+International 
+Partnership 
+13 
+13 
+13 
+13 
+13 Stable 
+Partnership 
+without Legal 
+Personality  
+375 
+855 
+1118 
+1227 
+1270 Increasing 
+ 
+BVIBCs 
+26. BVIBCs are by far the largest sub-set of all legal persons and legal arrangements 
+types in the VI. There are 5 possible types of BVIBCs: 
+• 
+a company limited by shares; 
+• 
+a company limited by guarantee that is not authorised to issue shares; 
+• 
+a company limited by guarantee that is authorised to issue shares; 
+6 | P a g e  
+ 
+• 
+an unlimited company that is not authorised to issue shares; 
+• 
+an unlimited company that is authorised to issue shares. 
+27. BVIBCs limited by shares represent approximately 99% of all BVIBCs.  
+28. BVIBCs have full capacity to carry on or undertake any business activity and may 
+enter into any type of transaction. BVIBCs are also empowered to issue and hold 
+shares, including treasury shares and conduct financial transactions. In the VI, 
+there is no distinction between a company established to operate in or from within 
+the VI. 
+29. A BVIBC must maintain a registered office and registered agent within the VI at all 
+times. The registered office and the registered agent must be regulated and 
+supervised by the FSC. A BVIBC must also maintain at the office of its registered 
+agent, the memorandum and articles of the company, the register of members, 
+the register of directors and copies of all notices and documents filed by the 
+company. The company itself is required to keep records of its transactions, and 
+of its financial position. 
+Segregated Portfolio Company (SPC) 
+30. A segregated portfolio company is a BVIBC, subject to the same obligations as for 
+BVIBCs described above. A segregated portfolio company allows for the creation 
+of separate accounts in the SPC, each recording its own assets and liabilities but 
+without having separate legal personality from the SPC. The BVIBC Act imposes 
+some restrictions on the type of business that can be carried out by an SPC. A 
+BVIBC can be an SPC if it is (or proposed to be) a licensed insurer under the 
+Insurance Act, a professional or private fund or registered as a public fund under 
+SIBA, or a company that is not licensed as an investment business company, an 
+insurance manager or insurance intermediary or to carry on any activity that is 
+regulated under the BTCA, CMA or FMSA. 
+Restricted Purpose Company  
+31. A restricted purpose company is a BVIBC limited by shares, that is registered on 
+its incorporation or continuation into the VI, as having restricted purposes. The 
+company is otherwise known as a special purpose vehicle and must carry “SPV” 
+in its name to identify itself as such. It is subject to the same obligations and 
+requirements as BVIBCs generally.  
+Foreign Company 
+32. A foreign company is a legal person that is incorporated, formed or registered 
+outside of the VI. The ROCA maintains a Register of Foreign Companies. Foreign 
+companies must appoint a registered agent licensed by the FSC and maintain a 
+registered office at which the Register of Members and Register of Directors must 
+be kept.  
+Private Trust Company (PTC)  
+7 | P a g e  
+ 
+33. A private trust company is a trust company where each beneficiary is a connected 
+person in relation to the settlor of the trust, or a charity. PTCs are exempt from the 
+requirement to obtain a trust license under the Banks and Trust Companies Act if 
+the trust business consists solely of unremunerated trust business or related 
+trust business.  The Registered Agent of a PTC must hold a full trust license under 
+the Banks and Trust Companies Act. The Registered Agent must also ensure that 
+up to date copies of the trust deed and any documents creating or evidencing a 
+trust are maintained at its office.  
+Limited Partnership 
+34. A limited partnership must have at least one general partner and one limited 
+partner. Limited partnerships must have a written limited partnership agreement 
+that provides for the rights and obligations of the partners. The agreement may 
+also provide for the affairs of the limited partnership and the conduct of its 
+business and activities. The limited partnership generally has legal personality, 
+unless it is registered as being without legal personality. Limited partnerships 
+must be registered with ROCA.  
+35. A limited partnership must always maintain a registered office and registered 
+agent within the VI. As with BVIBCs, the registered agent must be licensed as a 
+TCSP and supervised by the FSC. General partners are required to maintain at the 
+registered office, a register of general partners and a register of limited partners, 
+or a record of the address of where such registers are maintained. The limited 
+partnership is also required to keep financial records and any other underlying 
+documentation of the limited partnership. 
+International Partnership 
+36. As with Limited Partnerships, International Partnerships must have one general 
+partner and at least one limited partner. International partnerships have the same 
+features and obligations as limited partnerships, with the exception that 
+international partnerships cannot carry on business with persons resident in the 
+VI or own an interest in real property, except a business office lease.  
+Partnership without Legal Personality 
+37. As stated above, a Limited Partnership generally has legal personality unless it is 
+registered as a Partnership without Legal Personality. The declaration signed by 
+each general partner stating that the partnership does not have legal personality 
+is binding and irrevocable. This type of partnership must have at least one general 
+partner and one limited partner and must at all times have a registered office and 
+registered agent in the VI. These partnerships cannot carry on banking business, 
+insurance business, trust business or company management business unless 
+exempt. These partnerships are subject to the same registration and ongoing 
+record keeping requirements as limited partnerships.  
+Virgin Islands Special Trust (VISTA) 
+8 | P a g e  
+ 
+38. A VISTA trust is used purely for the holding of shares in a BVIBC. The trust assets, 
+therefore, must be shares in a BVI company, which must be transferred into the 
+name of the trustee. 
+39. In establishing a VISTA trust, at least one of the trustees must be a designated 
+trustee, which under the VISTA Act can be either a VI licensed TCSP or a VI Private 
+Trust Company.  
+40. VISTA trusts are commonly used for people with family-owned businesses 
+(especially for a sole director/shareholder) who wish to run their company 
+independently as well as benefit from a trust's estate planning ability, and for 
+holding trust assets that are invested in what the trustees would traditionally 
+consider high-risk investments. 
+Express Trusts 
+41. The most common type of trust formed in the VI is the Express Trust. General 
+requirements for trusts are detailed in the Trustee Ordinance, which provides for 
+the duties and powers of trustees. Trusts themselves are not required to be 
+registered but professional trustees in the VI must be licensed and supervised by 
+the FSC. 
+Non-Profit Organisations 
+42. As at August 2024, there were 121 non-profit organisations registered in the VI and 
+all but 4 of these organisations meet the FATF definition of a non-profit 
+organisation. In 2024, the VI carried out an assessment of the TF risk of the non-
+profit organisation sector in the VI. The VI concluded that, due to the small size of 
+the sector and the lack of international links in the sector, the terrorism financing 
+risk for the sector is low. Given the small size of the sector and the low risk 
+identified in the 2024 TF Risk Assessment in the non-profit organisation sector, 
+non-profit organisations will not be assessed separately as a sector in this report.  
+ 
+8. Threats 
+43. The threat assessment consists of two steps:  
+1) an assessment of typologies relating to the misuse of legal persons and legal 
+arrangements for ML, TF or PF, which demonstrates the potential risk; and 
+ 2) an analysis of actual cases in the VI relating to the misuse of legal persons and 
+legal arrangements, which demonstrates crystallized risk.  
+44. The data on cases was provided by law enforcement agencies for the past five 
+years, including the numbers of:  
+(i) 
+suspicious activity reports (SARs);  
+(ii) 
+Mutual Legal Assistance (MLA) requests sent/received;  
+(iii) 
+criminal investigations; and  
+(iv) 
+asset confiscation, seizure and forfeiture.  
+9 | P a g e  
+ 
+45. It should be noted that the number of prosecutions is not being considered, as no 
+prosecutions of legal persons took place in the relevant period. The lack of 
+prosecutions of legal persons or prosecutions relating to legal arrangements, the 
+low numbers of SARs resulting in intelligence used for investigatory purposes and 
+criminal investigations in the case of the VI are not seen as an indication of a low 
+threat but rather, it is acknowledged that these could have been influenced by a 
+number of factors, including inadequate resources and FIA procedures existing at 
+the time which provided that the FIA would only disseminate SARs relating to local 
+companies to the FCU and, in the case of SARs related to international activities 
+of a BVI legal person, the FIA procedures provided that these should be 
+disseminated internationally. This has been factored into the assessment of 
+number of SARs and number of investigations, under the assumption that there 
+would have been a greater number of SARs analysed relating to legal persons and 
+legal arrangements leading to investigations if those impediments had not existed. 
+There have also been no cases of confiscation or asset deprivation relating to 
+legal persons or arrangements in the past 5 years.  
+46. A separate threat score was calculated for ML, TF and PF on a scale of low, 
+medium low, medium high and high.  
+47. The threat score is a combination of the typologies score, weighted at 60% and 
+the law enforcement data, weighted at 40%. The law enforcement data is 
+weighted at a discount given the challenges faced by law enforcement agencies, 
+described above.  
+ 
+Practitioners Perspectives – Risks in VI Legal Persons and Arrangements 
+The Working Group conducted focus group interviews with practitioners based in the 
+VI in the fields of trust and corporate services, law and accounting. Practitioners 
+mentioned that the VI, as a financial service jurisdiction with a high volume of 
+incorporated companies, may be exposed to fraud, corruption and criminal activities 
+due to the misuse of VI legal persons and arrangements.  
+Practitioners mentioned that the risks for ML are high for legal persons that are part 
+of complex structures and cross-border transactions. PF risk was also seen by some 
+as a potential risk due to the large volume of companies in the jurisdiction.  The risk 
+for TF was seen as lower, as participants saw fewer links between the VI and TF 
+activities.  
+A. Money Laundering  
+i. Assessment of Typologies 
+48. Fifteen recent cases were found during an open source search relating to ML 
+involving BVIBCs. Most of the cases involve allegations of corruption against a 
+non-VI politically exposed person. The other cases involve predicates of fraud and 
+10 | P a g e  
+ 
+tax evasion.  In three cases, the BVIBC owned real estate in London, United 
+Kingdom, allegedly purchased with proceeds of crime. In all cases but one, the 
+BVIBC was part of an international structure. In two cases, the BVIBC that is 
+alleged to have been misused was beneficially owned by a relative or an employee 
+of the politically exposed person. In four cases, the BVIBC was part of a trust 
+structure.  
+49. The beneficial owners of the companies come from a wide range of countries, 
+including Angola, Azerbaijan, Brazil, Uzbekistan, Bangladesh, Malaysia, UK, India, 
+Uruguay, the United States and Denmark. Some of the cases involve more than 
+one BVIBC.   
+50. Two cases of ML via limited partnerships were also uncovered. These cases 
+involved VI LPs misused in international corruption schemes. In most cases 
+examined, the general partner and limited partner in these LPs was also a 
+partnership or company, making it difficult to ascertain who was the true 
+beneficial owner (BO). These cases involved schemes involving Estonia, Latvia, 
+Russia and Uzbekistan, the latter two being high risk jurisdictions for ML. 
+51. Two cases were also found relating to the misuse of VI trust structures by 
+politically exposed persons for purposes of ML. The predicate offences in those 
+cases were fraud, corruption and embezzlement. Two other recent cases were 
+found involving the misuse of a trust as part of a ML scheme in jurisdictions that 
+have similar characteristics to the VI.  
+52. As such, the threat rating from the typologies review exercise suggests a high 
+threat level for misuse of BVIBCs by money launderers, a medium high risk rating 
+for legal arrangements and a medium low rating for other types of legal persons.  
+Case Study 1 – Misuse of Limited Partnerships to conceal International Money 
+Laundering involving VI companies 
+ 
+The president of Country 1 and other politically exposed persons in Country 1 
+registered four legal persons in Country 2: two limited partnerships and two limited 
+liability partnerships. The legal persons had bank accounts in a bank in Country 3.   
+ 
+The two limited partnerships were registered to a Mail Boxes Etc. shop in Country 2. 
+However, the bank accounts showed that their address was in Country 1. The 
+partners of the two LPs were 2 companies incorporated in the VI.  
+ 
+The beneficial owner of the two limited partnerships was listed as being a driver in 
+Country 1. The LP’s’ bank accounts handled more than $1.7 billion in transfers.  
+   
+In total, approximately $2.9 billion thought to be proceeds of corruption flowed from 
+Country 1 through bank accounts in Country 3 to purchase luxury goods and to 
+lobby politicians.   
+ 
+11 | P a g e  
+ 
+This case illustrates how politically exposed persons, complex corporate structures 
+and the geographical separation of the beneficial owners, companies, ultimate 
+beneficial owners and bank accounts can facilitate the crime of money laundering.  
+ 
+Case Study 2 – Money Laundering via a Trust 
+A politically exposed person in country 1 was convicted of fraud, embezzlement and 
+money laundering. Investigators identified funds derived from the person’s scheme, 
+which had moved through a network of companies in various jurisdictions. Some of 
+the funds were used to purchase expensive property in country 2 via a company set 
+up in the VI. This property was later transferred into a trust set up in the VI.  
+ 
+ii. Assessment of Law Enforcement Data 
+SARs Filed and International FIU to FIU Requests 
+53. The FIA provided data on the number of SARs filed between 2020 and 2024 relating 
+to ML involving legal persons and legal arrangements. Table 2 shows the total 
+number of SARs received for various types of legal persons and arrangements.   
+54. The FIA’s data capture processes at the time did not distinguish between the 
+different subtypes of BVIBCs. However, given the minuscule proportion of BVIBCs 
+other than companies limited by shares, the lack of distinction is not material for 
+the purpose of the threats assessment. Similarly, the FIA data does not 
+distinguish between VISTA trusts and other types of trusts but this is also not 
+relevant given the very small number of SARs filed in relation to trusts.  
+ Table 2 – ML SARs relating to Legal Persons and Legal Arrangements 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+BVIBCs received 
+118 
+46 
+25  
+17 
+6 
+VA SARs4 received (TOTAL) 
+N/A5 
+N/A 
+861 
+1678 
+491 
+VA SARs which had a nexus and 
+indirectly or directly identified a 
+subject involving a VI legal person or 
+arrangement 
+N/A 
+N/A 
+3 
+0 
+0 
+Partnerships 
+0  
+0 
+0 
+0 
+0 
+Trusts 
+2  
+1  
+2 
+2  
+0  
+NPOs 
+0 
+0 
+0 
+0 
+0 
+PTC 
+0 
+0 
+0 
+0 
+0 
+SPC 
+0 
+0 
+0 
+0 
+0 
+55. Overall, the level of SARs involving legal persons is significant. The majority of the 
+SARs received were received from a BVIBC and the subject of the SAR was not a 
+VI legal person or arrangement. Given the VI’s reputation as a jurisdiction for 
+company incorporation, this result is not unexpected.    
+ 
+4 A VA SAR is a SAR filed by a VASP, which in this case relates to a BVIBC 
+5 The VA SAR log was created in 2022 
+12 | P a g e  
+ 
+56. The FIA also provided data relating to outgoing international requests relating to 
+ML and legal persons and legal arrangements made to financial intelligence units 
+in other jurisdictions. In 2023, the FIA made 4 outgoing requests relating to 
+potential ML by legal persons and legal arrangements, and in 2024, 15 such 
+outgoing requests were made.  
+ 
+Investigations 
+57. The RVIPF provided data relating to the number of ML investigations between 2020 
+and 2024 relating to legal persons and legal arrangements. These data are 
+provided in Table 3. 
+58. The only investigations opened between 2020 and 2024 that related to legal 
+persons and legal arrangements related to BVIBCs.  There were no investigations 
+into foreign companies, trusts or other types of legal persons.  
+Table 3 – ML Investigations relating to Legal Persons and Legal Arrangements 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+BVIBCs 
+0 
+0 
+3 
+1 
+2 
+Other LPLA 
+0 
+0 
+0 
+0 
+0 
+ 
+Mutual Legal Assistance Requests between 2020 and 2024 
+59. Between 2020 and 2024, a total of 301 mutual legal assistance requests were 
+received for information related to ML and BVIBCs. Of these, 55 requests 
+originated from third countries, with one specifically concerning a non-VISTA trust. 
+During the same period, five outgoing requests were issued concerning three 
+BVIBCs. No additional requests were made in relation to other types of legal 
+persons or legal arrangements. 
+Case Study 3 – Mutual Legal Assistance Request 
+The request involved the investigation of allegations of bribery and corruption concerning 
+a company (“Company X”) and its former and current employees and advisers in relation 
+to its commercial business. 
+An overseas company released a Request for Proposal detailing its requirements for the 
+purchase of a specified amount of Company X’s merchandise.  
+Investigators believed that the overseas company took the decision to purchase the 
+merchandise only after Company X agreed to pay an additional commission (millions) to 
+close the deal to the exclusion of its competitor.  
+The arrest and conviction of individuals in another jurisdiction led to the exposure of 
+Company X’s involvement and culture of bribes for contract and other harmful 
+competition practices. 
+13 | P a g e  
+ 
+Payment structures associated with the mentioned companies were linked to two BVI 
+registered companies. 
+i. Conclusion on ML Threat 
+60. Law enforcement figures and the ML case studies relating to legal persons 
+suggest a high ML threat level for BVIBCs in the VI. This conclusion stands even 
+though there is no breakdown in the law enforcement data between the different 
+types of BVIBCs or indeed between BVIBCs and other types of legal persons, given 
+that BVIBCs represent the great majority of the types of legal persons in the VI. 
+61. Law enforcement data, including SARs filed and mutual legal assistance requests 
+received, show that other types of legal persons as well as legal arrangements 
+may potentially be misused for ML purposes but this is more limited. Both law 
+enforcement data and the review of cases show there are fewer cases of misuse 
+of legal arrangements than of legal persons. This results in a medium low threat 
+level for legal arrangements and medium low for other types of legal persons.  
+Case Study 4 – Misuse of Companies to Launder the Proceeds of Corruption 
+Company B was incorporated in the VI by the director of a government agency in Country 
+2. The director was the sole beneficial owner of this BVIBC. The director failed to list the 
+ownership of the BVIBC in his public declaration of business interests.   
+The government agency of Country 2 issued a public procurement notice for the 
+provision of machinery.   
+ Company C was a holding company that owned Company D, which manufactured 
+machinery. Company D, which was a joint venture between Company E and Company F, 
+won the procurement contract.  
+Two shell companies, in countries 3 and 4, were owned by Company F. The shell 
+companies had bank accounts in multiple jurisdictions.   
+When bidding for the procurement contract, Company F overpriced the machines.  The 
+excess money was deposited into the bank accounts belonging to the shell companies. 
+Fake contracts were created and provided to the bank to justify the bank transfers. The 
+shell companies then sent two $500,000 payments to Company’s B bank account in 
+Country 3. These payments were disguised as fictitious loans provided to Company B. 
+The Director was subsequently indicted for corruption and money laundering.   
+This case provides a typology on money laundering the proceeds of corruption through 
+fictitious inter company transactions and loans.  
+ 
+14 | P a g e  
+ 
+B. Terrorist Financing  
+i. Assessment of Typologies 
+62. Open source typologies research uncovered seven cases involving suspected TF 
+involving BVIBCs. The terrorist organizations represented included Hamas, ISIS, 
+Hezbollah, Muslim Brotherhood and the Syrian regime. Moreover, three of these 
+cases relate to the potential misuse of a BVIBC providing virtual asset services to 
+facilitate TF. In two cases, the BVIBCs were part of a larger multinational 
+corporate group, while in one case the BVIBC was a standalone entity. The 
+number of suspected cases and the fact that different terrorist organisations are 
+named suggests that BVIBCs may be misused by terrorist financiers.   
+63. No typologies or cases were found relating to other types of legal persons or to 
+legal arrangements.  
+Case Study 5 – Misuse of Companies to Facilitate Terrorist Financing 
+An individual resident in Country 1, a country known to support terrorism, operated 
+several companies around the world in the real estate, food processing and diamond 
+industries. The individual used the profit from his companies to purchase properties to 
+be used by known terrorist organizations and to engage in trade based money laundering.  
+The individual incorporated a BVIBC, which shared a name and was a subsidiary of a 
+company in Country 1, as part of the worldwide corporate structure to facilitate the 
+transfer of funds to the terrorist organization. The individual became designated under a 
+counter-terrorism targeted financial sanctions regime.  
+However, the individual’s name did not appear on the ownership records for the VI entity. 
+This example shows how terrorist financiers and designated persons seek to obscure the 
+beneficial ownership of legal persons and obscure the flow of funds through complex 
+multi-national corporate structures.   
+ii. Assessment of Law Enforcement Data 
+Suspicious Activity Reports 
+64. Between 2020 and 2024, the FIA received 13 TF SARs relating to BVIBCs and all 
+the TF SARs that involved a legal person or arrangement related to a BVIBC (and 
+not another type of legal person or arrangement). The FIA disseminated 17 SARs 
+relating to TF connected to BVIBCs to the FCU6. 12 of the 17 SARs disseminated 
+were filed by a BVIBC that was carrying out activities involving virtual assets. The 
+subject of 1 of the SARS was a BVIBC which involved TF.  
+ 
+6 More disseminations were made than SARs received because following an initial analysis of certain 
+SARs, additional disseminations were made to the FCU on those SARs.  
+15 | P a g e  
+ 
+65. The FIA also provided data relating to outgoing international requests relating to 
+TF and legal persons and legal arrangements made to overseas financial 
+intelligence units. In 2023, the FIA made 11 outgoing requests relating to potential 
+TF by VI legal persons and legal arrangements, and in 2024, 4 such outgoing 
+requests were made.  In addition, the FIA received 2 international requests 
+relating to TF and BVIBCs. Only one of those requests related to the misuse of 
+cryptocurrencies. 
+Investigations 
+66. The RVIPF data indicates that 14 investigations were commenced between 2020 
+and 2024 relating to TF involving legal persons and legal arrangements, including 
+1 TFS investigations. These data are provided in Table 4. One of the 14 
+investigations related to a suspected sanctions breach with a TF element, relating 
+to one BVIBC. As with ML, the only investigations related to BVIBCs and there were 
+no investigations involving other types of legal persons or arrangements.  
+Table 4 – TF Investigations relating to Legal Persons and Legal Arrangements 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+BVIBCs 
+0 
+0 
+3 
+8 
+3 
+Other LPLA 
+0 
+0 
+0 
+0 
+0 
+ 
+Mutual Legal Assistance Requests between 2020 and 2024 
+67. Mutual legal assistance figures for requests received from third countries 
+between 2020 and 2024 show 1 incoming request relating to terrorism and 1 
+relating to TF involving BVIBCs. There were no other requests relating to any other 
+types of legal persons and none for legal arrangements in relation to TF.   
+Targeted Financial Sanctions for TF – Sanctions breaches between 2020 and 2024 
+68. During the reporting period, the Governor’s Office was notified by a Competent 
+Authority of the designation of a beneficial owner of 9 BVI Companies on the 
+USA’s OFAC Sanctions List. The said sanctioned individual was said to be 
+potentially linked to a terrorist organisation. The 9 BVI Companies associated with 
+this designated person have not been sanctioned by any UK or the UN Sanctions 
+Regimes. Investigations are ongoing in this matter. There were no similar 
+notifications in relation to any other type of legal person or legal arrangement. 
+i. Conclusion on TF Threat 
+69. The number of SARs received, investigations commenced, and information 
+received by the Governor’s office shows that terrorist financiers are attempting to 
+misuse BVIBCs for TF. This suggests a medium-high TF threat level for BVIBCs.  
+16 | P a g e  
+ 
+70. Conversely, in relation to other types of legal persons and legal arrangements, no 
+cases were found when carrying out open source research that related to VI 
+partnerships or legal arrangements being misused for TF purposes. In addition, 
+no SARs, investigations or mutual legal assistance requests related to TF and 
+other types of legal persons or legal arrangements from 2020 to 2024. This 
+suggests a low threat level for TF in relation to other types of legal persons and 
+legal arrangements.  
+C. Proliferation Financing  
+i. Assessment of Typologies 
+71. Research revealed 15 cases between 2020 and 2024 of alleged proliferation or PF 
+involving BVIBCs and the DPRK. All but one of these cases involved BVIBCs that 
+were set up to own vessels that brought goods to the DPRK in contravention of 
+international sanctions. In one case, a BVIBC was set up to conceal the flow of 
+payment for goods between companies incorporated in other jurisdictions and a 
+purchaser in the DPRK.  
+72. In addition, two cases of PF were identified that related to Iran, whereby BVIBCs 
+were set up as part of multi-jurisdictional complex structures that helped conceal 
+the origin and destination of payments used to supply goods to Iran in 
+contravention of international sanctions.  
+73. No cases of PF were found that related to other types of legal persons or legal 
+arrangements.  
+ii. Assessment of Law Enforcement Data 
+Suspicious Activity Reports 
+74. The FIA received 5 SARs relating to PF and BVIBCs between 2020 and 2024 and 
+made 14 disseminations to local law enforcement and foreign financial 
+intelligence units7. Two of these SARs were filed by BVIBCs that were involved in 
+virtual asset activities. There were no SARs relating to PF that involved legal 
+persons or arrangements other than BVIBCs.  
+75. In addition, the FIA made outgoing requests relating to PF and potential 
+involvement of legal persons and legal arrangements to foreign financial 
+intelligence units. In 2023, 1 such request was made and 4 requests were made 
+in 2024.  
+Case Study 6 – Transactions via a Designated Company 
+ 
+7 Note: In two cases, a SAR related to more than 1 dissemination 
+17 | P a g e  
+ 
+In February 2017 information was obtained by the UN Panel of Experts showing that two 
+sanctioned North Korean banks were operating in Country 1 through representative 
+offices.   
+A director of these offices simultaneously served as a director of a designated company, 
+Company D, registered in the VI. Company D shared several officers with the 
+representative offices, and when the bank's correspondent accounts were closed, 
+Company D was set up to undertake wire transfers and business transactions on its 
+behalf.   
+The representative in Country 1 undertook transactions in US Dollars, using the account 
+of Company D, with single transactions occasionally exceeding the $1 million mark. He 
+also facilitated payments and loans between companies linked to the representative 
+offices and exchanged large quantities of bulk cash into US Dollar notes of higher 
+denomination.  
+ 
+Investigations 
+ 
+76. Table 5 shows the number of investigations that were commenced by the FCU 
+between 2020 and 2024 relating to PF and involving a BVIBC. There were no cases 
+involving other types of legal persons or arrangements.  
+ 
+Table 5 – PF Investigations relating to Legal Persons and Legal Arrangements 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+BVIBCs 
+0 
+0 
+2 
+1 
+0 
+Other LPLA 
+0 
+0 
+0 
+0 
+0 
+ 
+Mutual Legal Assistance Requests between 2020 and 2024 
+77. In the period 2020 to 2024, the Attorney General’s Chambers received no 
+incoming requests for mutual legal assistance for information on any legal person 
+or legal arrangement relating to PF.  
+Targeted Financial Sanctions for PF – Sanctions notifications between 2020 and 2024 
+78. Between 2020 and 2024, the Governor's Office received 6 requests from the UN 
+Panel of Experts (established pursuant to United Nations Security Council 
+resolution 1874 (2009)) in relation to 50 BVIBCs incorporated in the VI, as a part of 
+their investigations into suspected PF violations.  In some cases, it is alleged that 
+these companies own vessels that illegally supply goods to the DPRK. The UN 
+Panel of Expert Reports published between 2020 and 2024 relating to the DPRK 
+18 | P a g e  
+ 
+identify companies incorporated in the VI that own vessels that ship materials to 
+the DPRK in contravention of international sanctions8.  
+Case Study 7 – Ownership of a Vessel by a Company 
+ 
+Company K was listed as the registered owner of an oil tanker that was suspected of 
+smuggling fuel to North Korea.   
+ 
+In 2019, ownership and management of the oil tanker were transferred to two 
+companies registered in the VI.  The address of these companies was the same 
+address as another company that has been known to engage in fuel and cigarette 
+smuggling to North Korea. 
+   
+On 29 May 2020, as soon as the oil tanker crossed the boundary between South Korea 
+and North Korea, the vessel made a sharp left turn toward North Korea’s east coast. 
+The vessel maintained this heading for five hours before its AIS signal apparently 
+disappeared for over six days. When the AIS signal reappeared on 5 June 2020, the 
+vessel was sailing south toward the Korea Strait.  
+ 
+iii. 
+Conclusion on PF Threat 
+79. There are a number of cases identified in open source research that implicate 
+BVIBCs with sanctions evasion activities, particularly with respect to the DPRK. 
+While the number of SARs relating to PF is not large relative to ML, the number of 
+PF SARs in the VI is high due to the fact that PF is more difficult to detect. In the VI, 
+data from law enforcement agencies and the Governor’s Office provides evidence 
+that BVIBCs are susceptible to abuse in PF networks. The threat level for BVIBCs 
+in the VI relating to PF is therefore high.  
+80. In relation to other types of legal persons and legal arrangements, no cases were 
+found when carrying out open source research that suggested that these entities 
+are being misused for PF purposes. In addition, there were no SARs, investigations 
+or mutual legal assistance requests related to PF and other types of legal persons 
+and to legal arrangements from 2020 to 2024 in the VI. This suggests a low threat 
+level for PF relating to other types of legal persons and to legal arrangements. 
+E. Conclusions on Threats 
+81. The threat level for ML and PF is high, and TF threat is medium high, for BVIBCs. 
+The threat level for ML for legal arrangements is medium high and for other types 
+of legal persons it is medium low. In relation to TF and PF, the threat level is low 
+for legal arrangements and all types of legal persons except for BVIBCs.  
+ 
+8 See for example the March 2021 Panel of Experts Report submitted pursuant to resolution 2515, which 
+identified four VI registered companies that own vessels.  
+19 | P a g e  
+ 
+Figure 1 – Summary of Threats Assessment 
+ 
+ML= 
+TF 
+PF 
+BVIBCs 
+High 
+Medium High 
+High 
+Other Legal Persons 
+Medium Low 
+Low 
+Low 
+Legal Arrangements 
+Medium Low 
+Low 
+Low 
+9. VULNERABILITIES 
+82. The national vulnerability assessment consists of two elements:  
+a. Assessment of the size and characteristics relating to the population of 
+legal persons and arrangements in the VI; and 
+b. Assessment of controls implemented by the private and public sectors 
+to reduce the vulnerabilities.  
+83. The assessment of size and characteristics is divided into four categories of 
+indicators. Each indicator is scored on a scale of Low (1), Medium Low (2), 
+Medium High (3) and High (4) in respect of each type of legal person or legal 
+arrangement, for each of ML, TF and PF. Indicators in each group are averaged and 
+then the scores between the different categories are again averaged.  
+A. Legal Persons 
+Size and Control Characteristics 
+84. The table below presents the risk factors for each type of legal person formed in 
+the VI, as well as foreign companies. BVIBCs limited by shares represent by far 
+the largest portion of all legal persons formed in the jurisdiction. In addition, the 
+number of BVIBCs limited per 1,000 residents is high compared to other types of 
+legal persons. In addition, BVIBCs limited by shares have by far the highest 
+number of corporate directors. Corporate directors pose a higher level of 
+vulnerability, as they can be used to obscure the beneficial ownership or control 
+of a legal person.  
+ 
+Table 6 – Size and Ownership Characteristics – Locally formed 
+Size 
+and 
+Ownership 
+Indicators 
+# per 1,000 
+population 
+Proportion of all types of 
+LP 
+% 
+corporate 
+directors 
+BVIBC - Limited by Shares 
+12,240 
+99% 
+21% 
+BVIBC 
+- 
+Limited 
+by 
+Guarantee (shares) 
+2.77 
+0.022% 
+0.01% 
+BVIBC 
+- 
+Limited 
+by 
+Guarantee (non shares) 
+7.9 
+0.064% 
+0.01% 
+Unlimited Company  
+8.1 
+0.065% 
+0.01% 
+20 | P a g e  
+ 
+Unlimited company (non 
+shares) 
+0.27 
+0.0022% 
+0.01% 
+Segregated 
+Portfolio 
+Company 
+4.33 
+0.035% 
+0.006% 
+Restricted 
+Purpose 
+Company 
+0.6 
+0.0048% 
+0.001% 
+Private Trust Company 
+38.4 
+0.31% 
+0.11% 
+Limited Partnership 
+80.97 
+0.65% 
+N/A 
+International Partnership 
+0.3 
+0.003% 
+N/A 
+Partnership without Legal 
+Personality  
+32 
+0.36% 
+N/A 
+ 
+85. Foreign companies represent only a very small percentage of the total number of 
+legal persons in the jurisdiction, and there is a very small number of foreign 
+companies per 1,000 VI residents. In addition, approximately 10% of foreign 
+companies are incorporated in a jurisdiction that is high risk for ML, and none in a 
+jurisdiction that is high risk for PF or TF. Most foreign companies are insurance 
+companies. These companies do not have nominee arrangements and shareholding 
+structures are known. Likewise, corporate directors are not used in the insurance 
+sector. These characteristics lower the vulnerability rating of foreign companies.  
+ 
+Table 7 – Size and Ownership Characteristics – Foreign Companies 
+Size 
+and 
+Ownership 
+Indicators 
+# per 1,000 
+population 
+Proportion of 
+all types of 
+LP 
+# foreign companies incorporated in high risk 
+jurisdictions 
+ML 
+TF 
+PF 
+Foreign 
+Companies 
+0.133 
+0.014% 
+5 
+0 
+0 
+ 
+86. No data is available yet about the extent to which each type of legal person listed 
+in the tables above uses nominee shareholders. However, overall, there are 89 VI 
+licensed TCSPs that provide nominee shareholder services for approximately 
+1500 legal persons. It is possible that, in addition to VI TCSPs being nominee 
+shareholders, nominee shareholder services are provided by foreign persons and 
+entities which are not required to be licensed in the VI. However, they are not yet 
+required to report nominee arrangements in the beneficial ownership registry. 
+Their number is therefore unknown as at the date of this report, and this data gap 
+increases the vulnerability score.   
+87. Legal persons, including limited partnerships, can have bodies corporate as their 
+directors or, in the case of partnerships, their partners. There is no data on the 
+jurisdiction of these corporate directors. These features increase the potential for 
+opacity and dissimulation of beneficial ownership and control, thereby increasing 
+21 | P a g e  
+ 
+the vulnerability of these legal persons to being misused for financial crime. This 
+applies to all the legal persons listed in Table 6 above.  
+88. There are 14,757 politically exposed persons who are a beneficial owner of a legal 
+person. While this data is not broken out by type of legal person, this is not seen 
+as a large data gap given that BVIBCs make up over 99% of all the legal persons in 
+the VI. In addition, one politically exposed person can be a beneficial owner for 
+more than one entity. As such, the data shows that approximately 4% of BVIBCs 
+have a beneficial owner that is a politically exposed person. The typologies for ML 
+discussed in the Threats section of this Risk Assessment indicate that the 
+beneficial ownership by PEPs presents an elevated level of vulnerability. However, 
+the percentage of BVIBCs beneficially owned by a PEP is small, which mitigates 
+this exposure. The typologies did not show that PEPs increase the vulnerability of 
+legal persons to PF or TF and as a result, the presence of PEPs does not increase 
+the vulnerability in relation to these two financial crimes.  
+89. The other risk factor for legal persons in the VI is the reliance on introducers by 
+TCSPs when onboarding clients. Approximately 28% of legal persons are 
+onboarded via eligible introducers, which is known to increase the risk of 
+structures being misused for ML, TF and PF.  
+ 
+Practitioners’ Perspectives – Introduced Business  
+Practitioners who participated in the focus groups demonstrated a keen awareness 
+of the risk in introduced business. Many stated that they do not accept introduced 
+business without carrying out the full onboarding themselves. One firm stated that 
+when it relies on introducers, those are only domestic introducers regulated for 
+AML/CFT. One respondent firm relies on a network of approximately 1000 
+introducers. However, the firm has implemented a sophisticated know-your-
+introducer compliance framework, including testing and risk assessing. Most firms 
+interviewed stated that they do not allow other firms to rely on them for customer due 
+diligence (in other words, most firms interviewed indicated they would not act as an 
+eligible introducer). Many practitioners also opined that the ability to rely on eligible 
+introducers is being phased out due to enhanced obligations relating to beneficial 
+ownership and customer due diligence. The conversation with the focus group shows 
+that VI practitioners are less willing than previously to rely on introducers and when 
+they do, they have increased their compliance to manage this risk.  
+ 
+Business Characteristics 
+90. Various business characteristics can make a legal person more or less vulnerable 
+to misuse for ML, TF and PF.  
+22 | P a g e  
+ 
+Entities Regulated for AML/CFT/CPF 
+91. Generally, entities that are regulated for AML/CFT/CPF are less likely to be 
+deliberately misused for nefarious purposes, given their status as entities that are 
+supervised by a competent authority. Except in the case of foreign companies, 
+less than 4% of legal persons registered in the VI carry out business that requires 
+supervision for AML/CFT/CPF purposes in the jurisdiction. However, almost two-
+thirds of foreign companies carry out regulated business and as a result their 
+vulnerability on this factor is low.   
+92. Although PTCs are not required to be regulated, they are required to appoint a 
+registered agent that holds a Class I Trust license. Moreover, PTCs can only carry 
+out limited trust business. As PTCs are monitored by a licensed TCSP, PTCs are 
+seen as having fewer risk exposures by their nature of business. 
+Other High Risk Industries 
+93. Three industries for which data is available are also more vulnerable to be 
+misused for ML, TF and PF, as seen in the typologies examined in the threats 
+sector. These three industries are mining, shipping (as it concerns PF) and VASPs.  
+94. There are 1514 legal persons in the VI that have indicated that their nature of 
+business is ownership of a vessel and approximately 1000 stated that the nature 
+of their business is mining. In addition, 64 BVIBCs have applied to be licensed as 
+a VASP by the FSC. While these are high risk activities, the number of such 
+companies is very low. However, data gaps about the nature of business of legal 
+persons remain, as the current list of nature of business in TCSPs’ annual return 
+is very general, and requiring legal persons themselves to notify ROCA of their 
+nature of business could yield more information. As  a result, legal persons, other 
+than foreign companies and PTCs, score medium high on this factor for ML, TF 
+and PF, while the score for foreign companies is low and medium low for PTCs.   
+Cross-Border Links 
+95. This group of indicators relate to having beneficial owners and directors in high 
+risk jurisdictions. Data broken down by types of legal person was not available. 
+96. In relation to beneficial owners, across all types of BVIBCs, 53% of BVIBCs have 
+beneficial owners in a high risk jurisdiction for ML, 7% have beneficial owners in a 
+high risk jurisdiction for TF and 33% have a beneficial owner in a country known to 
+aid or facilitate proliferation in the high risk jurisdictions of primary concern for 
+PF9 (but none in DPRK or Iran themselves).  
+97. In terms of directorships, table 8 shows the percentage of directors of each type 
+of BVIBC that are resident in a country that is a high risk jurisdiction for ML, TF and 
+ 
+9 For the purpose of this assessment these jurisdictions were considered high risk jurisdictions for PF in 
+addition to the FATF identified jurisdictions of Iran and DPRK. 
+23 | P a g e  
+ 
+PF. In relation to PF, statistics show that some directors are based in a country 
+that is neighbouring or sympathetic to the countries of primary concern. However, 
+no director is resident in a country of primary concern (i.e. Iran or North Korea).   
+ 
+Table 8 – Foreign Directorships of BVIBCs 
+ 
+ML 
+TF 
+PF 
+Limited by Guarantee- Authorised to issue shares 
+49% 
+3.6% 
+(Tier 
+2 
+countries) 
+10% 
+Limited by Guarantee – Not authorised to issue shares 36% 
+1.8% Tier 1 
+5% Tier 2 
+27% 
+Unlimited Company  
+25% 
+5% Tier 2 
+23% 
+Company Limited by Shares 
+72% 
+0.7% Tier 1 
+7% Tier 2 
+30% 
+ 
+98. Data on the regions where VI legal persons operate is available in aggregate. 
+However, data related to specific countries was not available. 
+99. Given the data on BVIBCs on their cross-border links, as well as the lack of 
+granular data on where BVIBCs operate, BVIBCs are rated as highly vulnerable to 
+ML. The vulnerability to TF is medium low and the vulnerability for PF is medium 
+high. The lack of data in relation to partnerships, while it may signal the need for 
+an elevated vulnerability rating, has been considered against the size of the sector 
+in proportion to all types of legal persons (less than 1%) and the use of 
+partnerships to facilitate international trade. Based on these factors the cross-
+border link vulnerability of partnerships for ML is considered medium high, while 
+the vulnerability for TF and PF is medium low.  
+Accessibility 
+100. 
+This risk category examines the following factors: 
+a. Ease and speed of incorporation 
+b. Costs of formation 
+c. Costs and ongoing burden of company administration 
+d. Operational flexibility 
+e. Formation via a gatekeeper 
+f. International promotion of the type of company 
+101. 
+The ease with which criminals can set up legal persons may increase the 
+vulnerability to misuse of legal persons in a jurisdiction. In the VI, all types of legal 
+persons can be incorporated within 24 hours. There are no onerous regulatory 
+restrictions or requirements that legal persons must comply with at the time of 
+incorporation, for example having minimum capital or having a VI resident 
+director. Only PTCs have a more difficult set up process, as they must appoint a 
+trust company as its registered agent. All legal persons are incorporated via a 
+24 | P a g e  
+ 
+TCSP. Moreover, all types of legal persons are advertised internationally. Given 
+these features, all types of legal persons except PTCs are rated as highly 
+vulnerable on this factor and PTCs are rated as Medium High.  
+B. Legal Arrangements 
+Size and Control Characteristics 
+102. 
+Express trusts in the VI represent over 86% of all trusts in the jurisdiction. 
+Assets under management for all types of trusts is 13% of GDP, which is 
+significant. This results in a medium high level of vulnerability for VISTA trusts and 
+high vulnerability for express trusts for ML, TF and PF.  
+Trust Features 
+103. 
+No data is collected in the VI about features of trusts, including where 
+assets are located, the governing law of the trust, how many trusts formed in the 
+jurisdiction are revocable, how many have flee clauses, where settlors have 
+reserved powers or trusts that are part of international corporate structures, for 
+example, situations where a VI trust is part of a group of legal persons and legal 
+arrangements spanning two or more jurisdictions. Given the flexibility provided by 
+trust arrangements and the private nature of those arrangements, trusts could be 
+created with such features that would make it easier for a settlor to create a trust 
+specifically to misuse the trust in a ML, TF or PF scheme. Given this lack of data, 
+all VI legal arrangements are assessed as high on this vulnerability factor for ML. 
+However, generally, the features of trusts do not make trusts attractive for PF or 
+TF and as such trusts are assessed as not being vulnerable to PF or TF due to their 
+potential characteristics.  
+Cross-Border Exposures 
+104. 
+In relation to VISTA trusts, 16% of settlors are from a high risk jurisdiction 
+for TF, 46% are from a high risk jurisdiction for ML and 22% are from a country 
+known to aid or facilitate proliferation relating to the jurisdictions of primary 
+concern.  
+105. 
+With regard to express trusts, 10% of settlors are from a high risk 
+jurisdiction for TF, 39% are from a high risk jurisdiction for ML and 4% are from a 
+country known to known to aid or facilitate proliferation relating to the 
+jurisdictions of primary concern.   
+106. 
+The available data shows a high level vulnerability for ML for both express 
+and VISTA trusts. Cross border exposures of VISTA trust reveal a high level of 
+vulnerability to PF and TF, while express trusts have a medium low vulnerability 
+for PF and medium high vulnerability for TF based on their geographical exposures.   
+25 | P a g e  
+ 
+Accessibility and Barriers to Entry 
+107. 
+Trusts are generally much more difficult and costly to set up than legal 
+persons, especially BVIBCs, as they require significant involvement of lawyers in 
+the set-up phase and ongoing administration by a trustee. However, trust 
+structures offer significant flexibility in terms of control and direction and the VI is 
+promoted internationally as a center for trust formation. For these reasons, the 
+score on this risk factor is medium-low for ML. The score is low for TF and PF, given 
+that typologies show limited use of trusts by terrorist financiers and persons 
+involved in proliferation, and high barriers to entry are potentially another 
+deterrent for this type of crime.   
+C. Vulnerability and Likelihood Score 
+108. 
+Table 9 below summarizes the vulnerability ratings of each type of VI legal 
+person and arrangement. The vulnerability rating is the average of the risk rating 
+of each legal person and legal arrangement on the risk categories discussed 
+above. In relation to the first factor above, namely size and control characteristics, 
+the indicators relating to size were weighted at an increase compared to the other 
+indicators in that group of indicators. This ensures that the large disparity in the 
+sizes of the sub-sectors is taken into account, particularly the fact that BVIBCs 
+limited by shares account for over 97% of all legal persons. The scores for the 
+indicators in the other three categories were averaged. It is also important to note 
+that where data for a particular indicator was not available, the maximum score 
+was attributed to that indicator on the basis that the risk is unknown. As such, 
+some vulnerability scores might be lower once the data gaps are remediated.  
+109. 
+The vulnerability is rated on a scale of Low, Medium Low, Medium High and 
+High for each of ML, TF and PF.  The ratings are set on the parameters set out in 
+the accompanying methodology.  
+ 
+Table 9 – Vulnerability Scores for Legal Persons and Legal Arrangements 
+ML 
+PF 
+TF 
+BVIBC - Limited by Shares 
+H 
+MH 
+MH 
+BVIBC - Limited by Guarantee (shares) 
+MH 
+MH 
+MH 
+BVIBC - Limited by Guarantee (non shares) 
+MH 
+MH 
+MH 
+Unlimited Company  
+MH 
+MH 
+MH 
+Unlimited company (non shares) 
+MH 
+MH 
+MH 
+Segregated Portfolio Company 
+MH 
+MH 
+MH 
+Restricted Purpose Company 
+MH 
+MH 
+MH 
+26 | P a g e  
+ 
+Private Trust Company 
+MH 
+MH 
+ML 
+Limited Partnership 
+MH 
+MH 
+MH 
+International Partnership 
+MH 
+MH 
+MH 
+Partnership without Legal Personality  
+MH 
+MH 
+MH 
+Foreign companies 
+MH 
+ML 
+ML 
+Vista Trusts 
+MH 
+MH 
+MH 
+Express Trusts 
+H 
+MH 
+MH 
+  
+110. 
+The likelihood score is the combination of threats and vulnerabilities. In 
+order to arrive at the likelihood score, the vulnerability score for each type of legal 
+person and legal arrangement (as shown in Table 9) has been grossed up by the 
+threats score, as per the table below, up to a maximum of 4, which indicates high 
+likelihood of misuse of legal persons and legal arrangements.  The likelihood 
+scores for each type of legal person and legal arrangement are shown in Table 11.  
+Table 10 – Amplification Factors 
+Threats Score 
+Amplification - % of vulnerability score 
+Low 
+0% 
+Medium Low 
+5% 
+Medium High 
+10% 
+High  
+25% 
+ 
+Table 11 – Summary of Ratings of Threat and Vulnerability  
+ML 
+PF 
+TF 
+BVIBC - Limited by Shares 
+H 
+H 
+H 
+BVIBC - Limited by Guarantee (shares) 
+H 
+H 
+MH 
+BVIBC - Limited by Guarantee (non shares) 
+H 
+H 
+MH 
+Unlimited Company  
+H 
+H 
+MH 
+Unlimited company (non shares) 
+H 
+H 
+MH 
+Segregated Portfolio Company 
+H 
+H 
+MH 
+Restricted Purpose Company 
+H 
+H 
+MH 
+Private Trust Company 
+MH 
+ML 
+ML 
+Limited Partnership 
+MH 
+MH 
+MH 
+International Partnership 
+MH 
+MH 
+MH 
+Partnership without Legal Personality  
+MH 
+MH 
+MH 
+Foreign companies 
+MH 
+ML 
+ML 
+Vista Trusts 
+H 
+MH 
+MH 
+Express Trusts 
+H 
+MH 
+MH 
+27 | P a g e  
+ 
+ 
+111. 
+In sum, before the consideration of any controls or mitigants, all types of 
+legal persons and legal arrangements are at high or medium high inherent risk to 
+be misused for ML. All types of legal persons and legal arrangements, except 
+Private Trust Companies and Foreign Companies, have a high or medium high 
+inherent risk of being misused for TF or PF. It should also be noted that in some 
+cases, there was not sufficient data to assess the level of vulnerability of a type of 
+legal person or arrangement to a particular factor (e.g. there was limited data 
+available on the vulnerabilities of partnerships), which led to an automatic high 
+score on those factors for those types of legal persons and arrangements. Once 
+more data becomes available, it is likely that there will be more differentiation in 
+the level of inherent risk between the different types of legal persons and legal 
+arrangements.  
+B. CONTROLS 
+112. 
+The assessment of controls involves an assessment of regulatory 
+requirements applicable to types of legal persons and legal arrangements (as 
+described in FATF Recommendations 24 and 25) as well as an assessment of how 
+well financial institutions and DNFBPs comply with their regulatory obligations to 
+prevent and detect financial crime (e.g. implementing customer due diligence 
+measures, recordkeeping, ongoing monitoring, staff training, SAR reporting, risk 
+understanding, reliance on third parties, measures relating to politically exposed 
+persons). It is envisaged that most of the controls assessed will be applicable to 
+all of ML, TF and PF, with the exception of certain controls (e.g. implementation of 
+TFS), which might not apply to all financial crimes. Controls are scored on a four 
+point scale: Good, Satisfactory, Weak and Very Weak.  
+113. 
+The Assessment of Controls is divided into 4 parts: 
+a. Controls for each type of legal person10  
+b. General Controls 
+c. Accessibility of information by competent authorities 
+d. Level of compliance with AML/CFT/CPF measures taken by FIs and DNFBPs  
+A. Controls for each type of legal person 
+114. 
+All legal persons are required to comply with the requirements noted in 
+Table 12, except that the requirement to provide shareholder information only 
+requires legal persons to provide this information to their registered agent. In 
+addition, the requirement to update beneficial ownership on a timely basis has 
+ 
+10 There are no corresponding controls for legal arrangements 
+28 | P a g e  
+ 
+been codified into law but not implemented as of the date of this report. Therefore, 
+the strength of this control is rated satisfactory.  
+Table 12 – Controls for each type of legal person 
+Requirement to register with a company registry 
+Compliance with the requirement to provide beneficial ownership information 
+Requirement to update BO information on timely basis 
+Requirement to appoint local person or DNBFP to provide beneficial ownership information  
+Requirement to provide basic information 
+Requirement to update basic information on a timely basis 
+Requirement to provide shareholder information 
+Basic information publicly available 
+Company required to maintain basic information in country 
+Beneficial ownership is accurate and adequate 
+ 
+B. General Controls  
+115. 
+The next step involves assessing the controls that are in place in the country for 
+all types of legal persons and arrangements. The extent of the controls required in a 
+country are described in R. 24 and R. 25. In addition, the resources and capacity of the 
+registrar are also assessed in this group. 
+116. 
+The controls assessed in this category are:  
+a. Nominee shareholders need to be registered 
+b. Nominee shareholders need to disclose their status  
+c. Nominee directors’ registration requirement 
+d. Bearer shares prohibited or immobilised or dematerialized 
+e. AML/CFT/CPF regulation of company formation agents and professional trustees 
+f. Recordkeeping requirement for DNFBPs or natural persons keeping BO 
+information 
+g. Companies registry ensures accuracy of BO info 
+h. Companies registry imposes sanctions for failure to provide or update BO 
+information 
+i. Companies registry imposes sanctions for failure to provide or update basic 
+information 
+j. Companies registry is sufficiently well resourced 
+117. 
+In the VI, nominee shareholders must disclose their status to the registered agent 
+of the legal person for which they act as nominee. As of the date of this report, the ROCA 
+does not verify the accuracy of beneficial ownership information provided and does not 
+impose penalties for failure to provide or update beneficial ownership information. 
+Recent legislative changes have made this a requirement, and processes are currently 
+being put into place to implement these amendments.  
+118. 
+  The FSC, however, does require TCSPs to maintain BO information on their 
+clients in keeping with AML/CFT/CPF legislation and this requirement is tested through 
+29 | P a g e  
+ 
+the FSC’s compliance inspection process and penalties are imposed for failure to 
+maintain adequate, accurate and up to date BO information. The concept of nominee 
+director does not exist in the VI. Bearer shares are prohibited.  
+119. 
+All types of legal persons and legal arrangements are rated as satisfactory on this 
+indicator.  
+C. Access to Information  
+120. The third step in the assessment of controls involves assessing the effectiveness 
+with which local and foreign competent authorities can access basic and beneficial 
+information. In relation to domestic authorities, the IN to R. 24 states: “competent 
+authorities (…) should have all the powers necessary to be able to obtain timely access 
+to the basic and beneficial ownership information held by the relevant parties.”  
+121. 
+As it relates to international cooperation, the IN to R. 24 states: “countries should 
+rapidly, constructively and effectively provide the widest possible range of 
+international cooperation in relation to basic and beneficial ownership information”. 
+Moreover, countries should “designate and make publicly known the agency(ies) 
+responsible for responding to all international requests for BO information.” 
+122. 
+ As such, the following factors are assessed: 
+a. LEAs and competent authorities can access basic information on a timely basis 
+b. LEAs and competent authorities can access beneficial ownership information on 
+a timely basis 
+c. Foreign authorities can access basic information 
+d. Authorities can exchange information on shareholders 
+e. Avenue for foreign counterparts to access BO information 
+f. Agencies responsible for international requests are publicly known 
+g. FIs and DNFBPs in country can access basic information on a timely basis 
+123. 
+The assessment revealed that law enforcement agencies, competent authorities, 
+FIs and DNFBPs can always access the information listed above on a timely basis. The 
+rating on this factor is Good.  
+D. Compliance Levels 
+124. 
+This risk assessment also considered the compliance levels of entities in 
+gatekeeper roles, including TCSPs and the legal profession, with the following 
+AML/CFT/CPF requirements, as gatekeepers that are compliant with AML/CFT/CPF 
+obligations can detect bad actors and prevent them from operating a legal person or 
+legal arrangement in the VI: 
+a. Entities carry out entity-level Risk Assessment and implement corresponding, 
+targeted controls 
+b. CDD Measures implemented for beneficial ownership, including holding 
+adequate, accurate and up to date information 
+c. Recordkeeping measures (5 years) 
+d. Ongoing Monitoring 
+e. Quality of Policies and Procedures 
+30 | P a g e  
+ 
+f. Controls for Reliance on Third Parties 
+g. Internal Controls 
+h. Quality of Reporting of Suspicious Transactions 
+i. Measures relating to PEPs 
+125. 
+For FI’s and TCSPs, compliance with controls was rated as generally good 
+or satisfactory, with the exception of ongoing monitoring and reporting of 
+suspicious activities, which were rated as weak. Overall, the level of compliance 
+for this group is satisfactory.  
+126. 
+The compliance level of the legal and accounting professions was weaker 
+than for TCSPs and FIs. The compliance of the legal profession was rated as weak 
+or very weak on the issues of business risk assessments, CDD measures, reliance 
+on third parties, internal controls and SAR filings. The accounting profession was 
+assessed as having the same weaknesses as the legal profession with the 
+addition of weakness in ongoing monitoring. Overall, the level of compliance for 
+entities in the legal and accounting sectors is weak. 
+127. 
+Given that TCSPs and FIs are more likely to be involved in company 
+formation and ongoing monitoring than lawyers and accountants, the satisfactory 
+rating for FIs and TCSPs was given more weight than the rating for lawyers and 
+accountants, for an overall rating of satisfactory on this factor.  
+Practitioners’ Perspectives – Upgrades in Compliance 
+ 
+Focus group participants stated that the TCSP industry has changed significantly 
+in the past 20 years. One participant said “everyone thinks about compliance all 
+the time” and another stated that it is important for compliance to be involved in 
+the business, as compliance drives many decisions.  
+ 
+Practitioners mentioned that they are less likely to take risks with clients and that, 
+in their opinion, the industry is more selective in choosing its clients. The driver for 
+this increased selectivity is to minimize risks that could occur, including 
+reputational risk, financial risk and regulatory risk.  
+ 
+Some practitioners are starting to rely on automated solutions for customer due 
+diligence and ongoing monitoring. They mentioned that AI and data analytics tools 
+are making risks easier to monitor using technology but data gathering 
+frameworks must be set-up correctly to manage the technology properly.  
+ 
+E. Control Score 
+128. 
+The average score for each of the four groups of factors is averaged for 
+each type of legal person and legal arrangement. The same control score is used 
+31 | P a g e  
+ 
+for purposes of ML, TF and PF, given that similar controls apply to each of the three 
+financial crimes. This results in a rating of Satisfactory for the controls score.  
+129. 
+ Table 13 shows the final risk rating, namely the residual risk rating, for ML, 
+TF and PF for each type of legal person and legal arrangement. The result was 
+derived from weighting the likelihood score from Table 11 at .6 and the control 
+score at .4 (as controls can never mitigate all risks) and adding the weighted 
+control score with the weighted vulnerability score to arrive at the residual risk 
+score.  
+Table 13 – Residual Risk Scores 
+ 
+ML 
+PF 
+TF 
+BVIBC - Limited by Shares 
+MH 
+MH 
+MH 
+BVIBC - Limited by Guarantee (shares) 
+MH 
+MH 
+ML 
+BVIBC - Limited by Guarantee (non shares) 
+MH 
+MH 
+MH 
+Unlimited Company  
+MH 
+MH 
+MH 
+Unlimited company (non shares) 
+MH 
+MH 
+ML 
+Segregated Portfolio Company 
+MH 
+MH 
+ML 
+Restricted Purpose Company 
+MH 
+MH 
+ML 
+Private Trust Company 
+ML 
+ML 
+ML 
+Limited Partnership 
+MH 
+ML 
+ML 
+International Partnership 
+ML 
+ML 
+ML 
+Partnership without Legal Personality  
+MH 
+ML 
+ML 
+Foreign companies 
+ML 
+ML 
+ML 
+Vista Trusts 
+MH 
+ML 
+ML 
+Express Trusts 
+MH 
+ML 
+ML 
+ 
+130. 
+In summary, the risk of misuse for ML is medium high across all types of 
+BVIBCs except private trust companies, international partnerships and foreign 
+companies. This result is due to the extremely limited number of international 
+partnerships, the increased cost and regulatory burden to set up a private trust 
+company and the type of business carried out by most foreign companies.  
+131. 
+The risk exposure to PF is medium high for all BVIBCs, and is medium low 
+for legal arrangements and for legal persons that are not BVIBCs. This is due 
+primarily to the high threat rating for BVIBCs for PF in comparison with a low threat 
+rating for other types of legal persons and all legal arrangements.  The risk 
+exposure is similar for TF as for PF with the exception of BVIBCs limited by 
+guarantee (that are permitted to issue shares), segregated portfolio companies 
+and restricted purpose companies. The overall risk exposure to TF for these types 
+32 | P a g e  
+ 
+of legal persons is smaller than their exposure to PF particularly because they 
+have fewer cross-border links with high risk countries for TF than high risk 
+countries for PF. The VI recognises that while the methodology correctly identifies 
+BVIBCs collectively as having the highest level of risk, given the limited number of 
+unlimited companies, companies limited by guarantee, SPCs and RPCs on the 
+Register; the overall risk, when all other risk factors are taken into account, is not 
+as elevated as for those BCs classified as companies limited by shares, which 
+make up over 97% of all companies registered.  The elevated risk of these sub-
+classes of BVIBCs, in practical terms, is largely attributed to the lack of specific 
+data that was available for these sub-classes. 
+132. 
+Finally, it must be acknowledged that VI has already started implementing 
+stronger controls in relation to the risk posed by BVIBCs. In September 2024, 
+amendments to legislation were passed in the House of Assembly that require 
+legal persons to provide beneficial ownership information to the ROCA and 
+ensure this information is kept up to date.  This is in addition to the existing 
+requirement to provide such information to their registered agent, which must be 
+a licensed TCSP. These requirements came into force on January 2, 2025 and are 
+in the process of being fully adopted. This new requirement to provide BO 
+information to the ROCA requires disclosure of corporate directors and nominee 
+shareholders, and imposes stronger recordkeeping measures on trusts. These 
+measures, along with continued surveillance, guidance and outreach to the 
+regulated sector to assist them with strengthening their compliance program will 
+result in a reduced risk exposure for the VI once those improvements have been 
+fully implemented.  
+10. CONSEQUENCES 
+133. 
+The misuse of a VI LP or LA for purposes of ML, TF or PF could have severe 
+consequences for the jurisdiction. The VI is an international financial center with 
+very strong cross border links. In addition, the financial services industry 
+contributes approximately 60% of government revenue. The VI 2022-2024 Macro-
+Economic Review and Outlook states that “any shocks to this industry have the 
+potential to immediately affect operations of Government.” Fees collected from 
+the registration of companies represents approximately 95% of all fees collected 
+from the financial services industry. The financial services industry is also one of 
+the most important employers in the VI.   
+134. 
+Against this backdrop, this report has identified the impacts of an ML, TF 
+or PF event involving a VI legal person or legal arrangement. Table 14 depicts these 
+potential consequences by indicating their relative importance to the VI (on a 
+scale of 1 to 4, 4 being the most important). The importance was determined by 
+assessing the relevance of each consequence given the context in the VI as well 
+33 | P a g e  
+ 
+as the impact on business, financial and political institutions if the consequence 
+materialized. All the consequences listed below have the potential to be of a long 
+duration, and permanently negatively affect the VI.  The consequences listed 
+below can negatively affect the political institutions in the VI, the VI economy, the 
+environment to conduct business as well as the interests of persons and 
+companies outside of the VI.  
+Table 14 – Assessment of Consequences 
+Consequence 
+Importance 
+Unfair competition 
+2 
+Undermines political institutions 
+3 
+Illegal business contaminates legal  
+1 
+Risks for financial sector solvency and liquidity 
+3 
+Lower profits for the financial sector 
+4 
+Negatively impacts financial sector reputation 
+4 
+Increases corruption and bribery 
+3 
+Changes in foreign direct investment  
+4 
+Lower public sector revenues 
+4 
+Increases domestic crime 
+1 
+ 
+135. 
+Table 14 shows that the most important, and likely, consequences of an 
+event involving the misuse of a VI legal person or legal arrangement for the 
+purpose of ML, TF or PF are negative impacts on the VI’s reputation as an 
+international financial center, lower profits for the financial sector and lower 
+public sector revenues. This is due to the wide range of downstream impacts of 
+these impacts on the economy. An event negatively impacting the reputation of 
+the VI could cause a downturn in the VI economy due to lower revenues from 
+company registrations and foreign direct investments, could decrease the public 
+confidence in the political and financial systems and ultimately affect 
+government spending and investments, which would negatively affect VI 
+residents. Depending on the interconnectedness between VI financial institutions 
+and legal persons and arrangements, a downturn in legal persons or 
+arrangements relating to the misuse of VI’s LPLAs could affect the solvency of the 
+banks and securities businesses. Moreover, given that VI legal persons and legal 
+arrangements tend to carry out activities mainly outside the VI, negative 
+consequences could also have an international impact, for example where the 
+predicate offence occurs (such as bribery or corruption) or where the assets are 
+held. As such, the impact of an event could be widespread and not be confined 
+solely to an impact on the VI financial services sector.  
+136. 
+Depending on the circumstances surrounding the misuse of a legal person 
+or arrangement, an event could undermine political institutions, if it is found that 
+the misuse either should have been discovered and sanctioned, or that the 
+34 | P a g e  
+ 
+misuse was committed with the consent of someone in the public sector.  The 
+involvement of a VI public servant or elected official in the misuse of a VI legal 
+person or arrangement could also promote domestic bribery and corruption in an 
+attempt to conceal the scheme.  
+137. 
+The potential consequences that are deemed to be less important include 
+unfair competition, increased domestic criminality and contagion. These have 
+been ranked lower than the other consequences given the predominantly 
+international nature of the legal persons and arrangements formed in the VI and 
+the limited interconnectedness with businesses operating in the VI.   
+12. 
+EMERGING RISKS 
+138. 
+The evolution of the governance of legal persons and arrangements, for 
+example through the use of decentralised models of governance or organisation, 
+poses challenges with identifying the persons in control of a legal person or 
+arrangement. New governance models also at times could make it difficult for a 
+legal person to remain compliant with applicable laws, as there may be no central 
+authority in the organisation to enforce this compliance. To date, new governance 
+models have primarily been used in the virtual asset industry and are referred to 
+as “decentralised autonomous organisation.”    
+139. 
+As at the date of this report, geopolitical risks are rapidly changing and 
+closer relationships between high risk jurisdictions , for example North Korea, Iran 
+and Russia, can forge new pathways for these countries to facilitate the 
+commission of financial crimes by establishing complex structures of legal 
+persons and arrangements, including in countries that may not traditionally be 
+seen as high risk jurisdictions, in efforts not only to evade sanctions but also to 
+facilitate ML, TF and PF.  
+ 
+Practitioners’ Perspectives – Emerging Risks 
+ 
+Most practitioners who were part of the focus groups stated that ML risk has 
+decreased in the VI in the past 20 years, mostly because of increased awareness 
+and compliance efforts. However, emerging risks are coming to the forefront.  
+ 
+Participants see an increase in geographical risk with increased business from 
+parts of Africa and persons who are not used to providing sensitive information 
+about their wealth and history. An increase in global conflicts has also created an 
+elevated risk environment, especially surrounding the Russia/Ukraine conflict 
+and industry also views that there is an increase in power from China. An increase 
+in sanctions could also lead to more risk for VI, as persons seek to misuse VI 
+structures to evade sanctions.  
+35 | P a g e  
+ 
+ 
+Technology, particularly cryptocurrencies, is another key emerging risks. 
+Practitioners in the VI have seen an increase in clients operating in the 
+cryptocurrency/FinTech industry. Practitioners mentioned that opacity of 
+beneficial ownership is a key risk with those structures, as they are often 
+decentralized. The cryptocurrency and Fintech environment is also becoming 
+more complex and novel, which increases inherent risk for practitioners that are 
+attempting to adapt to this rapidly changing industry.  
+ 
+Finally, one practitioner noted the impact of increased wealth in new generations 
+as increasing the risk, as the young clients are reluctant to interact face to face or 
+physically. 
+13. 
+RECOMMENDATIONS 
+140. 
+The primary limitation of this risk assessment was the unavailability of 
+some data, which could have assisted in a more refined assessment of the ML, TF 
+and PF risks, particularly in the differentiation of risk between BVIBCs and 
+partnerships.  However, sufficient quantitative, qualitative and typological 
+information was collected to be able to assess the exposure of the VI corporate 
+sector to ML, TF and PF. The process of risk assessing the ML, TF and PF risks of 
+legal persons and legal arrangements in the VI leads to the following 
+recommendations for VI: 
+a. Implement more detailed and better representative statistics by law enforcement 
+agencies to allow VI to more accurately assess the actual risks detected in 
+relation to VI legal persons and arrangements. This should include maintaining 
+easily retrievable statistics in relation to the different types of legal persons and 
+arrangements featuring in a SAR or investigation, other involved jurisdictions, 
+predicate offences and other features, including for example, the presence of 
+nominee arrangements.  
+b. Collect more data relating to legal persons and legal arrangements, including but 
+not limited to nature of business (particularly business that is considered high risk 
+for ML, TF and PF), extent of nominee shareholder arrangements and more 
+detailed information on the use of introducers (for example, the nature of 
+business of introducers and risk level assigned to the introducer).  
+c. Identify and consider the risks of foreign legal arrangements that have sufficient 
+links to the VI; 
+d. Ensure that all the elements of FATF Recommendations 24 and 25 are covered 
+within VI legislation and implemented, particularly those relating to the collection 
+and maintenance of accurate and up to date beneficial ownership information. 
+36 | P a g e  
+ 
+e. Once the beneficial ownership registry for legal persons is established, the ROCA 
+should implement a risk-based programme to verify the accuracy of the 
+information in the registry.  
+f. Once the beneficial ownership registry is established, the ROCA should 
+implement effective and dissuasive penalties for non-compliance with filing 
+obligations, including false, incomplete or inaccurate filings.  
+g. ROCA should ensure that all shareholder nominee arrangements for legal 
+persons be registered in the corporate registry and impose penalties for non 
+compliance with this requirement.  
+h. Improve compliance with AML/CFT/CPF requirements particularly for the legal 
+and accounting professions through increased outreach, onsite inspections and 
+sanctions for non-compliance, leading to increased compliance by entities, as 
+evidenced in onsite inspections.  
+i. Provide outreach to the regulated sector, primarily TCSPs, and legal and 
+accounting professionals, on the risks relating to legal persons and legal 
+arrangements in the VI and their role in mitigating that risk.  
+j. Continue to develop and enhance understanding of risk of legal persons and legal 
+arrangements through typologies and other means, and sharing this information 
+with the private sector on a regular basis through JALTFAC, newsletter, outreach 
+sessions and other fora. 
+k. Regulators and law enforcement agencies to receive training on how VI legal 
+persons and legal arrangements can be misused to commit the offences of ML, 
+TF and PF.  
+37 | P a g e  
+ 
+Appendix A 
+Focus Group Questions 
+1. How has the risk environment changed in the past 5-7 years?   
+2. What are some emerging risks for legal persons and legal arrangements formed 
+in the VI?  
+3. How does this link to beneficial ownership?   
+4. How do the risks differ between types of companies?  
+5. How do risks differ between companies and trusts?  
+6. How do the risks differ between ML, TF and PF?  
+7. What features in your view relating to legal persons or legal arrangements in your 
+practice which could increase the risk of those structures being misused for ML, 
+TF or PF? (e.g. part of complex structures, high risk jurisdictions, non face to face 
+business)   
+8. In your experience, how often do they have to go to management or other ways of 
+control (where there is no BO by voting shares)? (specify per type of company)  
+9. How do you determine who the BO is? How often do you find this challenging?   
+10. How often do you interact with PEPs?   
+11. How often do you see trusts in the ownership structure?   
+12. What do you consider as a complex structure? How often do you interact with 
+complex ownership structures? What do you consider as a complex structure?   
+13. How do you view the risks of trusts for ML, TF and PF  
+14. How often do you see trusts with these clause (flee clauses, revocability, reserve 
+powers, bare trusts)  
+15. What percentage of your trusts are commercial  
+16. How often do you encounter nominee arrangements relating to legal persons?  
+17. Can you provide examples of how you see these arrangements being used?   
+18. Do you think nominee arrangements increase or decrease the ML, TF, PF risk 
+relating to legal persons?   
+19. Tell me your experience with using business introducers? (e.g. are they in-group 
+or outside, another professional e.g. law firm, countries, etc.?)  
+20. What are some ways used to satisfy yourself about the quality of an introducer? 
+How do you satisfy that the introducer continues to meet the requirements of 
+introduced as prescribed by legislation?  
+21. Do you act as introducer? Tell me about some circumstances? In BVI or outside?   
+ 
+ 
+38 | P a g e  
+ 
+Appendix B 
+Information Sources Used 
+• FATF Guidance on National Money Laundering and Terrorist Financing Risk 
+Assessments (2013) 
+• FATF Guidance on Transparency and Beneficial Ownership (2014) 
+• FATF Terrorist Financing Risk Assessment Guidance (2019) 
+• FATF Guidance on Proliferation Financing Risk Assessment and Mitigation (2021) 
+• FATF Guidance on Beneficial Ownership of Legal Persons (2023) 
+• FATF Guidance on Beneficial Ownership and Transparency of Legal Arrangements 
+(2024) 
+• FATF – Egmont Group Report on Concealment of Beneficial Ownership (2018),  
+• United Nations Panel of Expert Reports relating to North Korea from 2020 to 2024 
+• Data from VI Law Enforcement Agencies for the 5 years preceding the risk 
+assessment (as described in section 8 of the report) 
+• Data from VI FI and DNFBP supervisors and ROCA for the 5 years preceding the 
+risk assessment 
+• Data from the Governor’s Office on targeted financial sanctions, reported 
+breaches and other information received 
+• Typologies gathered by the VI law enforcement agencies 
+• Statistics from mutual legal assistance requests relating to VI legal persons and 
+legal arrangements received by the Attorney General’s Chambers 
+• VI Money Laundering Risk Assessment 2022 
+• VI Proliferation Financing Risk Assessment 2022 
+• VI Terrorist Financing Risk Assessment 2020 
+• VI Terrorist Financing Typologies report 2024 
+• VI Non-Profit Organisations Terrorist Financing Risk Assessment 2024 
+• Open-source case studies and typologies relating to ML, TF and PF involving legal 
+persons and arrangements 
+• Interviews and questionnaires with private sector participants 
+• Interviews with LEAs, the FIA and the FSC 
+• Government of the Virgin Islands 2022-2024 Macro-Economic Review and 
+Outlook 
+ 
+ 
+ 
+ 
+39 | P a g e  
+ 
+Appendix C 
+Acronyms 
+BVIBC 
+British Virgin Islands Business Companies 
+DNFBP 
+Designated non-financial businesses and professions 
+DPRK 
+Democratic People’s Republic of Korea 
+FATF 
+Financial Action Task Force 
+FCU 
+Financial Crimes Unit (of the Royal Virgin Islands Police Force) 
+FI 
+Financial Institution 
+FIA 
+Financial Investigation Agency 
+FSC 
+Financial Services Commission 
+JALTFAC 
+Joint Anti-Money Laundering and Terrorist Financing Advisory Committee 
+LA 
+Legal arrangement 
+LP 
+Legal person 
+MER 
+Mutual evaluation report 
+ML 
+Money Laundering 
+PEP 
+Politically Exposed Person 
+PF 
+Proliferation Financing 
+PTC 
+Private Trust Company 
+ROCA 
+Registry of Corporate Affairs 
+SAR 
+Suspicious Activity Report 
+SPC 
+Segregated Portfolio Company 
+TCSP 
+Trust and Corporate Services Provider 
+TF 
+Terrorism Financing 
+VISTA 
+Virgin Islands Special Trust 
+ 
+ 

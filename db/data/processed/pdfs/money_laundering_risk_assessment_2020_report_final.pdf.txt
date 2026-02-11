@@ -1,0 +1,3526 @@
+ 
+VIRGIN ISLANDS FINANCIAL SERVICES SECTOR
+Money Laundering 
+Risk Assessment 2020
+AML/REP-030 | 10th December, 2020 | Version: 1.0
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 1 of 75 
+ 
+Table of Contents 
+Foreword ....................................................................................................................................... 4 
+1. Executive Summary  ....................................................................................................................... 5 
+National Threats  ................................................................................................................................... 5 
+Inherent Money-Laundering Risk at the Sectoral Level  ........................................................................ 6 
+Comparative Assessment of First NRA with Current Assessment   ........................................................ 7 
+2. Introduction   ................................................................................................................................. 8 
+Jurisdictional profile  ............................................................................................................................. 8 
+Geographical  ............................................................................................................................... 8 
+Political  ........................................................................................................................................ 8 
+Socio-economic   ........................................................................................................................... 8 
+The Assessment ..................................................................................................................................... 8 
+3. Methodology ............................................................................................................................... 11 
+4. Money Laundering Overview ....................................................................................................... 15 
+Money Laundering Threats  ............................................................................................................... 16 
+Proceeds of Domestic Criminality  ................................................................................................. 18 
+Proceeds of Foreign Criminality  ................................................................................................... 18 
+Seizures, Forfeitures and Confiscations  ........................................................................................ 19 
+Sectoral Money Laundering Risks ...................................................................................................... 20 
+National Money Laundering Risks ..................................................................................................... 20 
+5. AML/CFT Operational Framework ................................................................................................ 22 
+The Financial Services Commission’s Supervisory Framework  ......................................................... 22 
+Regulation  .................................................................................................................................... 22 
+Supervision  ................................................................................................................................... 22 
+Enforcement Mechanisms ............................................................................................................. 23 
+6. Cooperation Matters ................................................................................................................... 24 
+International Cooperation  ................................................................................................................. 24 
+Sanctions  ...................................................................................................................................... 25 
+Domestic Cooperation ................................................................................................................. 26 
+7. Transparency of Beneficial Ownership ......................................................................................... 29 
+Legal Persons  ..................................................................................................................................... 29 
+BVI Business Companies ............................................................................................................... 29 
+Bearer Shares  ........................................................................................................................... 30 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 2 of 75 
+ 
+Foreign Companies  ................................................................................................................... 30 
+AML/CFT Obligations  ............................................................................................................... 31 
+Striking Off from the Register ................................................................................................... 31 
+    
+Micro Business Companies .......................................................................................................... 33 
+Identification and Mitigation of Risk  ........................................................................................ 33 
+Customer Risk  .................................................................................................................. 34 
+Product/Service Risk  ........................................................................................................ 34 
+Geographic Risk  .............................................................................................................. 34 
+Beneficial Ownership  ....................................................................................................... 34 
+RA Obligations  ........................................................................................................................ 35 
+Legal Arrangements ............................................................................................................................ 36 
+Trusts  ........................................................................................................................................... 36 
+VISTAs  .......................................................................................................................................... 36 
+PTCs  .............................................................................................................................................. 37 
+Partnerships .................................................................................................................................. 38 
+Assessment of Threats  ....................................................................................................................... 39 
+ML Vulnerabilities  ............................................................................................................................... 39 
+Conclusion ........................................................................................................................................... 40 
+8. Emerging Products and Technologies  .......................................................................................... 42 
+Virtual Assets, Virtual Assets Services Providers  .......................................................................... 42 
+Other Emerging Products .............................................................................................................. 42 
+9. Banking ........................................................................................................................................ 44 
+Introduction  ................................................................................................................................. 44 
+Assessment of Threats  ................................................................................................................. 45 
+ML Vulnerabilities  ........................................................................................................................ 45 
+Conclusion ..................................................................................................................................... 46 
+10. Financing Business ....................................................................................................................... 48 
+Introduction  ................................................................................................................................. 48 
+Assessment of Threats  ................................................................................................................. 48 
+ML Vulnerabilities ......................................................................................................................... 48 
+Conclusion ..................................................................................................................................... 48 
+11. Money Services ............................................................................................................................ 50 
+Introduction  ................................................................................................................................. 50 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 3 of 75 
+ 
+Assessment of Threats  ................................................................................................................. 50 
+ML Vulnerabilities ......................................................................................................................... 50 
+Conclusion ..................................................................................................................................... 51 
+12. Insurance ..................................................................................................................................... 53 
+Introduction  ................................................................................................................................. 53 
+Assessment of Threats  ................................................................................................................. 55 
+ML Vulnerabilities  ........................................................................................................................ 55 
+Conclusion ..................................................................................................................................... 55 
+13. Trust and Corporate Service Providers (TCSPs)  ............................................................................ 57 
+Introduction  ................................................................................................................................. 57 
+Assessment of Threats  ................................................................................................................. 58 
+ML Vulnerabilities  ........................................................................................................................ 58 
+Conclusion ..................................................................................................................................... 60 
+14. Investment Business .................................................................................................................... 62 
+Introduction  ................................................................................................................................. 62 
+Assessment of Threats  ................................................................................................................. 65 
+ML Vulnerabilities  ........................................................................................................................ 66 
+Conclusion ..................................................................................................................................... 67 
+15. Insolvency Services ...................................................................................................................... 68 
+Introduction  ................................................................................................................................. 68 
+Assessment of Threats  ................................................................................................................. 69 
+ML Vulnerabilities  ........................................................................................................................ 69 
+Conclusion ..................................................................................................................................... 69 
+16. Recommendations and Conclusion  .............................................................................................. 71 
+National AML/CFT Recommendations  ......................................................................................... 71 
+Supervisor Specific AML/CFT Recommendations  ......................................................................... 71 
+Glossary of Terms ............................................................................................................................... 73 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 4 of 75 
+ 
+FOREWORD 
+ 
+As the regulator of financial services in the Virgin Islands, the Financial Services Commission (“the 
+Commission”) is proud of the strong and robust Anti-Money Laundering and Counter Terrorist Financing 
+(“AML/CFT”) regime we have helped to develop to combat money laundering and the financing of 
+terrorism and proliferation.  We continue to take proactive steps to advance compliance with 
+international standards and to maintain the Territory’s reputation as a leading international financial 
+centre.   
+  
+We recognise the importance of identifying, understanding and mitigating the inherent money laundering 
+(ML) risks in the provision of financial services. The Commission is cognisant of the ongoing need to 
+comprehensively examine the threats and vulnerabilities within the financial services industry. It is against 
+this backdrop that we have completed a ML risk assessment of each of the financial services sectors that 
+the Commission regulates.   
+ 
+This assessment is a follow up to the National Risk Assessment concluded in 2016.  The assessment 
+critically reviewed the ML risks posed by each of the sectors under our supervisory remit, against the 
+backdrop of the ML threats to which the Virgin Islands is exposed.  The insight gained from the assessment 
+will ensure that we can continue to take appropriate action to effectively mitigate and manage these and 
+other emerging risks.   
+ 
+The findings of this risk assessment provide valuable information, to us as the regulator, and to our 
+regulated institutions and other stakeholders. The results of this exercise will enable our regulated entities 
+to better identify particular ML risks which may be unique to their areas of business.  We invite and 
+encourage all regulated entities to review the report and integrate its findings into their institutional risk 
+assessments and those of their clients. 
+  
+We are committed to aiding the Virgin Islands in the global fight to combat both money laundering and 
+terrorist financing and to tackling the resulting illicit flows. We are confident that our identification and 
+response to these risks coupled with the continued cooperation and synergy between the public and 
+private sectors, will secure the Virgin Islands’ longstanding reputation as a well-regulated international 
+finance centre and a preferred place to conduct legitimate business. 
+ 
+ 
+ 
+ 
+ 
+Jennifer Potter-Questelles 
+Ag. Managing Director  
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 5 of 75 
+ 
+1. EXECUTIVE SUMMARY 
+ 
+1.1 In 2014 the VI embarked on its first AML/CFT National Risk Assessment.  This exercise sought to identify 
+the inherent risks and vulnerabilities within the jurisdiction that promote the threat of ML and TF.  The 
+result of this exercise was the Virgin Islands National Risk Assessment Report1 which was published in 
+2016. The report provided an in-depth review of the risks and vulnerabilities of both the Territory’s 
+financial and non-financial sectors as well as of the Competent Authorities and law enforcement agencies 
+within the jurisdiction that are responsible for mitigating the risk of ML and TF. 
+ 
+1.2 Since that time the VI has made great strides to address the deficiencies identified in its initial NRA Report 
+through various means, including the enactment of new, and revision of existing legislation; establishment 
+of a national coordinating council and other national advisory committees; strengthening of key law 
+enforcement agencies; and enhanced supervision and regulation of financial institutions, DNFBPs and 
+NPOs. 
+ 
+1.3 In an effort to determine what effect these actions have had on the ML and TF risk to the Territory, it was 
+decided that follow-up risk assessments should be conducted, with separate assessments being 
+contemplated for ML and TF.  This report provides the results of the follow-up ML risk assessments that 
+were conducted in relation to the financial sectors supervised by the FSC. 
+ 
+1.4 Data used was collected from the following CAs and LEAs with responsibility for various aspects of the 
+AML/CFT regime within the jurisdiction: 
+ 
+• 
+Financial Services Commission – Regulator/Supervisor of FIs 
+• 
+Financial Investigation Agency – Financial Intelligence Unit 
+• 
+Royal Virgin Islands’ Police Force – Criminal Investigations 
+• 
+Governor’s Office – International Sanctions  
+• 
+Attorney General’s Chambers – Mutual Legal Assistance 
+• 
+Office of the Director of Public Prosecutions – Criminal Prosecutions 
+ 
+National Threats 
+1.5 
+The domestic money laundering threat stems primarily from drug trafficking, which is considered to be 
+the most significant predicate offence, and associated crimes (i.e. cash and people smuggling, failure to 
+declare cash), as well as fraud to a lesser extent, including online fraud.  In relation to fraud, while criminals 
+may transfer funds through the banking system, they may begin the ML process by withdrawing cash in 
+order to break the paper trail and disguise the source of the funds.  Other domestic predicates that 
+contribute to ML were primarily considered to be low threat. 
+ 
+1.6 
+The threat from predicate offences committed overseas is viewed as high, which is consistent with 
+international trends. International fraud, foreign corruption and tax evasion, as well as ML committed in 
+other jurisdictions are the more severe predicate offences identified as having an impact on the Territory, 
+ 
+1 A copy of the public report can be found at https://www.bvifsc.vg/sites/default/files/nra_report.pdf 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 6 of 75 
+ 
+as proceeds from such offences find their way into the financial services sector through the use of the 
+products and services offered by the various FIs.     
+ 
+Inherent Money-Laundering Risk at the Sectoral Level 
+1.7 
+The TCSP sector is the primary gateway to the Virgin Islands’ international financial services sector.  The 
+sector is attractive to international criminals who wish to obscure ownership of property, evade foreign 
+taxes or conceal the criminal origins of their property due primarily to the nature of products offered.   
+ 
+1.8 
+High transaction volumes and susceptibility of products to abuse in concealing illegal transactions, 
+particularly at the layering and integration stages of ML, is the main risk that facilitates ML within the 
+sector. Additionally, ML risk is also heightened by the fact that a significant number of clients are 
+geographically dispersed, with some originating from high risk jurisdictions.  Further, there is the ability 
+for the execution of a significant number of non-face-to-face transactions. 
+ 
+1.9 
+The banking sector in the Virgin Islands is small in comparison to other jurisdictions.  However, the sector 
+plays an integral part within the local financial services sector, with operations at both the domestic and 
+international levels.  Based on the demographics of the population and the cross-border nature of the 
+financial services industry there is the potential for some of the activities within the sector to involve high 
+risk jurisdictions.  However, the volume of such activities is small and are not conducted on a regular basis.  
+Any associated risk is fairly well mitigated through the imposition of the requirements laid out primarily 
+in the AMLTFCOP in dealing with high risk countries and the review of such measures by the FSC during 
+its onsite inspection process. 
+ 
+1.10 Although the money services sector itself is small and the sector is not highly integrated with other sectors 
+outside of the banking sector, in terms of outflows it is significant as it accounts for a large volume of 
+cross-border transactions.  Services provided are currently limited to money transfer services.  Given the 
+nature of the business, transactions are generally conducted face-to-face.  However, some transactions 
+may involve high risk jurisdictions based on the demographics of the customer base, although such 
+transactions are not conducted on a regular basis.   
+ 
+1.11 The nature of insurance business within the Territory does not provide any evidence that the sector is 
+highly susceptible to or has been used for ML purposes.  The captive insurance sector is small and 
+inherently low risk and the products and services offered through domestic insurance companies and 
+intermediaries are relatively standard.  Most business is conducted through face-to-face contact and cash 
+transactions are limited to the payment of premiums by some customers. 
+ 
+1.12 The size and nature of investment business within the Territory provides evidence that the sector is highly 
+susceptible to ML. This sector is relatively large and can be subdivided into sub-sectors of investment 
+business and investment funds.  Both sub-sectors are large and include a wide cross-section of clientele. 
+Products and services offered through this sector are varied with large transaction volumes and assets are 
+widely dispersed globally.  A significant amount of business is conducted through non face-to-face contact; 
+however, cash transactions are rare.  The inherent vulnerabilities within this sector are high but have been 
+somewhat mitigated based on the control measures currently in place.   
+ 
+1.13 The inherent vulnerability of legal persons and legal arrangements is driven by the complexity of the 
+available structures and the complexity of the international financial transactions they engage in, which 
+heighten the risk of these structures being used to facilitate ML.  The potential of these structures to be 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 7 of 75 
+ 
+used to conceal the source of assets and the identity of beneficial owners, the availability of non-face-to-
+face transactions, and their use by a significant volume of high risk customers, including foreign PEPs 
+increases their vulnerability to be misused for ML purposes.  Risk mitigation in place in relation to legal 
+persons and legal arrangements is fostered via measures implemented by the TCSPs that service these 
+structures; however, the inherent vulnerabilities relating to these structures remain high. 
+ 
+1.14 To the extent that virtual assets are able to provide the same level of anonymity as physical cash, they 
+also create a risk as they can be transmitted and used globally. In addition to providing another means to 
+pay for contraband or illicit services, virtual assets also are now being used in the layering stage of money 
+laundering to disguise the origin of illicit proceeds. 
+ 
+1.15 Additionally, compliance deficiencies within FIs aid in increasing the ML risk because of the potential 
+consequences, as FIs with inadequate AML compliance programs can allow suspicious transactions to 
+occur without adequate screening or reporting.  The sectors assessed, however, have been able to 
+mitigate such risk to a large extent as a result of strong adherence to CDD, BO and transaction 
+recordkeeping and reporting requirements.  
+ 
+1.16 The Territory’s overall ML risk was determined based on the impact of the ML threats emanating from 
+both domestic and foreign criminality, taking into account all of the vulnerabilities identified within each 
+financial sector.  The results of the FIA’s ML risk assessment of DNFBPs and NPOs was also factored into 
+this rating.  This resulted in a determination that the overall risk of ML to the Virgin Islands is Medium-
+High. 
+ 
+Comparative Assessment of First NRA with Current Assessment  
+ 
+1.17 The methodologies and rating systems used in the initial NRA and current sectoral assessment differed in 
+application, but the overall data used were generally the same.  The quality of the data was much 
+improved in this sectoral assessment as opposed to the initial NRA, which made for better and more 
+critical analysis. Although the methodologies used differed, the findings, as outlined in Chart 1.1 below, 
+show some degree of consistency in the level of risk identified within each sector.    
+ 
+Chart 1.1: Comparison of Results between 2016 and 2020 Assessments 
+0
+5
+10
+15
+20
+25
+Banking
+Money…
+Insurance
+Trust and…
+Investment…
+Insolvency…
+Financing
+Legal…
+Emerging…
+Low
+High
+Medium
+Medium
+Medium
+Low
+Med-Low
+Med-High
+Med-…
+High
+Med-High
+Med-Low
+Low
+High 
+High
+Comparative Risk Ratings - 2016 and 2020
+2016
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 8 of 75 
+ 
+ 
+2. INTRODUCTION  
+Jurisdictional Profile 
+Geographical 
+2.1 The Territory of the Virgin Islands is one of the Overseas Territories of the United Kingdom. It is located 
+within the Virgin Islands’ archipelago a few miles east of the USVI, some 60 miles east of Puerto Rico, and 
+approximately 110 miles west of St. Maarten in the Lesser Antilles. It consists of approximately sixty 
+islands, islets and cays, twenty of which are inhabited.  The islands are primarily volcanic in nature with 
+the exception of Anegada, which is the most northerly of the islands and is constituted of coral and 
+limestone.  Due to its geographical composition, the Virgin Islands’ borders are quite porous, and while 
+territorial waters between the Virgin Islands and the USVI are heavily trafficked on a daily basis for 
+purposes of commerce, the open waterways also lend to more nefarious activities such as drug and people 
+smuggling. 
+ 
+Political 
+2.2 
+The Territory is classified by the United Nations as a Non-self-governing Territory of the United Kingdom.  
+However, the Territory is internally self-governing, and operates under the Westminster system with a 
+Cabinet style government.  The Ministers of Cabinet are appointed from amongst the members of the 
+Legislature and are not independently elected to executive office.  Ultimately, they are accountable to the 
+Parliament.  The Virgin Islands’ parliament consists of thirteen elected members, the Attorney General 
+and a non-elected Speaker selected by the elected members of the House.   
+ 
+2.3 
+Historically, the Virgin Islands has had a relatively low crime rate and is politically stable. 
+ 
+Socio-economic  
+2.4 
+The population of the Virgin Islands is approximately 32,000 and the Territory is home to residents from 
+over 110 different countries and territories who make up approximately 70% of the local labour force.  
+The official currency of the Territory is the US dollar.2 The primary sectors of the economy which generate 
+the most economic activity and revenue are tourism and financial services, with financial services 
+contributing approximately 22.6% of the Territory’s GDP. The Virgin Islands’ economic performance is 
+reflected by an increase in positive growth of the Territory’s GDP from $1.02 billion in 2014 to $1.30 billion 
+in 2019.  However, the current global coronavirus pandemic is likely to have some negative impact on 
+performance and growth particularly given the total closure of the tourism sector. 
+ 
+The Assessment 
+2.5 
+The initial NRA covered the period 2011 to 2014.  These follow-up sectoral assessments now look at the 
+Territory’s risk profile resulting from data collected for the years 2015 to 2019.  The assessment was 
+carried out by the FSC, led by its AML Unit and involved the following stakeholders: 
+• 
+Financial Services Commission – Regulator/Supervisor of FIs 
+ 
+2 This is by virtue of the Legal Tender (Adoption of United States Currency) Act (Cap. 102) of the Laws of the Virgin Islands. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 9 of 75 
+ 
+• 
+Financial Investigation Agency – Financial Intelligence Unit 
+• 
+Royal Virgin Islands’ Police Force – Criminal Investigations 
+• 
+Governor’s Office – International Sanctions  
+• 
+Attorney General’s Chambers – Mutual Legal Assistance 
+• 
+Office of the Director of Public Prosecutions – Criminal Prosecutions 
+ 
+2.6 
+The data used in conducting these risk assessments has been determined through interrogation of the 
+requirements under the FATF Standards and the results of the Virgin Islands’ 2016 National Risk 
+Assessment, as well other international standards setters such as the OECD, IMF and FSB.  The 
+assessments looked not only at sector specific data relative to regulation and supervision of the entities 
+within each sector, but also at other critical economic and crime data that were key to properly identifying 
+the level of ML risk posed to the VI.   
+ 
+2.7 
+The key sources of data for this exercise included: 
+• 
+Available macro-fiscal data 
+• 
+FSC prudential and statistical returns 
+• 
+FSC supervisory and inspection data 
+• 
+FSC enforcement data 
+• 
+ODPP prosecutorial data 
+• 
+RVIPF crime statistics 
+• 
+Seizure and confiscation data 
+• 
+HMC related data 
+• 
+FIA suspicious activity statistics 
+• 
+Corporate Registry data 
+• 
+International Cooperation data 
+ 
+2.8 
+Performing these sectoral risk assessments involved making judgments about threats, vulnerabilities, and 
+consequences of the identified sectors.  The assessment relied on the analysis of both quantitative and 
+qualitative data and was driven primarily by evidence collected from the regulator and other CAs and 
+LEAs.  This assessment builds on the initial NRA in that, where the initial NRA looked at the risks inherent 
+in the institutions charged with protecting against ML and the mitigating measures in place to reduce 
+those risks, this assessment now focuses on the specific ML threats and vulnerabilities associated with 
+each sector and the impact these threats and vulnerabilities have on the overall risk for each.  The level 
+of ML risk of each sector was determined by identifying the inherent threats and vulnerabilities and 
+offsetting the potential consequences resulting from these threats and vulnerabilities by any mitigating 
+controls in place within each sector.   
+ 
+2.9 
+In order to execute these sectoral risk assessments a specific methodology was developed to ensure the 
+capture and analysis of relevant data, and the consequential identification of an accurate risk level for the 
+various sectors within the financial and non-financial business sectors.  This methodology was used to 
+identify and determine the level of ML risk to which the jurisdiction is exposed, in order to further develop 
+the proper mechanisms to effectively mitigate against these risks.   
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 10 of 75 
+ 
+ 
+2.10 It should be noted that residual risk ratings are relative to the financial services sector within the context 
+of the Virgin Islands.  These ratings are not comparative to corresponding sectors or products in other 
+jurisdictions and should not be looked at in that context.   
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 11 of 75 
+ 
+3. METHODOLOGY 
+3.1 Money-laundering risk is a function of money laundering threats, vulnerabilities and consequences, each 
+of which needs to be properly understood in order for the correct level of risk to be identified. This sectoral 
+assessment process builds on the findings of the initial NRA and attempts to further identify, analyse and 
+understand the Virgin Islands’ current ML risks.  Such understanding is key in the Territory’s ongoing effort 
+of effectively mitigating its ML risk and meeting its international obligations. 
+ 
+3.2 In carrying out this exercise each sector was assessed based on the following identified areas of 
+vulnerability taking into consideration the threat environment relative to each sector and the potential 
+consequences of such vulnerabilities going undetected and unmitigated.   
+1) Inherent Characteristics: the extent of the sector’s economic significance, complexity of 
+operating structure, and scope and accessibility of operations.  
+2)  Nature of Products and Services: the nature and extent of the vulnerable products and services 
+and the volume, velocity and frequency of client transactions associated with these products and 
+services.  
+3)  Nature of clientele: the inherent vulnerabilities associated with the sector’s clientele profile; 
+nature of business relationship (with clients); customer status; client’s occupation/businesses; 
+facility to identify the beneficial owner for most of the customers (i.e. complex business structure 
+vs. individual). 
+4)  Geographic Reach: the exposure to high-risk jurisdictions as identified by the FATF.  
+5)  Nature of the Delivery Channels: the extent to which the delivery of products and services can 
+be conducted with anonymity (face-to-face, non-face-to-face, use of third parties) and complexity 
+(e.g., multiple intermediaries with few immediate controls or no accountability in identifying the 
+originator of the transaction)]. 
+6)  Susceptibility to abuse: the extent to which the sector has been identified in: reported suspicious 
+activities; criminal proceedings (locally and internationally). 
+3.3 A numerical rating between 1 and 4, with 1 signifying lowest risk and 4 signifying highest risk, was assigned 
+to each of the six criteria based on the inherent vulnerability of each sector to the particular criteria.  The 
+sum of these individual ratings determined the total vulnerability rating, which could range between a 
+minimum of six (6) and a maximum of twenty-four (24).  This numerical rating determined the sector’s 
+vulnerability classification as follows: 
+ 
+Scale 
+a) High 
+ 
+ 
+21 - 24 
+b) Medium High 
+ 
+16 - 20 
+c) Medium Low 
+ 
+11 - 15 
+d) Low 
+ 
+ 
+  6 - 10 
+ 
+3.4 The level of each of the following controls in place within each sector to mitigate against the identified 
+vulnerabilities was used to off-set these vulnerabilities:   
+ 
+1) Knowledge of AML/CFT 
+2) Prior risk assessment rating 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 12 of 75 
+ 
+3) Risk mitigation policies and procedures in place 
+4) Level of maintenance of BO information 
+5) Actions taken by supervisor 
+3.5 Similarly to the vulnerability criteria, each of the five (5) mitigating criteria was assigned a rating between 
+0 and 2, with 0 indicating a low level of mitigation control measures and 2 indicating a high level of 
+mitigation control measures.  The sum of these individual ratings determined the total controls rating, 
+which could range between a minimum of zero (0) and a maximum of ten (10).  This numerical rating 
+determined the sector’s mitigating classification as follows: 
+ 
+Scale 
+a) High 
+ 
+ 
+9 - 10 
+b) Medium High 
+ 
+6 - 8 
+c) Medium Low 
+ 
+3 - 5 
+d) Low 
+ 
+ 
+0 - 2 
+ 
+3.6 The total controls rating was then subtracted from the total vulnerability rating to determine the overall 
+risk rating of the sector.  The following point value scales were then be applied to determine the overall 
+risk rating for the sector: 
+ 
+ 
+Scale 
+Rating 
+ 
+a) 
+17 -24 
+High 
+ 
+b) 
+10 -16 
+Medium High 
+ 
+c) 
+3 – 9 
+Medium Low 
+ 
+d) 
+-4 - 2 
+Low 
+ 
+ 
+3.7 The resulting risk rating for each sector of either low, medium low, medium high or high as outlined in 
+Chart 3.1 below, was based on the average net score received after applying the mitigating controls to 
+offset the identified vulnerabilities within each sector as detailed in Table 3.1.  
+ 
+Sector 
+Vulnerability 
+Mitigating Controls Net Score 
+Risk Rating 
+Banking 
+15 
+9 
+6 
+ML 
+Financing 
+6 
+5 
+1 
+L 
+Money Services 
+15 
+5 
+10 
+MH 
+Insurance 
+11 
+7 
+4 
+ML 
+TCSPs 
+23 
+5 
+18 
+H 
+Investment Business 
+19 
+6 
+13 
+MH 
+Insolvency 
+12 
+9 
+3 
+ML 
+Legal Persons and Legal 
+Arrangements 
+22 
+03 
+22 
+H 
+Table 3.1: Sector Risk Scoring and Ratings 
+ 
+ 
+3 Risk mitigation in relation to legal persons and legal arrangements is fostered via measures implemented by the TCSPs that service these 
+structures and have been taken into consideration in the assessment of that sector 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 13 of 75 
+ 
+ 
+Chart 3.1: Financial Institutions Sector Risk Ratings 
+ 
+3.8 The matrix was also applied to each type of legal person and legal arrangement that can be created, as 
+well as to the group of emerging products and technologies identified within the report.  As with the 
+sector ratings, the resulting risk rating for each was based on the net score received after applying any 
+mitigating controls identified to offset the vulnerabilities inherent in each product or service.  The results 
+are displayed in Table 3.2 and Chart 3.2 below4. 
+ 
+Product/Service 
+Vulnerability 
+Mitigating Controls Net Score 
+Risk Rating 
+Micro Business Company 
+14 
+6 
+8 
+ML 
+Trusts 
+16 
+6 
+10 
+MH 
+VISTAs 
+18 
+6 
+12 
+MH 
+PTCs 
+18 
+6 
+13 
+MH 
+Limited Partnerships 
+15 
+6 
+10 
+MH 
+Business Companies 
+24 
+3 
+21 
+H 
+Emerging Products  
+24 
+2 
+23 
+H 
+Table 3.2: Risk Scoring and Ratings for Legal Persons, Legal Arrangements and Emerging Products 
+ 
+ 
+ 
+4 Discrepancies in final scores are a result of rounding out average vulnerability and mitigating control scores  
+0
+5
+10
+15
+20
+25
+Banking
+Money Services
+Financing
+Insurance
+TCSPs
+Investment Business
+Insolvency
+Legal Persons/Arrangements
+Medium Low Medium High
+Low
+Medium Low
+High
+Medium High Medium Low
+High
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 14 of 75 
+ 
+ 
+Chart 3.2: Risk Ratings for Legal Persons, Legal Arrangements and Emerging Products 
+ 
+ 
+0
+5
+10
+15
+20
+25
+MBC
+Trusts
+VISTAs
+PTCs
+Limited
+Partnerships
+BCs
+Emerging
+Products
+Medium Low
+Medium High
+Medium High
+Medium High
+Medium High
+High
+High
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 15 of 75 
+ 
+4. MONEY LAUNDERING OVERVIEW 
+ 
+4.1 A jurisdiction’s ML risk is considered to be a function of its ML threats and vulnerabilities.  A threat being 
+something which, while it may not definitely happen, could cause harm if relevant action is not taken.  ML 
+threats can come directly from people (natural and legal), and criminals generally, or they can be indirect 
+where systems require improvement to detect, mitigate, combat and curtail harmful activity. 
+ 
+4.2 The concept of vulnerabilities is closely linked to that of a threat and comprises those things that can be 
+exploited by the threat, or that may support or facilitate threat activities. Vulnerabilities are effectively 
+those factors that represent weaknesses in the Territory’s AML/CFT system and covers the broadest areas 
+of the economy.   
+ 
+4.3 In 2008 the Virgin Islands was assessed by the CFATF for compliance with the then FATF 40 
+Recommendations on ML and 9 Special Recommendations on TF.    The results found that the Territory 
+was largely in compliance with the Recommendations which comparatively placed the Territory in the top 
+ten percentile globally in relation to its AML/CFT framework and its ability to mitigate its risk through the 
+minimisation of its recognised vulnerabilities.  The Territory addressed the deficiencies identified in the 
+report through a series of policy and legislative changes, including the imposition of dissuasive 
+administrative and criminal penalties under the PCCA, AMLR and AMLTFCOP for breaches of the relevant 
+legislative requirements. 
+ 
+4.4 Under the revised FATF Recommendations published in 2012, countries are now required to identify, 
+assess and understand their ML/TF risks and apply a risk-based approach to ensure that measures to 
+prevent or mitigate ML and TF are commensurate with the risks identified5.  To satisfy this requirement 
+and ensure a clear understanding of the ML/TF risks and vulnerabilities that promote the threat of ML and 
+TF in the Virgin Islands, the Territory embarked on its first National Risk Assessment exercise in 2014.   
+ 
+4.5 The resulting report provided an in-depth review of the risks, threats and vulnerabilities of both the 
+Territory’s financial and non-financial sectors, as well as of the Competent Authorities and law 
+enforcement agencies within the jurisdiction that are responsible for mitigating the risk of ML and TF.   
+ 
+4.6 To resolve the deficiencies identified in the NRA Report that aid in propagating these threats and 
+vulnerabilities, each involved agency was required to develop an action plan outlining the measures they 
+intended to put in place to address their specific deficiencies, including where relevant, the enactment of 
+new, and revision of existing legislation.  Additionally, key LEAs have been required to identify means by 
+which they intend to strengthen their organisations relative to ensuring the existence of proper policies 
+and procedures and adequate manpower levels, while supervisors have been tasked with ensuring 
+enhanced supervision and regulation of financial institutions, DNFBPs and NPOs.  Coordination of these 
+implementation measures rests with the AML/CFT Implementation Unit within the Ministry of Finance, 
+ 
+5 Recommendation 1 of the FATF Recommendations – Assessing Risks and Applying a Risk-based Approach  
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 16 of 75 
+ 
+which was established specifically for this purpose to ensure that the identified risks are being addressed 
+through the minimisation of the recognised threats and vulnerabilities. 
+ 
+4.7 The following section looks at the broad ML threats that have now been identified within the Territory in 
+the context of the most commonly occurring domestic and international predicate offences and the risks 
+resulting therefrom.  The vulnerabilities within the financial services sector that may be exploited as a 
+result of these threats going unaddressed are dissected in the subsequent sections of the report. 
+Money Laundering Threats 
+4.8 The crime rate in the Virgin Islands is considered to be low, with the RVIPF indicating a downward trend 
+in most major offences during the reporting period as outlined in Chart 4.1 below.   
+ 
+Chart 4.1: Number of Major Criminal Offences Recorded by Type: 2015-2019 
+ 
+4.9 The majority of offences recorded6 by the RVIPF during the reporting period fell into the following three 
+categories: 
+• 
+Major Crimes Against the Person  
+• 
+Major Crimes Against Property  
+• 
+Narcotics Offences  
+ 
+4.10 Major crimes against the person include murder, attempted murder, manslaughter, and assault including 
+wounding or inflicting grievous bodily harm.  Crimes recorded in this category related primarily to 
+ 
+6 Recorded cases are cases where someone has been charged or issued a caution or warned. 
+0
+50
+100
+150
+200
+250
+300
+350
+Murder
+Attempted Murder
+Manslaughter
+Rape
+Other Sexual Offences
+Serious Assault
+Minor Assault
+Robbery
+Burglary
+Theft
+Property Damage
+Drug Offences
+Weapon Possession Offences
+Custom & Immigration Offences
+Public Order Offences
+Fraud/Forgery Offences
+Other Offences Against Person
+Other Property Related Offences
+Major Criminal Offences
+2015
+2016
+2017
+2018
+2019
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 17 of 75 
+ 
+common assault as outlined in Table 4.1 below.  Other more serious crimes of murder and attempted 
+murder are not common, however, there was a spike in 2017 in the number of murders that occurred. 
+Major Crimes Against the Person 
+2015 
+2016 
+2017 
+2018 
+2019 
+Murder 
+2 
+4 
+11 
+6 
+2 
+Attempted Murder 
+6 
+7 
+3 
+10 
+4 
+Manslaughter 
+5 
+1 
+0 
+0 
+0 
+Serious Assault 
+121 
+121 
+86 
+67 
+107 
+Common Assault 
+270 
+256 
+173 
+208 
+227 
+Total 
+404 
+389 
+273 
+291 
+340 
+ 
+Table 4.1: Major Crimes Against the Person: 2015-2019 
+4.11 Major Crimes against Property include theft, robbery, burglary, aggravated burglary, arson and damage 
+to property.  Crimes recorded in this category related primarily to burglary, theft and criminal damage 
+most of which have been identified as crimes of opportunity (See Table 4.2 below).  These are generally 
+of low financial value and very rarely involve violence against persons. 
+Major Crimes Against Property 
+2015 
+2016 
+2017 
+2018 
+2019 
+Robbery 
+13 
+30 
+22 
+22 
+14 
+Burglary 
+185 
+209 
+205 
+153 
+145 
+Theft 
+326 
+260 
+307 
+274 
+235 
+Property Damage 
+165 
+149 
+128 
+97 
+119 
+Total 
+689 
+648 
+662 
+546 
+513 
+Table 4.2: Major Crimes Against Property: 2015-2019 
+4.12 Narcotics Offences include unlawful cultivation, importation and possession of cannabis and cocaine 
+(including crack cocaine), and possession with intent to supply cannabis and cocaine.  Crimes recorded in 
+this category related primarily to unlawful possession of a controlled drug, which in most cases was 
+cannabis (see Table 4.3 below).  Reports have indicated, however, an increase in drug trafficking type 
+cases (i.e. supply and importation) over the last three years. These relate more specifically to an increase 
+in the number of incidents and the quantity of drugs that have been seized at ports of entry and at sea.   
+Narcotic Offences 
+2015 
+2016 
+2017 
+2018 
+2019 
+Unlawful cultivation of cannabis 
+ 4 
+2 
+1 
+1 
+2 
+Unlawful importation of cannabis 
+ 1 
+0 
+0 
+0 
+0 
+Unlawful possession of cannabis 
+ 39 
+70 
+76 
+56 
+51 
+Unlawful possession of cannabis with intent to 
+supply 
+5 
+4 
+6 
+11 
+7 
+Unlawful importation of cocaine 
+1 
+0 
+1 
+1 
+0 
+Unlawful possession of cocaine 
+2 
+6 
+9 
+3 
+1 
+Unlawful possession of crack cocaine 
+0 
+1 
+0 
+1 
+0 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 18 of 75 
+ 
+Unlawful possession of cocaine with intent to 
+supply 
+0 
+2 
+5 
+8 
+1 
+Total 
+52 
+85 
+98 
+81 
+62 
+Table 4.3: Narcotic Offences: 2015-2019 
+4.13 Other areas where the RVIPF has indicated an increase in crime include fraud (including online fraud) and 
+smuggling of both cash and humans as outlined in Table 4.4 below.   
+Other Offences 
+2015 
+2016 
+2017 
+2018 
+2019 
+Custom & Immigration Offences 
+3 
+7 
+13 
+11 
+14 
+Fraud/Forgery Offences 
+2 
+3 
+2 
+7 
+12 
+Total 
+5 
+10 
+15 
+18 
+26 
+Table 4.4: Other Offences: 2015-2019 
+Proceeds of Domestic Criminality 
+4.14 The most significant domestic proceeds-generating crimes within the Virgin Islands are drug trafficking 
+and associated crimes (i.e. cash smuggling, failure to declare), as well as fraud to a lesser extent, including 
+online fraud.  It is, therefore, not surprising that the major ML threats emanating from domestic 
+criminality relate primarily to these offences.  Given its porous borders and proximity to the USVI and 
+Puerto Rico, the Virgin Islands has long been identified as a transhipment point for South American 
+narcotics destined for the US.  As such, the illegal movement of cash associated with such trafficking has 
+also been an ongoing issue for law enforcement agencies within the Territory.  The RVIPF has indicated 
+that there has been an uptick in the number of cases involving the movement of cash linked to drug 
+trafficking particularly via the airport where persons attempt to transport large sums of cash in and out 
+of the Territory without making the proper declaration.   
+ 
+4.15 Additionally, the RVIPF has indicated that there appears to be a network of persons in neighbouring 
+islands in the Eastern Caribbean who specialise in people smuggling to and through the Virgin Islands.  
+While some persons are destined for the Territory, the final destination is usually the USVI.   Although 
+there is no hard data to show any links to organised crime or gangs within the Territory, intelligence shows 
+that there is some level of organisation between these neighbouring islands and the USVI.  Human 
+trafficking has also been identified, but to a much lesser extent.  Cooperation between local LEAs and CAs 
+and their foreign counterparts is considered in section 7 of the report, but cooperation is considered to 
+be strong at both the regulatory and law enforcement levels. 
+Proceeds of Foreign Criminality 
+4.16 Being an International Financial Centre, the VI is vulnerable to ML through the activities carried out by 
+legal persons and legal arrangements registered in or from within the Territory.  To fully understand the 
+extent of the Territory’s vulnerability in this area, the level of proceeds of foreign criminality is measured 
+through the analysis of international cooperation mechanisms utilised by the various LEAs and CAs, 
+particularly in regard to requests emanating from agreements such as MLATs.  Offences committed, as 
+identified through these MLA requests, usually relate to fraud, corruption and tax evasion as well as ML 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 19 of 75 
+ 
+committed in other jurisdictions.  The threat from predicate offences committed overseas is therefore 
+real as proceeds from such offences find their way into the financial services sector.     
+ 
+4.17 Exposure in relation to proceeds derived from tax evasion is reduced primarily through the VI’s 
+participation in the OECD’s Global Forum on Transparency and Exchange of Information for Tax Purposes 
+and the Inclusive Framework on Base Erosion and Profit Shifting (BEPS).  Following the commitment of 
+the Virgin Islands to the fight against tax evasion the Multilateral Convention on Mutual Administrative 
+Assistance in Tax Matters was extended to it in 2014.  The agreement immediately established a tax 
+information exchange relationship with over 117 countries.  In addition, the VI currently has 28 TIEAs in 
+place. These agreements enable the exchange of information in respect of both criminal and civil tax 
+matters.  
+Seizures, Forfeitures and Confiscations 
+4.18 Funds found during the commission of a crime are seized as a matter of policy.  There are seizure 
+provisions under the Police Act (PA), the Drugs (Prevention of Misuse) Act (DPMA), the Drug Trafficking 
+Offences Act (DTOA), and the Customs Management and Duties Act (CMDA).  Seizure provisions also exist 
+in the Criminal Justice (International Cooperation) Act (CJICA) in relation to criminal proceedings instituted 
+against a person outside of the Virgin Islands which allows a police officer to enter and search premises 
+and seize any evidence found therein.  Such searches must be conducted upon application and granting 
+of a warrant. 
+ 
+4.19 Outside of drug trafficking offences, forfeiture of assets is limited to cash and is generally pursued in 
+relation to failures to declare incoming or outgoing cash at the border.  Forfeiture of tangible assets is 
+permissible in relation to drug trafficking offences under the DPMA if the asset is used as chattel in the 
+transportation of the drugs.   Forfeiture is not dependent on gaining a conviction.  The CMDA also permits 
+forfeiture which is achieved through the detention and seizure of goods, including vessels used in 
+connection with the commission of criminal conduct.  It also allows for the condemnation of contraband.    
+Additionally, under the CJICA, overseas forfeiture orders are also enforced in relation to offences 
+committed outside the Territory that correspond to, or are similar to offences under the DPMA and the 
+DTOA where assets held within the Territory were used in connection to the commission of such an 
+offence.  These orders are usually facilitated through a court order. 
+ 
+4.20 During the reporting period, approximately $2.91 million in cash was seized, with a total of $1.85 million 
+eventually being forfeited to the Crown.  These seizures came from inbound and outbound failures to 
+make declarations to Customs and from proceeds of drug trafficking related offences.  In that same period 
+the ODPP prosecuted 16 ML related cases from which 9 convictions were secured.  
+ 
+4.21 Confiscations are conviction based and can be sought in relation to convictions achieved under the DTOA 
+or the PCCA, which result from prosecutions stemming from criminal investigations.  In seeking a 
+confiscation order, the burden of proof is based on a balance of probabilities which is less stringent than 
+the usual requirement of proof beyond a reasonable doubt for other criminal matters.  Confiscations are 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 20 of 75 
+ 
+harder to attain than forfeitures as confiscations require a guilty verdict on a predicate offence, and the 
+general consensus is that there is usually insufficient evidence provided by the RVIPF for the ODPP to 
+secure a confiscation.  This again raises the issue of thoroughness and the level of understanding in 
+conducting ML investigations by the RVIPF as well as the level of understanding and willingness of the 
+ODPP to pursue such cases.   There were no confiscation cases recorded during the reporting period. 
+Sectoral Money Laundering Risks 
+4.22 ML risks posed by the individual sectors under review are discussed in sections 9 to 15 below.  The level 
+of risk has been identified based on each sector’s level of exposure to identified vulnerabilities taking into 
+consideration the threats to the jurisdiction as identified above, and the extent to which each sector has 
+been able to successfully mitigate these vulnerabilities. 
+ 
+4.23 The identified vulnerabilities themselves are based, inter alia, on the sector’s size, the level of non-face to 
+face business conducted, its exposure to high risk jurisdictions, the interconnectedness with other sectors, 
+the variety of products and services provided within the sector, volume of transactions and the extent to 
+which the sector has been identified in SAR reports and MLA requests. 
+ 
+4.24 These vulnerabilities have been mitigated to varying levels in most instances through each sector’s 
+understanding of its AML obligations relative to the identification and verification of BO information, the 
+application of proportionate CDD and ECDD measures and maintenance of these, and other BO 
+information.  This is buttressed against an effective level of regulation and supervision by the FSC as 
+outlined in section 5 below. 
+National Money Laundering Risk 
+4.25 In determining the Territory’s overall ML risk level focus was placed on the major ML threats emanating 
+from both domestic and foreign criminality and their impact to the Territory.  The ML threat from domestic 
+criminality was considered Medium-Low, while the ML threat from foreign criminality was assessed as 
+Medium-High. Given the Territory’s position as an IFC, the impact of foreign criminality on the overall risk 
+level was considered more severe based on the types of foreign predicates, the value of the proceeds of 
+criminal conduct and the scope of the impact of this conduct. 
+ 
+4.26 A number of other factors were also taken into consideration in determining the overall ML risk level.  
+These factors included: 
+• 
+the threats identified in the initial NRA and whether any of those threats had been minimised 
+based on subsequent actions taken by the Territory; 
+• 
+evidence and intelligence provided on the types of crimes committed within and outside the 
+jurisdiction which involved legal persons and legal arrangements established in the Territory; 
+• 
+level of vulnerability based on gaps in or absence of data provided; 
+• 
+anecdotal evidence provided by CAs and LEAs of their respective assessment of risk and 
+intelligence findings; and 
+• 
+consideration of the risk levels within each of the individual sector assessed.   
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 21 of 75 
+ 
+4.27 This analysis resulted in a determination that the overall risk of ML to the Virgin Islands was considered 
+Medium-High. 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 22 of 75 
+ 
+5. AML/CFT OPERATIONAL FRAMEWORK 
+ 
+5.1 The Virgin Islands’ AML/CFT framework emanates from the Proceeds of Criminal Conduct Act which 
+underpins both the AMLTFCOP and the AMLR.  Both the FSC and the FIA are responsible for ensuring the 
+provisions outlined in the AMLR and the AMLTFCOP are adhered to by their respective supervised entities. 
+These legislation lay out specific AML/CFT measures, not the least being the requirement to conduct full 
+and proper CDD, and where appropriate ECDD, including the identification and verification of BO 
+information.  Conduct of such CDD measures also includes consideration of the customer, 
+product/service, and geographical risks that a supervised entity, and its clients where applicable, would 
+be exposed to.   
+The Financial Services Commission’s Supervisory Framework 
+5.2 The FSC is responsible for the regulation and supervision of FIs in the Virgin Islands.  The FSC’s AML/CFT 
+operational framework in relation to such regulation and supervision is multifaceted and is centred on a 
+strong licensing and authorisation regime, a comprehensive risk-based supervisory framework, and the 
+execution of proportionate and effective enforcement measures.   
+Regulation 
+5.3 Any FI wishing to carry on business in, or from within the Virgin Islands must apply for and be granted a 
+licence by the FSC under the relevant legislation.  The FSC’s licensing process has been developed to 
+ensure the minimisation of misuse of BVI structures by criminals and their associates through its robust 
+system of market entry controls.  These controls are centred on the FSC’s understanding of the ownership 
+and control structures of applicants, including the identification and verification of the beneficial owners 
+of each applicant, along with an assessment of the fitness and propriety of the applicant and all identified 
+senior officers and other independent officers. This process is repeated whenever there is any significant 
+change in ownership (10% or more), or senior officers once the entity is licensed. 
+ 
+5.4 The FSC also engages regulated entities on AML/CFT matters to enhance their overall understanding of 
+ML risk through targeted engagement and the provision of comprehensive sector-specific AML/CFT 
+guidance7.  Further, the FSC engages the industry to promote collaborative dialogue and ensure regular 
+updates on AML/CFT maters through the use of various industry outreach programmes8. 
+Supervision 
+The FSC operates a risk-based approach to AML/CFT supervision based on standards of best practice and 
+in adherence with FATF Recommendations.  Supervision includes both desk-based monitoring and on-site 
+inspection processes which are centred around and informed by the FSC’s Risk Assessment Framework 
+(RAF).  The RAF looks at the nature of innate operational risks, the specific source of such risks and the 
+quality of the management of those risks, and classifies individual licensees based on a 5-tiered risk 
+ 
+7 Such guidance includes AML/CFT Guidelines for the Banking Sector,  Money Services Business Guidelines as well as the AMLTFCOP which 
+applies to all sectors 
+8 Programmes include Meet the Regulator forums, participation in BVI Finance Breakfast meetings, publication of industry circulars, and 
+presentations at industry association meetings  
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 23 of 75 
+ 
+assessment rating system.  This tool is applicable throughout the strata of the licensee’s relationship with 
+the regulator and applies to all licensed entities.   
+5.5 Application of these criteria, as part of the wider risk assessment methodology developed by the FSC, 
+determines the level of supervision required for each licensee, which could range, inter alia, from routine 
+desk-based monitoring and event driven reviews, to execution of thematic or full inspections, suspension 
+of operations, appointment of an examiner, or withdrawal of a licence. 
+ 
+5.6 Results of on-site inspections are shared with the relevant licensee who is required to submit a 
+remediation plan to ensure deficiencies identified are appropriately and timely addressed.  Failure to 
+effectively remediate the identified deficiencies may lead to enforcement action being taken against the 
+offending licensees. 
+Enforcement Mechanisms 
+5.7 As part of its regulatory and supervisory mandate the FSC has an obligation to take enforcement action 
+against any licensee for failures of compliance or breaches in regulatory requirements.  In so doing, the 
+FSC follows clear criteria set out in its Enforcement Guidelines, which have been developed to ensure fair, 
+consistent and proportionate application of enforcement actions based on the severity of the identified 
+infraction.  This includes the application of proportionate and dissuasive sanctions where necessary.  
+During the assessment period the FSC used a number of its available enforcement actions, including the 
+imposition of over $800,000 in penalties relating to AML breaches. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 24 of 75 
+ 
+6. COOPERATION MATTERS 
+International Cooperation 
+6.1 It is globally recognised that cross border cooperation and coordination of efforts are the most viable tools 
+in the international response to organised crime and in particular, money laundering. 
+ 
+6.2 The nature of organised crime is such that it permeates national borders and assumes an international 
+character.  This makes it difficult for any country on its own to efficiently and effectively investigate and 
+prosecute acts of criminality without the aid of other countries in which or through which the act of 
+criminal conduct extends.  Thus, the efficient and effective combating of organised crime calls for a 
+collaborative effort and cooperation between countries and at an international level. Such cooperation 
+must be robust and multi-faceted in order to significantly thwart criminals from designing and executing 
+their criminal intents.  
+ 
+6.3 The Virgin Islands has for over twenty-five years, since the enactment of the Criminal Justice (International 
+Cooperation) Act, 1993, been involved in international cooperation matters by providing mutual legal 
+assistance upon request.  The initial remit of the law was to provide assistance in specified criminal 
+matters where a bilateral agreement existed.  Then in 1992 a specific assistance regime was prescribed in 
+relation to drug trafficking matters to give effect to the UN Convention Against Illicit Traffic in Narcotic 
+Drugs and Psychotropic Substances, 1988.  This scope was extended further in 1993 to enable assistance 
+in all criminal matters where a request was received from a foreign competent authority so long as certain 
+parameters were complied with.  In 1997 a specific legislative regime was established to deal with money 
+laundering offences and facilitating foreign requests for assistance in such matters. Formal MLA requests 
+are handled through the AGC with assistance from the FIA for those requests where a BVIBC may be the 
+subject of the enquiry.  The mutual legal assistance regime was further extended in 2000 to enable 
+assistance in the area of financial regulation by providing a regulator to regulator assistance scheme.   
+ 
+6.4 In addition, exchange of financial intelligence is facilitated through the FIA’s membership in the Egmont 
+Group as well as the Territory’s membership in the CFATF, which allows the FIA to utilise information 
+sharing agreements with non-Egmont members.  The RVIPF interacts regularly with its foreign 
+counterparts and has developed strong working relationships with regional, US and UK law enforcement 
+authorities.  Additionally, Her Majesty’s Customs has forged solid working relationships with regional and 
+international counterparts through its membership in the WCO and the CCLEC.  It also works closely with 
+US CBP and ICE and along with the RVIPF, participates in joint operations with these agencies when 
+necessary.  On the regulatory side, the FSC is an active member of IOSCO, GIFCS, IAIS as well as other 
+regional associations such as ASBA, CGBS, and CAIR.   
+ 
+6.5 The CA on tax matters in the VI is the ITA.  The VI has joined the OECD Inclusive Framework on Base Erosion 
+and Profit Shifting (BEPS) and is an active member of the OECD’s Global Forum.  Through its membership 
+in the Global Forum the VI has been assessed on its transparency in tax information exchange.  As of the 
+date of this report, the VI was rated as Largely Compliant by the Global Forum which confirms the VI’s 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 25 of 75 
+ 
+ability to cooperate with other tax authorities. The assessment report of the Global Forum indicated the 
+ability of the VI to exchange ownership, accounting and banking information.   
+ 
+6.6 To further facilitate the automatic exchange of information under the international standard of automatic 
+exchange (i.e. the Common Reporting Standard (CRS) and Country by Country Reports (CBCr), the VI 
+became a signatory to the MCAA for both CRS and CbCr.  It implemented the CBC automatic exchange of 
+information regime and signed a bilateral CBC automatic exchange of information competent authority 
+agreement with the United Kingdom of Great Britain and Northern Ireland and the USA.  The VI has also 
+signed an intergovernmental agreement with the USA to ensure automatic exchange of financial account 
+information under the US FATCA. 
+ 
+6.7 The VI implemented CRS in 2016 and its first exchanges occurred in 2017.  Since 2016, the VI also 
+automatically exchanges with CBC partner counties information collected from MNEs in relation to all 
+fiscal years.  
+ 
+6.8 The VI is also a founding member of the CFATF and has been assessed under the FATF’s Third Round 
+Mutual Evaluation Process.  This assessment placed the VI in the top 10% globally in terms of its 
+compliance with the FATF Standards. The VI considers assessments by international independent 
+institutions as key in its international cooperation process, as it positively aids the process of continual 
+review and reform of relevel laws, administrative systems and law enforcement mechanisms.  
+Accordingly, recommendations emanating from such assessments have been reviewed and implemented 
+to strengthen the Territory’s international cooperation regime. 
+Sanctions 
+6.9 In order to ensure an effective financial sanctions regime the VI embraces international standards and 
+best-practice standards which promote international cooperation and international security in 
+accordance with international agreements. This includes the implementation of measures to ensure that 
+it meets its obligations to combat ML, TF and PF as embodied under the FATF Recommendations. 
+ 
+6.10 As a British Overseas Territory, the VI is committed to ensuring its role in the maintenance of international 
+peace and security, and therefore implements the international sanctions obligations extended through 
+the United Kingdom (UK) in the form of Orders in Council. The Governor of the Virgin Islands is the 
+Competent Authority with responsibility for enforcing Orders-in-Council relative to international 
+sanctions.  Through internal processes between the GO and the FIA these matters are investigated and 
+responded to in a timely manner.  The VI has been recognised for its timely and consistent cooperation in 
+these matters. 
+ 
+6.11 Between 2015 and 2019 BVIBCs were named in relation to 30 potential breaches of UN sanctions.  In 
+addition, communication regarding 27 additional potential breaches involving BVIBCs were reported from 
+sources including FIs, DNFBPs and foreign NGOs.  These potential breaches and reports were in relation 
+to sanctions against Iran, Libya, Syria and the DPRK, amongst others.  Reports of this nature are forwarded 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 26 of 75 
+ 
+to the FIA for investigation and results are returned to the GO without exception.  There has been only 
+one instance where evidence has been found to warrant action being taken.  However, it was deemed by 
+the ODPP that there was no legal framework to attempt prosecution in the matter. This is a clear gap in 
+the Virgin Islands’ ability to respond effectively to sanctions related matters.  With regard to cooperation, 
+however, the jurisdiction has been praised by the UN Panel for its responsiveness to their requests. 
+ 
+6.12 During that same period, the FIA received 51 SARs in relation to sanctions related offences including 
+alleged sanctions breaches, sanctions listees, and associations/connections to a sanctioned 
+individual/entity listed by the UN, EU, UK or other jurisdiction.  The majority of these SARs were filed by 
+TCSPs (see Table 6.1 for details). 
+ 
+Year 
+TCSPs/RAs 
+Law Firms 
+Insolvency 
+Practitioners 
+BVIBCs 
+Banks 
+2015 
+3 
+2 
+0 
+0 
+0 
+2016 
+2 
+1 
+0 
+0 
+0 
+2017 
+7 
+0 
+0 
+0 
+0 
+2018 
+10 
+0 
+0 
+0 
+0 
+2019 
+21 
+1 
+1 
+1 
+2 
+Total 
+43 
+4 
+1 
+1 
+2 
+Table 6.1: Sanctions Related SARs Filings by Sector: 2015-2019 
+6.13 However, it was found that in only 4 instances were BVIBCs themselves alleged to have breached a UN/EU 
+sanction.  Upon investigation two of these SARs were closed and filed for future reference, while one was 
+disseminated to a foreign FIU and the other to the FSC, both for intelligence purposes.  In neither instance 
+was there confirmation of any alleged breach.  
+ 
+6.14 Given the sheer volume of BVIBCs this may reflect that generally, BVIBCs are aware of their obligations 
+under the various UN/EU sanctions and adhere to the requirements of the sanctions orders.  Conversely 
+it could point to insufficient monitoring of the perimeter to detect the true number of BVIBCs involved in 
+sanctions busting activities. 
+Domestic Cooperation 
+6.15 The framework used for fostering inter-agency cooperation in the VI includes information exchange based 
+on the use of bi-lateral inter-agency MOUs such as those established between the FSC and FIA, FIA and 
+HM Customs, and FIA and RVIPF.  Additionally, there is a multi-lateral inter-agency MOU established 
+amongst the 18 members of the IGC, which defines the relationship between the members and compels 
+them to work together to, inter alia, enhance the Territory’s compliance with its international obligations 
+with respect to information exchange, and coordinate activities to effectively combat criminality relative 
+to ML, TF, corruption, matters related to organized crime and tax obligations.  
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 27 of 75 
+ 
+6.16 Cooperation amongst these agencies spans the entire gamut of the Virgin Islands’ AML regime.  Of 
+particular importance is the relationship between the FIA and the RVIPF in relation to the analysis, 
+dissemination and investigation of SARs related activities, as well as the relationship between the RVIPF 
+and the ODPP with respect to investigation and prosecution of ML offences.  Additionally, the FIA provides 
+valuable support to the AGC in gathering information relating to legal persons and legal arrangements 
+established in the VI to allow for the AGC to respond to MLA requests. 
+ 
+6.17 Disseminations to the RVIPF by the FIA as a result of SARs filed are usually made in relation to SARs in 
+which a local business has been identified after the FIA has conducted its own operational analysis.  
+Between 2015 and 2019 2,396 SARs were received by the FIA.  Of that total, 631 were related to entities 
+carrying out business within the Virgin Islands while the remaining 1,765 were associated with entities 
+conducting business outside of the Territory. However, based on the most recent data available, only 7 
+disseminations had been received by the RVIPF as a result of the FIA’s analysis of the 631 “local” SARs 
+received.  Six of these were in relation to possible ML, while the other was fraud related.  Additionally, 64 
+disseminations were made to foreign FIUs as a result of SARs received relative to suspicions involving BVI 
+entities operating in other jurisdictions.  This low number of disseminations draws into question the 
+quality of the SARs received and whether sufficient information is being provided to the FIA to allow it to 
+conduct proper analysis, as well as the FIA’s actual ability to adequately analyse reports when received.   
+ 
+6.18 In an effort to improve the quality of SARs received by financial institutions the FIA conducted targeted 
+outreach to MSBs in 2016 which has improved the quality of filings from that sector.  In October 2019, the 
+FIA also published its SARs guidance on its website and presented the document to the Association of 
+Compliance Officers for discussion.  It is hoped that this guidance will aid the FIs in providing better quality 
+SARs to the FIA which in turn may help in their analysis and subsequent dissemination to the RVIPF for 
+investigation. 
+ 
+6.19 The FIA also has the ability to make spontaneous disseminations to other LEAs based on intelligence 
+gathering exercises.  During the reporting period 75 such disseminations were made, 24 of which were 
+sent to the RVIPF, while the majority of the remaining disseminations were provided to LEAs in the US, UK 
+and Brazil, which loosely correlates with the jurisdictions from which a large portion of the Territory’s 
+international cooperation requests emanate.  There are no impediments to the FIA making such 
+disclosures which speaks to a sound level of cooperation between LEAs both locally and internationally.   
+ 
+6.20 With regard to investigations and prosecutions, the RVIPF and the ODPP work closely together, with the 
+ODPP providing ongoing advice to the RVIPF including through the use of case conferences which are held 
+during trials where necessary.  The ODPP has implemented a vetting procedure where any file submitted 
+by the RVIPF is thoroughly reviewed to ensure that the RVIPF have provided sufficient evidence and that 
+all the criteria outlined in the vetting form are met to enable the case to move forward.  Where files are 
+found wanting, they are returned to the RVIPF for further action.  Each vetting form includes a section on 
+the identification of proceeds of crime.  
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 28 of 75 
+ 
+6.21 There were 42 ML investigations conducted between 2015 and 2019 by the RVIPF, however, only 16 
+prosecutions were put forward by the ODPP. This raises issues as to the thoroughness and level of 
+understanding in conducting ML investigations by the RVIPF as well as the level of understanding and 
+willingness of the ODPP to pursue ML cases.  The ODPP does not have any specific procedures for 
+prosecuting ML cases.  It relies on the RVIPF to ensure there is sufficient evidence to show that any related 
+funds are proceeds of crime or were used in the commission of a crime to allow a case to be prosecuted. 
+ML is treated the same as any other charge brought before the ODPP for prosecution.   
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 29 of 75 
+ 
+7. TRANSPARENCY OF BENEFICIAL OWNERSHIP 
+Legal Persons 
+BVI Business Companies 
+7.1 Only TCSPs that are categorised as RAs are permitted to form legal persons in the Territory.  Section 5 of 
+the BVIBCA provides for five types of companies that may be established: 
+• 
+a company limited by shares;  
+• 
+a company limited by guarantee that is not authorised to issue shares;  
+• 
+a company limited by guarantee that is authorised to issue shares;  
+• 
+an unlimited company that is not authorised to issue shares; 
+• 
+an unlimited company that is authorised to issue shares.   
+7.2 A company, subject to section 28 of the BVIBCA and to its memorandum and articles, has full capacity to 
+carry on or undertake any business activity, and may enter into any transaction in so doing.  Companies 
+are also empowered to issue and hold shares, including treasury shares and conduct financial 
+transactions. It is also acceptable for a foreign company to carry on business in the VI through the process 
+of registration.   
+ 
+7.3 In the Virgin Islands there is no distinction between a company established to operate in or from within 
+the Territory.  At the end of 2019, there were 387,344 active BVIBCs on the Companies Register (i.e. in 
+good standing and in compliance with the BVIBCA). On average, however, less than 1% of BVIBCs 
+incorporated annually operate physically in the Virgin Islands.  The number of new BVIBCs incorporated 
+annually between 2015 and 2019 is outlined in Chart 7.1 below.   
+ 
+7.4 Most BVIBCs incorporated in the jurisdiction are created for the purposes of cross-border business, 
+primarily as entities to hold assets or as vehicles for joint ventures which may be linked to the investment 
+sector.  These companies operate mainly in major global economies including Asia, South America, 
+Europe, North America, and to a lesser extent Africa, and their beneficial owners originate from a similarly 
+wide range of countries.   
+ 
+ 
+Chart 7.1: New BVIBC Incorporations: 2015-2019 
+45701
+31591
+32110
+37053
+25782
+2015
+2016
+2017
+2018
+2019
+New BVIBC Incorporations
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 30 of 75 
+ 
+ 
+7.5 A BVIBC must maintain at all times a registered office and RA within the VI. It is also required to maintain 
+at the office of its RA, the memorandum and articles of the company, the register of members, the register 
+of directors 9 and copies of all notices and documents filed by the company.  The company itself is required 
+to keep records of its transactions, and of its financial position.  These records may be kept in written 
+form, hard copies, or in electronic form.  The MLA(TM)A expounds on what records must be maintained 
+and provides guidance in that regard. Further, where records are maintained outside the Territory, the 
+RA of that company must be provided with details of the address where the records are kept and who has 
+control over those records. This allows for access to the information by relevant competent authorities 
+and enables the Territory to provide wide ranging international cooperation support.     
+ 
+7.6 All legal persons incorporated in the Virgin Islands are also obliged to maintain basic ownership 
+information and information about their purpose.  This information must be maintained by the RA who is 
+responsible for maintaining a record of the beneficial ownership of the legal person and for providing it 
+to the authorities. 
+ 
+Bearer Shares 
+7.7 Under the BVIBCA, a company limited by shares can issue bearer shares, but they must be immobilised.  
+All physical bearer shares and information that identify the owner(s) of the bearer shares must be in the 
+possession of either an authorised custodian or a recognised custodian. Custodians can be established 
+either in or outside the VI.  There are currently three persons approved by the FSC to act as authorised 
+custodians.  Since July 2012, an RA of a company that has issued bearer shares is also required to maintain 
+full information on the owners of such bearer shares. This information is made available from the person 
+depositing the share(s) or the custodian, who are required to submit the ownership information to the 
+RA. The obligation on the RA to keep information on the owners of bearer shares ensures that this 
+information is kept by a person within the Territory. There are ongoing discussions towards eliminating 
+the use of bearer shares which would remove the requirement for custodial services. 
+ 
+7.8 Since 2015 there has been an approximately 14% decrease in the number of companies authorised to 
+issue bearer shares.  At December 2019, there were less than 450 companies authorised to issue bearer 
+shares, all of which were incorporated prior to 2019.   
+ 
+Foreign Companies 
+7.9 
+It is also acceptable for a foreign company to carry on business in the VI through the process of 
+registration.  Foreign companies are registered in accordance with section 187 of the BVIBCA, and such 
+companies are registered in the Register of Foreign Companies. A foreign company may be registered 
+under its corporate name or it may be registered in an alternative name for the purposes of carrying on 
+business in the Virgin Islands.  Every foreign company must, upon registration, provide evidence of its 
+incorporation, a certified copy of the instrument constituting or defining its constitution, a list of its 
+ 
+9 The BVI Business Companies (Amendment) Act, 2015 requires a copy of the register of directors to be filed with the Registrar effective from 1st 
+January, 2016. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 31 of 75 
+ 
+directors at the time of the application, and a notice specifying the appointed RA.  Such registrations are 
+uncommon however, with only 19 such companies being registered between 2015 and 2019. 
+ 
+AML/CFT Obligations 
+7.10 The provisions of the PCCA, AMLR and AMLTFCOP apply to all legal persons incorporated or registered in 
+the VI. In this regard, CDD requirements apply in relation to all such legal persons and must be carried out 
+by the RA prior to incorporation and on an ongoing basis during the business relationship. The 
+fundamental elements of CDD require the identification and verification of a customer’s identity, the 
+identification and verification of the beneficial owner, and understanding and obtaining information on 
+the purpose and intended nature of the business relationship as appropriate. Furthermore, all CDD 
+information acquired is required to be maintained for at least a period of 5 years from the date of 
+completion of one-off transactions or linked series of transactions, or from the date of the termination of 
+the business relationship with a customer.10  
+ 
+7.11 In addition, all RAs are required to regularly update CDD information once every year in respect of high 
+risk business relationships and once every four years in respect of low risk business relationships including 
+CDD for legal persons and legal arrangements.11   In circumstances where a business relationship 
+terminates prior to the specified periods for updating CDD information, the RA is obligated to review and 
+update all the CDD information as of the date of termination of the business relationship.12 The business 
+relationship terminates only when the company is dissolved or when the RA takes the active step of 
+terminating the business relationship which may be evidenced by resigning as agent of the company.13 
+Accordingly, so long as the business relationship continues, the RA has a legal obligation to periodically 
+update the CDD information. 
+ 
+Striking Off from the Register 
+7.12 A company that is incorporated or registered under the BVIBCA may be struck-off where the company 
+does not have an RA, fails to make a filing that is required under the BVIBCA, was licensed under financial 
+services legislation and has had its licence cancelled or revoked by the FSC, or where the Registrar is 
+satisfied that the company has either ceased to carry on business, engaged in a licensable activity for 
+which it has not been licensed, or failed to pay its annual fee or a late payment penalty. The striking off 
+process follows a specified procedure outlined in section 213 (3) - (5) of the BVIBCA and the actual striking 
+off of a company from the register takes effect from the date a notice of the striking off is published in 
+the Gazette.   
+ 
+7.13 The number of companies struck from the register of companies from 2015 to 2019 is listed in Table 7.1 
+below. 
+ 
+ 
+ 
+10 Regulation 10 (1) of the Anti-money Laundering Regulations, 2008. 
+11 Section 21 (1) and (2) of the Anti-money Laundering and Terrorist Financing Code of Practice, 2008. 
+12 Section 21 (3) of the Anti-money Laundering and Terrorist Financing Code of Practice, 2008. 
+13 A fee of $25.00 is levied for resigning as RA of a company. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 32 of 75 
+ 
+Company Status 
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+Total 
+95,897 
+112,665 115,664 
+94,089 
+92,500 510,815 
+Table 7.1: Number of Companies Struck from the Register by Status: 2015-2019 
+ 
+7.14 The number of struck-off companies for which RAs remain active is approximately 407,000.  A significant 
+number of these companies can be restored to the register simply by paying the outstanding fees and 
+penalties. Once this is done the companies become in good standing as if they were never struck off. This 
+creates a risk and vulnerability to be used for proceeds of crime. However, at the point of restoration from 
+being struck-off the RA is required to undertake updated CDD to ensure that information such as BO is 
+accurate and up to date. Further, generally the relationship between an RA and a BVIBC is presumed to 
+continue unless the RA gives notice of termination of that relationship and as such, the RA has an 
+obligation to adhere to all record keeping and BO information requirements as well as updating of CDD as 
+specified in the AMLTFCOP. This is an identified vulnerability within the regime as some RAs are unable or 
+unwilling to maintain the required information even though they are legally obligated to do so.   
+ 
+7.15 When a company is struck-off from the register, it effectively ceases to function as a legal entity. In that 
+context, the company and the directors, members and any liquidator or receiver of the company cannot 
+perform any activity in relation to, or in any way deal with the assets of, the company unless they submit 
+an application for the restoration of the company.14 However, the striking of the name of a company off 
+the register does not prevent the company from incurring liabilities, or any creditor from pursuing any 
+claim against the company; in addition, the liability of any of the company’s directors, members, officers 
+or agents is not affected.15  
+ 
+7.16 There are different reasons why a company may be restored to the register. These may include the fact 
+that failure to pay a fee was inadvertent, the need to bring a claim or defend an action or to continue such 
+claim or action, to enable the disposition of assets, and to wind down on specific outstanding transactions. 
+It is in these contexts that an application would normally be submitted to the Registrar to restore a 
+company on the register and a refusal to restore a company may be the subject of an appeal to the High 
+Court.16 
+ 
+7.17 Table 7.2 below provides the number of companies restored to the register of companies for the period 
+2015 to 2019.  
+ 
+ 
+ 
+14 Section 215 (1) and (2) of the Act. 
+15 Section 215 (3) of the Act. 
+16 Section 217 (4) of the Act. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 33 of 75 
+ 
+Year 
+  
+No. of BVIBCs 
+Restored through 
+Court Order  
+  
+No. of BVIBCs 
+Restored through 
+Payment of 
+Annual Fee 
+ 
+No. of BVIBCs 
+Restored through 
+Appointment of 
+Registered Agent  
+ 
+Total 
+  
+2015 
+64 
+7110 
+0 
+7174 
+2016 
+91 
+6967 
+0 
+7058 
+2017 
+89 
+7660 
+0 
+7749 
+2018 
+115 
+7547 
+351 
+8013 
+2019 
+90 
+4127 
+360 
+4577 
+Total 
+449 
+33411 
+711 
+34571 
+Table 7.2: Number of Companies Restored to the Register by Method of Restoration: 2015-2019 
+ 
+Micro Business Companies  
+7.18 The Micro Business Companies Act (MBCA) was brought into force on 4th June, 2018 and introduced a new 
+company regime catering to small businesses, particularly start-ups that may find the requirements of 
+incorporation under the BVIBCA overly onerous and cost prohibitive.  Being a new product, the MBC 
+regime was reviewed in detail in an effort to understand and identify the level of risk it may pose to the 
+jurisdiction. 
+ 
+7.19 An MBC must be incorporated through a registered agent (RA), who is required to conduct the relevant 
+CDD, and ECDD where necessary, as well as carry out its own internal assessment of risk relative to the 
+MBC.  The ability to legitimise one’s business for persons who would not ordinarily be able to establish a 
+traditional corporate structure, and the benefits that could be achieved in so doing make MBCs attractive 
+to a wide range of small entrepreneurs across the globe, given the ease in which an MBC can be 
+established and the cost effective nature of the regime.  The AML/CFT requirements to which an MBC is 
+obliged to adhere to, be it directly through record keeping requirements or indirectly through CDD and 
+other requirements imposed on the RA, allows for greater compliance with global AML/CFT standards by 
+a wider range of entities which cumulatively may be significant to global trade, but which, prior to 
+incorporation as an MBC, could not be monitored in any way for AML/CFT purposes. 
+Identification and Mitigation of Risk 
+7.20 While the regime provides the opportunity for small businesses to be incorporated, thereby limiting the 
+liability of the principle(s), it naturally comes with some level of AML/CFT risk.  Being a form of legal 
+person, this risk however, is not inherently different to that of a regular business company, albeit with 
+some exceptions and in some cases on a much smaller scale. 
+The basic types of money laundering ML risk faced by an MBC are in relation to customer type, product 
+and service offerings, and geographical location. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 34 of 75 
+ 
+Customer Risk 
+7.21 The two areas of identifiable risks in relation to customer type come in the MBC’s ability to: 
+1) fully engage in any type of transaction, however, this is limited to such transactions in connection 
+with the MBC’s specified business purpose17; and  
+2) have PEPs involved in the activities of, or services provided by the MBC.   
+7.22 However, while an MBC has the ability to fully engage in any type of transaction, this is limited to such 
+transactions connected with the MBC’s specified business purpose.  This narrowing of scope provides for 
+a better understand of the activities of the MBC and allows for sounder monitoring by the RA.  
+Additionally, the restriction on the size of the MBC relative to the number of employees and its gross asset 
+value and annual turnover further restricts the potential complexity of the MBC, thereby reducing risk.  
+Given the RA’s obligations to adhere to the requirements of the Code, the issue of PEP exposure should 
+also be minimised by application of ECDD measures.  
+Product/Service Risk 
+7.23 The MBCA restricts an MBC from carrying on any regulated financial service business18. The restriction on 
+engaging in such high-impact activities as banking, and investment and insurance business by entities that 
+may not have the proper resources to aptly provide such services could also be viewed as a way to contain 
+risk associated with these sectors.  The MBCA also gives the FSC the power to prohibit an MBC or class of 
+MBC from engaging in a particular type of business activity19.  This safeguard is aimed at mitigating risk, 
+including ML/TF risk, of activities that the FSC considers outside of its risk appetite to have entities 
+incorporated in the Virgin Islands engaged in. 
+Geographic Risk 
+7.24 An MBC is able to have its primary place of business in, and conduct business from, any jurisdiction outside 
+of the Territory.  This exposes the MBC to the risk of conducting business from jurisdictions, or with 
+entities within jurisdictions that are considered to be high risk.   Monitoring of such risk falls to the RA as 
+part of its obligation to understand its clients’ risks and to assess and risk rate them accordingly for 
+ongoing due diligence purposes. 
+Beneficial Ownership 
+7.25 The risks relative to BO for an MBC are similar to those of any other legal person.   However, the sheer 
+simplicity of the MBC in that the number of shares issuable are limited to the principal and a maximum of 
+five (5) participants who may hold one (1) share each, and which may only be issued in registered form20 
+prevents the use of complex structures involving layers of shares registered to other legal persons.  This 
+restriction eliminates the risk of misuse of bearer shares as such share types cannot be issued.  Further, 
+ 
+17 s.16(1)(a) Micro Business Companies Act, 2017 
+18 s.17(1)(a) MBCA 
+19 s.17(3) MBCA 
+20 s.21(2) MBCA 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 35 of 75 
+ 
+the definition of “principal” and “participant” restricts such shareholders to “natural individual 
+shareholders” thereby eliminating the possibility of shares being held by other legal persons or nominee 
+shareholders.  Participant shares are also non-transferrable and neither they nor the principal’s share may 
+be jointly held or held on trust for another person21.  
+ 
+7.26 To ensure adequate, accurate and up-to-date basic and beneficial ownership information is available the 
+MBCA requires the charter of the MBC to include the name and nationality of the principal and any 
+participants.  The information required to be stated in the charter itself also meets the requirements of 
+the basic information that should be maintained in accordance with Recommendation 24 of the FATF 
+Recommendations with respect to legal ownership and control. The Charter is a publicly available 
+document and thus the information on the principals of an MBC is publicly available.  
+ 
+7.27 Further, any change to the principal share must be reflected through an amendment to the charter and 
+filed with the Registrar of Companies.  Additionally, the MBCA requires an interim return to be filed no 
+later than seven days after a transfer of the principal’s share occurs. These filing requirements allow up-
+to-date BO information to be available in a timely manner by CAs and LEAs should such information be 
+required to further an investigation. 
+RA Obligations 
+7.28 The RA of an MBC has an obligation to identify and manage ML/TF risks relative to its clients and 
+implement AML/CFT controls based on those risks.  Such controls include the filing of suspicious activity 
+reports and adhering to all applicable sanctions requirements.  The RA is also required, as part of its 
+AML/CFT obligations under the AMLTFCOP and the MBCA to maintain verification and transaction 
+documents relative to the MBC and copies of all notices and other documents filed by the MBC for at least 
+five years.   
+ 
+7.29 The MBC itself does have an obligation to keep and maintain records and underlying documentation of 
+the company at either its registered office in the Territory, or at its operational address being its primary 
+place of business.  Where these records are maintained at the operational address the MBC must provide 
+the RA with the physical address of the operational office and ensure that such records are made available 
+to the RA without delay if requested. 
+ 
+7.30 The MBCA was brought into force and later suspended. Therefore, an MBC may not be incorporated in 
+the Territory. Should the MBCA be brought back into force, given the level of identified risk generally 
+associated with an MBC, and the controls in place to mitigate these risks, the product itself could be 
+considered as being low risk for ML.  However, based on the global nature of the activities that an MBC 
+may be used for the ML risk associated with an MBC has been elevated to medium-low.   
+ 
+ 
+ 
+ 
+21 s.6(1)(g) MBCA 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 36 of 75 
+ 
+Legal Arrangements 
+ 
+7.31 With respect to legal arrangements, only two types can be formed in the VI: trusts and limited 
+partnerships. 
+Trusts 
+7.32 The general requirements for trusts are detailed in the Trustee Act, which provides for the duties and 
+powers of trustees.  Trusts themselves are not required to be registered.  Trust service business on the 
+other hand is a regulated activity under the BTCA and is subject to AML/CFT legislative provisions. The 
+requirement to undertake due diligence on trusts and other legal arrangements is contained in the 
+AMLTFCOP and AMLR and is the obligation of the trustee.  Of the 258 licensed TCSPs in the Territory at 
+the end of 2019, 147 have the ability to provide trust business.  For those TCSPs that provide trust business 
+they also offer professional trustee, protector and administrator services.  At the end of 2019 there were 
+6,841 express trusts under administration.  Further, there were 1,545 trusts held under the Virgin Islands 
+Special Trusts Act, 2003 in addition to 1,164 private trusts under administration.  As noted earlier, at the 
+end of 2019 the express trusts under administration were valued at approximately $158.81 billion. 
+VISTAs 
+7.33 The Virgin Islands Special Trusts Act 2003 created a special trust known as a VISTA trust. In establishing a 
+VISTA trust, at least one of the trustees must be A BVI licensed trust company, or a BVI Private Trust 
+Company must act as one of the trustees or the sole trustee. 
+ 
+7.34 A VISTA trust is used purely for the holding of shares in a BVIBC.  The trust assets, therefore, must be 
+shares in a BVI company, which must be transferred into the name of the trustee.  A VISTA trust enables 
+the trustee holding the shares in the BVIBC to distance himself from the management of the BVIBC, as the 
+VISTA trust removes the trustee's obligation from the prudent investor rule and therefore has no 
+obligation to oversee the management of the underlying company.  The responsibility for managing the 
+company lies with the directors.   
+ 
+7.35 The structure of the VISTA reduces the trustees' liability in relation to such high-risk assets as private 
+family company shares.  Where the trust deed contains a provision enabling the application of a VISTA 
+trust, the trustee will hold the shares 'on trust to retain'.  This duty takes precedence over any duty to 
+preserve or enhance the value of the shares of the BVIBC.  It is also possible to add shares from an existing 
+VI trust to a VISTA trust, so that they become subject to VISTA legislation. 
+ 
+7.36 VISTAs are commonly used for people with family owned businesses (especially for a sole 
+director/shareholder) who wish to run their company independently as well as benefiting from a trust's 
+estate planning ability, and for trust assets that are invested in what the trustees would traditionally 
+consider high risk investments (i.e. real estate development/speculation or more risky investment 
+strategies).  Additionally, for people unfamiliar with the concept of trusts, it allows them to have some 
+comfort when transferring assets to a third party that they can continue to manage the underlying assets. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 37 of 75 
+ 
+PTCs 
+7.37 Some companies that act as trustee or provide other trust related services, particularly for a group of 
+related family trusts are recognised as Private Trust Companies (PTC) and are exempted from the licensing 
+requirement under the BTCA. 
+ 
+7.38 The legal framework for the PTC regime comprises three pieces of legislation:  
+1) Financial Services (Exemption) Regulations, 2007;  
+2) BVI Business Companies (Company Names) Regulations, 2007; and  
+3) BVI Business Companies (Amendment of Schedules) Order, 2007.  
+7.39 The Exemption Regulations contain detailed provisions for PTCs, including the requirements imposed 
+upon them, while the Company Names Regulations requires that the name of a BVIBC that is a PTC must 
+end with “PTC” immediately before the normal permitted endings. Further, the BVI Business Companies 
+(Amendment of Schedules) Order sets out the fees for a PTC. 
+ 
+7.40 To qualify as a PTC, the company must be a qualifying BVI Business Company, i.e., a fully compliant BVI 
+Business Company; be a limited company; and the memorandum of the company must state that it is a 
+private trust company.  
+ 
+7.41 PTCs are permitted to carry on trust business that is either unremunerated trust business or related trust 
+business.  Currently, PTCs may not carry on both unremunerated trust business and related trust business 
+at the same time.   There is, however, consideration being given to allow a PTC to carry on both types of 
+business.  A trust is related to another trust where the settlor of the trust is a connected person with 
+respect to the settlor of the second trust. A group of trusts are related trusts where each trust in the group 
+is related to all of the other trusts in the group. 
+ 
+7.42 If a PTC breaches these conditions, it loses the benefit of the licensing exemption. The PTC would then be 
+required to amend its memorandum so that it ceases to be a PTC.  Failure to comply may result in the FSC 
+taking enforcement action against the PTC under the FSCA.  To date, no such actions have ever been taken.  
+However, if this were to occur, the PTC would be required to seek a licence in order to continue to operate. 
+ 
+7.43 The FSC does not approve the exemption of a PTC or carry out direct ongoing monitoring of PTCs. 
+Effectively this is done through the RA of the PTC. A PTC’s RA, which must hold a Class I licence, undertakes 
+the monitoring of PTCs. The FSC therefore imposes certain duties and obligations on RAs of PTCs. The FSC 
+may take enforcement action against the RA, as well as the PTC, including revoking the licence of the trust 
+company where there are breaches of the legislative framework for a PTC.  As with the PTCs themselves, 
+no action has ever been taken against an RA for any such breaches. 
+ 
+7.44 The RA of a PTC must on a risk-based basis, take reasonable steps to satisfy itself that the PTC continues 
+to comply with its obligations and to ensure that all required records relating to a PTC are kept at the 
+office of the RA.  
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 38 of 75 
+ 
+ 
+7.45 Such records include the trust deed or other document creating or evidencing each trust for which the 
+PTC is providing trust business; and any deed or document varying the terms of the trust.  If the RA forms 
+the opinion that the PTC is no longer complying with its obligations it is obligated to notify the FSC of this 
+fact.  
+ 
+7.46 The FSC considers VISTAs and PTCs to be low risk as these products, particularly PTCs, may only be 
+provided by specific classes of licensees. PTCs can only be administered by a Class I licensee while VISTAs 
+can be administered by either a Class I, Class II or Restricted Class II licensee. These licensees are 
+responsible for conducting all relevant CDD and maintaining CDD and BO information in accordance with 
+AML/CFT requirements.  These products have characteristics that are likely to attract use from high risk 
+persons including PEPs, or persons located in high risk jurisdictions. Furthermore, the very nature of the 
+products means that they are used by high net worth individuals who may emanate from high risk 
+jurisdictions. The FSC’s Risk Assessment Framework used to determine the overall risk of each licensee 
+includes the assessment of both PTCs and VISTAs, although the risk of the products themselves has not 
+been assessed since their initial launch.  Monitoring of these products is done as part of the onsite 
+inspection process of the RA by the FSC. 
+Partnerships 
+7.47 Limited partnerships may be formed under the Limited Partnership Act, 2017 (LPA) which replaced the 
+provisions for limited partnerships under the Partnership Act, 1996. A limited partnership is required to 
+have a written limited partnership agreement that provides for the rights and obligations of the partners.  
+Further, the agreement may provide for the affairs of the limited partnership and the conduct of its 
+business and activities.  Upon registration the limited partnership agreement becomes binding as between 
+each partner, including subsequent partners or where the limited partnership has legal personality, 
+between the limited partnership and each partner, including subsequent partners22.  
+ 
+7.48 In order for a limited partnership to be registered, an application in the form of a statement must be filed 
+with the Registrar23.  The statement must include the name of the limited partnership, the name and 
+address of the RA, the address of the registered office within the Territory, the name and address of each 
+general partner, and the term for which the limited partnership is entered into, or if for an unlimited 
+duration, a statement to that effect. Once this information is submitted and verified, and the other 
+requirements of the Act have been complied with, the Registrar would then allow registration of the 
+limited partnership. Between 2015 and 2019 751 limited partnerships were registered. 
+ 
+7.49 A limited partnership must maintain a registered office and RA within the VI at all times24.  Further, the 
+general partners of a limited partnership are required to maintain at the registered office a register of 
+general partners and a register of limited partners, or a record of the address of where such registers are 
+ 
+22 Section 7(3) Limited Partnership Act, 2017 
+23 Section 8(2) LPA 
+24 Sections 18 and 19 LPA 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 39 of 75 
+ 
+maintained25.  Each register is required to include the name and address of each general and limited 
+partner, the date on which a person became a general or limited partner, the date a person ceased to be 
+a general or limited partner, and the particulars of the general or limited partnership interest, if any. The 
+limited partnership is also required to keep financial records and any other underlying documentation of 
+the limited partnership26.  
+ 
+7.50 The LPA does not provide for the establishment of a general partnership. 
+Assessment of Threats 
+7.51 The risk to the Territory from the threats associated with Legal Persons and Legal Arrangements is largely 
+reputational.  Given the global nature of these entities they are highly susceptible to criminal misuse.  
+Between 2015 and 2019 TCSPs filed 1,636 SARs which involved BVIBCs.  This accounted for roughly 68% 
+of total SARs received.  Conversely, BVIBCs themselves filed only 32 SARs with the FIA during that same 
+period which reflects 1.34% of the total SARs filed.  Although only 32 SARs were filed by BVIBCs the 
+transactions identified in those SARs were valued at $34,547,967 and related primarily to issues of fraud, 
+ML and counterfeiting.  SARs involving BVIBCs however, in most cases related to fraud, ML, and tax 
+evasion. 
+ 
+7.52 On average, 10 BVIBCs are named each month in negative news articles, some of which allege the 
+committing of some form of inappropriate or illegal activity by these companies.  However, a number of 
+these reports also relate to matters of a commercial nature resulting from civil litigation and are not 
+indicative of any impropriety on the part of the BVIBC. Allegations that stand to pose the most 
+reputational risk to the Territory include those of opacity, ML and fraud.  Such allegations generally arise 
+from incidents committed outside the jurisdiction and therefore require cross-border cooperation 
+between regulators and other CAs and LEAs to enquire into the validity of the allegations and to seek 
+action in instances where such allegations are proven to be founded. 
+ 
+7.53 The VI has a long history of sound international cooperation at both the formal and informal levels which 
+is outlined in section 6 below.  Both criminal and civil MLA requests involving legal persons and legal 
+arrangements (outside of those involving tax related matters) are handled by the AGC.  During the 
+reporting period the AGC received, on average, 80 MLA requests per year associated with matters 
+involving legal persons or legal arrangements, and were able to respond to 80% of such requests directly 
+based on the information provided in the requests.  Most of the requests involved matters of ML, fraud 
+and tax evasion coinciding with the key foreign predicate offences identified by the RVIPF. 
+ML Vulnerabilities 
+7.54 BVIBCs are used globally for a variety of reasons, but particularly to facilitate legitimate international 
+trade.  As such, they are frequently part of larger, often complex, corporate structures involved in 
+ 
+25 Section 53 LPA 
+26 Section 54 Limited Partnership Act, 2017 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 40 of 75 
+ 
+multifaceted international financial transactions across multiple jurisdictions.  Such structures provide an 
+inherent vulnerability for these entities to be misused for ML, given the high level of non-face to face 
+transactions, and the potential to be used to conceal the source of assets and the identity of beneficial 
+owners many of which are high risk customers, including PEPs and other high net worth individuals.  This, 
+coupled with the potential for them to engage in large cash transactions, and the use of new and emerging 
+technologies, which themselves are, in some instances, considered high risk increase the vulnerability of 
+these entities to exposure and misuse for ML. 
+ 
+7.55 Of the 258 licensed TCSPs, 97 have the ability to act as a Registered Agent for BVIBCs while 88 are licensed 
+exclusively to provide trust related services.  General AML deficiencies identified by the FSC’s compliance 
+inspection process in relation to these TCSPs centred on matters of verification of all types of clients i.e. 
+individual, corporate and trusts, and compliance with CDD measures, reporting of SARs and internal 
+controls.   
+ 
+7.56 While the FSC has identified these deficiencies, the relevant LEAs and CAs have indicated that requests 
+for information from TCSPs on clients needed to fulfil international cooperation obligations is generally 
+forthcoming in a timely manner even in instances where the information may not be held directly by the 
+TCSP.  Both the FSC and FIA have powers to compel information, therefore the instances in which a TCSP 
+would not respond to such requests are few and far between.  Information provided is usually up-to-date 
+and where the TCSP has terminated its relationship with the BVIBC or trust, information is updated and 
+maintained for the statutory period of five years.  In cases where TCSPs request an extension of time to 
+provide the information, this is generally accommodated.  However, if responses are not received within 
+the extended time CAs sometime seek the assistance of the RVIPF to retrieve the information. This is not 
+always followed up by the RVIPF however, and no information was provided as to what course of action 
+the CA would take in such instances.   
+Conclusion 
+7.57 The inherent vulnerability of legal persons and legal arrangements is driven by the complexity of the 
+available structures and the complexity of the international financial transactions they engage in, which 
+heighten the risk of these structures being used to facilitate ML.  Additionally, the potential of these 
+structures to be used to conceal the source of assets and the identity of beneficial owners, the availability 
+of non-face-to-face transactions, and their use by a significant volume of high risk customers, including 
+foreign PEPs also increases their vulnerability to be misused for ML purposes.   
+ 
+7.58 Legal persons and legal arrangements, and more specifically BVIBCs, are the subject of the greatest 
+number of SARs filed with the FIA.  The transactions identified in these SARs relate primarily to possible 
+cases of fraud, ML, counterfeiting and tax evasion.  However, while these transactions may not necessarily 
+be indicative of any overtly illegal behaviour on the part of the involved BVIBCs, the value of these 
+transactions is significant and speaks to whether the BVIBCs and the TCSPs that service them are being 
+manipulated to facilitate non-legitimate transactions that may be linked to ML and other predicate 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 41 of 75 
+ 
+offences.  This poses a great reputational risk to the Territory regardless of whether these activities are 
+eventually found to be of a legitimate nature. 
+ 
+7.59 While no local criminal proceedings for ML have been initiated against any legal persons or legal 
+arrangements registered in the VI, many of the MLA requests, of both criminal and civil natures, received 
+by the AGC generally involve BVIBCs serviced by TCSPs acting as RAs within the Territory.  Most of the 
+requests involve matters of ML, fraud and tax evasion which match directly with the key foreign predicate 
+offences identified by the RVIPF.  Such requests require cross-border cooperation between CAs and other 
+regulators and LEAs which is provided at a level recognised by foreign counterparts to be sufficiently 
+adequate. 
+ 
+7.60 Risk mitigation in place in relation to legal persons and legal arrangements is fostered via measures 
+implemented by the TCSPs that service these structures and have been taken into consideration in the 
+assessment of that sector.  However, while the various control measures currently in place within the 
+TCSP sector have helped to somewhat mitigate the overall risk of legal persons and legal arrangements, 
+the inherent vulnerabilities relating to these structures remain High. 
+ 
+7.61 Each product or service was individually assessed using the risk matrix outlined in the methodology to 
+determine the risk associated with each type of legal person and legal arrangement available in or from 
+within the Virgin Islands. The results of this assessment concluded the following in relation to the level of 
+risk inherent for each (see Table 7.3 below): 
+ 
+Table 7.3: Risk Assessment Ratings for Legal Persons, Legal Arrangements and Emerging Products 
+ 
+7.62 Overall, legal persons and legal arrangements have been assessed as having an ML risk level of High. 
+ 
+ 
+ 
+Product/Service 
+Risk Rating 
+BVI Business Company 
+High 
+Micro Business Company 
+Medium-Low 
+Trusts 
+Medium High 
+VISTAs 
+Medium-High 
+PTCs 
+Medium-High 
+Limited Partnerships 
+Medium-High 
+Emerging Products 
+High 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 42 of 75 
+ 
+8. EMERGING PRODUCTS AND TECHNOLOGIES  
+Virtual Assets, Virtual Assets Services Providers 
+8.1 
+A review of transactions and economic activities, including company formation and other business, 
+indicates that there is an evolving threat from businesses operating in or from with the Virgin Islands that 
+serve as Virtual Asset Services Providers (VASPs) or facilitate the provision of virtual assets (VA), and other 
+emerging products. These products include initial coin offerings, cryptocurrencies, digital assets and the 
+companies that provide services for these type of products. These products and services were reviewed 
+on the basis of the FATF definition of VA and VASPs, including the inherent risks and vulnerabilities 
+identified by the FATF.  
+ 
+8.2 
+The assessment concluded that these products provide substantial risk of money laundering, and that the 
+VA and VASP industries require some level of supervision to mitigate the ML/TF/PF risk that is posed. The 
+assessment took into account: 
+ 
+• 
+Evidence from the Financial Investigation Agency (FIA) on SARs submitted related to VA/VASPs or 
+submitted by them: FIA records reveal that there have been instances of fraud and potential ML 
+using VA and through VASPs. Particularly of interest, the FIA records indicated that a significant 
+number of SARs were filed by one VASP ( a BVI company) that alleges that clients are using the 
+“dark web” and other fraudulent methods, which effectively made identifying the user/customer 
+untraceable; 
+• 
+International corporation requests which reveal that some fraudulent and other financial crimes 
+were alleged to have been committed using VA; 
+• 
+The FSC’s internal intelligence mechanisms, which identified fraud, ML and other financial crimes 
+allegedly being committed using BVI companies issuing VA (effectively initial coin offerings etc.) 
+or BVI companies that act as VASPs; 
+• 
+FSC data which indicated that: 
+o over the past two years it has received a number of requests or enquiries from persons 
+wishing to set up BVI companies for VA purposes, to act as VASPs, and specifically to act 
+as VA exchanges; 
+o it has received a number of requests for information from the general public on whether 
+a number of persons are authorised to issue VA or act as VASPs;  
+• 
+Data which indicated that BVI companies have issued VA and facilitated exchange of such assets 
+through non-face to face means, primarily through electronic exchanges and platforms; 
+• 
+Data which revealed that clients are geographically dispersed; and 
+• 
+Data mined from the internet generally indicated that the VI has been touted as one of the leading 
+jurisdictions in the world for VA transactions.  
+ 
+8.3 
+Under existing financial services legislation, primarily SIBA, some VA and VASPs are required to be licensed 
+and/or authorized. For example, a mutual fund that is set up to operate and hold virtual assets is required 
+to be approved. A BVI legal person or legal arrangement that provides investment business services to 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 43 of 75 
+ 
+these entities would be required to be licensed under SIBA should specific criteria be met. Such criteria 
+would be set out by the FSC as the regulator.  The VI’s vulnerability to money laundering through VA 
+nonetheless exists primarily in that the majority of transactions are generally characterised by non-face-
+to-face customer relationships that offer a higher degree of anonymity than traditional non-cash payment 
+methods. Further, VASPs may also include transfers that are anonymous or pseudo-anonymous making it 
+difficult to identify beneficiaries of the transactions.  
+ 
+8.4 
+The inherent vulnerability of VA and VASPs is assessed as high. With limited mitigating measures, their 
+overall money laundering risk is, therefore, also assessed as High. 
+ 
+Other Emerging Products 
+ 
+8.5 
+In terms of other emerging products, two pieces of legislation were passed in 2020 allowing for gambling 
+and the production of cannabis for medical purposes in the VI. Both products have significantly high 
+inherent ML risk.  This risk, coupled with the jurisdiction’s inherent vulnerabilities, such as the cash 
+intensive nature of many of its sectors, both financial and non-financial, means that the ML risk of both 
+of these products is likely elevated. The VI would, therefore, need to quickly conduct an assessment of 
+the ML risk posed by both of these emerging products to ascertain its level of ML exposure as a result of 
+their introduction into the economy.  
+ 
+8.6 
+Additionally, the Government of the Virgin Islands also imposed a 7% tax on all MSB transactions in 2020.  
+The result of this, based on news reports, indicates that persons are using the services of MSBs less 
+frequently and the value of individual transactions have declined. Such data indicates a clear risk criteria 
+which could lead to the propagation of the underground movement of funds, as persons attempt to find 
+less costly ways to transmit monies to other jurisdictions.  Conversely it may encourage the wider use of 
+the banking sector. The VI would need to undertake further assessment if the threat and vulnerabilities 
+are to be tackled.  
+ 
+8.7 
+The vulnerabilities identified in relation to these emerging products have been assessed as High, while the 
+mitigating controls have been assessed as Low.  Overall, these emerging products have been assessed as 
+having an ML risk level of High. 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 44 of 75 
+ 
+9. BANKING 
+Introduction 
+9.1 The banking sector within the Virgin Islands consists of six commercial banks and one private wealth 
+management institution.  Five of the commercial banks are subsidiaries or branches of international 
+banking groups that are established in a range of jurisdictions with equivalent AML/CFT regimes.  The sixth 
+commercial bank is domestically owned with the majority shareholder being the Government of the Virgin 
+Islands.  No bank in the Territory provides foreign correspondent banking services. However, each bank 
+has relationships with overseas banks that provide the local entities with correspondent banking services. 
+These relationships are critical to the provision of many of the services offered by the local banking 
+institutions.  The banks, therefore, take their AML/CFT responsibilities very seriously in order to ensure 
+that they can maintain their relationships with these institutions.   
+ 
+9.2 At the end of 2019, total income within the banking sector was $92.6 million or approximately 8% of GDP.  
+For the same period, these institutions held assets valued at $2.44 billion with total deposits of $1.97 
+billion.  Market share in terms of deposits is relatively evenly distributed, with no institution holding less 
+than 10 or more than 25% of total deposits (see Chart 9.1 below). Loans were valued at $1.39 billion, 
+$1.29 billion of which is currently outstanding.  Overall, the level of economic activity within the banking 
+sector accounts for approximately 34.1% of economic activity within the wider financial services sector. 
+ 
+ 
+Chart 9.1: Market Share of Deposits by Institution 
+ 
+9.3 These institutions offer a variety of standard products and services including checking and savings 
+accounts, credit cards, residential and commercial mortgages, auto loans, personal loans, time certificates 
+of deposits and wire transfers that support retail, commercial, wealth management, corporate and 
+international transactions.  While most institutions now offer some form of online banking, a vast majority 
+of the business conducted is still conducted face-to-face based on the products and services offered.  
+Cross-border transactions engaged in by the banking institutions, based on the value of reported incoming 
+17%
+11%
+24%
+12%
+21%
+15%
+MARKET SHARE - DEPOSITS
+1
+2
+3
+4
+5
+6
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 45 of 75 
+ 
+and outgoing wire transfers primarily involve transfers to and from North America, Europe (including the 
+UK) and the Caribbean.   
+ 
+9.4 The banking sector also provides services to non-resident persons either directly or through the provision 
+of banking services to legal persons and legal arrangements with BOs and other relevant persons that are 
+clients of TCSPs and non-resident within the Territory. However, overall, the banking sector 
+predominantly provides banking facilities to local residents and businesses.  To put this into perspective 
+the total value of non-resident loans at the end of 2019 was reported at $71.125 million or just over 5% 
+of all total loans currently issued.  Similarly, non-resident deposits accounted for only 14.2% of all deposits.  
+Exposure to high risk customers and PEPs is therefore highly localised to those types of customers resident 
+in the Territory.  Exposure to criminality comes from the universal nature of retail banking transactions, 
+as well as the frequency and speed with which they are conducted. 
+Assessment of Threats 
+9.5 Banks filed a total of 407 SARs were filed between 2015 and 2019. Of this amount 56.8% were associated 
+with suspected ML.  Fraud related activity was the second most common reason for SARs filed during the 
+reporting period with general reporting of suspicious or unusual account activity being third.  Transactions 
+identified in these 407 SARs were valued at $680,628,947 and were related to internationally based 
+business activities conducted primarily by non-resident legal persons.  While the banking sector is 
+responsible for approximately 17% of the total SARs filed between 2015 and 2019, the value of the related 
+transactions account for less than 1% of the total value of reported banking transactions.  The value of 
+the reported SARs also made up less than 1% of the total value of all reported SARs.   
+ 
+9.6 The FIA has reported that most SARs involving local businesses are filed by banks and involve large cash 
+transactions, unusual large deposits and comingling of accounts.  While the FIA has indicated that the 
+banks have a good understanding of their risk, which is reflected in their ability to identify such 
+transactions, these SARs are not always filed timely based on when transactions occur.  This makes it 
+difficult to conduct timely analysis and investigations, thereby stymying the jurisdiction’s ability to 
+effectively freeze, seize and take the proceeds out of crime in a timely manner.  Data provided does not 
+show any seizures or forfeitures resulting from any SARs filed.  This is a clear vulnerability in the wider 
+AML/CFT regime and may be as a result of the lack of disseminations of SARs from the FIA to the RVIPF 
+for investigation. 
+ML Vulnerabilities 
+9.7 According to the FATF the banking products/services that pose the greatest risk of money laundering are 
+private banking, anonymous transactions, remote business relationships or transactions, and payment 
+received from unknown or un-associated third parties27. Consequently, banking carries a high level of 
+inherent ML risk based on the scope of its role in the financial sector, high transaction volumes and 
+susceptibility of its products to abuse in concealing illegal transactions, particularly at the layering and 
+ 
+27 FATF Specific Risk Factors in Laundering the Proceeds of Corruption, 2012 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 46 of 75 
+ 
+integration stages of ML.  However, in the VI the banking sector does not engage in these types of activities 
+and therefore some of those risks are mitigated by controls.  
+ 
+ 
+9.8 
+All of the commercial banks have been subject to AML/CFT compliance inspections.  The results of these 
+inspections found that AML deficiencies related to verification procedures and updating of CDD 
+information, particularly in relation to high risk clients, employee training, SARs analysis, and lack of access 
+to Board by compliance officers and senior management.   
+ 
+9.9 
+While most of these institutions have been rated as having inherently medium-high risk based on their 
+operations, the supervisor considers this sector to be largely knowledgeable of its AML/CFT requirements.  
+As a result of this sound understanding of their AML/CFT risks and obligations, there have been no 
+AML/CFT related enforcement actions taken against any of the Territory’s banking institutions during the 
+reporting period.   
+ 
+9.10 Based on the products and services offered by the banking institutions within the Territory, including the 
+level of non-resident loans and deposits, it was concluded that most PEPs utilising these services are 
+domestic PEPs consisting of government officials and other individuals holding high level positions in 
+statutory corporations, along with their close associates and family members.  Foreign PEPs are mostly 
+connected to an account operated by a legal person for which the PEP may be the beneficial owner and 
+director.  
+Conclusion 
+9.11 The banking sector in the Virgin Islands is small in comparison to other jurisdictions.  However, the sector 
+plays an integral part within the local financial services sector, with operations at both the domestic and 
+international levels.  The products and services offered are standard banking related products and services 
+and are not of an overly complex nature.  The volume of transactions conducted, however, is of a 
+substantial nature in the context of the size of both the sector and the jurisdiction.   Most customers are 
+attained through face-to-face contact as majority of customers are resident within the Territory, with a 
+high percentage of transactions also being conducted face-to-face.  There is a gradual shift to more non-
+face-to-face transactions as online services are becoming more readily available through most of the 
+entities within the sector.   
+ 
+9.12 Based on the demographics of the population and the cross-border nature of the financial services 
+industry there is the potential for some of the activities within the sector to involve high risk jurisdictions, 
+however, the volume of such activities is small and are not conducted on a regular basis.  Further, any 
+associated risk is fairly well mitigated through the imposition of the requirements laid out in the 
+AMLTFCOP in dealing with high risk countries and the review of such measures by the FSC during the 
+onsite inspection process.   
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 47 of 75 
+ 
+9.13 While the banking sector is responsible for 17% of all SARs filed there have been no criminal proceedings 
+taken against any of the licensees themselves during the reporting period, neither have there been any 
+regulatory enforcement actions taken by the FSC.  The susceptibility for abuse of this sector appears to be 
+mitigated through the sector’s understanding of its AML/CFT obligations, particularly in relation to its 
+compliance with identification and verification procedures and maintenance of BO information. 
+ 
+9.14 The vulnerabilities within the banking sector were rated as Medium-Low.  These vulnerabilities were 
+mitigated by a High level of control factors.  The banking sector has, therefore, been assessed as having 
+an ML risk level of Medium-Low. 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 48 of 75 
+ 
+10. FINANCING BUSINESS  
+ 
+Introduction 
+ 
+10.1 The licensing and regulation of FB in the VI began in 2009 with the passage of the FMSA.  Only FBs that 
+operate physically in the VI are subject to authorisation and supervision. FB includes the provision of a 
+wide range of services, from credit, including pay day advances, or consumer finance loans under a 
+financing agreement to a borrower in the Virgin Islands, leasing property under financing lease 
+agreements, cheque cashing and international financing and lending.  Since the coming into force of the 
+FMSA, only three FB licences have been issued.  All three are relatively small with client bases that are 
+generally connected, such as employees. These three FBs serviced approximately 1,000 clients in 2019. 
+On average, around 51 total transactions are executed on an annual basis.   The average value of these 
+transactions is $113,000. However, one FB is responsible for approximately 85% of the value of these 
+transactions, while the remaining 15% is split between the other two licensees.  
+ 
+Assessment of Threats 
+ 
+10.2 FBs filed no SARs during the reporting period. Given the nature of the current licensees and the products 
+and services offered, as well as the close connection of clientele it is not surprising that no SARs were 
+filed. The threat of laundering associated with financing business is mainly the taking out of loans for the 
+sole purpose of swiftly repaying them using the proceeds of crime.  However, given the nature of clientele 
+of the existing FBs this is highly unlikely to be attractive. Further, the threat of ML is mitigated by the fact 
+that services are offered to local residents on a face-to-face basis. 
+ML Vulnerabilities 
+10.3 All financing business is conducted face to face and high-risk customers and PEPs utilising these services 
+are domestic in nature.  During the reporting period two of the three licensees were subjected to onsite 
+inspections.  Based on its engagement the supervisor considers this sector to have a satisfactory 
+knowledge of its AML/CFT requirements.  Additionally, no enforcement action was taken against FBs 
+during the period.  
+ 
+Conclusion 
+10.4 The FB sector is small with only three participants and the services provided are currently limited to the 
+provision of small, short term loans to connected persons or payment plans for insurance premiums. 
+Given the nature of the business, transactions are generally conducted face-to-face and do not involve 
+high risk jurisdictions based on the demographics of the customer base.  No regulatory enforcement 
+actions have been taken by the FSC in relation to FBs and there have been no criminal proceedings taken 
+against any FBs during the reporting period.   
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 49 of 75 
+ 
+10.5 The vulnerabilities within the financing business sector have been assessed as Low while the mitigating 
+factors within the sector have been determined to be at the top end of the Medium-Low scale.  The 
+financing business sector has been assessed as having an overall ML risk level of Low. 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 50 of 75 
+ 
+11. MONEY SERVICES 
+Introduction 
+11.1 The licensing and regulation of MSB in the Virgin Islands began in 2009 with the passage of the FMSA.  
+MSB includes the provision of a wide range of services, from money transmissions, cheque cashing, 
+issuance, sale and redemption of money orders and traveller’s cheques, and operation of a bureau de 
+change.  Since the coming into force of the FMSA, only 2 money services licences have been issued.  These 
+two entities are part of large international money transfer organisations with operations throughout the 
+wider Caribbean region and beyond.  They currently provide money transmission services through two 
+branches and three representative offices. 
+ 
+11.2 Outward money transfers constitute the greatest number of transactions recorded, accounting for 92.68% 
+of all transactions and valued at approximately $84.075 million.  The average value of outgoing 
+transactions is $288.00. Incoming transfers average approximately $5.967 million per annum or roughly 
+7.32%.  Given the demographic composition of the Territory this imbalance between incoming and 
+outgoing transfers is not unexpected. The level of economic activity within the MSB sector currently 
+accounts for less than 5% of economic activity within the wider financial services sector. 
+ 
+11.3 The core markets for MSBs within the Virgin Islands are non-resident workers repatriating funds to their 
+home countries and residents sending money abroad primarily for business and educational support 
+purposes.  Majority of MSB clients have been identified as construction workers, labourers and low-
+income earners.  The top jurisdictions receiving outward transfers are the Dominican Republic, Jamaica 
+and Guyana.  This is aligned to the size of these immigrant populations which rank in the top 5 jurisdictions 
+from which the labour force in the VI is sourced.   
+Assessment of Threats 
+ 
+11.4 MSBs filed 201 SARs between 2015 and 2019, of these 23.4% were directly related to ML suspicions while 
+the remainder of the reports covered a variety of other suspicious activities.  Other suspicious activities 
+included general suspicious transactions, high dollar senders to high risk jurisdictions, unusual account 
+activity. SARs filed by MSBs accounted for 8.39% of all SARs filed between 2015 and 2019.  The value of 
+the transactions identified in the reported SARs totalled $1,873,803, which was less than 1% of total 
+outgoing MSB transactions, and less than 1% of the total value of all reported SARs.  The greatest 
+proportion of these SARs were filed in 2017 following the impact of Hurricanes Irma and Maria during 
+which time access to normal banking operations were limited, which led to a greater use of MSBs to 
+execute financial transactions. 
+ML Vulnerabilities 
+11.5 SARs received from the sector when it initially came under regulation were not of a high quality and were 
+reported to be defensive in nature.  This was identified partly as a result of a lack of understanding of their 
+obligations.  To improve the quality of SARs the FIA conducted targeted outreach to MSBs in 2016 which 
+has improved the quality of filings from this sector.   
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 51 of 75 
+ 
+ 
+11.6 All money services business is conducted face to face.  High risk customers and PEPs utilising these services 
+would, therefore, expected to be resident persons.  
+ 
+11.7 The supervisor considers this sector to be largely knowledgeable of its AML/CFT requirements, and both 
+licensees have undergone compliance inspections.  The AML deficiencies identified during the compliance 
+inspection process, however, indicate weaknesses in relation to the proper conduct of risk assessments 
+on clients, and the execution of ECDD measures.   
+ 
+11.8 There were three enforcement actions taken against MSBs during the reporting period, including the 
+issuance of two administrative penalties totalling $15,000 and one warning letter28.  The enforcement 
+actions accounted for 2.83% of all AML/CFT related enforcement actions recorded during the reporting 
+period, with the value of the imposed administrative penalties accounting for 1.886% of the total value of 
+such penalties.     
+Conclusion 
+11.9 MSBs account for a large volume of cross-border transactions.  The sector itself is small with only two 
+participants and the services provided are currently limited to money transfer services. Given the nature 
+of the business, transactions are generally conducted face-to-face.  However, some transactions may 
+involve high risk jurisdictions based on the demographics of the customer base, although such 
+transactions are not conducted on a regular basis.   
+ 
+11.10 During the initial NRA the MSB sector was assessed as high risk.  At that time the regulatory regime in 
+place for MSBs was in its infancy and licensees were not as familiar with their AML/CFT requirements as 
+they are now.  As such, many of the necessary policies, procedures and control measures were not in 
+place or were not as effective as they were required to be.   Since then, based on compliance and outreach 
+programmes engaged in by the FSC and FIA respectively the level of understanding of AML/CFT obligations 
+by the MSB sector has improved.   
+ 
+11.11 Few regulatory enforcement actions have been taken by the FSC in relation to MSBs and there have been 
+no criminal proceedings taken against any MSBs during the reporting period.  While money transfer 
+services are inherently considered to be of higher risk than other financial services business, the 
+susceptibility for abuse of this sector appears to be mitigated through the sector’s understanding of its 
+AML/CFT obligations.  Inspections have found the level of risk mitigating procedures within the sector to 
+be adequate, as is its compliance with the requirements of the AMLTFCOP in relation to identification and 
+verification measures and maintenance of BO information.  However, as transactions tend to be one-off 
+there is potentially a higher level of risk associated with the verification of BO information as such 
+verification is generally only conducted on high risk customers or on transactions above the specified 
+threshold amount. 
+ 
+28 A warning letter is a form of enforcement action available to the FSC. Such letter informs the licensee that the 
+FSC has considered the breach and decided that a warning is more appropriate. A warning general informs the 
+licensee that any future breaches including breaches of the same legislation will likely incur a more severe penalty.  
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 52 of 75 
+ 
+ 
+11.12 The vulnerabilities and controls within the money services sector were assessed at the top end of the 
+Medium-Low scale.  The result is that the money services sector has been assessed as having an ML risk 
+level of Medium-High. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 53 of 75 
+ 
+12. INSURANCE 
+Introduction 
+12.1 Entities seeking to carry out insurance business in or from within the Virgin Islands must be licensed under 
+the Insurance Act, 2008.   Applicants may apply for a licence in one of the classes listed in Table 12.1 
+below.  The table also indicates the number of licensed insurance entities operating in or from within the 
+Virgin Islands within each class as of 31st December, 2019. 
+TYPE OF LICENCE 
+SCOPE OF BUSINESS 
+Number of Licensees 
+(as at Dec 31 2019) 
+Domestic Insurers 
+ 
+39 
+    Category A 
+Licensee must be a BVIBC and may carry on 
+insurance business including domestic insurance 
+business 
+5 
+    Category B 
+Licensee must be a company incorporated, 
+registered or formed outside the jurisdiction and 
+may carry on insurance business in the Virgin 
+Islands including domestic insurance business 
+34 
+Captive Insurers 
+ 
+59  
+    Category C  
+Licensee must be a BVIBC and may carry on 
+insurance business that is not domestic business, 
+including non-open market reinsurance business 
+58 
+(includes 54 insurers 
+and 4 SPCs) 
+    Category D 
+Licensee must be a BVIBC and may carry on 
+reinsurance business including open market 
+reinsurance business 
+0 
+    Category E 
+Licensee must be a BVIBC and may underwrite 
+related party business only 
+1 
+    Category F 
+Licensee must be a BVIBC and may underwrite 
+related party business, with a maximum  unrelated 
+party business underwritten to qualify as an 
+insurer for a purpose allowable under the laws of 
+a foreign jurisdiction 
+0 
+Insurance Managers 
+May provide insurance expertise to any insurer of 
+which he is not an employee or who exercise such 
+other functions with respect to insurers as may be 
+specified in the Insurance Regulations 
+7 
+Insurance Intermediaries  
+ 
+18 
+    Insurance Agents 
+May solicit applications for insurance, negotiate 
+for insurance business or provide advice to clients 
+once appointed or authorised by an insurer, but 
+excludes an individual who is an employee of the 
+insurer 
+14 
+    Insurance Brokers 
+May act as an independent contractor or 
+consultant and who, for commission or other 
+compensation; solicits or negotiates insurance 
+business, including the renewal and continuance 
+4 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 54 of 75 
+ 
+of such business, on behalf of an insured or a 
+prospective insured other than himself; provides 
+advice to clients concerning their insurance 
+requirements; or brings together persons seeking 
+insurance and insurers 
+Loss Adjusters 
+May, for commission or other compensation, 
+investigate and negotiate the settlement of claims 
+under insurance contracts solely on behalf of 
+either the insurer or the insured provided he or 
+she is not an employee of the insurer or agent 
+while acting on behalf of the insurer or agent 
+16 
+Total 
+ 
+139 
+Table 12.1: Number of Insurance Business Licensees by Licence Type 
+ 
+12.2 A large portfolio of insurance business in the VI relates to the provision of life and health insurance, and 
+property and casualty insurance business which applies mainly in relation to persons and property in the 
+Territory.  The greater portion of clients for both domestic and captive insurers and insurance managers 
+originate in the US (see Charts 12.1 and 12.2 below).  However, based on licensing restrictions in relation 
+to the provision of insurance services within the Territory, the client base for insurance intermediaries is 
+100% locally based.  
+ 
+    
+ 
+     Chart 12.1: Client Base – Domestic Insurers 
+ 
+ 
+Chart 12.2: Client Base – Captive Insurers 
+ 
+ 
+12.3 Most recent data as at the end of 2018 value the gross assets held by captives at $1.18 billion. For that 
+same period gross premiums held by captives totalled $306.51 million while total claims were reported at 
+$73.61 million.  Total value of premiums held by domestic insurers at the end of 2018 was $184.93 million 
+whilst claims totalled $831.07 million.  The disparity in the value of domestic claims in 2018 is a direct 
+result of the catastrophic damage caused by the hurricanes of 2017.  Overall, the level of economic activity 
+within the insurance sector accounts for approximately 4.1% of economic activity within the wider 
+financial services sector. 
+ 
+ 
+Client Base - Domestic Insurers
+USA
+Eurpoe
+Caribbean
+BVI
+Client Base - Captive Insurers
+USA
+South America
+Europe
+Caribbean
+BVI
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 55 of 75 
+ 
+Assessment of Threats 
+12.4 For the period 2015 to 2019, 17 SARs were filed by entities within the insurance sector. The majority 
+(23.5%) of which identified matters of possible fraud. These SARs accounted for less than 1% (0.71) of the 
+total SARs filed within the financial services sector.  The value of these reported transactions was 
+$2,402,098, which also is far less than 1% of the total value of SARs filed for the reporting period.  No 
+criminal prosecutions, convictions or confiscations involving entities within the local insurance sector.   
+ML Vulnerabilities 
+12.5 Given the nature and the way in which captive insurers operate they are internationally considered low 
+risk institutions and were identified as low risk during the NRA.  However, while insurance licensees 
+providing domestic insurance business other than life and investment-related insurance business 
+appeared to pose a low risk during the NRA, due to some key risk factors indicating a higher level of risk, 
+the overall risk for the insurance sector was rated as medium. 
+ 
+12.6 Between 2015 and 2019 FSC conducted 17 full inspections on insurance licensees and 6 thematic 
+inspections which included a review of AML/CFT matters.  The most frequent AML/CFT deficiency 
+identified was in relation to lack of proper verification procedures carried out with regard to legal persons.    
+In some instances proper documentation establishing the validity of the legal person was not sought and 
+it was, therefore, difficult to determine whether persons presenting themselves as principals were in fact 
+beneficial owners of the legal persons.   
+ 
+12.7 A total of $45,000 was imposed in AML/CFT related administrative penalties stemming from eight penalty 
+actions taken in 2016 and 2017 surrounding failures relative to internal controls, CDD and ECDD 
+requirements.  In addition, four warning letters, two cease and desist orders and two public statements 
+were issued between 2016 and 2018.  Further, a total of 8 licences were revoked between 2016 and 2017.  
+This notwithstanding, the supervisor feels that the insurance licensees are largely knowledgeable of their 
+AML/CFT obligations, particularly in relation to CDD and record keeping requirements. 
+ 
+12.8 The nature of the insurance business in the Virgin Islands is relatively localised.  As such, PEPs utilising 
+these services are generally local PEPs consisting of government officials and other individuals holding 
+high level positions in statutory corporations, along with their close associates and family members.   
+Conclusion 
+12.9 The size and nature of insurance business within the Territory does not provide any evidence that the 
+sector is highly susceptible to or has been used for ML purposes.  The captive insurance sector is small 
+and inherently low risk and the products and services offered through domestic insurance companies and 
+intermediaries are limited to the relatively vanilla type offerings noted above.  Most business is conducted 
+through face-to-face contact and cash transactions are limited to the payment of premiums by some 
+customers.   
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 56 of 75 
+ 
+12.10 The instances of involvement of this sector in suspicious activities is low and no criminal proceedings have 
+been taken against any licensee within the sector.  However, 22.6% of all AML/CFT related enforcement 
+actions recorded during the reporting period were attributed to the insurance sector.  The value of the 
+imposed administrative penalties; however, only accounted for 5.6% of the total value of such penalties.  
+The vulnerabilities within this sector, therefore, appear to be relatively low.   
+ 
+12.11 Conversely, the sector has demonstrated a high level of understanding of requirements relative to general 
+CDD and BO identification and verification, and the identification of sources of wealth and funds of its 
+clients.  However, identified deficiencies related to verification procedures relative to legal persons need 
+to be addressed.  Further, the supervisor has indicated that it finds the level of risk mitigating procedures 
+within the sector to be adequate and no evidence to the contrary was found during the assessment.  
+ 
+12.12 Overall, the vulnerabilities within the insurance sector were assessed as Medium-Low, while the 
+mitigating factors were identified to be Medium-High.  The insurance sector has been assessed as having 
+an ML risk level of Medium-Low. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 57 of 75 
+ 
+13. TRUST AND CORPORATE SERVICE PROVIDERS (TCSPS) 
+Introduction 
+13.1 Given the importance of the Trust and Corporate Services Providers sector to the Virgin Islands’ economy 
+and the volume of business conducted from within the Territory by this subsector, the Territory has, since 
+1990, classified such entities as financial institutions and licensed and regulated them in accordance with 
+the Banks and Trust Companies Act, 1990 and the Companies Management Act, 1990.   
+ 
+13.2 Entities seeking to operate under the BTCA or CMA may apply for a licence in one of the classes listed in 
+Table 13.1 below.  The table also identifies the number of entities holding licenses in each licence class at 
+the end of 2019.  
+CLASS OF LICENCE 
+SCOPE OF BUSINESS 
+Number of Licensees 
+Class I Trust Licence 
+Trust business and company management business, 
+without restrictions.  May act as a Registered Agent (RA). 
+59 
+Class II Trust Licence 
+Trust business only.  May not act as RA. 
+28 
+Class III Licence 
+Company management business only.  May act as RA. 
+20 
+Restricted Class II 
+Trust Licence 
+Trust business only. Restricted to a maximum 50 trusts 
+under administration.  May not act as RA 
+60 
+Restricted Class III 
+Licence 
+Can only provide directors and other officers and 
+nominee shareholders for BVIBCs. May not act as RA. 
+73 
+Company 
+Management 
+Company Management business only (ownership 
+restriction).  May act as RA. 
+18 
+Total 
+ 
+258 
+Table 13.1: Number of TCSP Licensees by Licence Type 
+ 
+13.3 A number of the TCSPs that operate in the VI are part of larger groups of companies operating either 
+locally or in other international finance centres where they are licensed or authorised.  Many TCSPs are 
+also affiliated with legal or accounting firms also operating within the Territory.  Of the 258 licensed TCSPs 
+approximately 30 are independent operators. 
+ 
+13.4 TCSPs offer a variety of services which include company administration, accounting services, ship 
+registration, trustee and protector services, incorporations through the provision of RA services, and 
+provision of directors and nominee shareholder services.  The customer base of the TCSP sector spans a 
+broad geographical area with some business relationships involving significant asset values.  Most BVIBCs 
+incorporated in the jurisdiction are created for the purposes of cross-border business, primarily as entities 
+to hold assets, or as vehicles for joint ventures.  The business activities involving these BVIBCs range the 
+full gamut of international business, including shipping, pharmaceuticals, technology and manufacturing, 
+and as such, they play an integral role in legitimate international trade. 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 58 of 75 
+ 
+13.5 TCSPs that are categorised as RAs are the only entities permitted to incorporate or register BVIBCs and 
+limited partnerships. At the end of 2019, of the 259 TCSPs licensed in the Territory, 98 provided RA 
+services to 387,344 clients who are currently active on the Companies Register (i.e. in good standing and 
+in compliance with the BVIBCA). Typically, the clients of TCSPs comprise persons that are resident and 
+non-resident in the Territory, with the latter constituting the larger majority of their clients.  Non-resident 
+clients emanate geographically from most major global economies including those in Asia, South America, 
+Europe, North America, and to a lesser extent Africa.   
+ 
+13.6 There are 147 TCSPs that are licensed to provide trust business.  Trust business also includes offering 
+professional trustee, protector and administrator services.  At the end of 2019 there were 6,841 express 
+trusts under administration by TCSPs.  Further, there were 1,545 trusts held under the Virgin Islands 
+Special Trusts Act, 2003 in addition to 1,164 private trusts under administration29.  At the end of that 
+period the trusts under administration were valued at approximately $158.81 billion. 
+Assessment of Threats 
+13.7 The TCSP sector is the primary gateway to the Virgin Islands’ international financial services sector.  TCSPs 
+international client base, the corporate and legal structures facilitated by TCSPs, as well as the other 
+services provided, are attractive to international criminals who wish to obscure ownership of property, 
+evade foreign taxes or obscure the criminal origins of the property.  As gatekeepers TCSPs are obligated 
+to know their clients and understand the businesses they engage in.  As with all FIs, they are also obligated 
+to report any unusual or suspicious activities of their clients to mitigate any threats that these activities 
+may pose. 
+ 
+13.8 In the Virgin Islands, TCSPs are responsible for filing the majority of SARs received by the FIA.  Between 
+2015 and 2019 TCSPs filed 1,636 SARs, or roughly 68% of total SARs received. The transactions identified 
+in these SARs were valued at $187 billion and accounted for 99% of the value of all reported SARs. The 
+majority of these reports resulted from suspected activities involving the business companies for which 
+the TCSPs provide services. This is not surprising given the international nature of BVIBCs and the use of 
+such structures to facilitate international trade, which requires legitimate transactions involving large 
+sums of money to be executed.  The threat, however, may not be based solely on the volume of the 
+reported transactions, but also in whether the TCSPs and their BVIBC clients are being manipulated to 
+facilitate non-legitimate transactions linked to ML and other predicate offences. The general infractions 
+identified in the SARs related to fraud, tax evasion and ML, in addition to failing to provide due diligence 
+information.   
+ML Vulnerabilities 
+13.9 Globally, TCSPs are deemed to have a high vulnerability to ML risks and have been found complicit in 
+setting up corporate vehicles that were misused for money laundering30.  In the Virgin Islands some of this 
+risk has been mitigated through the strict regulation and supervision of TCSPs which, as noted above, are 
+ 
+29 See section 6 for a detail description of PTCs.  
+30 FATF, Money Laundering Using Trust and Company Service Providers, Oct 2010 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 59 of 75 
+ 
+considered to be financial institutions for AML/CFT purposes.  They are, therefore, subject to the same 
+stringent regulatory requirements as all other FIs.  As a result, the 2016 NRA exercise found the TCSP 
+sector to be at medium risk for ML/TF. 
+ 
+13.10 A sufficiently large number of PEPs and other high-risk individuals utilise products and services offered by 
+TCSPs for estate planning purposes and to ensure confidentiality in business transactions.  This increases 
+the vulnerability of this sector to misuse by such persons who may wish to use the available products and 
+services to facilitate corrupt and other illegal behaviour. 
+ 
+13.11 Between 2015 and 2019 thirty-three (33) full compliance and 18 thematic inspections focused on AML 
+related matters were conducted as highlighted in Table 13.2 below.  This number appears low given the 
+number of licensees within this sector, however, in the years preceding the reporting period the FSC 
+conducted a large number of full and AML/CFT focused inspections.  Those inspections aided the FSC in 
+narrowing its scope by identifying those TCSPs that needed further inspections based on the level of risk 
+identified.  Further, the reduction in the number of inspections carried out in 2018 and 2019 was as a 
+result of the impact of the 2017 hurricanes which displaced a number of licensed entities and caused 
+business disruptions.   
+ 
+2015 
+2016 
+2017 
+2018 
+2019 
+TCSPs (full) 
+7 
+11 
+10 
+2 
+3 
+TCSPs (thematic) 
+18 
+0 
+0 
+0 
+0 
+Total 
+25 
+11 
+10 
+2 
+3 
+Table 13.2: Number of Compliance Inspections Carried Out in the TCSP Sector: 2015-2019 
+ 
+13.12 The general AML/CFT deficiencies identified by the FSC’s compliance inspection process centred on 
+matters of verification of all types of clients, compliance with CDD measures, reporting of SARs and 
+internal controls.  As a result of these inspections and other desk-based monitoring, a total of $692,500 
+was imposed in penalties based on the issuance of 35 AML/CFT related administrative penalties.  An 
+additional $10,000 was also imposed for non-AML/CFT related infractions. Additional actions included the 
+issuance of 6 warning letters and 28 directives (see Table 13.3 below). 
+ 
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+Administrative Penalties 
+0 
+8 
+25 
+2 
+0 
+35 
+Directives 
+0 
+0 
+27 
+0 
+1 
+28 
+Warning Letters 
+1 
+0 
+4 
+0 
+1 
+6 
+Total 
+1 
+8 
+56 
+2 
+2 
+69 
+Table 13.3: Number of Enforcement Actions Taken Against TCSP Licensees: 2015-2019 
+ 
+13.13 Overall, the supervisor feels that the TCSPs are largely knowledgeable of their AML/CFT obligations. 
+ 
+13.14 Unlike the other sectors, more than 95% of the TCSP’s client base (i.e. BVIBCs and other legal persons and 
+legal arrangements) conduct business outside of the Virgin Islands.  The level of non-face-to-face business 
+is therefore high as many TCSPs rely on third party introductions when taking on clients and executing 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 60 of 75 
+ 
+transactions.  Even in instances where TCSPs have a large end-user clientele many of the transactions 
+executed are done on a non-face-to-face basis.  This increases the vulnerability of the TCSP sector to 
+abuse.  This is mitigated through the requirement to have third party agreements and to test these 
+relationships to ensure that information being maintained on behalf of the TCSP is accurate and up to 
+date.  Legislatively, the TCSP is ultimately responsible for collecting CDD and BO information and may be 
+subject to penalties for failing to maintain accurate records in relation thereto.   
+Conclusion 
+13.15 The inherent vulnerability of TCSPs is driven by the large number of companies under TCSP management, 
+the ability to establish complex corporate structures that may facilitate ML, and the complexity of the 
+international financial transactions engaged in by clients.  Additionally, the vulnerability of TCSPs to be 
+misused for ML purposes is increased by the potential for legal persons and legal arrangements to be used 
+to conceal the source of assets and the identity of beneficial owners, the availability of non-face-to-face 
+transactions, and the significant volume of high risk customers, including foreign PEPs.   
+ 
+13.16 The TCSP sector accounts for the greatest number of SAR filings, which resulted primarily from suspected 
+activities involving the BVIBCs for which the TCSPs provide services.  While the transactions identified in 
+these SARs may not necessarily be indicative of any overtly illegal behaviour on the part of the involved 
+BVIBCs, the value of these transactions is significant and speaks to whether the TCSPs and their clients are 
+being manipulated to facilitate non-legitimate transactions that may be linked to ML and other predicate 
+offences.  This poses a great reputational risk to the Territory regardless of whether these activities are 
+eventually found to be of a legitimate nature. 
+ 
+13.17 While no local criminal proceedings have been initiated against any licensee within the sector, 
+enforcement actions taken against TCSPs accounted for 65.1% of all enforcement actions taken.  These 
+actions resulted in the imposition of over $690,000 in administrative penalties as a result of deficiencies 
+in verification procedures, compliance with CDD, BO and internal controls measures, and the reporting of 
+SARs.  The value of the imposed administrative penalties accounted for 86.56% of the total value of such 
+penalties.   
+ 
+13.18 Additionally, MLA requests of both criminal and civil natures received by the AGC generally involve BVIBCs 
+serviced by TCSPs acting as RAs within the Territory.  Most of the requests involve matters of ML, fraud 
+and tax evasion coinciding with the key foreign predicate offences identified by the RVIPF.  TCSPs generally 
+respond to requests for information to facilitate these MLA requests in a timely manner, indicating their 
+understanding of the importance of their role and the need to maintain up-to-date information. 
+ 
+13.19 Overall, the sector has demonstrated a satisfactory level of understanding of its requirements relative to 
+general CDD and BO identification and verification, identification of sources of wealth and funds of its 
+clients, and record keeping measures as well as requirements relative to establishing and maintaining 
+third party relationships.  The supervisor has also indicated that it finds the level of risk mitigating 
+procedures within the sector to be adequate.  However, while the control measures currently in place 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 61 of 75 
+ 
+within the sector have helped to somewhat mitigate the overall risk, the inherent vulnerabilities within 
+this sector remain high.   
+ 
+13.20 The assessment of the vulnerabilities resulted in a rating of High, while the mitigating controls were 
+assessed as Medium-Low.  Overall, the TCSP sector has been assessed as having an ML risk level of High. 
+ 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 62 of 75 
+ 
+14. INVESTMENT BUSINESS 
+Introduction 
+14.1 The Investment Business Sector in the VI largely consists of investment fund vehicles, asset administrators, 
+broker/dealers, managers and investment advisors who provide management and advisory services 
+related to varying types of investment assets. The transactions involving this sector overall are significantly 
+large, both in terms of number of transactions and aggregate size of those transactions, with clientele 
+geographically dispersed worldwide and engaging in cross-border transactions.  There is a rather small 
+group of licensees that provides custody services which is minimal and not consequential, given the 
+limited number of transactions they execute. Table 14.1 sets out the investment business activities carried 
+out within the VI and the number of various licensees providing those services as of December 2019.  
+ 
+14.2 Entities operating within the investment business sector in the Virgin Islands are primarily subject to the 
+Securities and Investment Business Act, 2010 and the relevant regulations emanating from this.   
+Category  Sub-
+Category 
+Licensable Activity (Investment Business) 
+No. of 
+Entities 
+Licensed to 
+Provide 
+Investment 
+Business 
+Services 
+1 
+A 
+B 
+• 
+Dealing in Investments as Agent 
+• 
+Dealing in Investments as Principal 
+• 
+     22 
+• 
+     28 
+2 
+ 
+• 
+Arranging Deals in Investments 
+• 
+     22 
+3 
+A 
+B 
+C 
+D 
+E 
+• 
+Managing Segregated Portfolios (Excluding Mutual Funds) 
+• 
+Managing Mutual Funds 
+• 
+Managing Pension Schemes 
+• 
+Managing Insurance Products 
+• 
+Managing Other Types of Business 
+• 
+       7 
+• 
+   316 
+• 
+       4 
+• 
+       1 
+• 
+     47 
+4 
+A 
+B 
+• 
+Provide Investment Advice Excluding Mutual Funds  
+• 
+Provide Investment Advice for Mutual Funds  
+• 
+     32 
+• 
+       9 
+5 
+A 
+B 
+• 
+Custody of Investments(Excluding Mutual Funds) 
+• 
+Custody of Investments (Mutual Funds)  
+• 
+     12 
+• 
+       0 
+6 
+A 
+B 
+• 
+Administration of Investment (Excluding Mutual Funds) 
+• 
+Administration of Investment (Mutual Funds) 
+• 
+     18 
+• 
+     51 
+7 
+ 
+• 
+Operating an Investment Exchange  
+• 
+       0 
+Table 14.1: Number of Investment Business Licensees by Licence Type 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 63 of 75 
+ 
+14.3 An approval regime is also maintained for approved investment managers and authorised 
+representatives. At the end of 2019 there were 281 approved investment managers and 49 authorised 
+representatives operating in or from within the Territory. Approved managers generally provide 
+management services primarily to institutional and high net worth individuals. These entities are required 
+to file annual returns and financial statements with the FSC as part of their mandatory reporting 
+requirements. Other protective safeguards against ML threats and vulnerabilities include the imposition 
+of a threshold for assets under management. Where this threshold is met, the approved manager must 
+either reduce the amount or seek a licence under the relevant provisions of SIBA.  Assets under 
+management in this regime amounted to USD$7 billion at end of 2019.  
+ 
+14.4 Due to the nature of the investment business, most service providers reside outside the VI and are 
+geographically dispersed, some in high risk jurisdictions. However, all entities subject to authorisation in 
+this subsector are required to have a local authorised representative who will act as a liaison between the 
+entity and the FSC. 
+ 
+14.5 The Territory’s investment business sector is well developed and offers a sophisticated range of products 
+catering to a diverse, international client base with substantial foreign portfolio holdings primarily in the 
+Asian-Pacific countries, North America, Europe, Latin America, the Caribbean, Middle East, and Africa.  
+Products and services offered include FOREX, cryptocurrencies, commodities, bonds, equities, fund 
+administration services, insurance products, custodial services, mutual funds, segregated portfolios, and 
+closed ended funds. For the purpose of assessing risk, the sector is divided into the following sub-sectors: 
+ 
+• 
+Investment service providers – includes provision of investment management/advice, broker-
+dealer services, assets administration and custody services; and 
+• 
+Investment fund vehicles – includes mutual funds and closed-ended private investment funds. 
+ 
+14.6 The scope of regulation encompasses the authorisation of:    
+ 
+a) Professional Funds: made available only to professional investors who are high net worth 
+individuals and are largely institutional investors; 
+ 
+b) Private Funds: must have no more than 50 investors, or only make a private invitation to 
+subscribe for or purchase fund interests. Investors in these funds are also wither largely 
+institutional investors, or investors with a close personal, business, professional or family 
+connection; 
+ 
+c) Public Funds: retail products subject to a stringent regulatory regime; 
+ 
+d) Foreign Funds: retail products subject to regulation in their home jurisdiction that provide an 
+equivalent level of investor protection to the Public Funds regime. Designed to give retail 
+investors in BVI access to a wider range of diversified investment opportunities whilst 
+ensuring high standards of investor protection; 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 64 of 75 
+ 
+e) Approved Funds: for managers who want to establish a private offering to a small group of 
+investors (maximum of 20 investors; fund’s net assets may not exceed US$100 million). 
+Investors in these funds are a combination of institutional investors and those with clear 
+personal and professional business connections;     
+ 
+f) Incubator Funds: for start-up managers wishing to develop a track record and test a fund’s 
+viability. Without the grant of an extension of a maximum of one year, these funds can only 
+operate for two years, after which they must convert to a Private, Professional of Approved 
+Fund or alternatively wind down their operations. Incubator funds allow for a maximum of 20 
+investors who must each subscribe US$20,000. The Fund’s overall net assets may not exceed 
+US$20 million. 
+ 
+14.7 At the end of 2019 there were 1,479 registered investment funds, consisting of 920 professional, 319 
+private, 33 public and 6 foreign funds, as well as 79 incubator funds and 122 approved funds as outlined 
+in Chart 14.1 below. Less than 1% of funds are sourced from domestic investors.  
+ 
+Chart 14.1:  Number of Registered Investment Funds as at 31 December 2019 as Percentage of Total 
+Registered Funds 
+ 
+14.8 In December 2019, investment funds registered in the Virgin Islands had a total net asset value of 
+approximately US$182 billion.  However, the level of economic activity within the investment business 
+sector accounts for less than 5% of economic activity within the wider financial services sector. 
+ 
+ 
+14.9 Investment management and advisory services which makes up the majority of the investment business 
+sector accounted for $8 billion in total assets under management at the end of 2019. Broker-dealers as a 
+subsector in investment business has a significant number of clients from dispersed geographical regions. 
+A significant number of the clientele are retail with a moderate amount being institutional clients.  These 
+entities operate online platforms for trading which can be accessed worldwide. CDD and other measures 
+are fully electronic. The inherent vulnerabilities from these entities therefore lies in the clientele and the 
+professional, 920, 
+62%
+private, 319, 22%
+public, 33, 2%
+foreign, 6, 1%
+incubator , 79, 5%
+approved , 122, 
+8%
+Registered Investment Funds
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 65 of 75 
+ 
+worldwide nature of the business reach. Additionally, full technological delivery of services means that 
+there is an increased risk of transactions having elements of anonymity. This leads to a high level of 
+inherent vulnerabilities.   
+Assessment of Threats 
+14.10 The nature of investment business, such as investment management, broker/dealer and fund 
+administration, can involve the movement of large sums of money across multiple borders. The volume 
+of cross-border transactions also presents ML risks, given that persons who may seek to facilitate ML may 
+use these entities to move monies through the financial system.    
+ 
+14.11 Additionally, some foreign based funds are managed and administered by licensed VI entities and 
+therefore there is a threat posed by foreign investors in those funds. Risk posed by investment business 
+is also heightened by the fact that most clients are geographically dispersed, and some are from high risk 
+jurisdictions.  Further, the significant majority of BVI funds have functionaries (i.e. managers, advisers, 
+custodians, prime brokers and administrators) that are not licensed or based in the BVI.  This makes it 
+difficult to carry out any oversight to determine whether these functionaries are performing their 
+functions appropriately.  Additionally, some of these functionaries may not be licensed or be required to 
+be licensed in the jurisdictions in which they operate, which also heightens the level of risk within the 
+sector. 
+14.12 The exposure of investment fund vehicles to criminality may arise from investors who see products such 
+as these as a vehicle in which to invest their proceeds of crime so as to generate investment returns and 
+integrate the proceeds of crime into legitimate investments and financial services.  Additionally, the 
+activities of the funds themselves (e.g. where investments are made in high risk countries, particularly 
+those with a high risk of bribery and corruption), and where the possibility that they may be controlled by 
+parties who wish to use the fund for criminal purposes (e.g. market abuse or fraud) also give rise to 
+potential criminality. 
+ 
+14.13 Through the pooling of investors’ assets, there are opportunities for persons who may seek to launder 
+money.  Additional risk which increases the attractiveness of investment funds to criminality in the fund 
+is the fact that CDD and other due diligence are often contracted to a third party who is often in another 
+jurisdiction which may apply deferent AML/CFT requirements. Also, there are some differences in what is 
+defined as securities or investments across regulators and therefore some products may not be subject 
+to an AML regime at all. This leads to increased AML risk where jurisdictions’ laws are not equivalent and 
+may create a potential gap to be utilised by criminals.    Those illicit proceeds can then be reacquired 
+through redemptions out of a mutual fund to appear as legitimate investment proceeds.  This risk may be 
+even more pronounced where the fund is more closely held or held privately whereby a select group of 
+investors or the manager may have significant control. 
+ 
+14.14 Criminals’ attractiveness to utilising investment funds for the proceeds of crimes such as foreign tax 
+crimes, fraud or corruption have been well documented.  However, under VI legislation an investment 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 66 of 75 
+ 
+fund is required to carry on all due diligence requirements to undertake full customer due diligence on all 
+investors, as well as have an MLRO in place.  
+ 
+14.15 Suspicious activity reporting in the sector is low.  Between 2015 and 2019 only 2 SARs were filed by 
+investment business licensees, relating to one case of potential tax evasion and a failure to certify due 
+diligence information.  This accounted for a mere 0.08% of the total SARs filed for that period.   The value 
+of reported SARs, recorded as $5,100, was negligible in relation to the total value of SARs for the reporting 
+period.  Such activity filing is not consistent with the inherent risk posed. Supervisors and law enforcement 
+agencies should take mitigating measures in this regard.   
+ML Vulnerabilities  
+14.16 Products in the investment business sector can be attractive vehicles for criminals due to the complex 
+structure of the products offered which can increase the opportunity for regulatory arbitrage by criminals. 
+Clients are often considered to be at an elevated risk for ML, particularly those identified as PEPs. In 
+addition, the large volume and value of the products traded and the diversity of strategic investment 
+approaches offer unique opportunities to disguise the true nature of the investment, the investor and 
+sources of funds. Globally including by the FATF, the worldwide securities industry is considered to have 
+a high ML vulnerability. 
+ 
+14.17 In the Virgin Islands’ context, the 2016 NRA concluded that the investment business sector was at a 
+medium risk for ML/TF.  This, however, was due to the sample size available for the NRA process. 
+Additionally, the 2016 NRA did not specifically look at the risk posed by the investment funds sector.   
+ 
+14.18 Most investment business service providers reside outside the VI, which in itself provides a high level of 
+inherent risk.  During 2015-2019 only 12 compliance inspections focused on AML related matters were 
+carried out in this sector.   
+ 
+14.19 The general AML deficiencies identified by the FSC’s compliance inspection process were in relation to 
+licensees’ duty to conduct risk assessments on their clients and the requirement to update CDD 
+information and perform enhanced CDD.  As a result of these inspections and other desk-based 
+monitoring, during the period 2015-2019 a total of $289,570 was imposed in penalties based on the 
+issuance of 127 administrative penalty notices. Most of the penalties related to late submission or non-
+submission of accounts.  Only 9 of those were related to AML breaches, the penalties for which totalled 
+$42,500.  Those 9 breaches accounted for 8.49% of all AML/CFT related enforcement actions recorded 
+during the reporting period.  The value of the imposed administrative penalties relating the AML breaches 
+accounted for 5.31% of the total value of such penalties.  The regulator is of the opinion that the licensees 
+within this sector have an adequate understanding of their AML/CFT obligations. 
+ 
+14.20 Investment funds asset distributions are widely geographical. However, the majority of assets are invested 
+in the United States, Virgin Islands, Cayman Islands, Japan and Jersey C.I.  From this data many investment 
+funds are entities which do not directly execute investments but invest through other entities and funds. 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 67 of 75 
+ 
+For example, the assets in Virgin Islands, Cayman Islands and Jersey are primarily shares of investment 
+funds domiciled in those jurisdictions and not direct foreign investments in those jurisdictions. 
+Additionally, equity investments and shares make up the majority of assets held.  A significant number of 
+investments are made through recognised exchanges with specified listing rules which positively impacts 
+the vulnerability to ML and other financial crimes. Further, a number of investment funds have been 
+approved for listing on relevant exchanges as well.  
+Conclusion 
+14.21 The size and nature of investment business within the Territory provides evidence that the sector is highly 
+susceptible to ML. This sector is relatively large and can be subdivided into sub-sectors of investment 
+business and investment funds.  Both sub-sectors are large and include a wide cross-section of clientele. 
+Assets are also widely dispersed globally. Products and services offered through this sector are varied with 
+large transaction volumes. Further, a significant amount of business is conducted through non face-to-
+face contact, however, cash transactions are rare.   
+ 
+14.22 Based on the number of SARs reported by, or involving SIBA licensees, the instances of involvement of 
+this sector in suspicious activities in the VI is low. Additionally, no criminal proceedings have been taken 
+against any licensee within the sector. Reporting of SARs does not equate to the level of universally 
+accepted risk posed in this sector. Only 3 of all AML/CFT related enforcement actions recorded during the 
+reporting period were attributed to the investment sector, with the value of the imposed administrative 
+penalties accounting for only $42,500 of the total value of all such penalties.   
+ 
+14.23 The sector has demonstrated a satisfactory level of understanding of requirements relative to general 
+CDD and BO identification and verification, and the identification of sources of wealth and funds of its 
+clients.  The regulator has indicated that it finds the level of risk mitigating procedures within the sector 
+to be adequate and no evidence to the contrary was found during the assessment. Overall, the inherent 
+vulnerabilities within this sector are high but have been somewhat mitigated based on the control 
+measures currently in place.   
+ 
+14.24 The vulnerabilities within the investment sector have been assessed as High, while the mitigating controls 
+have been assessed as Medium-High.  This has resulted in the TCSP sector being assessed as having an ML 
+risk level of Medium-High. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 68 of 75 
+ 
+15. INSOLVENCY SERVICES 
+ 
+Introduction 
+ 
+15.1 Under the Insolvency Act, 2003, only licensed IPs are eligible to accept appointments as administrators, 
+administrative receivers, interim supervisors, supervisors, provisional liquidators, liquidators (other than 
+in a solvent liquidation) or bankruptcy trustees. However, there are provisions to enable an overseas 
+insolvency practitioner to be appointed jointly with a VI licensed insolvency practitioner.    
+ 
+15.2 As a regulated person, an IP is also subject to requirements of maintaining the appropriate systems and 
+controls to mitigate against the threats of ML/TF. 
+ 
+15.3 The number of licensed IPs in the VI is outlined in Table 15.1 below and comprises mainly accountants 
+and legal practitioners. These practitioners tend to be part of accountancy firms or law firms, although 
+their legal obligations, including AML/CFT obligations, relate only to them in their personal capacities and 
+are not transferred to the firms.  
+ 
+Insolvency Practitioners 
+2015 
+2016 
+2017 
+2018 
+2019 
+Insolvency Practitioners (Full Licence) 
+25 
+26 
+27 
+33 
+28 
+Insolvency Practitioners (Restricted Licence) 
+1 
+0 
+0 
+0 
+0 
+Table 15.1 – Licensed Insolvency Practitioners (2015 – 2019) 
+ 
+15.4 A restricted IP’s licence is issued when an IP has given notice to the FSC that it is basically winding up 
+and/or in the process of disposing of or transferring (i.e. to another IP) it’s existing case load, and is not 
+taking on any new business. 
+ 
+15.5 Between 2016 and 2019, 467 insolvency appointments were made.  In the vast majority of cases, these 
+appointments were related to the winding up/liquidation of non-regulated entities i.e. BVIBCs dispersed 
+across a wide geographic area as outlined in Table 15.2 below.    
+ 
+Geographic Location 
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+BVI  
+0 
+6 
+19 
+24 
+12 
+61 
+Caribbean 
+0 
+0 
+2 
+6 
+4 
+12 
+European Union 
+27 
+19 
+13 
+15 
+20 
+94 
+Far East 
+23 
+25 
+34 
+23 
+36 
+141 
+North America 
+4 
+9 
+2 
+6 
+2 
+23 
+Rest of the World 
+12 
+24 
+40 
+35 
+25 
+136 
+Total 
+66 
+83 
+110 
+109 
+99 
+467 
+Table 15.2 – Number of Appointments by Geographic Location 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 69 of 75 
+ 
+15.6 In addition, during that period 172 joint appointments between VI licensed IPs and overseas practitioners 
+were carried out.  The majority of these appointments related to entities with their centres of operation 
+in Hong Kong, UK and Bermuda. 
+ 
+Assessment of Threats 
+ 
+15.7 For the period 2015 to 2019, 10 SARs were filed by IPs. This accounted for less than 1% (0.42) of the total 
+SARs filed within the financial services sector.  The majority of the SARs were related to instances where 
+there was a lack of proper CDD information available (60%), while the other instances involved PEPs or 
+possible instances of fraud. None of these SARs carried any monetary value.  Further, no criminal 
+prosecutions, convictions or confiscations involving entities within the local insolvency services sector 
+were recorded during the period.  The nature of the business itself may be the primary factor in this.  The 
+threat off ML associated with insolvency business is low and comes primarily in the possibility of potential 
+collusion between the IP and the client, however, this is mitigated by statutory reporting requirements. 
+ 
+ML Vulnerabilities  
+ 
+15.8 The general nature of insolvency not being on-going business makes it low risk for ML. Where the 
+vulnerability level increases slightly, is in the diversity of the clients involved which may include 
+international PEPs and the potential for non-face-to-face business.  Further, appointments may also 
+involve businesses operating in high risk jurisdictions.  These vulnerabilities are again mitigated by 
+statutory reporting requirements. 
+ 
+15.9 There were five AML themed onsite inspections conducted on IPs in 2016 resulting in one enforcement 
+action being taken against a licensee.  This breach was in relation to inadequate record keeping practices 
+and resulted in the imposition of a $5000 penalty.  The main deficiencies identified as a result of these 
+inspections were in relation to deficient internal audit practices and IT policies and processes required to 
+manage, mitigate and prevent ML occurrences.  
+ 
+Conclusion 
+15.10 The insolvency services sector was identified as low risk during the initial NRA exercise.  The current size 
+and nature of the sector does not provide any evidence to the contrary. The instances of involvement of 
+this sector in suspicious activities is low and no criminal proceedings have been taken against any licensee 
+within the sector.  Less than 1% of all AML/CFT related enforcement actions recorded during the reporting 
+period were attributed to the sector, with the value of the imposed administrative penalties also 
+accounting for less than 1% of the total value of such penalties.   
+ 
+15.11 The vulnerabilities within this sector, however, have been more clearly identified during this exercise as 
+outlined in paragraph 15.8 above.  Such identification has raised the level of vulnerability for this sector, 
+however, this has been largely mitigated by the control measures currently in place.   
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 70 of 75 
+ 
+15.12 The vulnerabilities within the insolvency sector have been assessed as Medium-Low, while the mitigating 
+controls have been assessed as High.  Overall, the insolvency services sector has been assessed as having 
+an ML risk level of Medium-Low. 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 71 of 75 
+ 
+16. RECOMMENDATIONS AND CONCLUSION  
+ 
+16.1 The recommendations outlined below, if properly implemented, should aid, not only in improving the 
+effectiveness of the FSC as a supervisor, but also enhance the level of effectiveness of the Territory’s wider 
+AML/CFT regime.  For ease of reference these recommendations have been grouped into 
+recommendations that should be addressed at the national level and those that are specific to the FSC as 
+the supervisory authority for financial institutions.  There is some overlap in the recommendations and 
+where this evident the recommendations have been listed under each. 
+ 
+National AML/CFT Recommendations 
+16.2 The Territory should: 
+1. continue to implement the recommendations from the 2016 NRA 
+2. continue to monitor the implementation of the recommendations in the NRA 
+3. ensure that the findings of the NRA and this Report are considered when making changes or 
+assessing the effectiveness of the AML/CFT regime 
+4. ensure all relevant CAs and LEAs are adequately resourced  
+5. address challenges faced by law enforcement agencies in identifying, investigating, and 
+prosecuting ML and other financial crimes, including all predicate offenses 
+6. ensure the approval, issuance, and implementation of the Territory’s AML/CFT Policy and Strategy 
+7. ensure that the National strategy clearly prioritises key areas of ML/TF risk  
+8. ensure that NAMLCC meets on a regular basis and considers pertinent issues relevant to setting 
+policy for AML/CFT compliance 
+9. ensure that relevant AML/CFT data is maintained, collected and analysed to ensure the Territory 
+can demonstrate that it is effective in the investigation and prosecution of ML, provision of 
+international cooperation, and analysis and dissemination of SARs  
+10. finalise and implement legislative and other amendments to the AML/CFT regime to ensure full 
+technical compliance with FATF Recommendations 
+11. ensure that the NRA and Sectoral Assessments are kept up to date, having regard to changes in 
+the identified vulnerabilities and controls   
+ 
+Supervisor Specific AML/CFT Recommendations 
+ 
+16.3 The FSC should: 
+1. ensure the implementation of its AML/CFT Policy and Strategy, having regard to the findings of 
+this report 
+2. ensure timely and effective outreach to financial institutions on the findings of this report, 
+including how the report’s findings should be utilized in the development of their own AML/CFT 
+policies and procedures 
+3. ensure that it takes necessary steps, such as increased desk based and onsite monitoring, to 
+demonstrate that financial institutions are carrying out and implementing the requirements of its 
+AML/CFT regime 
+4. ensure that steps are taken to address the risk posed by emerging technologies with specific 
+reference to VAs and VASPs 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 72 of 75 
+ 
+5. continue to implement the recommendations from the 2016 NRA 
+6. continue to monitor the implementation of the recommendations in the NRA 
+7. ensure that the findings of the NRA and this Report are considered when making changes or 
+assessing the effectiveness of the AML/CFT regime 
+8. ensure that relevant AML/CFT data is maintained, collected and analysed to ensure the FSC can 
+demonstrate that it is effective in its supervision and enforcement of licensees and provision of 
+international cooperation 
+ 
+16.4 The findings from this ML risk assessment provide a useful foundation upon which both supervisory 
+authorities and the regulated sectors can undertake meaningful risk analyses. The results of this exercise 
+will enable authorities to identify, assess and understand any changes in the ML risks faced by the 
+jurisdiction since the initial NRA was conducted, in order to apply appropriate risk-based preventative or 
+mitigating measures.   
+ 
+16.5 Further, the results of the exercise will help both regulated and relevant persons as defined in the AMLR, 
+to identify the particular ML risks they face when carrying out their own assessments, as these businesses 
+are also required to have regard to such findings in determining what constitutes a high or low risk, what 
+their risk appetite is, and what constitutes appropriate measures to manage and mitigate risks. 
+ 
+16.6 Such risk analysis is important as it assists regulated institutions in implementing suitable policies and 
+procedures to combat ML.  Additionally, looking at sectoral and institutional ML risk allows supervisory 
+authorities to effectively shape their inspection programmes and identify those licensees that may require 
+more specialised supervision.  
+ 
+ 
+ 
+ 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 73 of 75 
+ 
+GLOSSARY OF TERMS 
+ 
+AGC 
+Attorney General’s Chambers 
+AML 
+Anti-money Laundering 
+AMLR 
+Anti-money Laundering Regulations 
+AMLTFCOP                       Anti-money Laundering and Terrorist Financing Code of Practice 
+ASBA 
+Association of Supervisors of Banks of the Americas 
+BO 
+Beneficial Ownership 
+BTCA 
+Banks and Trust Companies Act 
+BVI 
+British Virgin Islands 
+BVIBC 
+BVI Business Company 
+BVIBCA 
+BVI Business Companies Act 
+CA 
+Competent Authority 
+CAIR 
+Caribbean Association of Insurance Supervisors 
+CBC 
+Country by Country 
+CBP 
+Customs and Border Patrol 
+CCLEC 
+Caribbean Customs Law Enforcement Council 
+CDD 
+Customer Due Diligence 
+CFATF 
+Caribbean Financial Action Task Force 
+CFT 
+Countering the Financing of Terrorism 
+CGBS 
+Caribbean Group of Banking Supervisors 
+CI 
+Channel Islands 
+CJICA 
+Criminal Justice (International Cooperation) Act, 1993 
+CMA 
+Company Management Act, 1990 
+CMDA 
+Customs Management and Duties Act, 2004 
+DNFBP 
+Designated Non-financial Businesses and Professions 
+DPMA 
+Drugs (Prevention and Misuse) Act 
+DPRK 
+Democratic People’s Republic of Korea 
+DTOA 
+Drug Trafficking Offences Act 
+ECDD 
+Enhanced Customer Due Diligence 
+EU 
+European Union 
+FATCA 
+Foreign Account Tax Compliance Act 
+FATF 
+Financial Action Task Force 
+FB 
+Financing Business 
+FI 
+Financial Institution 
+FIA 
+Financial Investigation Agency 
+FMSA 
+Financing and Money Services Act, 2009 
+FOREX 
+Foreign Exchange 
+FSB 
+Financial Stability Board 
+FSC 
+Financial Services Commission 
+FSCA 
+Financial Services Commission Act 2001 
+GDP 
+Gross Domestic Product 
+GIFCS 
+Group of International Financial Centre Supervisors 
+Money Laundering Risk Assessment 2020  |  Version 1.0  |  Page 74 of 75 
+ 
+GO 
+Governor’s Office 
+IAIS 
+International Association of Insurance Supervisors 
+ICE 
+Immigration and Customs Enforcement 
+IGC 
+Inter-governmental Committee on AML/CFT 
+IMF 
+International Monetary Fund 
+IOSCO 
+International Organisation of Securities Commissions 
+IP 
+Insolvency Practitioner 
+LEA 
+Law Enforcement Agencies 
+LPA 
+Limited Partnership Act 
+MBC 
+Micro Business Company 
+MBCA 
+Micro Business Companies Act 
+MCAA 
+Multilateral Competent Authorities Agreement 
+ML 
+Money Laundering 
+MLA 
+Mutual Legal Assistance 
+MLA(TM) A                       Mutual Legal Assistance (Tax Matters) Act 
+MLAT 
+Mutual Legal Assistance Treaty 
+MLRO 
+Money Laundering Reporting Officer 
+MNEs 
+Multinational Enterprises 
+MOU 
+Memorandum of Understanding 
+MSB 
+Money Services Business 
+NGO 
+Non-governmental Organisation 
+NPO 
+Non-profit Organisation 
+NRA 
+National Risk Assessment 
+ODPP 
+Office of the Director of Public Prosecutions 
+OECD 
+Organisation for Economic Cooperation and Development 
+PA 
+Police Act 
+PCCA 
+Proceeds of Criminal Conduct Act, 1997 
+PEP 
+Politically Exposed Person 
+PF 
+Proliferation Financing  
+PTC 
+Private Trust Company 
+RA 
+Registered Agent 
+RO 
+Registered Office 
+RVIPF 
+Royal Virgin Islands Police Force 
+SAR 
+Suspicious Activity Report 
+SIBA 
+Securities and Investment Business Act, 2010 
+TCSP 
+Trust and Corporate Services Providers 
+TF 
+Terrorist Financing 
+UK 
+United Kingdom 
+UN 
+United Nations 
+VASP 
+Virtual Asset Services Provider 
+VA 
+Virtual Assets 
+VI 
+Virgin Islands 
+VISTA 
+Virgin Islands Special Trust Act 
+WCO 
+World Customs Organisation 
