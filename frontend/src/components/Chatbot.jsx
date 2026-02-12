@@ -1,4 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 const Chatbot = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -155,7 +157,22 @@ const Chatbot = () => {
                                 >
                                     <div className="prose prose-sm max-w-none text-inherit">
                                         {/* Simple rendering for now, could use a markdown library */}
-                                        <p className="whitespace-pre-wrap leading-relaxed">{msg.text}</p>
+                                        <ReactMarkdown
+                                            children={msg.text}
+                                            remarkPlugins={[remarkGfm]}
+                                            components={{
+                                                a: ({ href, children }) => (
+                                                    <a href={href} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 underline decoration-blue-400/30 hover:decoration-blue-400 transition-colors">
+                                                        {children}
+                                                    </a>
+                                                ),
+                                                p: ({ children }) => <p className="mb-2 last:mb-0 leading-relaxed">{children}</p>,
+                                                ul: ({ children }) => <ul className="list-disc pl-4 mb-2 space-y-1 marker:text-gray-400">{children}</ul>,
+                                                ol: ({ children }) => <ol className="list-decimal pl-4 mb-2">{children}</ol>,
+                                                li: ({ children }) => <li className="pl-1">{children}</li>,
+                                            }}
+                                            className="whitespace-normal leading-relaxed text-[15px]"
+                                        />
                                     </div>
 
                                     {/* PDF Links in Bot Message */}

@@ -90,7 +90,10 @@ def ask_stream(question):
                 yield f"- [{link['name']}]({link['url']})\n"
         
         if sources:
-            yield "\n\n*Sources: " + ", ".join(list(sources)) + "*"
+            unique_sources = list(set(s.replace(".pdf.txt", ".pdf").replace(".txt", "") for s in sources))
+            yield "\n\n**Sources:**\n"
+            for source in unique_sources:
+                 yield f"- {source}\n"
 
     except Exception as e:
         yield f"Error: {e}"
