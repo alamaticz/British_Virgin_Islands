@@ -158,7 +158,7 @@ const Chatbot = () => {
                                     <div className="prose prose-sm max-w-none text-inherit">
                                         {/* Simple rendering for now, could use a markdown library */}
                                         <ReactMarkdown
-                                            children={msg.text}
+                                            children={msg.text || ""}
                                             remarkPlugins={[remarkGfm]}
                                             components={{
                                                 a: ({ href, children }) => (
@@ -166,12 +166,11 @@ const Chatbot = () => {
                                                         {children}
                                                     </a>
                                                 ),
-                                                p: ({ children }) => <p className="mb-2 last:mb-0 leading-relaxed">{children}</p>,
+                                                p: ({ children }) => <p className="mb-2 last:mb-0 leading-relaxed text-[15px]">{children}</p>,
                                                 ul: ({ children }) => <ul className="list-disc pl-4 mb-2 space-y-1 marker:text-gray-400">{children}</ul>,
                                                 ol: ({ children }) => <ol className="list-decimal pl-4 mb-2">{children}</ol>,
                                                 li: ({ children }) => <li className="pl-1">{children}</li>,
                                             }}
-                                            className="whitespace-normal leading-relaxed text-[15px]"
                                         />
                                     </div>
 
