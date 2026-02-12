@@ -1,23 +1,20 @@
-from fastapi import FastAPI, UploadFile, File
+import os
+import json
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
 from fastapi.responses import StreamingResponse
+from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel
+from dotenv import load_dotenv
 from app.rag import ask_stream
 
-@app.post("/chat")
-def chat(q: Query):
-    return StreamingResponse(ask_stream(q.question), media_type="text/plain")
-import os
-import shutil
-import uuid
-import json
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-
 # Load env vars
-from dotenv import load_dotenv
 load_dotenv()
 
 app = FastAPI()
+
+# Initialize FastAPI app
+
 
 # Add CORS to allow frontend to access
 app.add_middleware(
@@ -28,6 +25,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+class Query(BaseModel):
+    question: str
+
 @app.get("/")
 def read_root():
     return {"status": "ok", "message": "BVIFSC RAG Backend is running"}
@@ -36,13 +36,9 @@ def read_root():
 def health_check():
     return {"status": "healthy"}
 
-class Query(BaseModel):
-    question: str
-
 @app.post("/chat")
 def chat(q: Query):
-    # ask() now returns {"answer": ..., "sources": ...}
-    return ask(q.question)
+    return StreamingResponse(ask_stream(q.question), media_type="text/plain")
 
 @app.get("/api/aml-content/{slug}")
 def get_aml_content(slug: str):
@@ -67,8 +63,13 @@ def get_aml_content(slug: str):
         return {"error": str(e)}
 
 # Serve static files (PDFs) from db/data/raw/pdfs
-from fastapi.staticfiles import StaticFiles
-app.mount("/pdfs", StaticFiles(directory="../db/data/raw/pdfs"), name="pdfs")
+# Need to construct the absolute path to avoid issues with CWD
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # f:\mithun\Bvifsc\backend
+project_root = os.path.dirname(base_dir) # f:\mithun\Bvifsc
+pdf_dir = os.path.join(project_root, "db", "data", "raw", "pdfs")
+
+if os.path.exists(pdf_dir):
+    app.mount("/pdfs", StaticFiles(directory=pdf_dir), name="pdfs")
 
 if __name__ == "__main__":
     import uvicorn
