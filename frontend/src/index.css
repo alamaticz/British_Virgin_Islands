@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 
 @theme {
-  --color-bvi-navy: #00205B;
-  --color-bvi-red: #EF3340;
+  --color-bvi-navy: #003366;
+  --color-bvi-red: #D23333;
   --color-bvi-gold: #FFD100;
   --color-bvi-green: #4C8D2B;
   --color-bvi-light-gray: #F3F4F6;
@@ -41,16 +41,18 @@ h6 {
   padding: 0 1rem;
 }
 
-@utility nav-link {
-  @apply text-bvi-navy font-semibold hover:text-bvi-red transition-colors duration-200 uppercase text-sm tracking-wider;
-}
+@layer utilities {
+  .nav-link {
+    @apply text-bvi-navy font-semibold hover:text-bvi-red transition-colors duration-200 uppercase text-sm tracking-wider;
+  }
 
-@utility dropdown-item {
-  @apply block px-4 py-2 text-sm text-gray-700 hover:bg-bvi-light-gray hover:text-bvi-navy;
-}
+  .dropdown-item {
+    @apply block px-4 py-2 text-sm text-gray-700 hover:bg-bvi-light-gray hover:text-bvi-navy;
+  }
 
-@utility section-title {
-  @apply text-3xl font-bold text-bvi-navy mb-8 relative pb-2;
+  .section-title {
+    @apply text-3xl font-bold text-bvi-navy mb-8 relative pb-2;
+  }
 }
 
 .section-title::after {

@@ -1,62 +1,65 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="bg-white py-4">
-            <div className="bvi-container flex justify-between items-center">
-                {/* Logo Section */}
-                <div className="flex items-center space-x-3">
-                    <div className="w-14 h-14 bg-[#003366] rounded-full flex items-center justify-center p-1 shadow-sm">
-                        <svg viewBox="0 0 100 100" className="w-10 h-10 fill-white">
-                            {/* Simplified Lighthouse Logo */}
-                            <circle cx="50" cy="50" r="45" fill="none" stroke="white" strokeWidth="2" />
-                            <path d="M50 20 L40 40 L40 85 L60 85 L60 40 Z" />
-                            <rect x="35" y="85" width="30" height="4" />
-                            <path d="M40 35 L30 30 M60 35 L70 30 M50 30 L50 20" stroke="white" strokeWidth="2" />
-                        </svg>
-                    </div>
-                    <div>
-                        <div className="text-[#003366] font-bold text-2xl leading-none">British Virgin Islands</div>
-                        <div className="text-[#003366] text-lg font-medium tracking-tight">Financial Services Commission</div>
-                    </div>
-                </div>
+        <header id="top-header" className="bg-white py-4 md:py-6 border-b border-gray-100">
+            <div className="bvi-container flex items-center justify-between">
+                {/* Logo */}
+                <Link to="/" id="logo" className="flex-shrink-0 group">
+                    <img
+                        src="/logo.png"
+                        alt="British Virgin Islands Financial Services Commission"
+                        className="h-12 md:h-20 w-auto transition-transform duration-300 group-hover:scale-105"
+                    />
+                </Link>
 
-                {/* Top Links & Search */}
-                <div className="flex flex-col items-end space-y-4">
-                    <div className="flex items-center space-x-6 text-[#D23333] text-sm font-medium">
-                        <a href="#" className="flex items-center space-x-1 hover:opacity-80">
-                            <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" /></svg>
-                            <span>Home</span>
-                        </a>
-                        <a href="#" className="flex items-center space-x-1 hover:opacity-80">
-                            <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z" /></svg>
-                            <span>Careers</span>
-                        </a>
-                        <a href="#" className="flex items-center space-x-1 hover:opacity-80">
-                            <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" /><path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" /></svg>
-                            <span>Contact Us</span>
-                        </a>
-                        <a href="#" className="flex items-center space-x-1 hover:opacity-80">
-                            <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" /></svg>
-                            <span>Holiday Closures</span>
-                        </a>
-                    </div>
-
-                    <div className="relative w-64">
-                        <input
-                            type="text"
-                            placeholder="Search"
-                            className="w-full pl-3 pr-10 py-1.5 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-[#003366] text-sm text-gray-600 italic"
-                        />
-                        <button className="absolute right-3 top-1/2 -translate-y-1/2 text-[#D23333]">
-                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                {/* Top Right Section */}
+                <div id="top-right" className="flex flex-col items-end space-y-4">
+                    {/* Mobile Controls (visible on mobile only) */}
+                    <div className="md:hidden flex items-center space-x-4">
+                        <button id="mobile-search-button" className="text-bvi-navy hover:text-bvi-red p-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                             </svg>
                         </button>
+                        <div id="mobile-nav-button">
+                            <a id="hamburger" href="#menu" className="block text-bvi-navy hover:text-bvi-red p-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    {/* Desktop Utility Nav & Search */}
+                    <div className="hidden md:flex flex-col items-end space-y-3">
+                        {/* Secondary Menu */}
+                        <nav className="flex items-center space-x-6 text-sm font-bold text-bvi-red uppercase tracking-wider">
+                            <Link to="/" className="hover:text-bvi-navy transition-colors duration-200">Home</Link>
+                            <Link to="/careers" className="hover:text-bvi-navy transition-colors duration-200">Careers</Link>
+                            <Link to="/contact" className="hover:text-bvi-navy transition-colors duration-200">Contact Us</Link>
+                            <div className="flex items-center space-x-1 hover:text-bvi-navy transition-colors duration-200 cursor-pointer">
+                                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4z" /></svg>
+                                <a href="#" target="_blank" rel="noreferrer">Holiday Closures</a>
+                            </div>
+                        </nav>
+
+                        {/* Search Form */}
+                        <form className="relative flex items-center group">
+                            <input
+                                type="text"
+                                placeholder="Search"
+                                className="w-64 pl-4 pr-10 py-2 border border-gray-300 rounded-sm focus:outline-none focus:border-bvi-navy focus:ring-1 focus:ring-bvi-navy text-sm placeholder-gray-500 text-gray-700 bg-white shadow-inner transition-all duration-200"
+                            />
+                            <button type="submit" className="absolute right-0 top-0 bottom-0 px-4 text-white bg-bvi-red hover:bg-[#b01e2b] transition-colors duration-200 rounded-r-sm flex items-center justify-center cursor-pointer">
+                                <span className="font-bold text-xs uppercase tracking-wider mr-1">Submit</span>
+                            </button>
+                        </form>
                     </div>
                 </div>
             </div>
-        </div>
+        </header>
     );
 };
 

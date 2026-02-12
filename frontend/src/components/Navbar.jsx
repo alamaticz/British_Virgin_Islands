@@ -1,71 +1,238 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-const Navbar = () => {
-    const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+const menuItems = [
+    {
+        label: "About Us",
+        link: "/about-us",
+        children: [
+            { label: "Mission", link: "/mission" },
+            { label: "Accountability", link: "/accountability" },
+            { label: "Functions", link: "/functions" },
+            {
+                label: "Governance",
+                link: "/about-us/governance",
+                children: [
+                    { label: "Board of Commissioners", link: "/about-us/governance/board-of-commissioners" },
+                    { label: "Organisational Chart", link: "/organisational-chart" },
+                    { label: "Management", link: "/about-us/governance/management" },
+                    { label: "Statutory Committees", link: "/statutory-committees" }
+                ]
+            },
+            {
+                label: "Divisions",
+                link: "/divisions",
+                children: [
+                    { label: "Registry of Corporate Affairs", link: "/registry-corporate-affairs" },
+                    { label: "Banking, Insolvency & Fiduciary", link: "/division/banking-fiduciary" },
+                    { label: "Compliance Inspection Unit", link: "/compliance-inspection-unit" },
+                    { label: "Corporate Services", link: "/division/corporate-services" },
+                    { label: "Human Resources", link: "/division/human-resources" },
+                    { label: "Internal Audit Unit", link: "/internal-audit-unit" },
+                    { label: "Insurance", link: "/insurance" },
+                    { label: "Investment Business", link: "/division/investment-business" },
+                    { label: "Legal", link: "/legal" },
+                    { label: "Policy, Research & Statistics", link: "/policy-research-statistics" },
+                    { label: "Enforcement", link: "/enforcement" }
+                ]
+            },
+            {
+                label: "BVI Asia Representative Office",
+                link: "/bvi-asia-rep-office",
+                children: [
+                    { label: "Services", link: "/bvi-asia-rep-office/services" },
+                    { label: "Our Team", link: "/bvi-asia-rep-office/team" },
+                    { label: "Contact Us", link: "/bvi-asia-rep-office/contact" }
+                ]
+            },
+            { label: "Useful Links", link: "/useful-links" }
+        ]
+    },
+    {
+        label: "Entities",
+        link: "/entities",
+        children: [
+            {
+                label: "Regulated Entities",
+                link: "/regulated-entities",
+                children: [
+                    { label: "Banking, Financing & Money Services", link: "/regulated-entities/banking" },
+                    { label: "Trust & Corporate Services", link: "/regulated-entities/trust" },
+                    { label: "Insurance", link: "/regulated-entities/insurance" },
+                    { label: "Investment Business", link: "/regulated-entities/investment" },
+                    { label: "Insolvency Practitioners", link: "/insolvency-practitioners" },
+                    { label: "Registered Agents", link: "/registered-agents" },
+                    { label: "Virtual Assets Service Providers", link: "/vasp" }
+
+                ]
+            },
+            {
+                label: "Other Entities",
+                link: "/other-entities",
+                children: [
+                    { label: "Approved Auditors", link: "/approved-auditors" },
+                    { label: "Corporate Compliance Officers", link: "/corporate-compliance-officers" },
+                    { label: "Registered Trade Marks Agents", link: "/trade-marks-agents" },
+                    { label: "Legal Advocates & Auditors", link: "/legal-advocates" }
+                ]
+            }
+        ]
+    },
+    {
+        label: "Beneficial Ownership",
+        link: "/beneficial-ownership",
+        children: [
+            { label: "FAQs", link: "/beneficial-ownership/faqs" }
+        ]
+    },
+    {
+        label: "AML/CFT",
+        link: "/amlcft",
+        children: [
+            { label: "AML/CFT Policies", link: "/amlcft/policies" },
+            { label: "AML/CFT Strategies", link: "/amlcft/strategies" },
+            { label: "Guidance", link: "/amlcft/guidance" },
+            { label: "FAQs", link: "/amlcft/faqs" },
+            { label: "FATF Guidance", link: "/amlcft/fatf-guidance" },
+            { label: "CFATF", link: "/amlcft/cfatf" },
+            { label: "Public Statements", link: "/amlcft/public-statements" },
+            { label: "Legislation", link: "/amlcft/legislation" },
+            { label: "Risk Assessments", link: "/amlcft/risk-assessments" },
+            { label: "AML/CFT Media", link: "/amlcft/media" }
+        ]
+    },
+    {
+        label: "Sandbox",
+        link: "/sandbox",
+        children: [
+            { label: "About Us", link: "/sandbox/about" },
+            { label: "Key Resources", link: "/sandbox/resources" },
+            { label: "Forms", link: "/sandbox/forms" },
+            { label: "Publications", link: "/sandbox/publications" },
+            { label: "Sandbox Participants", link: "/sandbox/participants" },
+            { label: "Contact Us", link: "/sandbox/contact" }
+        ]
+    },
+    {
+        label: "International Sanctions",
+        link: "/international-sanctions",
+        children: [
+            { label: "Amendments Post Brexit", link: "/sanctions/brexit" },
+            { label: "About Sanctions", link: "/sanctions/about" },
+            { label: "Legislative Framework", link: "/sanctions/legislation" },
+            { label: "Consolidated List", link: "/sanctions/list" },
+            { label: "Financial Sanctions Notices", link: "/sanctions/notices" },
+            { label: "UK Sanctions List", link: "/sanctions/uk-list" },
+            { label: "Sanctions By Regime", link: "/sanctions/regime" },
+            { label: "Guidance and Forms", link: "/sanctions/guidance" },
+            { label: "Public Notices", link: "/sanctions/public-notices" },
+            { label: "Training and Media", link: "/sanctions/training" },
+            { label: "General Licences", link: "/sanctions/licences" },
+            { label: "UN Consolidated List", link: "/sanctions/un-list" },
+            { label: "UN Secretariat Updates", link: "/sanctions/un-updates" }
+        ]
+    },
+    {
+        label: "Library",
+        link: "/library",
+        children: [
+            { label: "Publications", link: "/library/publications" },
+            { label: "Legislation", link: "/library/legislation" },
+            { label: "Annual Reports", link: "/library/annual-reports" },
+            { label: "Guidance", link: "/library/guidance" },
+            { label: "Alerts", link: "/library/alerts" },
+            { label: "Enforcement Action", link: "/library/enforcement" },
+            { label: "Industry Newsletters", link: "/library/newsletters" },
+            { label: "Forms", link: "/library/forms" }
+        ]
+    },
+    {
+        label: "News",
+        link: "/news",
+        children: [
+            { label: "Latest News", link: "/news/latest" },
+            { label: "Press Releases", link: "/news/press-releases" },
+            { label: "Industry Updates", link: "/news/industry-updates" },
+            { label: "Consultative Documents", link: "/news/consultative-documents" }
+        ]
+    },
+    {
+        label: "Annual Returns",
+        link: "/annual-returns",
+        children: [
+            { label: "Guidance", link: "/annual-returns/guidance" },
+            { label: "Returns", link: "/annual-returns/returns" }
+        ]
+    },
+    { label: "Careers", link: "/careers" },
+    { label: "Contact Us", link: "/contact" },
+    { label: "Events", link: "/events" }
+];
+
+const MenuItem = ({ item, depth = 0 }) => {
+    const [isOpen, setIsOpen] = useState(false);
+    const hasChildren = item.children && item.children.length > 0;
 
     return (
-        <nav className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
-            <div className="bvi-container">
-                <div className="flex justify-between items-center h-16">
-                    {/* Logo */}
-                    <div className="flex-shrink-0 flex items-center">
-                        <Link to="/">
-                            <img className="h-12 w-auto" src="/logo.png" alt="British Virgin Islands Financial Services Commission" />
-                        </Link>
-                    </div>
-
-                    {/* Desktop Menu */}
-                    <div className="hidden md:flex space-x-8 items-center">
-                        <Link to="/about" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">About Us</Link>
-                        <Link to="/entities" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Entities</Link>
-                        <Link to="/beneficial-ownership" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Beneficial Ownership</Link>
-
-                        {/* AML/CFT Dropdown */}
-                        <div
-                            className="relative group"
-                            onMouseEnter={() => setIsDropdownOpen(true)}
-                            onMouseLeave={() => setIsDropdownOpen(false)}
-                        >
-                            <button className="text-gray-700 group-hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium inline-flex items-center">
-                                AML/CFT
-                                <svg className="ml-2 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                    <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" />
-                                </svg>
-                            </button>
-
-                            {/* Dropdown Menu */}
-                            {isDropdownOpen && (
-                                <div className="absolute left-0 mt-0 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none z-50">
-                                    <div className="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
-                                        <Link to="/amlcft/policies" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">AML/CFT Policies</Link>
-                                        <Link to="/amlcft/strategies" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">AML/CFT Strategies</Link>
-                                        <Link to="/amlcft/guidance" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">Guidance</Link>
-                                        <Link to="/amlcft/faqs" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">FAQs</Link>
-                                        <Link to="/amlcft/fatf-guidance" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">FATF Guidance</Link>
-                                        <Link to="/amlcft/cfatf" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">CFATF</Link>
-                                        <Link to="/amlcft/public-statements" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">Public Statements</Link>
-                                        <Link to="/amlcft/legislation" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">Legislation</Link>
-                                        <Link to="/amlcft/risk-assessments" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">Risk Assessments</Link>
-                                        <Link to="/amlcft/media" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">AML/CFT Media</Link>
-                                    </div>
-                                </div>
-                            )}
-                        </div>
-
-                        <Link to="/sandbox" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Sandbox</Link>
-                        <Link to="/international-sanctions" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">International Sanctions</Link>
-                        <Link to="/library" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Library</Link>
-                        <Link to="/news" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">News</Link>
-                        <Link to="/annual-returns" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Annual Returns</Link>
-                        <Link to="/events" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">Events</Link>
-                    </div>
-
-                    {/* Search Bar */}
-                    <div className="hidden lg:block relative">
-                        <input type="text" placeholder="Search" className="bg-gray-100 rounded-full px-4 py-1 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 w-48" />
-                    </div>
+        <li
+            className={`relative group ${depth === 0 ? 'inline-block' : 'block'}`}
+            onMouseEnter={() => setIsOpen(true)}
+            onMouseLeave={() => setIsOpen(false)}
+        >
+            <Link
+                to={item.link}
+                className={`
+                    block transition-colors duration-200
+                    ${depth === 0
+                        ? 'px-3 py-4 text-sm font-bold text-bvi-navy uppercase hover:text-bvi-red hover:bg-gray-50'
+                        : 'px-4 py-2 text-sm text-gray-700 hover:text-bvi-red hover:bg-gray-50 border-b border-gray-100 last:border-none'
+                    }
+                    ${isOpen ? 'text-bvi-red bg-gray-50' : ''}
+                `}
+            >
+                <div className="flex items-center justify-between">
+                    <span>{item.label}</span>
+                    {hasChildren && depth > 0 && (
+                        <svg className="w-3 h-3 ml-2 transform -rotate-90" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                        </svg>
+                    )}
+                    {hasChildren && depth === 0 && (
+                        <svg className={`w-3 h-3 ml-1 transform transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                        </svg>
+                    )}
                 </div>
+            </Link>
+
+            {/* Dropdown */}
+            {hasChildren && (
+                <ul
+                    className={`
+                        absolute z-50 bg-white shadow-lg border-t-2 border-bvi-red
+                        min-w-[240px] transition-all duration-200 ease-in-out
+                        ${depth === 0 ? 'left-0 top-full' : 'left-full top-0'}
+                        ${isOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible translate-y-2'}
+                    `}
+                >
+                    {item.children.map((child, index) => (
+                        <MenuItem key={index} item={child} depth={depth + 1} />
+                    ))}
+                </ul>
+            )}
+        </li>
+    );
+};
+
+const Navbar = () => {
+    return (
+        <nav className="bg-white border-b border-gray-200 hidden md:block z-40 relative shadow-sm">
+            <div className="bvi-container">
+                <ul className="flex flex-wrap items-center justify-center space-x-1 lg:space-x-4">
+                    {menuItems.map((item, index) => (
+                        <MenuItem key={index} item={item} />
+                    ))}
+                </ul>
             </div>
         </nav>
     );
